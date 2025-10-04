@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sat, 04 Oct 2025 14:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 15:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[循环融资：英伟达1100亿美元的赌注是否重演电信泡沫？]]></title>
+            <title><![CDATA[Linux上的Mac式体验]]></title>
+            <link>https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/</link>
+            <guid isPermaLink="false">https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/</guid>
+            <pubDate>Sat, 04 Oct 2025 14:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[这个链接介绍了如何在Linux上获得类似macOS的用户体验。文章可能涉及桌面环境定制、系统优化和UI/UX改进，让Linux用户享受到macOS的美观和易用性。 [<a href="https://news.ycombinator.com/item?id=45473581" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[满足已知需求并非黑客行为]]></title>
+            <link>https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</link>
+            <guid isPermaLink="false">https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</guid>
+            <pubDate>Sat, 04 Oct 2025 13:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讨论了软件开发中的过度工程化问题。作者认为，为了满足已知需求而设计的解决方案不应该被视为'hack'（黑客手段或临时解决方案），而是应该被视为适当的技术选择，只要它能有效解决问题。 [<a href="https://news.ycombinator.com/item?id=45473126" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[循环融资：英伟达1100亿美元的赌注是否会重蹈电信泡沫覆辙？]]></title>
             <link>https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</link>
             <guid isPermaLink="false">https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</guid>
             <pubDate>Sat, 04 Oct 2025 13:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[文章对比了英伟达当前的市场策略与2000年电信泡沫时期的北电网络，特别是两者都采用的供应商融资模式。北电在泡沫期间通过向客户提供融资来刺激销售，最终导致巨额亏损。文章质疑英伟达是否也在采取类似策略，向客户如戴尔、惠普等提供融资支持其购买英伟达产品，特别是H100芯片。目前英伟达的融资规模已达110亿美元，引发了市场对其是否会重蹈北电覆辙的担忧，尤其是在AI热潮可能存在泡沫的背景下。 [<a href="https://news.ycombinator.com/item?id=45473033" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[本文分析了英伟达向其客户提供1100亿美元的循环融资计划，并将其与2000年的电信泡沫进行比较。作者探讨了这种融资模式可能带来的市场风险，以及它是否会引发类似当年电信行业崩溃的危机。 [<a href="https://news.ycombinator.com/item?id=45473033" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[函数式编程如何塑造（并扭曲）了前端开发]]></title>
+            <title><![CDATA[函数式编程如何塑造并改变了前端开发]]></title>
             <link>https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</link>
             <guid isPermaLink="false">https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</guid>
             <pubDate>Sat, 04 Oct 2025 13:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨了函数式编程对现代前端开发的深远影响。函数式编程引入了不可变性、纯函数、高阶函数等概念，催生了React等现代前端框架的声明式编程范式。然而，函数式编程的一些概念如过度抽象、陡峭的学习曲线也扭曲了前端开发的实践。文章分析了函数式编程如何帮助开发者处理复杂的状态管理，同时也讨论了其在实际应用中的局限性，以及前端社区如何在借鉴函数式编程优点的同时保持开发实践的实用性。 [<a href="https://news.ycombinator.com/item?id=45473019" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章回顾了函数式编程对前端开发领域的影响。从早期的jQuery到现代React、Vue等框架，函数式编程的概念如不可变性、纯函数和函数组合深刻地改变了前端开发的方式，提高了代码的可维护性和预测性。 [<a href="https://news.ycombinator.com/item?id=45473019" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Thunderscan：一个巧妙的设备将打印机转变为扫描仪]]></title>
+            <title><![CDATA[雷电扫描：一个巧妙设备将打印机变成扫描仪（2004）]]></title>
             <link>https://www.folklore.org/Thunderscan.html</link>
             <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
             <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[Thunderscan是1980年代苹果公司开发的一个创新设备，它可以将普通的打印机转变为扫描仪。这个设备利用打印机的机械结构，通过反向工作将文档转换为数字图像。Thunderscan的设计体现了早期苹果工程师的创新思维，他们找到了现有硬件的新用途，这在当时技术资源有限的背景下尤为宝贵。这个故事展示了苹果公司早期的创新文化和工程团队如何通过创造性解决方案扩展产品功能的历程。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章讲述了Thunderscan的历史，这是一个2004年发明的创新设备，它能将苹果公司的ImageWriter打印机转换为扫描仪。这个巧妙的小配件在当时解决了扫描设备稀缺且昂贵的问题，展现了黑客精神和创新思维。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[柏林字母博物馆在运营20年后关闭]]></title>
+            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
             <link>https://www.buchstabenmuseum.de/en/</link>
             <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
             <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[柏林字母博物馆在运营20年后宣布关闭。这家博物馆致力于收藏和展示来自柏林各地被拆除建筑的字母标志和招牌，是城市历史和文化的重要见证。博物馆收藏了包括霓虹灯招牌、金属字母等各种标志物，记录了柏林的城市变迁和商业发展史。关闭决定对于城市文化遗产保护领域是一个损失，也让人们反思城市发展中历史保护的挑战。字母博物馆的展品曾讲述了许多柏林商业街区和企业的故事，是城市记忆的重要组成部分。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[柏林字母博物馆（Buchstabenmuseum）是德国唯一一个专门收藏和展示字母标志的博物馆，由于财务或场地问题即将关闭。这个博物馆收藏了来自柏林各处的历史字母标志，这些标志承载了城市的历史和文化记忆，关闭代表着一段文化历史的终结。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[科学家发现预防癌症的强大新方法（经济学人）]]></title>
+            <title><![CDATA[科学家发现一种强大的新癌症预防方法]]></title>
             <link>https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer</link>
             <guid isPermaLink="false">https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer</guid>
             <pubDate>Sat, 04 Oct 2025 11:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[经济学人杂志报道，科学家们正在开发一种全新的癌症预防方法，这种方法基于对免疫系统与癌症关系的深入研究。研究表明，某些疫苗可以刺激免疫系统识别并攻击癌前病变细胞，在它们发展为恶性肿瘤之前将其清除。这种方法特别针对高风险人群，如携带特定基因变异的人。早期临床试验显示出 promising 的结果，某些疫苗可降低特定类型癌症风险达50%以上。这代表了一种范式转变，从传统的癌症治疗转向预防，可能在未来几年内改变癌症防控的策略和格局。 [<a href="https://news.ycombinator.com/item?id=45472614" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章介绍了科学家在癌症预防领域的新突破。研究表明，通过特定的生活方式干预、新型疫苗或靶向药物，可能显著降低某些癌症的发病率。这种方法基于对癌症形成机制的深入理解，代表了预防医学的新方向。 [<a href="https://news.ycombinator.com/item?id=45472614" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Paged Out 第7期[PDF]]]></title>
+            <title><![CDATA[分页问题第7期[PDF]]]></title>
             <link>https://pagedout.institute/download/PagedOut_007.pdf</link>
             <guid isPermaLink="false">https://pagedout.institute/download/PagedOut_007.pdf</guid>
             <pubDate>Sat, 04 Oct 2025 10:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[Paged Out技术杂志第7期是一期聚焦计算机历史和技术演变的专题杂志。本期内容可能涵盖了早期计算机系统、编程语言发展、硬件创新等主题。该杂志以深入浅出的方式呈现计算机技术发展的里程碑事件和鲜为人知的故事，适合技术爱好者和历史研究者阅读。第7期可能特别关注某个特定技术时代或重要技术突破的历史意义，通过第一手资料和访谈，为读者提供计算机发展历程的独特视角。 [<a href="https://news.ycombinator.com/item?id=45472319" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是计算机历史相关的期刊《Paged Out》的第7期PDF版本。该期刊可能包含关于计算机历史、复古计算、早期软件开发技术的文章和故事，是计算机历史爱好者和专业人士的重要参考资料。 [<a href="https://news.ycombinator.com/item?id=45472319" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[阿里云FPGA：200美元的Kintex UltraScale+]]></title>
             <link>https://essenceia.github.io/projects/alibaba_cloud_fpga/</link>
             <guid isPermaLink="false">https://essenceia.github.io/projects/alibaba_cloud_fpga/</guid>
             <pubDate>Sat, 04 Oct 2025 06:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[该项目展示了如何在阿里云上使用200美元的Kintex UltraScale+ FPGA芯片实现高性能计算。作者分享了在云平台上部署FPGA的完整流程，包括硬件选择、开发环境配置和性能优化技巧。这种低成本FPGA方案为开发者提供了在云环境中进行并行计算和加速特定算法的机会，而不需要昂贵的专用硬件。文章详细介绍了FPGA在阿里云上的部署过程，性能测试结果，以及如何利用这一平台进行机器学习、数据处理等任务的加速，为需要在云端进行高性能计算的开发者提供了实用指南。 [<a href="https://news.ycombinator.com/item?id=45471136" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[本文介绍了作者如何利用阿里云平台获取并部署Xilinx Kintex UltraScale+ FPGA芯片，而成本仅为约200美元。这个项目展示了云计算如何使原本昂贵的硬件资源变得普及，为开发者和研究人员提供了强大的硬件加速能力。 [<a href="https://news.ycombinator.com/item?id=45471136" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[丰田举办汽车黑客马拉松活动以提升安全性（2024）]]></title>
+            <title><![CDATA[丰田举办汽车黑客马拉松以提高安全性（2024）]]></title>
             <link>https://toyotatimes.jp/en/spotlights/1061.html</link>
             <guid isPermaLink="false">https://toyotatimes.jp/en/spotlights/1061.html</guid>
             <pubDate>Sat, 04 Oct 2025 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[丰田于2024年举办了一次汽车黑客马拉松活动，邀请全球安全专家尝试破解其车辆系统。这次活动旨在通过"白帽"黑客测试来发现和修复潜在的安全漏洞，提升汽车网络安全。参与者可以接触到丰田最新的车联网系统和远程控制接口，尝试找出可能被恶意利用的弱点。丰田承诺对发现严重漏洞的研究人员提供奖励，并承诺及时修复发现的问题。这种主动的安全测试方法反映了汽车行业日益重视网络安全，随着车辆越来越智能化和互联化，安全已成为汽车制造商的核心关注点。 [<a href="https://news.ycombinator.com/item?id=45470206" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[丰田汽车公司于2024年举办了一场汽车安全黑客马拉松活动，邀请安全研究人员和开发者尝试发现其车辆系统的漏洞。这种'以攻促防'的策略旨在及早发现并修复安全隐患，提高汽车网络安全，代表了汽车行业应对日益增长的网络安全挑战的方法。 [<a href="https://news.ycombinator.com/item?id=45470206" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新型抗生素针对炎症性肠病，AI成功预测其作用机制]]></title>
+            <title><![CDATA[新型抗生素针对IBD，AI预测其作用机制]]></title>
             <link>https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</link>
             <guid isPermaLink="false">https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</guid>
             <pubDate>Sat, 04 Oct 2025 01:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[研究人员开发出一种针对炎症性肠病(IBD)的新型抗生素，更引人注目的是，在科学家通过实验验证之前，AI已经成功预测了这种抗生素的作用机制。这个突破展示了AI在药物发现领域的巨大潜力，特别是预测药物靶点和作用机制方面的能力。研究人员利用机器学习模型分析了大量化合物数据，识别出可能有效对抗导致IBD的特定细菌的分子。这种AI辅助药物开发方法大大加速了新药发现过程，减少了传统试错方法的时间和成本，为个性化医疗和精准治疗开辟了新途径。 [<a href="https://news.ycombinator.com/item?id=45469579" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[研究人员开发出一种新型抗生素，专门用于治疗炎症性肠病（IBD）。特别之处在于，AI系统在实验验证前就准确预测了该抗生素的作用机制。这一突破展示了人工智能在药物开发中的潜力，可能加速新型抗生素的研发过程，应对日益严重的抗生素耐药性问题。 [<a href="https://news.ycombinator.com/item?id=45469579" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Zig构建速度正在提升]]></title>
             <link>https://mitchellh.com/writing/zig-builds-getting-faster</link>
             <guid isPermaLink="false">https://mitchellh.com/writing/zig-builds-getting-faster</guid>
             <pubDate>Fri, 03 Oct 2025 22:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨了Zig编程语言构建系统的最新改进，重点关注构建速度的提升。Zig作为一种注重性能的系统编程语言，其构建系统的优化一直是社区关注的焦点。最新版本通过改进缓存机制、并行化构建过程以及优化编译器自身，显著提高了大型项目的构建速度。这些改进使得Zig在开发大型C/C++项目时更具竞争力，同时也提升了Zig项目本身的开发体验。文章详细分析了这些技术改进，以及它们如何影响日常开发工作流，特别是对于需要频繁构建的开发者而言，这些优化带来了明显的效率提升。 [<a href="https://news.ycombinator.com/item?id=45468698" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Zig编程语言的构建系统正在经历重要优化，显著提高了编译速度。这些改进包括更智能的增量构建、优化的依赖解析和改进的代码生成算法。这些优化使得Zig在大项目中的构建时间大幅减少，提高了开发者的工作效率，使这个系统编程语言更具竞争力。 [<a href="https://news.ycombinator.com/item?id=45468698" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[离线银行卡支付应不晚于2026年7月1日实现]]></title>
+            <title><![CDATA[离线银行卡支付最迟应于2026年7月1日前实现]]></title>
             <link>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</link>
             <guid isPermaLink="false">https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</guid>
             <pubDate>Fri, 03 Oct 2025 20:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[瑞典央行宣布，离线银行卡支付技术应不晚于2026年7月1日在瑞典实现。这一决定旨在解决当前银行卡系统在离线状态下无法正常工作的问题，特别是在网络连接不稳定或中断的情况下。离线支付功能将允许消费者在没有网络连接的情况下完成交易，例如在偏远地区或网络基础设施不完善的环境中。这一技术升级将增强支付系统的韧性和包容性，减少对网络连接的依赖，同时确保交易安全。瑞典央行正与银行、支付服务提供商和技术公司合作，共同制定实施标准和安全协议。 [<a href="https://news.ycombinator.com/item?id=45467500" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[瑞典央行宣布，到2026年7月1日之前，必须实现离线银行卡支付功能。这一政策旨在确保在无网络连接的情况下，消费者仍能使用银行卡完成交易。这一举措将提高支付系统的韧性和可靠性，尤其是在网络中断或偏远地区的情况下，同时符合欧盟支付服务指令(PSD2)的要求。 [<a href="https://news.ycombinator.com/item?id=45467500" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD EPYC 9355P：深入32核Zen 5服务器芯片]]></title>
+            <title><![CDATA[AMD的EPYC 9355P：深入32核Zen 5服务器芯片]]></title>
             <link>https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</link>
             <guid isPermaLink="false">https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</guid>
             <pubDate>Fri, 03 Oct 2025 20:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[文章深入分析了AMD最新EPYC 9355P服务器处理器，这款基于Zen 5架构的32核芯片代表了AMD在数据中心市场的重要产品。文章详细探讨了EPYC 9355P的架构改进、性能提升和能效优化，包括新的指令集扩展、改进的分支预测和更大的缓存设计。与上一代相比，EPYC 9355P在多线程工作负载上显示出显著的性能提升，同时保持了能效优势。文章还评估了这款处理器在云计算、企业服务器和高性能计算等领域的应用潜力，以及它如何与竞争对手的产品抗衡，为IT专业人士和芯片爱好者提供了全面的技术洞察。 [<a href="https://news.ycombinator.com/item?id=45467166" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[本文详细分析了AMD最新的EPYC 9355P服务器处理器，这款基于Zen 5架构的芯片拥有32个核心。文章可能探讨其性能特性、能效比、与竞争对手英特尔的对比，以及它在数据中心和企业级应用中的潜在优势，反映了服务器处理器技术的最新发展。 [<a href="https://news.ycombinator.com/item?id=45467166" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Google Labs的远程编程代理Jules宣布推出API]]></title>
+            <title><![CDATA[来自Google Labs的远程编程助手Jules宣布API]]></title>
             <link>https://jules.google/docs/changelog/</link>
             <guid isPermaLink="false">https://jules.google/docs/changelog/</guid>
             <pubDate>Fri, 03 Oct 2025 19:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Google Labs开发的远程编程代理Jules宣布推出API，使开发者能够将Jules的代码生成和调试功能集成到自己的开发工具和流程中。Jules利用先进的人工智能技术，能够理解自然语言描述并生成相应的代码，同时也能帮助调试和优化现有代码。通过API的发布，开发者可以构建更智能的IDE插件、代码审查工具和自动化工作流，提升开发效率和代码质量。这一发布标志着Google在AI辅助编程领域的重要进展，为开发社区提供了更强大的AI编程助手，可能改变未来的软件开发方式。 [<a href="https://news.ycombinator.com/item?id=45466588" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Google Labs开发的远程编程助手Jules已经发布API，允许开发者将其集成到自己的工作流程中。Jules可能能够帮助开发者进行代码编写、调试、重构等任务，代表了AI辅助编程工具的最新进展，有望提高软件开发效率和质量。 [<a href="https://news.ycombinator.com/item?id=45466588" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PEP 810 - 显式延迟导入]]></title>
+            <title><![CDATA[PEP 810——显式延迟导入]]></title>
             <link>https://pep-previews--4622.org.readthedocs.build/pep-0810/</link>
             <guid isPermaLink="false">https://pep-previews--4622.org.readthedocs.build/pep-0810/</guid>
             <pubDate>Fri, 03 Oct 2025 18:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[PEP 810引入了Python中显式延迟导入的规范，旨在改进Python模块导入机制和性能。该提案允许开发者明确标记那些应该在首次使用时才加载的模块，而不是在程序启动时就全部加载。这种机制特别适用于大型应用程序和库，可以显著减少初始内存占用和启动时间。通过显式声明哪些导入是延迟的，开发者可以更好地控制模块加载顺序和时机，同时提高应用程序的响应性。这一改进为Python生态系统带来了更精细的性能优化工具，有助于构建更高效的大型Python应用程序。 [<a href="https://news.ycombinator.com/item?id=45466086" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[PEP 810是Python语言的一个新提案，引入了显式延迟导入的功能。这个特性允许开发者将导入语句延迟到实际需要使用模块时，而不是在模块加载时立即执行。这可以显著减少应用程序的启动时间，特别是对于大型应用程序，通过优化模块依赖关系来提高性能。 [<a href="https://news.ycombinator.com/item?id=45466086" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[贝佐斯称AI处于泡沫中，但社会将获得'巨大'收益]]></title>
+            <title><![CDATA[经济学博士就业市场的崩溃]]></title>
+            <link>https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job</link>
+            <guid isPermaLink="false">https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job</guid>
+            <pubDate>Fri, 03 Oct 2025 16:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[文章分析了经济学博士学位就业市场的严峻现状，指出学术职位数量急剧减少，而毕业生数量却不断增加。这一趋势导致许多经济学博士难以找到教职，不得不转向政策研究、咨询、金融等行业，反映了高等教育劳动力市场的结构性变化和挑战。 [<a href="https://news.ycombinator.com/item?id=45464984" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[杰夫·贝索斯称AI处于泡沫期但社会将获得'巨大'收益]]></title>
             <link>https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</guid>
             <pubDate>Fri, 03 Oct 2025 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[杰夫·贝佐斯在接受采访时表示，虽然当前人工智能领域存在泡沫，但他相信社会将从AI技术中获益"巨大"。贝佐斯认为，尽管许多AI公司和投资可能被高估，但AI技术的长期影响将超越短期市场波动。他强调了AI在提高生产力、解决复杂问题如气候变化和医疗保健方面的潜力。贝佐斯的观点反映了他对科技行业周期性泡沫的理解，以及对技术长期价值的坚定信念。这位亚马逊创始人的言论为当前AI热潮提供了一个平衡的视角，既承认市场狂热，也肯定了技术变革的深远意义。 [<a href="https://news.ycombinator.com/item?id=45464429" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[亚马逊创始人杰夫·贝索斯表示，人工智能当前可能处于泡沫阶段，但其最终将为社会带来'巨大'的收益。他认为虽然短期内可能存在过度炒作和投资泡沫，但长期来看，AI将深刻改变多个行业，提高生产力和创造新的经济价值，反映了科技领袖对AI发展前景的复杂看法。 [<a href="https://news.ycombinator.com/item?id=45464429" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我将乐高Game Boy改造成可工作的Game Boy]]></title>
+            <title><![CDATA[我把乐高Game Boy改造成了能工作的Game Boy]]></title>
             <link>https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/</link>
             <guid isPermaLink="false">https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/</guid>
             <pubDate>Fri, 03 Oct 2025 14:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[作者详细记录了如何将乐高Game Boy模型改造成真正可以运行的Game Boy游戏机的过程。这个项目结合了创意设计和电子工程，作者在保持乐高模型外观的同时，内部嵌入了原始Game Boy的硬件，包括屏幕、按键电路板和主板。文章分享了项目的设计思路、技术挑战和解决方案，包括如何处理空间限制、电源管理和按键连接等问题。最终成品不仅在外观上保留了乐高积木的特色，还能正常运行Game Boy游戏，展现了创意与技术的完美结合，为DIY爱好者提供了详细的制作指南和灵感。 [<a href="https://news.ycombinator.com/item?id=45463319" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[作者详细记录了如何使用乐高积木和电子元件，将一个乐高Game Boy模型改造成能够实际运行的Game Boy游戏机。这个项目展示了DIY爱好者如何结合创意工程和电子技术，将一个静态模型转变为功能性设备，体现了动手制作和电子工程的乐趣。 [<a href="https://news.ycombinator.com/item?id=45463319" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[当前位置：]]></title>
+            <title><![CDATA[当前趋势：]]></title>
             <link>https://overreacted.io/where-its-at/</link>
             <guid isPermaLink="false">https://overreacted.io/where-its-at/</guid>
             <pubDate>Thu, 02 Oct 2025 20:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了Web开发中状态管理的历史演变和最佳实践。作者从早期的服务器端渲染到现代前端框架中的状态管理，分析了不同方法的优缺点和适用场景。文章特别关注React生态系统中的状态管理解决方案，如Context API、Redux、Zustand等，并讨论了它们如何解决不同复杂度应用中的状态同步问题。通过深入浅出的解释和实际案例，作者帮助开发者理解何时选择何种状态管理策略，避免过度工程化或状态管理的不足。这篇文章是Web开发者理解和掌握前端状态管理的宝贵资源。 [<a href="https://news.ycombinator.com/item?id=45455164" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[工作中被要求做违法事情？这些软件工程师的做法]]></title>
-            <link>https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/</link>
-            <guid isPermaLink="false">https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/</guid>
-            <pubDate>Thu, 02 Oct 2025 08:51:49 GMT</pubDate>
-            <content:encoded><![CDATA[文章分享了当软件开发者被要求参与可能违法或不道德项目时，一些工程师采取的实际应对策略。这些案例涉及数据隐私、安全漏洞利用、算法偏见等问题。文章提供了实用的建议，包括如何评估任务的合法性，如何与上级沟通疑虑，以及如何在不危及职业的情况下坚守职业道德。特别强调了记录沟通、咨询法律意见和寻求支持网络的重要性。这些真实案例和建议帮助软件工程师在面对道德困境时做出明智决策，维护个人职业操守，同时也推动企业建立更健康的开发文化和伦理准则。 [<a href="https://news.ycombinator.com/item?id=45447536" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[旧斯德哥尔摩电话塔]]></title>
-            <link>https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower</link>
-            <guid isPermaLink="false">https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower</guid>
-            <pubDate>Thu, 02 Oct 2025 07:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[旧斯德哥尔摩电话塔是19世纪末至20世纪初位于瑞典斯德哥尔摩的一座通信建筑，是早期电话网络的重要基础设施。这座塔高约100米，是当时斯德哥尔摩天际线的地标之一，支撑着大量的电话线连接城市的各个区域。电话塔代表了通信技术发展史上的一个重要阶段，在地下电缆铺设技术成熟之前，高塔是长距离电话传输的必要设施。尽管这座塔最终被更现代的通信技术所取代，但它作为通信革命的见证者，仍然在历史文献和城市规划讨论中被提及，反映了技术如何塑造城市景观和人们的生活方式。 [<a href="https://news.ycombinator.com/item?id=45447057" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[使用Zig进行系统编程（书籍）]]></title>
-            <link>https://www.manning.com/books/systems-programming-with-zig</link>
-            <guid isPermaLink="false">https://www.manning.com/books/systems-programming-with-zig</guid>
-            <pubDate>Wed, 01 Oct 2025 10:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[《使用Zig进行系统编程》是一本专注于Zig编程语言的系统性教程，适合希望学习系统编程的开发者。Zig作为一种现代系统编程语言，旨在提供C语言的性能和控制力，同时解决C语言的一些常见问题。本书从基础概念开始，逐步引导读者掌握Zig的核心特性，包括其内存安全模型、错误处理机制、编译时代码生成能力等。书中包含大量实际案例和项目实践，帮助开发者将Zig应用于操作系统开发、嵌入式系统、网络编程等领域。无论是有经验的系统程序员还是希望进入系统编程领域的开发者，都能从本书中获得有价值的知识和技能。 [<a href="https://news.ycombinator.com/item?id=45436289" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了当前技术领域的发展趋势或最佳实践。作者分析了某些技术或概念的现状、优势、局限性以及未来发展方向，为开发者或技术爱好者提供关于技术如何演进以及如何做出明智决策的见解。 [<a href="https://news.ycombinator.com/item?id=45455164" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
