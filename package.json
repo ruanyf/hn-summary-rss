@@ -1,0 +1,25 @@
+{
+  "name": "hn-summary-rss",
+  "version": "1.0.0",
+  "description": "HN AI summary RSS functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "glm",
+    "zhipu",
+    "chatbot",
+    "javascript",
+    "es-modules"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "feed": "^5.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}
