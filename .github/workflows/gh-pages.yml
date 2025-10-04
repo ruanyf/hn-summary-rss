@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
-  pull_request:
+  schedule:
+    - cron: "15,46 * * * *"
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -20,8 +22,6 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: 'latest'
-        env:
-          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
 
       - name: Cache dependencies
         uses: actions/cache@v4
