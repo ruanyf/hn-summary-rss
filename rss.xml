@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sat, 04 Oct 2025 17:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 19:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[隐私伤害就是伤害]]></title>
-            <link>https://www.eff.org/deeplinks/2025/10/privacy-harm-harm</link>
-            <guid isPermaLink="false">https://www.eff.org/deeplinks/2025/10/privacy-harm-harm</guid>
-            <pubDate>Sat, 04 Oct 2025 16:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了隐私侵犯的实质伤害，强调隐私侵犯不仅仅是数据问题，而是会对个人造成实际伤害。电子前哨基金会(EFF)提出隐私伤害应该被视为一种真正的伤害，而非抽象概念。文章讨论了隐私侵犯如何影响个人尊严、自主权和安全，以及为什么需要将隐私伤害视为法律和社会保护的重要议题。 [<a href="https://news.ycombinator.com/item?id=45474441" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[领英CEO表示，未来的工作不属于有学位的人]]></title>
+            <link>https://fortune.com/2025/10/02/gen-z-graduates-linkedin-ceo-college-degrees-future-of-work-ai-skills-hiring-career-advice/</link>
+            <guid isPermaLink="false">https://fortune.com/2025/10/02/gen-z-graduates-linkedin-ceo-college-degrees-future-of-work-ai-skills-hiring-career-advice/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讨论了领英CEO的观点，他认为未来职场不会特别看重大学学位，而是更重视实际技能和AI能力。他强调，对于Z世代毕业生来说，培养适应未来工作的技能比仅仅获得学位更为重要。这一观点反映了职场正在从传统的学历导向转向技能导向的趋势，特别是随着AI技术的发展，实用技能变得越来越重要。 [<a href="https://news.ycombinator.com/item?id=45475877" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用Advent of Code解决方案比较Ada和Rust]]></title>
-            <link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link>
-            <guid isPermaLink="false">https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</guid>
-            <pubDate>Sat, 04 Oct 2025 15:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章通过解决Advent of Code编程挑战的代码，详细比较了Ada和Rust两种编程语言。文章分析了两种语言在安全性、性能、语法特性等方面的差异，以及它们如何处理并发、错误检查和内存管理等现代编程问题。作者分享了使用这两种语言解决相同问题的不同思路和方法，帮助读者了解各自的优势和适用场景。 [<a href="https://news.ycombinator.com/item?id=45473861" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[整洁文本：逐行自动修正潦草笔记]]></title>
+            <link>https://blog.florianschulz.info/2025/10/tidy-text/</link>
+            <guid isPermaLink="false">https://blog.florianschulz.info/2025/10/tidy-text/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了一款名为'整洁文本'的工具，它可以自动修正潦草的笔记，每次处理一行。该工具能够识别并转换手写内容，将其转化为清晰易读的文本，非常适合用于整理混乱的手写笔记。文章详细描述了其工作原理和使用方法，展示了如何提高笔记的整理效率和可读性，特别适合学生、研究人员和经常做笔记的用户。 [<a href="https://news.ycombinator.com/item?id=45475874" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[作为高级软件工程师如何影响科技公司政治]]></title>
-            <link>https://www.seangoedecke.com/how-to-influence-politics/</link>
-            <guid isPermaLink="false">https://www.seangoedecke.com/how-to-influence-politics/</guid>
-            <pubDate>Sat, 04 Oct 2025 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分享了高级软件工程师在科技公司内部影响决策和政治环境的策略。作者讨论了如何通过技术领导力、跨部门沟通、建立专业影响力等方式，在不直接担任管理职位的情况下影响公司技术方向和决策。文章提供了实用的建议，如如何有效沟通技术价值、如何在技术争议中表达观点、以及如何与不同利益相关者合作等。 [<a href="https://news.ycombinator.com/item?id=45473852" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN：Namo回合检测器v1 – 高性能、语义化的回合检测]]></title>
+            <link>https://github.com/videosdk-live/NAMO-Turn-Detector-v1</link>
+            <guid isPermaLink="false">https://github.com/videosdk-live/NAMO-Turn-Detector-v1</guid>
+            <pubDate>Sat, 04 Oct 2025 19:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[Namo Turn Detector v1是一款高性能的语义化回合检测工具，能够在实时语音对话中准确识别说话者的转换。该项目基于深度学习技术，可以处理多种语言和口音，具有较高的准确率和较低的资源消耗。开发者特别强调了它在视频会议、语音助手和客服系统等场景中的应用价值，并提供了详细的API文档和使用示例。该项目采用开源模式，欢迎社区贡献和改进。 [<a href="https://news.ycombinator.com/item?id=45475863" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[像1984年一样自托管电子邮件]]></title>
-            <link>https://maxadamski.com/blog/2025/10/email.html</link>
-            <guid isPermaLink="false">https://maxadamski.com/blog/2025/10/email.html</guid>
-            <pubDate>Sat, 04 Oct 2025 14:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何在现代环境中实现类似1984年代风格的电子邮件自托管。作者详细介绍了设置自托管电子邮件服务器所需的组件、配置步骤和安全考虑。文章比较了现代解决方案与早期系统之间的差异，以及如何在保持复古风格的同时利用现代技术来提高安全性和可靠性。作者还分享了一些历史背景和为什么在当前环境下自托管电子邮件仍然有意义。 [<a href="https://news.ycombinator.com/item?id=45473730" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[关于Claude项目实现的疑问]]></title>
+            <link>https://news.ycombinator.com/item?id=45475857</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45475857</guid>
+            <pubDate>Sat, 04 Oct 2025 19:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[这个Hacker News讨论帖是关于Anthropic公司开发的Claude大语言模型项目的实现细节。发帖者提出了关于Claude项目架构、训练方法和性能优化的问题，希望了解该模型的技术细节。讨论中包括了多位开发者和技术专家的回复，分享了对Claude模型实现的不同见解和经验。这个讨论对于想了解Claude技术实现细节或想在自己的项目中应用类似技术的开发者很有参考价值。 [<a href="https://news.ycombinator.com/item?id=45475857" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flock的枪声检测麦克风将开始监听人声]]></title>
-            <link>https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices</link>
-            <guid isPermaLink="false">https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices</guid>
-            <pubDate>Sat, 04 Oct 2025 14:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讨论了Flock公司的枪声检测系统如何扩展功能，从仅检测枪声到同时监听人声。电子前哨基金会(EFF)对此表示关注，认为这可能带来隐私问题。文章分析了这种技术如何工作，它在社区部署的情况，以及为什么这种持续监听功能引发了关于公共安全与隐私权之间平衡的讨论。EFF提出了对该技术扩展使用的担忧和监管建议。 [<a href="https://news.ycombinator.com/item?id=45473698" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Dexfile：使用类似Dockerfile语法的一键PaaS部署]]></title>
+            <link>https://news.ycombinator.com/item?id=45475848</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45475848</guid>
+            <pubDate>Sat, 04 Oct 2025 19:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[Dexfile是一款创新工具，它借鉴了Dockerfile的语法风格，使用户能够通过简单的配置文件实现一键PaaS部署。该工具支持多种云平台和容器技术，大大简化了应用程序的部署流程。用户只需编写一个类似于Dockerfile的配置文件，就可以定义应用的依赖、环境变量和部署步骤，而无需深入了解复杂的云平台API或配置管理。Dexfile特别适合开发团队快速部署和迭代微服务架构的应用程序，提高了开发和运维效率。 [<a href="https://news.ycombinator.com/item?id=45475848" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[满足已知需求不是一种hack]]></title>
-            <link>https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</link>
-            <guid isPermaLink="false">https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</guid>
-            <pubDate>Sat, 04 Oct 2025 13:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了软件开发中的'hack'概念，以及为什么满足已知需求的简单解决方案不应该被视为'hack'。作者讨论了在敏捷开发环境中，过度工程化和简单解决方案之间的平衡，以及为什么应该重视直接满足需求的方法而非过度设计。文章批评了那种认为简单解决方案就是'不专业'的观念，提倡实用主义和专注解决实际问题的软件开发哲学。 [<a href="https://news.ycombinator.com/item?id=45473126" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[埃及重新开放阿蒙霍特普三世的陵墓，经过20多年的翻修]]></title>
+            <link>https://www.timesofisrael.com/egypt-reopens-amenhotep-iiis-tomb-after-more-than-20-years-of-renovations/</link>
+            <guid isPermaLink="false">https://www.timesofisrael.com/egypt-reopens-amenhotep-iiis-tomb-after-more-than-20-years-of-renovations/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[埃及重新开放了法老阿蒙霍特普三世的陵墓，这座陵墓经过超过20年的翻修工作后终于向公众重新开放。阿蒙霍特普三世是古埃及第十八王朝最伟大的法老之一，他的陵墓规模宏大，装饰精美。此次翻修工作包括结构加固、壁画修复和参观设施改善等项目，旨在保护这一珍贵的历史文化遗产。这一开放吸引了众多游客和历史爱好者，为埃及旅游业增添了新的亮点。 [<a href="https://news.ycombinator.com/item?id=45475841" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[循环融资：英伟达的1100亿美元投资是否重复了电信泡沫？]]></title>
-            <link>https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</link>
-            <guid isPermaLink="false">https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</guid>
-            <pubDate>Sat, 04 Oct 2025 13:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了英伟达高达1100亿美元的供应链投资，并将其与2000年的电信泡沫进行比较。作者探讨了这种大规模供应商融资模式的潜在风险，以及对行业和市场稳定性的影响。文章研究了英伟达的投资策略、其背后的市场条件，以及历史泡沫周期的教训，为读者提供对当前AI硬件投资热潮的批判性思考。 [<a href="https://news.ycombinator.com/item?id=45473033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[How2neovim – 从零开始设置Neovim的指南]]></title>
+            <link>https://jacksmithxyz.github.io/how2neovim/</link>
+            <guid isPermaLink="false">https://jacksmithxyz.github.io/how2neovim/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[这篇教程详细介绍了如何从零开始设置和配置Neovim文本编辑器，提供了全面的指导。内容包括安装、基础配置、插件管理、主题选择等各个方面，适合想要提高开发效率或从其他编辑器迁移到Neovim的用户。作者分享了自己多年的使用经验，提供了实用的配置建议和最佳实践，帮助用户打造一个高效、个性化的开发环境。教程采用逐步讲解的方式，即使是初学者也能跟随操作。 [<a href="https://news.ycombinator.com/item?id=45475837" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[函数式编程如何塑造并改变了前端开发]]></title>
-            <link>https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</link>
-            <guid isPermaLink="false">https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</guid>
-            <pubDate>Sat, 04 Oct 2025 13:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章回顾了函数式编程对现代前端开发的深远影响。作者探讨了函数式编程原则如何被纳入主流前端框架和库，以及它们如何改变了开发者处理状态、副作用和数据流的方式。文章分析了函数式编程带来的好处（如可预测性、可测试性）和挑战（如学习曲线、性能考虑），以及它在React、Vue等框架中的具体应用和演变。 [<a href="https://news.ycombinator.com/item?id=45473019" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[5-2惨败暴露皇马弱点：他们能在史诗般的西甲对决中击败比利亚雷亚尔吗？]]></title>
+            <link>https://voquette.com/article/shocking-5-2-defeat-exposes-real-madrid-can-they-crush-villarreal-in-epic-la-liga-showdown</link>
+            <guid isPermaLink="false">https://voquette.com/article/shocking-5-2-defeat-exposes-real-madrid-can-they-crush-villarreal-in-epic-la-liga-showdown</guid>
+            <pubDate>Sat, 04 Oct 2025 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章分析了皇家马德里在最近的比赛中以5-2惨败的表现，探讨了球队暴露出的防守问题和战术缺陷。作者质疑皇马在接下来的西甲比赛中能否调整状态，特别是在对阵比利亚雷亚尔的比赛中扭转颓势。文章深入分析了球队阵容、教练策略以及关键球员的表现，认为皇马需要在防守端做出重大调整才能保持竞争力。这场比赛被形容为皇马本赛季的关键转折点，将决定他们能否在争冠道路上取得优势。 [<a href="https://news.ycombinator.com/item?id=45475826" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Thunderscan：一个巧妙的设备将打印机变成扫描仪（2004年）]]></title>
-            <link>https://www.folklore.org/Thunderscan.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
-            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了Thunderscan，一个2004年发布的创新设备，能够将普通打印机转换为扫描仪。作者详细描述了这个设备的工作原理、技术特点以及它在那个年代的革命性意义。文章还分享了Thunderscan的开发故事、市场反响以及它如何影响了后来的多功能打印机发展，展现了计算机外设设计中的创新思维。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[令人不安的相机深度解析]]></title>
+            <link>https://hackaday.com/2025/09/18/a-deep-dive-on-creepy-cameras/</link>
+            <guid isPermaLink="false">https://hackaday.com/2025/09/18/a-deep-dive-on-creepy-cameras/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[这篇Hackaday文章深入探讨了各种令人不安的相机技术，包括监控摄像头、隐藏式摄像头和面部识别系统等。作者从技术角度分析了这些设备的工作原理、隐私风险和安全问题，同时讨论了它们在现代社会中的广泛应用及其潜在危害。文章还提供了一些识别和防范这类设备的实用建议，帮助读者保护自己的隐私和安全。作者呼吁加强对这类技术的监管和伦理审查，平衡技术创新与个人权利之间的关系。 [<a href="https://news.ycombinator.com/item?id=45475822" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
-            <link>https://www.buchstabenmuseum.de/en/</link>
-            <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
-            <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章宣布了柏林字母博物馆（Buchstabenmuseum）即将关闭的消息。博物馆专门收藏和展示各种历史字母、标志和标牌，是设计和字体文化的重要场所。文章详细说明了关闭的原因、日期，以及是否有计划将收藏转移到其他地方或以数字形式保存。对于字体爱好者和设计专业人士来说，这是一个令人遗憾的消息，标志着一个独特的文化空间的消失。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[观鸟者：极端观鸟的一瞥【视频】]]></title>
+            <link>https://www.youtube.com/watch?v=zl-wAqplQAo</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=zl-wAqplQAo</guid>
+            <pubDate>Sat, 04 Oct 2025 19:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[这个YouTube视频深入探索了极端观鸟的世界，展示了观鸟爱好者的热情和执着。视频记录了观鸟爱好者们为了寻找珍稀鸟类而进行的艰苦旅程，包括长途跋涉、凌晨早起和各种野外生存技能。影片还介绍了观鸟的基本技巧、设备选择和物种识别方法，适合对观鸟感兴趣的新手和有一定经验的观鸟者。通过生动的画面和详细的解说，视频让观众领略到了观鸟活动的魅力和挑战。 [<a href="https://news.ycombinator.com/item?id=45475809" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Paged Out 第7期 [pdf]]]></title>
-            <link>https://pagedout.institute/download/PagedOut_007.pdf</link>
-            <guid isPermaLink="false">https://pagedout.institute/download/PagedOut_007.pdf</guid>
-            <pubDate>Sat, 04 Oct 2025 10:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[这是Paged Out杂志的第7期电子版，一份关注计算机历史和文化的出版物。本期包含了关于早期计算机系统、编程历史、重要人物传记或技术发展回顾的文章。作为PDF文档，它包含了丰富的图像、原始资料和深入分析，为读者提供了计算机历史的独特视角。这份杂志对计算机历史爱好者和技术研究人员具有很高的参考价值。 [<a href="https://news.ycombinator.com/item?id=45472319" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[博客订阅源]]></title>
+            <link>https://blogfeeds.net</link>
+            <guid isPermaLink="false">https://blogfeeds.net</guid>
+            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[Blog Feeds是一个聚合博客内容的网站平台，为用户提供各类博客的订阅和浏览服务。该平台汇集了来自不同领域的博客文章，包括技术、生活、艺术、科学等多个类别，用户可以根据兴趣订阅特定领域的博客更新。网站提供简洁的用户界面和个性化推荐功能，帮助用户高效获取感兴趣的内容。此外，Blog Feeds还提供RSS订阅整合功能，让用户能够在一个平台上管理多个博客源的更新信息，成为博客爱好者获取信息的重要渠道。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[阿里云FPGA：200美元的Kintex UltraScale+]]></title>
-            <link>https://essenceia.github.io/projects/alibaba_cloud_fpga/</link>
-            <guid isPermaLink="false">https://essenceia.github.io/projects/alibaba_cloud_fpga/</guid>
-            <pubDate>Sat, 04 Oct 2025 06:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了如何以低廉的价格（约200美元）在阿里云上使用Kintex UltraScale+ FPGA（现场可编程门阵列）资源。作者详细分享了配置过程、性能测试结果以及各种应用场景。文章探讨了FPGA在云环境中的优势，如可定制硬件加速、低延迟计算等，以及这种低成本解决方案如何使开发者和研究人员能够经济地体验高性能FPGA计算能力。 [<a href="https://news.ycombinator.com/item?id=45471136" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[迭代就是你所需：受Grover搜索算法启发的ARC-2求解器]]></title>
+            <link>https://github.com/zoecarver/grover-arc</link>
+            <guid isPermaLink="false">https://github.com/zoecarver/grover-arc</guid>
+            <pubDate>Sat, 04 Oct 2025 19:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目是一个受Grover量子搜索算法启发的ARC-2求解器。ARC-2是一种解决抽象推理挑战的系统，项目开发者利用迭代优化的方法改进了传统求解算法。通过巧妙地结合量子计算思想与经典算法，该求解器在处理复杂抽象推理任务时表现出色。项目提供了详细的实现文档、代码示例和性能评估数据，展示了其在不同类型推理问题上的应用效果。这个研究项目为理解量子计算在传统算法中的应用提供了有价值的参考。 [<a href="https://news.ycombinator.com/item?id=45475801" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[丰田举办汽车黑客马拉松活动以提高安全性（2024年）]]></title>
-            <link>https://toyotatimes.jp/en/spotlights/1061.html</link>
-            <guid isPermaLink="false">https://toyotatimes.jp/en/spotlights/1061.html</guid>
-            <pubDate>Sat, 04 Oct 2025 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了丰田公司在2024年举办的一次汽车安全黑客马拉松活动，旨在提高其车辆系统的安全性。文章介绍了活动详情、参与的安全专家团队、发现的漏洞类型以及丰田如何利用这些发现来改进其产品。这种活动展示了汽车行业对网络安全日益增长的重视，以及通过白帽黑客测试来主动发现和修复安全漏洞的积极策略。 [<a href="https://news.ycombinator.com/item?id=45470206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[随着旅游业兴起，小费在日本仍然被视为禁忌]]></title>
+            <link>https://www.dw.com/en/tipping-in-japan-remains-taboo-as-tourism-takes-off/a-74217580</link>
+            <guid isPermaLink="false">https://www.dw.com/en/tipping-in-japan-remains-taboo-as-tourism-takes-off/a-74217580</guid>
+            <pubDate>Sat, 04 Oct 2025 19:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[随着国际游客数量的增加，日本服务行业面临一个文化挑战：小费。与西方不同，日本长期以来没有小费文化，小费被视为不必要甚至冒犯的行为。然而，随着外国游客增多，一些服务业开始尝试接受小费，引发了文化冲突和困惑。文章探讨了日本服务业面临的这一文化适应问题，分析了小费文化在日本的接受度变化，以及服务业如何在保持传统服务礼仪的同时适应国际游客习惯。这对计划前往日本的游客了解当地文化习惯也有重要参考价值。 [<a href="https://news.ycombinator.com/item?id=45475800" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新型抗生素针对IBD，AI预测了其工作原理]]></title>
-            <link>https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</link>
-            <guid isPermaLink="false">https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</guid>
-            <pubDate>Sat, 04 Oct 2025 01:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了一种新型抗生素的发现，它专门针对炎症性肠病（IBD），其工作机制是由AI模型成功预测的。研究团队利用人工智能分析了大量化合物数据，预测出哪种物质可能对IBD有效，然后通过实验验证了这一预测。这一突破展示了AI在药物发现中的潜力，特别是在加速传统药物开发过程和发现全新治疗方法方面的价值。 [<a href="https://news.ycombinator.com/item?id=45469579" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN：我将FastAPI依赖注入系统解耦为一个简单的包]]></title>
+            <link>https://github.com/entropy-flux/PyDepends</link>
+            <guid isPermaLink="false">https://github.com/entropy-flux/PyDepends</guid>
+            <pubDate>Sat, 04 Oct 2025 19:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目是一个Python包，提供了对FastAPI依赖注入系统的解耦方案。开发者创建了一个名为PyDepends的轻量级包，使开发者能够更灵活地管理依赖关系，而不必完全依赖FastAPI内置的依赖注入机制。该包设计简洁，易于集成到现有项目中，并提供了清晰的文档和示例代码。项目旨在解决FastAPI依赖注入系统在某些场景下的局限性，为开发者提供更多控制权和灵活性。特别适合需要高度定制依赖管理的Python Web应用开发者使用。 [<a href="https://news.ycombinator.com/item?id=45475797" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zig构建速度正在提升]]></title>
-            <link>https://mitchellh.com/writing/zig-builds-getting-faster</link>
-            <guid isPermaLink="false">https://mitchellh.com/writing/zig-builds-getting-faster</guid>
-            <pubDate>Fri, 03 Oct 2025 22:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了Zig编程语言构建系统的性能改进。作者详细描述了最新版本中引入的优化措施，如增量构建改进、并行处理增强和依赖解析优化等。文章包含了基准测试数据，展示了构建速度的实际提升幅度，以及这些改进如何改善了开发者的工作流程。对于Zig用户来说，这些优化意味着更高效的编译时间和更流畅的开发体验。 [<a href="https://news.ycombinator.com/item?id=45468698" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[OpenAI的Sora应用登顶美国苹果App Store排行榜]]></title>
+            <link>https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/</link>
+            <guid isPermaLink="false">https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[据报道，OpenAI推出的Sora应用已成功登顶美国苹果App Store排行榜，成为最受欢迎的应用之一。Sora是一款创新的AI驱动的内容创作工具，能够帮助用户生成高质量的视频和图像内容。文章分析了Sora迅速成功的原因，包括其强大的AI技术、简洁易用的界面以及OpenAI强大的品牌效应。同时，文章也讨论了这一现象对AI内容创作领域的影响，以及OpenAI在这一新兴市场中的竞争优势。这一成就标志着AI技术在消费者应用领域的又一重要突破。 [<a href="https://news.ycombinator.com/item?id=45475794" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[离线卡支付不应晚于2026年7月1日实施]]></title>
-            <link>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</link>
-            <guid isPermaLink="false">https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</guid>
-            <pubDate>Fri, 03 Oct 2025 20:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇来自瑞典央行（Riksbank）的新闻稿，宣布到2026年7月1日必须实现离线卡支付功能。这一要求源于对支付系统韧性和可靠性的关注，特别是在网络连接不稳定或中断的情况下。文章解释了离线支付的技术要求、安全考虑以及实施时间表，反映了金融监管机构对支付基础设施弹性和连续性的重视。 [<a href="https://news.ycombinator.com/item?id=45467500" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我们（仍然）没有给予数据足够的重视]]></title>
+            <link>https://www.lukew.com/ff/entry.asp?2128</link>
+            <guid isPermaLink="false">https://www.lukew.com/ff/entry.asp?2128</guid>
+            <pubDate>Sat, 04 Oct 2025 19:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了数据在现代技术发展中被低估的问题，作者认为尽管人们常说'数据是新的石油'，但我们实际上仍然没有充分认识到高质量数据的价值。文章分析了高质量数据在AI模型训练、产品开发和服务优化中的关键作用，并指出许多组织在数据收集、存储和管理上的投入不足。作者呼吁企业领导者重新思考其数据战略，将数据视为核心资产而非副产品，提出了构建数据驱动文化的实用建议。这篇文章对于希望建立竞争优势或提升AI能力的企业领导者有重要启示。 [<a href="https://news.ycombinator.com/item?id=45475789" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD的EPYC 9355P：深入解析32核Zen 5服务器芯片]]></title>
-            <link>https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</link>
-            <guid isPermaLink="false">https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</guid>
-            <pubDate>Fri, 03 Oct 2025 20:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章深入分析了AMD最新的EPYC 9355P服务器处理器，这是一款基于Zen 5架构的32核心芯片。作者详细介绍了该芯片的技术规格、性能表现、功耗效率以及与竞争对手产品的比较。文章还探讨了Zen 5架构的创新之处，如改进的IPC、增强的缓存设计或新的安全功能，以及这些特性如何影响数据中心和云计算工作负载的性能。 [<a href="https://news.ycombinator.com/item?id=45467166" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN：Cirquery – 用于嵌套JSON的人类可读查询DSL]]></title>
+            <link>https://cirquery.github.io/cirquery/</link>
+            <guid isPermaLink="false">https://cirquery.github.io/cirquery/</guid>
+            <pubDate>Sat, 04 Oct 2025 19:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[Cirquery是一个用于查询嵌套JSON数据的领域特定语言(DSL)，设计目标是让开发者能够用自然、易读的语法复杂数据结构。与传统的JSON查询方法相比，Cirquery提供了更直观的查询接口，支持嵌套属性访问、条件过滤和数据转换等功能。项目提供了详细的语法说明、示例代码和性能测试结果，展示了其在处理复杂数据查询时的优势。Cirquery特别适合需要频繁查询和操作嵌套JSON数据的应用场景，如API响应处理、配置文件解析和日志分析等。 [<a href="https://news.ycombinator.com/item?id=45475787" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[来自Google Labs的远程编程代理Jules宣布发布API]]></title>
-            <link>https://jules.google/docs/changelog/</link>
-            <guid isPermaLink="false">https://jules.google/docs/changelog/</guid>
-            <pubDate>Fri, 03 Oct 2025 19:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了Google Labs开发的远程编程代理Jules及其新发布的API。Jules是一个AI驱动的代码助手或自动化编程工具，能够理解开发意图并生成或修改代码。文章详细描述了API的功能特性、使用方法、集成选项以及开发者如何利用它来提高编程效率。这个API的发布标志着AI辅助编程工具向更广泛开发社区开放的重要一步。 [<a href="https://news.ycombinator.com/item?id=45466588" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA['疏离的力量'：《社交网络》如何预测了科技的未来]]></title>
+            <link>https://www.bbc.com/culture/article/20251003-how-the-social-network-predicted-the-future-of-tech</link>
+            <guid isPermaLink="false">https://www.bbc.com/culture/article/20251003-how-the-social-network-predicted-the-future-of-tech</guid>
+            <pubDate>Sat, 04 Oct 2025 19:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[BBC这篇文章分析了电影《社交网络》如何准确预言了当今科技世界的许多现象。文章指出，这部关于Facebook创建的电影不仅展现了硅谷创业文化，还预测了社交媒体对人际关系的影响、数据隐私问题以及科技公司的权力集中等当代议题。影评人和科技专家认为，影片对马克·扎克伯格性格的刻画准确反映了现代科技创始人的心理特征，而对未来技术发展方向的预测也令人惊讶地准确。文章探讨了我们如何看待电影对科技发展的预见性，以及这些预见对我们理解当今科技世界的意义。 [<a href="https://news.ycombinator.com/item?id=45475782" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PEP 810 – 显式延迟导入]]></title>
-            <link>https://pep-previews--4622.org.readthedocs.build/pep-0810/</link>
-            <guid isPermaLink="false">https://pep-previews--4622.org.readthedocs.build/pep-0810/</guid>
-            <pubDate>Fri, 03 Oct 2025 18:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了Python增强提案(PEP) 810，关于引入显式延迟导入功能。这一提案旨在改进Python模块导入机制，允许开发者明确指定哪些导入应该是延迟的（即在真正需要时才导入）。文章详细解释了这一功能的设计原理、使用场景、语法变化以及它如何解决现有导入机制中的问题，特别是在处理大型项目或减少启动时间方面的优势。 [<a href="https://news.ycombinator.com/item?id=45466086" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Delancey街房产出售房屋和10万本书，是书迷的梦想]]></title>
+            <link>https://www.inquirer.com/columnists/rittenhouse-square-estate-sales-by-helen-20251001.html</link>
+            <guid isPermaLink="false">https://www.inquirer.com/columnists/rittenhouse-square-estate-sales-by-helen-20251001.html</guid>
+            <pubDate>Sat, 04 Oct 2025 19:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[这篇报道介绍了一次罕见的房产销售：位于Delancey街的一栋房屋及其附属的10万册藏书同时出售。这些书籍涵盖了广泛的学科和主题，包括稀有版、第一版和珍贵学术著作，对爱书人士来说是一次难得的机会。文章详细描述了藏书的历史、特色和价值，以及房屋本身的建筑特色。这次销售不仅是一次房产交易，也是一场文化资产的传承，吸引了全国各地的书商、收藏家和爱书人士的关注。报道还探讨了纸质书籍在数字时代仍然具有的独特魅力和价值。 [<a href="https://news.ycombinator.com/item?id=45475773" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[贝索斯称AI处于泡沫期但社会将获得巨大收益]]></title>
-            <link>https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</guid>
-            <pubDate>Fri, 03 Oct 2025 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了杰夫·贝索斯对人工智能现状的评论，他认为AI目前正处于某种泡沫阶段，但长远来看将为社会带来巨大利益。贝索斯分析了当前AI投资热潮的潜在泡沫特征，同时表达了对AI技术长期价值的信心。文章探讨了他对AI发展时间表的预期，以及他认为社会将从AI技术进步中获得的具体好处，反映了科技领袖对AI发展周期的复杂看法。 [<a href="https://news.ycombinator.com/item?id=45464429" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[基于大语言模型的实例驱动启发式偏差在BRKGA背景下的研究]]></title>
+            <link>https://www.researchgate.net/publication/395408659_LLM-Based_Instance-Driven_Heuristic_Bias_In_the_Context_of_a_Biased_Random_Key_Genetic_Algorithm?_sg%5B0%5D=Dtr-1ysAZSueiA9NpZZCCyXxTEFrwhXD-G7Uc_QpjpSg-LiDsAHGyFBVktIeTTWo6HBoyf6XMFyeBn3sk5BCWG8sFgH5F7bfxZCyuSGU.cL0UoE9pwGDa5LbCZMckQf34nBeQ7Do9zk7EbYb185e-efCr_6IXjO00RAbZEn0ilFATLT6TpFRJUTNq6JrDFA&amp;_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19</link>
+            <guid isPermaLink="false">https://www.researchgate.net/publication/395408659_LLM-Based_Instance-Driven_Heuristic_Bias_In_the_Context_of_a_Biased_Random_Key_Genetic_Algorithm?_sg%5B0%5D=Dtr-1ysAZSueiA9NpZZCCyXxTEFrwhXD-G7Uc_QpjpSg-LiDsAHGyFBVktIeTTWo6HBoyf6XMFyeBn3sk5BCWG8sFgH5F7bfxZCyuSGU.cL0UoE9pwGDa5LbCZMckQf34nBeQ7Do9zk7EbYb185e-efCr_6IXjO00RAbZEn0ilFATLT6TpFRJUTNq6JrDFA&amp;_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19</guid>
+            <pubDate>Sat, 04 Oct 2025 19:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[这项研究探讨了在大语言模型(LLM)环境下，实例驱动启发式偏差在偏置随机密钥遗传算法(BRKGA)中的应用。研究人员分析了如何利用大语言模型的知识来改进启发式搜索过程，提高算法在解决复杂优化问题时的性能。研究通过实验比较了不同启发式策略的效果，提出了一个结合LLM知识引导的BRKGA改进框架。该研究为将人工智能技术与传统优化算法相结合提供了新的思路，对于解决大规模组合优化问题具有重要意义。论文还讨论了这种方法在不同领域应用的可能性和局限性。 [<a href="https://news.ycombinator.com/item?id=45475759" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
