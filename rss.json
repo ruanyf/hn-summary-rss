@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://www.eff.org/deeplinks/2025/10/privacy-harm-harm",
+            "content_html": "这篇文章探讨了隐私侵犯的实质伤害，强调隐私侵犯不仅仅是数据问题，而是会对个人造成实际伤害。电子前哨基金会(EFF)提出隐私伤害应该被视为一种真正的伤害，而非抽象概念。文章讨论了隐私侵犯如何影响个人尊严、自主权和安全，以及为什么需要将隐私伤害视为法律和社会保护的重要议题。 [<a href=\"https://news.ycombinator.com/item?id=45474441\" target=\"_blank\">评论</a>]",
+            "url": "https://www.eff.org/deeplinks/2025/10/privacy-harm-harm",
+            "title": "隐私伤害就是伤害",
+            "date_modified": "2025-10-04T16:19:04.000Z"
+        },
+        {
             "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "content_html": "本文通过解决Advent of Code问题来比较Ada和Rust两种编程语言。作者详细比较了两种语言的语法特性、错误处理、并发控制等方面，展示了它们在解决相同问题时的不同思路和优缺点。这对于希望在Ada和Rust之间做选择的开发者提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章通过解决Advent of Code编程挑战的代码，详细比较了Ada和Rust两种编程语言。文章分析了两种语言在安全性、性能、语法特性等方面的差异，以及它们如何处理并发、错误检查和内存管理等现代编程问题。作者分享了使用这两种语言解决相同问题的不同思路和方法，帮助读者了解各自的优势和适用场景。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "title": "Ada与Rust比较：使用Advent of Code解决方案",
+            "title": "使用Advent of Code解决方案比较Ada和Rust",
             "date_modified": "2025-10-04T15:10:49.000Z"
         },
         {
             "id": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "content_html": "作者分享了他作为高级软件工程师在科技公司内部政治环境中的经验。他讨论了如何通过技术权威、跨部门沟通、项目管理等方式建立影响力，同时保持专业性和道德标准。文章提供了实用的策略，帮助技术专业人士在复杂的组织结构中有效推动变革，而不必陷入办公室政治。 [<a href=\"https://news.ycombinator.com/item?id=45473852\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章分享了高级软件工程师在科技公司内部影响决策和政治环境的策略。作者讨论了如何通过技术领导力、跨部门沟通、建立专业影响力等方式，在不直接担任管理职位的情况下影响公司技术方向和决策。文章提供了实用的建议，如如何有效沟通技术价值、如何在技术争议中表达观点、以及如何与不同利益相关者合作等。 [<a href=\"https://news.ycombinator.com/item?id=45473852\" target=\"_blank\">评论</a>]",
             "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "title": "作为高级软件工程师，我如何影响科技公司政治",
+            "title": "作为高级软件工程师如何影响科技公司政治",
             "date_modified": "2025-10-04T15:09:41.000Z"
         },
         {
-            "id": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
-            "content_html": "本文介绍了如何在Linux系统上配置和使用各种工具和设置，以获得类似macOS的用户体验。作者详细讲解了桌面环境选择、快捷键配置、外观美化、系统工具替代方案等方面的内容。对于从Mac转向Linux或希望在Linux上享受Mac风格体验的用户来说，这是一份全面的指南。 [<a href=\"https://news.ycombinator.com/item?id=45473581\" target=\"_blank\">评论</a>]",
-            "url": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
-            "title": "在Linux上获得类似Mac的体验",
-            "date_modified": "2025-10-04T14:31:58.000Z"
+            "id": "https://maxadamski.com/blog/2025/10/email.html",
+            "content_html": "这篇文章探讨了如何在现代环境中实现类似1984年代风格的电子邮件自托管。作者详细介绍了设置自托管电子邮件服务器所需的组件、配置步骤和安全考虑。文章比较了现代解决方案与早期系统之间的差异，以及如何在保持复古风格的同时利用现代技术来提高安全性和可靠性。作者还分享了一些历史背景和为什么在当前环境下自托管电子邮件仍然有意义。 [<a href=\"https://news.ycombinator.com/item?id=45473730\" target=\"_blank\">评论</a>]",
+            "url": "https://maxadamski.com/blog/2025/10/email.html",
+            "title": "像1984年一样自托管电子邮件",
+            "date_modified": "2025-10-04T14:53:32.000Z"
+        },
+        {
+            "id": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+            "content_html": "这篇文章讨论了Flock公司的枪声检测系统如何扩展功能，从仅检测枪声到同时监听人声。电子前哨基金会(EFF)对此表示关注，认为这可能带来隐私问题。文章分析了这种技术如何工作，它在社区部署的情况，以及为什么这种持续监听功能引发了关于公共安全与隐私权之间平衡的讨论。EFF提出了对该技术扩展使用的担忧和监管建议。 [<a href=\"https://news.ycombinator.com/item?id=45473698\" target=\"_blank\">评论</a>]",
+            "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+            "title": "Flock的枪声检测麦克风将开始监听人声",
+            "date_modified": "2025-10-04T14:49:30.000Z"
         },
         {
             "id": "https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/",
-            "content_html": "作者探讨了软件开发中的过度工程化问题。文章指出，有时为了满足已知的业务需求而采取看似简单的解决方案，并非是'hack'或偷懒，而是务实的选择。作者建议团队应该基于当前需求和可维护性来决策，而不是盲目追求技术完美性或过度设计。 [<a href=\"https://news.ycombinator.com/item?id=45473126\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了软件开发中的'hack'概念，以及为什么满足已知需求的简单解决方案不应该被视为'hack'。作者讨论了在敏捷开发环境中，过度工程化和简单解决方案之间的平衡，以及为什么应该重视直接满足需求的方法而非过度设计。文章批评了那种认为简单解决方案就是'不专业'的观念，提倡实用主义和专注解决实际问题的软件开发哲学。 [<a href=\"https://news.ycombinator.com/item?id=45473126\" target=\"_blank\">评论</a>]",
             "url": "https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/",
-            "title": "满足已知需求并不是'hack'",
+            "title": "满足已知需求不是一种hack",
             "date_modified": "2025-10-04T13:20:15.000Z"
         },
         {
             "id": "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/",
-            "content_html": "文章将英伟达向合作伙伴提供的1100亿美元循环融资计划与2000年的电信泡沫进行了比较。分析指出，尽管表面上有相似之处，但当前半导体行业的基本面与当年的电信行业有本质区别。文章深入探讨了这种融资模式可能带来的风险和机遇，以及它对整个科技生态系统的影响。 [<a href=\"https://news.ycombinator.com/item?id=45473033\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章分析了英伟达高达1100亿美元的供应链投资，并将其与2000年的电信泡沫进行比较。作者探讨了这种大规模供应商融资模式的潜在风险，以及对行业和市场稳定性的影响。文章研究了英伟达的投资策略、其背后的市场条件，以及历史泡沫周期的教训，为读者提供对当前AI硬件投资热潮的批判性思考。 [<a href=\"https://news.ycombinator.com/item?id=45473033\" target=\"_blank\">评论</a>]",
             "url": "https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/",
-            "title": "循环融资：英伟达1100亿美元投资是否重演电信泡沫？",
+            "title": "循环融资：英伟达的1100亿美元投资是否重复了电信泡沫？",
             "date_modified": "2025-10-04T13:06:32.000Z"
         },
         {
             "id": "https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html",
-            "content_html": "文章回顾了函数式编程对前端开发的深远影响。从React的声明式UI到Redux的状态管理，函数式编程的概念和模式深刻改变了前端开发范式。作者既肯定了函数式编程带来的代码组织和可维护性方面的提升，也指出了它可能导致的过度抽象和学习曲线陡增等问题，呼吁开发者平衡理论与实践。 [<a href=\"https://news.ycombinator.com/item?id=45473019\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章回顾了函数式编程对现代前端开发的深远影响。作者探讨了函数式编程原则如何被纳入主流前端框架和库，以及它们如何改变了开发者处理状态、副作用和数据流的方式。文章分析了函数式编程带来的好处（如可预测性、可测试性）和挑战（如学习曲线、性能考虑），以及它在React、Vue等框架中的具体应用和演变。 [<a href=\"https://news.ycombinator.com/item?id=45473019\" target=\"_blank\">评论</a>]",
             "url": "https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html",
-            "title": "函数式编程如何塑造并扭曲了前端开发",
+            "title": "函数式编程如何塑造并改变了前端开发",
             "date_modified": "2025-10-04T13:04:15.000Z"
         },
         {
             "id": "https://www.folklore.org/Thunderscan.html",
-            "content_html": "这是关于Thunderscan的有趣历史记录，这是一个1981年由苹果员工发明的巧妙设备，可以将苹果打印机转换为扫描仪。文章详细描述了这个创新设备的发明过程、工作原理以及它如何体现了极客精神和创新思维。这个故事展示了早期计算机爱好者如何通过简单而巧妙的解决方案解决实际问题。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了Thunderscan，一个2004年发布的创新设备，能够将普通打印机转换为扫描仪。作者详细描述了这个设备的工作原理、技术特点以及它在那个年代的革命性意义。文章还分享了Thunderscan的开发故事、市场反响以及它如何影响了后来的多功能打印机发展，展现了计算机外设设计中的创新思维。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
             "url": "https://www.folklore.org/Thunderscan.html",
-            "title": "Thunderscan：一个巧妙设备将打印机变为扫描仪(2004)",
+            "title": "Thunderscan：一个巧妙的设备将打印机变成扫描仪（2004年）",
             "date_modified": "2025-10-04T12:16:37.000Z"
         },
         {
             "id": "https://www.buchstabenmuseum.de/en/",
-            "content_html": "柏林字母博物馆宣布即将关闭的消息。该博物馆专门收藏和展示来自世界各地的各种字母和字符，是字体设计和视觉文化爱好者的朝圣地。文章介绍了博物馆的历史、收藏特色以及关闭的原因，同时也探讨了数字化时代实体字体博物馆面临的挑战和保存字母文化的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章宣布了柏林字母博物馆（Buchstabenmuseum）即将关闭的消息。博物馆专门收藏和展示各种历史字母、标志和标牌，是设计和字体文化的重要场所。文章详细说明了关闭的原因、日期，以及是否有计划将收藏转移到其他地方或以数字形式保存。对于字体爱好者和设计专业人士来说，这是一个令人遗憾的消息，标志着一个独特的文化空间的消失。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
             "url": "https://www.buchstabenmuseum.de/en/",
             "title": "柏林字母博物馆即将关闭",
             "date_modified": "2025-10-04T11:58:58.000Z"
         },
         {
             "id": "https://pagedout.institute/download/PagedOut_007.pdf",
-            "content_html": "Paged Out技术杂志第7期PDF版下载。该杂志专注于计算机历史和技术考古学，本期可能包含对经典计算机系统、早期软件技术、计算机发展历程等内容的深入文章。对于对计算机历史和早期技术感兴趣的读者来说，这是一份宝贵的资源。 [<a href=\"https://news.ycombinator.com/item?id=45472319\" target=\"_blank\">评论</a>]",
+            "content_html": "这是Paged Out杂志的第7期电子版，一份关注计算机历史和文化的出版物。本期包含了关于早期计算机系统、编程历史、重要人物传记或技术发展回顾的文章。作为PDF文档，它包含了丰富的图像、原始资料和深入分析，为读者提供了计算机历史的独特视角。这份杂志对计算机历史爱好者和技术研究人员具有很高的参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45472319\" target=\"_blank\">评论</a>]",
             "url": "https://pagedout.institute/download/PagedOut_007.pdf",
             "title": "Paged Out 第7期 [pdf]",
             "date_modified": "2025-10-04T10:38:06.000Z"
         },
         {
-            "id": "https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/",
-            "content_html": "Cloudflare宣布推出NET Dollar稳定币，旨在支持AI驱动互联网的新型商业模式。这种稳定币将为网络服务提供新的支付和结算方式，特别适合按需计算和AI服务。文章详细介绍了NET Dollar的技术特点、应用场景以及它如何帮助构建更加开放、高效和安全的互联网基础设施。 [<a href=\"https://news.ycombinator.com/item?id=45471573\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/",
-            "title": "Cloudflare推出NET Dollar稳定币",
-            "date_modified": "2025-10-04T08:02:48.000Z"
-        },
-        {
             "id": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
-            "content_html": "文章介绍了如何以约200美元的成本在阿里云上使用Kintex UltraScale+ FPGA。作者详细分享了配置过程、性能测试和应用场景，展示了云计算环境下FPGA可访问性的大幅提升。这对于想要在云端进行硬件加速但又预算有限的研究人员和开发者来说，是一个非常实用的指南。 [<a href=\"https://news.ycombinator.com/item?id=45471136\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了如何以低廉的价格（约200美元）在阿里云上使用Kintex UltraScale+ FPGA（现场可编程门阵列）资源。作者详细分享了配置过程、性能测试结果以及各种应用场景。文章探讨了FPGA在云环境中的优势，如可定制硬件加速、低延迟计算等，以及这种低成本解决方案如何使开发者和研究人员能够经济地体验高性能FPGA计算能力。 [<a href=\"https://news.ycombinator.com/item?id=45471136\" target=\"_blank\">评论</a>]",
             "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
             "title": "阿里云FPGA：200美元的Kintex UltraScale+",
             "date_modified": "2025-10-04T06:49:58.000Z"
         },
         {
             "id": "https://toyotatimes.jp/en/spotlights/1061.html",
-            "content_html": "丰田在2024年举办了一场汽车安全黑客马拉松活动，邀请安全专家和研究人员测试其车辆系统的安全性。文章详细介绍了活动的内容、目的以及丰田如何通过这类活动主动发现和修复潜在的安全漏洞。这种'以攻促防'的策略反映了汽车行业对网络安全日益增长的重视，以及丰田在这一领域的领先姿态。 [<a href=\"https://news.ycombinator.com/item?id=45470206\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章报道了丰田公司在2024年举办的一次汽车安全黑客马拉松活动，旨在提高其车辆系统的安全性。文章介绍了活动详情、参与的安全专家团队、发现的漏洞类型以及丰田如何利用这些发现来改进其产品。这种活动展示了汽车行业对网络安全日益增长的重视，以及通过白帽黑客测试来主动发现和修复安全漏洞的积极策略。 [<a href=\"https://news.ycombinator.com/item?id=45470206\" target=\"_blank\">评论</a>]",
             "url": "https://toyotatimes.jp/en/spotlights/1061.html",
-            "title": "丰田举办汽车黑客马拉松以提高安全性(2024)",
+            "title": "丰田举办汽车黑客马拉松活动以提高安全性（2024年）",
             "date_modified": "2025-10-04T03:11:28.000Z"
         },
         {
             "id": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
-            "content_html": "研究人员开发出一种针对炎症性肠病（IBD）的新型抗生素，更值得注意的是，AI系统成功预测了该抗生素的作用机制，这发生在科学家能够通过实验验证之前。这一突破展示了AI在药物发现领域的潜力，特别是预测药物靶点和作用机制方面的能力。 [<a href=\"https://news.ycombinator.com/item?id=45469579\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章报道了一种新型抗生素的发现，它专门针对炎症性肠病（IBD），其工作机制是由AI模型成功预测的。研究团队利用人工智能分析了大量化合物数据，预测出哪种物质可能对IBD有效，然后通过实验验证了这一预测。这一突破展示了AI在药物发现中的潜力，特别是在加速传统药物开发过程和发现全新治疗方法方面的价值。 [<a href=\"https://news.ycombinator.com/item?id=45469579\" target=\"_blank\">评论</a>]",
             "url": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
-            "title": "新抗生素针对IBD，AI预测其作用机制",
+            "title": "新型抗生素针对IBD，AI预测了其工作原理",
             "date_modified": "2025-10-04T01:09:37.000Z"
         },
         {
             "id": "https://mitchellh.com/writing/zig-builds-getting-faster",
-            "content_html": "Zig编程语言的构建系统近期取得了显著的速度提升。文章详细介绍了Zig团队对构建系统的优化工作，包括增量构建、并行处理和缓存机制等方面的改进。这些优化使得大型项目的构建时间大幅缩短，提高了开发效率。对于关注Zig语言发展的开发者和考虑采用Zig的项目来说，这是一个积极的信号。 [<a href=\"https://news.ycombinator.com/item?id=45468698\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了Zig编程语言构建系统的性能改进。作者详细描述了最新版本中引入的优化措施，如增量构建改进、并行处理增强和依赖解析优化等。文章包含了基准测试数据，展示了构建速度的实际提升幅度，以及这些改进如何改善了开发者的工作流程。对于Zig用户来说，这些优化意味着更高效的编译时间和更流畅的开发体验。 [<a href=\"https://news.ycombinator.com/item?id=45468698\" target=\"_blank\">评论</a>]",
             "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
             "title": "Zig构建速度正在提升",
             "date_modified": "2025-10-03T22:45:28.000Z"
         },
         {
             "id": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
-            "content_html": "瑞典央行宣布，离线卡支付功能不应迟于2026年7月1日在瑞典实施。这一决定旨在提高支付系统的韧性和可靠性，确保在电子支付系统出现故障时仍能进行基本交易。文章介绍了离线支付的技术实现、安全保障措施以及对消费者和商户的影响。 [<a href=\"https://news.ycombinator.com/item?id=45467500\" target=\"_blank\">评论</a>]",
+            "content_html": "这是一篇来自瑞典央行（Riksbank）的新闻稿，宣布到2026年7月1日必须实现离线卡支付功能。这一要求源于对支付系统韧性和可靠性的关注，特别是在网络连接不稳定或中断的情况下。文章解释了离线支付的技术要求、安全考虑以及实施时间表，反映了金融监管机构对支付基础设施弹性和连续性的重视。 [<a href=\"https://news.ycombinator.com/item?id=45467500\" target=\"_blank\">评论</a>]",
             "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
-            "title": "离线卡支付不应迟于2026年7月1日实施",
+            "title": "离线卡支付不应晚于2026年7月1日实施",
             "date_modified": "2025-10-03T20:36:03.000Z"
         },
         {
             "id": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
-            "content_html": "文章深入分析了AMD最新发布的EPYC 9355P服务器处理器，这是一款基于Zen 5架构的32核芯片。作者详细解读了其架构特点、性能提升、能效比以及与竞争对手产品的比较。对于数据中心、云计算和HPC应用领域的专业人士来说，这是一份了解新一代AMD服务器处理器技术细节的宝贵资源。 [<a href=\"https://news.ycombinator.com/item?id=45467166\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章深入分析了AMD最新的EPYC 9355P服务器处理器，这是一款基于Zen 5架构的32核心芯片。作者详细介绍了该芯片的技术规格、性能表现、功耗效率以及与竞争对手产品的比较。文章还探讨了Zen 5架构的创新之处，如改进的IPC、增强的缓存设计或新的安全功能，以及这些特性如何影响数据中心和云计算工作负载的性能。 [<a href=\"https://news.ycombinator.com/item?id=45467166\" target=\"_blank\">评论</a>]",
             "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
-            "title": "AMD的EPYC 9355P：深入32核Zen 5服务器芯片",
+            "title": "AMD的EPYC 9355P：深入解析32核Zen 5服务器芯片",
             "date_modified": "2025-10-03T20:01:36.000Z"
         },
         {
             "id": "https://jules.google/docs/changelog/",
-            "content_html": "Google Labs的远程编程助手Jules宣布推出API，这将使开发者能够将Jules的功能集成到自己的开发工具和流程中。Jules是一个基于AI的编程助手，能够理解代码上下文并执行编程任务。文章介绍了Jules API的功能特性、使用方法以及对软件开发流程的潜在影响。 [<a href=\"https://news.ycombinator.com/item?id=45466588\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了Google Labs开发的远程编程代理Jules及其新发布的API。Jules是一个AI驱动的代码助手或自动化编程工具，能够理解开发意图并生成或修改代码。文章详细描述了API的功能特性、使用方法、集成选项以及开发者如何利用它来提高编程效率。这个API的发布标志着AI辅助编程工具向更广泛开发社区开放的重要一步。 [<a href=\"https://news.ycombinator.com/item?id=45466588\" target=\"_blank\">评论</a>]",
             "url": "https://jules.google/docs/changelog/",
-            "title": "Google Labs的远程编码助手Jules宣布推出API",
+            "title": "来自Google Labs的远程编程代理Jules宣布发布API",
             "date_modified": "2025-10-03T19:08:11.000Z"
         },
         {
             "id": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
-            "content_html": "Python Enhancement Proposal 810引入了显式延迟导入机制，允许开发者在运行时按需加载模块。这一提案旨在提高Python应用的启动性能和内存效率，特别是对于大型库和应用程序。文章详细解释了延迟导入的设计思路、语法实现、使用场景以及对Python生态系统的影响。 [<a href=\"https://news.ycombinator.com/item?id=45466086\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了Python增强提案(PEP) 810，关于引入显式延迟导入功能。这一提案旨在改进Python模块导入机制，允许开发者明确指定哪些导入应该是延迟的（即在真正需要时才导入）。文章详细解释了这一功能的设计原理、使用场景、语法变化以及它如何解决现有导入机制中的问题，特别是在处理大型项目或减少启动时间方面的优势。 [<a href=\"https://news.ycombinator.com/item?id=45466086\" target=\"_blank\">评论</a>]",
             "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
-            "title": "PEP 810 - 显式延迟导入",
+            "title": "PEP 810 – 显式延迟导入",
             "date_modified": "2025-10-03T18:24:58.000Z"
         },
         {
             "id": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
-            "content_html": "杰夫·贝索斯在接受采访时表示，虽然人工智能目前可能处于泡沫期，但最终社会将从中获得'巨大'的收益。他认为当前的AI热潮可能包含一些过度炒作，但AI技术的长期影响将是革命性的。贝索斯还分享了他对AI发展速度、应用前景以及监管必要性的看法。 [<a href=\"https://news.ycombinator.com/item?id=45464429\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章报道了杰夫·贝索斯对人工智能现状的评论，他认为AI目前正处于某种泡沫阶段，但长远来看将为社会带来巨大利益。贝索斯分析了当前AI投资热潮的潜在泡沫特征，同时表达了对AI技术长期价值的信心。文章探讨了他对AI发展时间表的预期，以及他认为社会将从AI技术进步中获得的具体好处，反映了科技领袖对AI发展周期的复杂看法。 [<a href=\"https://news.ycombinator.com/item?id=45464429\" target=\"_blank\">评论</a>]",
             "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
-            "title": "贝索斯称AI处于泡沫期，但社会将获得'巨大'收益",
+            "title": "贝索斯称AI处于泡沫期但社会将获得巨大收益",
             "date_modified": "2025-10-03T16:00:00.000Z"
-        },
-        {
-            "id": "https://overreacted.io/where-its-at/",
-            "content_html": "这篇文章探讨了当今Web开发的现状和最佳实践。作者反思了现代Web开发中的一些趋势和选择，从框架选择到性能优化，从用户体验到开发效率。文章既不是对新技术盲目追捧，也不是对传统方法固守陈规，而是在两者之间寻找平衡点，为Web开发者提供了实用的思考框架和决策指南。 [<a href=\"https://news.ycombinator.com/item?id=45455164\" target=\"_blank\">评论</a>]",
-            "url": "https://overreacted.io/where-its-at/",
-            "title": "现状://",
-            "date_modified": "2025-10-02T20:31:43.000Z"
         }
     ]
 }
