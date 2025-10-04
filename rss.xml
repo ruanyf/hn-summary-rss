@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sat, 04 Oct 2025 15:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 15:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Linux上的Mac式体验]]></title>
-            <link>https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/</link>
-            <guid isPermaLink="false">https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/</guid>
-            <pubDate>Sat, 04 Oct 2025 14:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[这个链接介绍了如何在Linux上获得类似macOS的用户体验。文章可能涉及桌面环境定制、系统优化和UI/UX改进，让Linux用户享受到macOS的美观和易用性。 [<a href="https://news.ycombinator.com/item?id=45473581" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[LockIn方法 - 防止信息过载导致卡滞的简单笔记本系统]]></title>
+            <link>https://jarrahsx.substack.com/p/lockin-method</link>
+            <guid isPermaLink="false">https://jarrahsx.substack.com/p/lockin-method</guid>
+            <pubDate>Sat, 04 Oct 2025 15:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[LockIn方法是一种简单高效的笔记系统，旨在防止人们在面对信息过载时陷入决策瘫痪。该系统通过将复杂任务分解为微小、可执行的步骤来帮助用户保持专注和生产力。方法的核心思想是'锁定'注意力到当前任务上，避免在多个选项间徘徊导致的时间浪费。实践时，用户首先确定一个明确的小目标，然后立即开始执行，不考虑其他可能的选择或更好的方法。这种看似简单的方法能有效减少分析瘫痪，帮助人们克服完美主义和拖延症，提高工作效率和决策质量。 [<a href="https://news.ycombinator.com/item?id=45474143" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[满足已知需求并非黑客行为]]></title>
-            <link>https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</link>
-            <guid isPermaLink="false">https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/</guid>
-            <pubDate>Sat, 04 Oct 2025 13:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讨论了软件开发中的过度工程化问题。作者认为，为了满足已知需求而设计的解决方案不应该被视为'hack'（黑客手段或临时解决方案），而是应该被视为适当的技术选择，只要它能有效解决问题。 [<a href="https://news.ycombinator.com/item?id=45473126" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[微软坚称Copilot+ PC是'赋能未来'的体现 - 现实情况并不认同]]></title>
+            <link>https://www.theregister.com/2025/09/19/microsoft_copilot_marketing_blitz/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/09/19/microsoft_copilot_marketing_blitz/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[近期微软大力宣传其Copilot+ PC系列，声称这些设备将'赋能未来'，代表了计算技术的前沿。然而，市场现实和专家评估与这一营销口号存在明显差距。批评者指出，Copilot+ PC的实际功能与微软的承诺不符，许多宣传的创新特性要么难以实现，要么对普通用户价值有限。分析人士认为，这可能是微软试图通过概念营销来掩盖其产品实际创新不足的策略。消费者也反馈，这些设备的性能提升并不显著，而价格却大幅上涨。这一现象反映了科技行业中常见的营销与实际产品之间的差距，提醒消费者在评估技术产品时需要保持理性。 [<a href="https://news.ycombinator.com/item?id=45474133" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[循环融资：英伟达1100亿美元的赌注是否会重蹈电信泡沫覆辙？]]></title>
-            <link>https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</link>
-            <guid isPermaLink="false">https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/</guid>
-            <pubDate>Sat, 04 Oct 2025 13:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[本文分析了英伟达向其客户提供1100亿美元的循环融资计划，并将其与2000年的电信泡沫进行比较。作者探讨了这种融资模式可能带来的市场风险，以及它是否会引发类似当年电信行业崩溃的危机。 [<a href="https://news.ycombinator.com/item?id=45473033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[偏移几何接触]]></title>
+            <link>https://ankachan.github.io/Projects/OGC/index.html</link>
+            <guid isPermaLink="false">https://ankachan.github.io/Projects/OGC/index.html</guid>
+            <pubDate>Sat, 04 Oct 2025 15:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[偏移几何接触(Offset Geometric Contact, OGC)是一个几何设计项目，专注于研究和应用几何图形的偏移算法。该项目提供了一种创新的几何处理方法，能够精确计算复杂形状的偏移距离，保持几何图形的基本特性不变。OGC算法在计算机图形学、CAD设计、建筑建模和工业设计领域具有广泛应用潜力。该项目开源代码详细实现了多种几何形状的偏移处理，包括多边形、曲线和三维表面。开发者提供了完整的文档和示例，帮助其他研究人员和工程师在自己的项目中应用这项技术。OGC项目的出现为几何设计领域提供了一种高效、精确的工具，有望简化许多复杂的几何计算任务。 [<a href="https://news.ycombinator.com/item?id=45474129" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[函数式编程如何塑造并改变了前端开发]]></title>
-            <link>https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</link>
-            <guid isPermaLink="false">https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html</guid>
-            <pubDate>Sat, 04 Oct 2025 13:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章回顾了函数式编程对前端开发领域的影响。从早期的jQuery到现代React、Vue等框架，函数式编程的概念如不可变性、纯函数和函数组合深刻地改变了前端开发的方式，提高了代码的可维护性和预测性。 [<a href="https://news.ycombinator.com/item?id=45473019" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[IBM Granite 4.0：为企业提供超高效高性能的混合模型]]></title>
+            <link>https://www.ibm.com/new/announcements/ibm-granite-4-0-hyper-efficient-high-performance-hybrid-models</link>
+            <guid isPermaLink="false">https://www.ibm.com/new/announcements/ibm-granite-4-0-hyper-efficient-high-performance-hybrid-models</guid>
+            <pubDate>Sat, 04 Oct 2025 15:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[IBM Granite 4.0是IBM最新发布的企业级AI模型系列，以其超高效性和高性能而备受瞩目。这一版本结合了多种先进技术，包括混合架构、优化算法和企业级安全特性。Granite 4.0模型在保持高精度的同时显著降低了计算资源需求，使其能够在各种硬件平台上高效运行。IBM表示，这些模型专为处理企业级复杂任务而设计，能够提供准确的预测和决策支持。Granite 4.0支持多语言处理，具备强大的上下文理解和生成能力，适用于各种行业应用场景。IBM还提供了丰富的工具和API，使企业能够轻松将这些模型集成到现有工作流程中。这一发布代表了IBM在推动企业级AI应用方面的重要进展，有望帮助更多组织实现数字化转型。 [<a href="https://news.ycombinator.com/item?id=45474110" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[雷电扫描：一个巧妙设备将打印机变成扫描仪（2004）]]></title>
-            <link>https://www.folklore.org/Thunderscan.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
-            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了Thunderscan的历史，这是一个2004年发明的创新设备，它能将苹果公司的ImageWriter打印机转换为扫描仪。这个巧妙的小配件在当时解决了扫描设备稀缺且昂贵的问题，展现了黑客精神和创新思维。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[欧陆航运分享项目]]></title>
+            <link>https://euro-ship-share.lovable.app/</link>
+            <guid isPermaLink="false">https://euro-ship-share.lovable.app/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[Eurosend项目是一个创新的欧洲航运共享平台，旨在优化和简化跨境物流流程。该平台利用现代技术和用户友好的界面，连接发货方和物流服务提供商，提供透明的价格比较和实时跟踪功能。项目特别关注欧洲内部的小批量货运需求，为中小企业和个人用户提供了传统货运服务难以覆盖的市场。Eurosend采用自动化算法匹配最佳运输方案，减少了空载率，提高了整体物流效率。用户可以通过简单的界面预约服务，跟踪货物状态，并处理相关文档。该项目目标是减少欧洲物流行业的碳足迹，通过优化路线和增加车辆共享来降低环境影响。Eurosend代表了共享经济在欧洲物流领域的创新应用，有望为跨境电子商务和个人物品运输带来便利。 [<a href="https://news.ycombinator.com/item?id=45474100" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
-            <link>https://www.buchstabenmuseum.de/en/</link>
-            <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
-            <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[柏林字母博物馆（Buchstabenmuseum）是德国唯一一个专门收藏和展示字母标志的博物馆，由于财务或场地问题即将关闭。这个博物馆收藏了来自柏林各处的历史字母标志，这些标志承载了城市的历史和文化记忆，关闭代表着一段文化历史的终结。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[用于构建在Wine上运行的自包含游戏AppImage的工具]]></title>
+            <link>https://github.com/exaroth/game-appimage</link>
+            <guid isPermaLink="false">https://github.com/exaroth/game-appimage</guid>
+            <pubDate>Sat, 04 Oct 2025 15:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[该项目是一个开源工具，专门用于创建自包含的游戏AppImage文件，使Windows游戏能够在Linux系统上通过Wine环境无缝运行。工具简化了将游戏打包为AppImage的过程，解决了传统Linux游戏兼容性面临的挑战。它能够自动处理依赖关系，将必要的Wine库和游戏文件整合到一个独立的可执行文件中。用户只需按照简单步骤操作，即可创建可在任何兼容Linux系统上运行的游戏包，无需复杂安装过程。该工具特别适合希望享受Windows游戏而无需双启动系统的Linux用户。项目提供了详细的文档和使用指南，还支持常见游戏优化设置。这一工具的出现大大降低了Linux用户运行Windows游戏的门槛，丰富了Linux平台的游戏生态。 [<a href="https://news.ycombinator.com/item?id=45474089" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[科学家发现一种强大的新癌症预防方法]]></title>
-            <link>https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer</link>
-            <guid isPermaLink="false">https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer</guid>
-            <pubDate>Sat, 04 Oct 2025 11:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了科学家在癌症预防领域的新突破。研究表明，通过特定的生活方式干预、新型疫苗或靶向药物，可能显著降低某些癌症的发病率。这种方法基于对癌症形成机制的深入理解，代表了预防医学的新方向。 [<a href="https://news.ycombinator.com/item?id=45472614" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[科学和公共卫生中被武器化的不确定性使人们处于危险之中]]></title>
+            <link>https://www.nature.com/articles/d41586-025-03167-5</link>
+            <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03167-5</guid>
+            <pubDate>Sat, 04 Oct 2025 15:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[这篇发表在《自然》杂志上的文章探讨了科学和公共卫生领域中'被武器化的不确定性'现象，指出某些利益相关方如何利用科学共识中的不确定性来阻碍有效政策的制定和实施。作者指出，烟草、化石燃料等行业经常利用科学研究中存在的正常不确定性来延迟监管行动，从而保护自身商业利益。这种现象在气候变化、疫苗安全和环境污染等公共健康问题中尤为明显。文章强调，虽然科学本身包含不确定性，但这不应成为阻止采取预防措施的借口。作者呼吁科学家和政策制定者更好地识别和应对这种策略，提高公众对科学方法的理解，确保基于可靠证据的决策过程不被不确定性所滥用。这一问题对全球公共健康和安全构成严重威胁。 [<a href="https://news.ycombinator.com/item?id=45474083" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[分页问题第7期[PDF]]]></title>
-            <link>https://pagedout.institute/download/PagedOut_007.pdf</link>
-            <guid isPermaLink="false">https://pagedout.institute/download/PagedOut_007.pdf</guid>
-            <pubDate>Sat, 04 Oct 2025 10:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[这是计算机历史相关的期刊《Paged Out》的第7期PDF版本。该期刊可能包含关于计算机历史、复古计算、早期软件开发技术的文章和故事，是计算机历史爱好者和专业人士的重要参考资料。 [<a href="https://news.ycombinator.com/item?id=45472319" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[利物浦在切尔西对阵利物浦比赛中面临前所未有的伤病危机]]></title>
+            <link>https://voquette.com/breaking-liverpool-faces-unprecedented-injury-crisis-in-chelsea-vs-liverpool-timeline-shocking-lineup-revealed</link>
+            <guid isPermaLink="false">https://voquette.com/breaking-liverpool-faces-unprecedented-injury-crisis-in-chelsea-vs-liverpool-timeline-shocking-lineup-revealed</guid>
+            <pubDate>Sat, 04 Oct 2025 15:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[利物浦足球俱乐部目前正面临其历史上最严重的伤病危机，这将直接影响即将到来的切尔西对阵利物浦的比赛。据报道，球队有多名关键球员因伤缺阵，包括中场核心和主力前锋，这使得教练组的排兵布阵面临巨大挑战。球队已公布了令人震惊的首发阵容，包含多名年轻球员和位置不熟悉的球员被临时调往前线。这一情况引发了球迷和专家对球队竞争力的担忧。利物浦本赛季表现本已起伏不定，伤病危机无疑雪上加霜。分析人士认为，这可能是教练过度使用主力球员导致的结果。俱乐部管理层表示正在积极寻求转会解决方案，但短期内可能难以完全填补这些空缺。这场比赛的结果可能会对本赛季英超联赛的冠军争夺格局产生重大影响。 [<a href="https://news.ycombinator.com/item?id=45474082" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[阿里云FPGA：200美元的Kintex UltraScale+]]></title>
-            <link>https://essenceia.github.io/projects/alibaba_cloud_fpga/</link>
-            <guid isPermaLink="false">https://essenceia.github.io/projects/alibaba_cloud_fpga/</guid>
-            <pubDate>Sat, 04 Oct 2025 06:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[本文介绍了作者如何利用阿里云平台获取并部署Xilinx Kintex UltraScale+ FPGA芯片，而成本仅为约200美元。这个项目展示了云计算如何使原本昂贵的硬件资源变得普及，为开发者和研究人员提供了强大的硬件加速能力。 [<a href="https://news.ycombinator.com/item?id=45471136" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[人类的未来]]></title>
+            <link>https://thoughts.wyounas.com/p/the-future-of-mankind</link>
+            <guid isPermaLink="false">https://thoughts.wyounas.com/p/the-future-of-mankind</guid>
+            <pubDate>Sat, 04 Oct 2025 15:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了人类文明可能的发展路径和未来面临的重大挑战。作者从多个角度分析了技术进步、环境变化和社会转型对人类未来的影响。文章指出，人工智能、生物技术和太空探索等领域的突破性发展将为人类带来前所未有的机遇，同时也伴随着伦理和安全方面的挑战。作者强调，人类面临的最大威胁可能不是来自外部，而是我们自己如何应对气候变化、资源枯竭和全球性流行病等生存危机。文章提出了几种可能的人类未来情景：技术乌托邦、生态崩溃后的生存社会、星际文明或多物种共存的世界。作者呼吁社会各界共同努力，确保技术进步服务于人类福祉，而非加剧不平等和环境破坏。这篇思考为读者提供了一个宏观视角，思考人类作为一个物种的长期发展轨迹。 [<a href="https://news.ycombinator.com/item?id=45474054" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[丰田举办汽车黑客马拉松以提高安全性（2024）]]></title>
-            <link>https://toyotatimes.jp/en/spotlights/1061.html</link>
-            <guid isPermaLink="false">https://toyotatimes.jp/en/spotlights/1061.html</guid>
-            <pubDate>Sat, 04 Oct 2025 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[丰田汽车公司于2024年举办了一场汽车安全黑客马拉松活动，邀请安全研究人员和开发者尝试发现其车辆系统的漏洞。这种'以攻促防'的策略旨在及早发现并修复安全隐患，提高汽车网络安全，代表了汽车行业应对日益增长的网络安全挑战的方法。 [<a href="https://news.ycombinator.com/item?id=45470206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Hacker News未记录功能和行为列表]]></title>
+            <link>https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md</link>
+            <guid isPermaLink="false">https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md</guid>
+            <pubDate>Sat, 04 Oct 2025 15:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目收集整理了Hacker News(HN)平台的各种未公开功能和行为模式，为用户提供了一个深入了解这一技术社区平台运行机制的窗口。项目详细列出了HN的算法细节，如投票权重计算、排序机制和时间衰减算法等，这些信息对希望提升内容曝光度的创作者特别有价值。此外，还包含了用户界面的隐藏功能、键盘快捷键、API使用技巧和社区互动的最佳实践。项目作者通过长期观察和实验，发现了许多HN官方文档中未提及的细节，如评论权重计算、用户影响力评估和内容推荐机制等。这个资源对于活跃在Hacker News上的开发者和创业者来说极为宝贵，帮助他们更有效地利用这个平台获取信息、展示项目和建立专业网络。 [<a href="https://news.ycombinator.com/item?id=45474050" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新型抗生素针对IBD，AI预测其作用机制]]></title>
-            <link>https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</link>
-            <guid isPermaLink="false">https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/</guid>
-            <pubDate>Sat, 04 Oct 2025 01:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[研究人员开发出一种新型抗生素，专门用于治疗炎症性肠病（IBD）。特别之处在于，AI系统在实验验证前就准确预测了该抗生素的作用机制。这一突破展示了人工智能在药物开发中的潜力，可能加速新型抗生素的研发过程，应对日益严重的抗生素耐药性问题。 [<a href="https://news.ycombinator.com/item?id=45469579" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[供应商融资]]></title>
+            <link>https://capitalgains.thediff.co/p/vendor-financing</link>
+            <guid isPermaLink="false">https://capitalgains.thediff.co/p/vendor-financing</guid>
+            <pubDate>Sat, 04 Oct 2025 15:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[供应商融资是一种供应链金融策略，允许供应商向购买其产品或服务的公司提供融资支持。这种模式在B2B交易中越来越普遍，特别是在销售周期长或客户现金流紧张的行业。通过供应商融资，供应商可以帮助客户解决短期资金需求，同时确保自身收入流稳定。这种安排通常由金融科技平台或专门的金融机构提供技术支持，简化了融资流程和风险管理。供应商融资不仅有助于提升客户满意度和忠诚度，还能帮助供应商扩大市场份额，特别是在竞争激烈的环境中。文章指出，随着利率环境和信贷条件的变化，供应商融资正在从增值服务转变为业务必需品。它代表了供应链金融领域的创新，为买卖双方创造了双赢局面，同时提高了整个供应链的效率。 [<a href="https://news.ycombinator.com/item?id=45474047" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zig构建速度正在提升]]></title>
-            <link>https://mitchellh.com/writing/zig-builds-getting-faster</link>
-            <guid isPermaLink="false">https://mitchellh.com/writing/zig-builds-getting-faster</guid>
-            <pubDate>Fri, 03 Oct 2025 22:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[Zig编程语言的构建系统正在经历重要优化，显著提高了编译速度。这些改进包括更智能的增量构建、优化的依赖解析和改进的代码生成算法。这些优化使得Zig在大项目中的构建时间大幅减少，提高了开发者的工作效率，使这个系统编程语言更具竞争力。 [<a href="https://news.ycombinator.com/item?id=45468698" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[将Copilot作为标准OpenAI风格API暴露给本地工具链]]></title>
+            <link>https://github.com/larsbaunwall/vscode-copilot-bridge</link>
+            <guid isPermaLink="false">https://github.com/larsbaunwall/vscode-copilot-bridge</guid>
+            <pubDate>Sat, 04 Oct 2025 15:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个开源项目，旨在将Microsoft Copilot功能通过标准OpenAI API接口暴露给本地工具链。该项目创建了一个桥梁，允许开发者在VS Code之外的应用和工具中使用Copilot的强大功能。用户可以通过简单的配置，将Copilot集成到自己喜欢的代码编辑器、IDE或自定义工作流中。项目提供了完整的文档和示例代码，支持多种编程语言和工作场景。这种集成方式使开发者能够利用Copilot的AI辅助编程能力，而无需完全依赖VS Code环境。项目作者强调，这一工具保持了Copilot的所有核心功能，同时提供了更大的灵活性和定制空间。对于希望在不同开发环境中统一AI辅助编程体验的开发者来说，这是一个非常有价值的工具，有望提高整体开发效率和代码质量。 [<a href="https://news.ycombinator.com/item?id=45473991" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[离线银行卡支付最迟应于2026年7月1日前实现]]></title>
-            <link>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</link>
-            <guid isPermaLink="false">https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</guid>
-            <pubDate>Fri, 03 Oct 2025 20:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[瑞典央行宣布，到2026年7月1日之前，必须实现离线银行卡支付功能。这一政策旨在确保在无网络连接的情况下，消费者仍能使用银行卡完成交易。这一举措将提高支付系统的韧性和可靠性，尤其是在网络中断或偏远地区的情况下，同时符合欧盟支付服务指令(PSD2)的要求。 [<a href="https://news.ycombinator.com/item?id=45467500" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[PGETinker是一款用于快速游戏开发原型的在线IDE]]></title>
+            <link>https://pgetinker.com/</link>
+            <guid isPermaLink="false">https://pgetinker.com/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[PGETinker是一款专为游戏开发者设计的在线集成开发环境(IDE)，专注于快速原型开发。该平台提供了直观的界面和丰富的工具集，使开发者能够快速将游戏创意转化为可交互的原型。PGETinker支持多种游戏开发技术和引擎，包括JavaScript、WebGL和流行的游戏框架。用户可以直接在浏览器中开始编程，无需安装任何软件，项目可以轻松保存和分享。平台特别注重实时反馈和迭代开发，允许开发者快速测试游戏机制和视觉元素。PGETinker还包含了资源库和教程，帮助初学者快速上手。对于独立开发者和小型团队来说，这个工具提供了一种低门槛、高效率的游戏开发方式，特别适合创意验证和概念测试阶段，可以显著缩短游戏开发的初始周期。 [<a href="https://news.ycombinator.com/item?id=45473986" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD的EPYC 9355P：深入32核Zen 5服务器芯片]]></title>
-            <link>https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</link>
-            <guid isPermaLink="false">https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core</guid>
-            <pubDate>Fri, 03 Oct 2025 20:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[本文详细分析了AMD最新的EPYC 9355P服务器处理器，这款基于Zen 5架构的芯片拥有32个核心。文章可能探讨其性能特性、能效比、与竞争对手英特尔的对比，以及它在数据中心和企业级应用中的潜在优势，反映了服务器处理器技术的最新发展。 [<a href="https://news.ycombinator.com/item?id=45467166" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Railway推出S3兼容的对象存储服务]]></title>
+            <link>https://railway.com/changelog/2025-09-26-object-storage</link>
+            <guid isPermaLink="false">https://railway.com/changelog/2025-09-26-object-storage</guid>
+            <pubDate>Sat, 04 Oct 2025 15:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[Railway平台近期推出了S3兼容的对象存储服务，为其开发者生态系统增添了重要的基础设施组件。这项新服务允许用户存储和检索任意量的数据，提供高可用性和持久性保障，与亚马逊S3 API完全兼容。开发者可以轻松地将Railway的对象存储集成到现有工作流中，无需修改代码。该服务按实际使用量计费，包括存储容量和数据传输费用，没有隐藏费用或最低消费要求。Railway的对象存储特别适合托管静态资源、备份数据、存储用户上传内容以及作为应用程序数据层。这一发布扩展了Railway作为全栈开发平台的能力，使开发者能够在同一平台上完成从代码编写到数据存储的全流程。对于寻求简化基础设施和降低云计算成本的开发者来说，这是一个具有吸引力的解决方案。 [<a href="https://news.ycombinator.com/item?id=45473985" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[来自Google Labs的远程编程助手Jules宣布API]]></title>
-            <link>https://jules.google/docs/changelog/</link>
-            <guid isPermaLink="false">https://jules.google/docs/changelog/</guid>
-            <pubDate>Fri, 03 Oct 2025 19:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[Google Labs开发的远程编程助手Jules已经发布API，允许开发者将其集成到自己的工作流程中。Jules可能能够帮助开发者进行代码编写、调试、重构等任务，代表了AI辅助编程工具的最新进展，有望提高软件开发效率和质量。 [<a href="https://news.ycombinator.com/item?id=45466588" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[2025年末的供应链风险]]></title>
+            <link>https://buttondown.com/dorian/archive/supply-chain-risks-in-late-2025/</link>
+            <guid isPermaLink="false">https://buttondown.com/dorian/archive/supply-chain-risks-in-late-2025/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章分析了2025年末全球供应链面临的主要风险和挑战，为企业和政策制定者提供了前瞻性的洞察。文章指出，地缘政治紧张局势持续加剧，关键航道和贸易走廊的不确定性增加，可能导致物流中断和成本上升。气候变化引发的极端天气事件频率和强度增加，对生产和物流基础设施构成威胁。此外，劳动力市场结构性变化、技术工人短缺以及自动化转型带来的挑战也将影响供应链的稳定性。文章建议企业采取多元化战略，增强供应链韧性，投资于数字化和可视性技术，以及建立更灵活的库存管理策略。报告强调，2025年末的供应链环境将更加复杂多变，企业需要提前规划和适应，以应对潜在的 disruptions 并抓住新出现的机会。 [<a href="https://news.ycombinator.com/item?id=45473981" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PEP 810——显式延迟导入]]></title>
-            <link>https://pep-previews--4622.org.readthedocs.build/pep-0810/</link>
-            <guid isPermaLink="false">https://pep-previews--4622.org.readthedocs.build/pep-0810/</guid>
-            <pubDate>Fri, 03 Oct 2025 18:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[PEP 810是Python语言的一个新提案，引入了显式延迟导入的功能。这个特性允许开发者将导入语句延迟到实际需要使用模块时，而不是在模块加载时立即执行。这可以显著减少应用程序的启动时间，特别是对于大型应用程序，通过优化模块依赖关系来提高性能。 [<a href="https://news.ycombinator.com/item?id=45466086" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[卡斯卡迪亚巨型逆冲地震可能引发圣安德烈亚斯断层]]></title>
+            <link>https://phys.org/news/2025-10-cascadia-megathrust-earthquake-trigger-san.html</link>
+            <guid isPermaLink="false">https://phys.org/news/2025-10-cascadia-megathrust-earthquake-trigger-san.html</guid>
+            <pubDate>Sat, 04 Oct 2025 15:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[根据最新科学研究，位于美国西海岸的卡斯卡迪亚巨型逆冲断层发生的大地震可能触发邻近的圣安德烈亚斯断层活动，从而加剧加州地区的地震风险。卡斯卡迪亚断层沿太平洋西北海岸延伸，被认为具有引发9级以上强震的潜力。研究表明，这两个断层系统之间存在复杂的相互作用，一次大地震可能改变周边地区的应力分布，从而增加其他断层活动的可能性。科学家们通过地质记录和计算机模拟分析了这种连锁反应的可能性，发现历史上有类似案例。这一发现对西海岸地区的防灾规划和建筑标准具有重要意义。专家建议加州和俄勒冈州加强地震预警系统建设，更新建筑规范以应对可能的双重地震事件，并提高公众对地震风险的认识。研究强调了跨区域协调和长期规划在减轻地震灾害方面的重要性。 [<a href="https://news.ycombinator.com/item?id=45473961" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[经济学博士就业市场的崩溃]]></title>
-            <link>https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job</link>
-            <guid isPermaLink="false">https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job</guid>
-            <pubDate>Fri, 03 Oct 2025 16:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[文章分析了经济学博士学位就业市场的严峻现状，指出学术职位数量急剧减少，而毕业生数量却不断增加。这一趋势导致许多经济学博士难以找到教职，不得不转向政策研究、咨询、金融等行业，反映了高等教育劳动力市场的结构性变化和挑战。 [<a href="https://news.ycombinator.com/item?id=45464984" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[比尔·贝利奇克UNC失利：0-5的四大联盟成绩揭示转学通道灾难]]></title>
+            <link>https://voquette.com/shocking-bill-belichick-unc-flop-0-5-power-4-record-reveals-transfer-portal-disaster</link>
+            <guid isPermaLink="false">https://voquette.com/shocking-bill-belichick-unc-flop-0-5-power-4-record-reveals-transfer-portal-disaster</guid>
+            <pubDate>Sat, 04 Oct 2025 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[比尔·贝利奇克，著名NFL教练，在转战大学橄榄球教练后遭遇了职业生涯中罕见的困境。他带领的北卡罗来纳大学橄榄球队目前战绩为0胜5负，在五大联盟中垫底。这一成绩引发了外界对贝利奇克教练能力和大学橄榄球人才策略的质疑。分析人士指出，球队糟糕的表现与近年来大学体育转学通道政策的变化密切相关。新政策允许球员更自由地转校，导致传统强队难以维持阵容稳定性，影响了像贝利奇克这样的外来教练的适应过程。这一案例反映了现代大学体育中教练人才流动和球员转学带来的挑战。贝利奇克需要面对证明自己能够适应大学橄榄球环境，而非仅依赖NFL经验的压力。这一 situation 也引发了关于大学体育转学政策对球队稳定性和竞技水平影响的更广泛讨论。 [<a href="https://news.ycombinator.com/item?id=45473948" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[杰夫·贝索斯称AI处于泡沫期但社会将获得'巨大'收益]]></title>
-            <link>https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html</guid>
-            <pubDate>Fri, 03 Oct 2025 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[亚马逊创始人杰夫·贝索斯表示，人工智能当前可能处于泡沫阶段，但其最终将为社会带来'巨大'的收益。他认为虽然短期内可能存在过度炒作和投资泡沫，但长期来看，AI将深刻改变多个行业，提高生产力和创造新的经济价值，反映了科技领袖对AI发展前景的复杂看法。 [<a href="https://news.ycombinator.com/item?id=45464429" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Homebrew：LibreWolf和FreeTube等应用将于2026-09-01被弃用]]></title>
+            <link>https://github.com/orgs/Homebrew/discussions/6334</link>
+            <guid isPermaLink="false">https://github.com/orgs/Homebrew/discussions/6334</guid>
+            <pubDate>Sat, 04 Oct 2025 15:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[Homebrew包管理器宣布将从2026年9月1日起弃用LibreWolf和FreeTube等应用在官方仓库中的支持。这一决定引发了开源社区的广泛讨论。LibreWolf是一个注重隐私的Firefox分支，FreeTube则是开源的YouTube客户端。讨论显示，这些应用被弃用的主要原因是维护问题，包括依赖项更新困难、安全漏洞修复不及时以及与Homebrew生态系统集成度低。Homebrew团队表示，这一决定旨在提高仓库中应用的质量和安全性。然而，用户担忧这将影响这些流行应用的可用性和更新频率。讨论中，一些维护者提出可能创建独立的第三方Tap来继续支持这些应用。对于依赖Homebrew安装这些工具的用户来说，未来可能需要寻找替代安装方法或考虑迁移到其他支持这些应用的包管理平台。 [<a href="https://news.ycombinator.com/item?id=45473947" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我把乐高Game Boy改造成了能工作的Game Boy]]></title>
-            <link>https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/</link>
-            <guid isPermaLink="false">https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/</guid>
-            <pubDate>Fri, 03 Oct 2025 14:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[作者详细记录了如何使用乐高积木和电子元件，将一个乐高Game Boy模型改造成能够实际运行的Game Boy游戏机。这个项目展示了DIY爱好者如何结合创意工程和电子技术，将一个静态模型转变为功能性设备，体现了动手制作和电子工程的乐趣。 [<a href="https://news.ycombinator.com/item?id=45463319" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[记忆电话号码]]></title>
+            <link>https://phong.bearblog.dev/memorizing-phone-numbers/</link>
+            <guid isPermaLink="false">https://phong.bearblog.dev/memorizing-phone-numbers/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了在智能手机时代记忆电话号码的实用性和技巧。作者分析了在数字通讯发达的今天，记忆电话号码这一传统技能的价值和意义。文章指出，虽然通讯录和快速拨号功能使存储和查找联系人变得简单，但记忆关键电话号码仍然具有实际好处，包括在手机没电或无法访问时的应急通讯能力，以及增强与他人的社交连接。作者提供了几种有效的记忆技巧，如分组记忆法、联想记忆法、数字与字母对应法以及间隔重复学习法。文章还讨论了记忆电话号码对大脑健康和认知能力的积极影响，如提高记忆力和注意力。作者建议有选择地记忆重要电话号码，而非试图记忆所有联系人号码。这一技能可能在数字时代仍然具有实用价值，值得人们保留和发展。 [<a href="https://news.ycombinator.com/item?id=45473915" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[当前趋势：]]></title>
-            <link>https://overreacted.io/where-its-at/</link>
-            <guid isPermaLink="false">https://overreacted.io/where-its-at/</guid>
-            <pubDate>Thu, 02 Oct 2025 20:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了当前技术领域的发展趋势或最佳实践。作者分析了某些技术或概念的现状、优势、局限性以及未来发展方向，为开发者或技术爱好者提供关于技术如何演进以及如何做出明智决策的见解。 [<a href="https://news.ycombinator.com/item?id=45455164" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Tiny Tiny RSS的终结]]></title>
+            <link>https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164</link>
+            <guid isPermaLink="false">https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164</guid>
+            <pubDate>Sat, 04 Oct 2025 15:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[Tiny Tiny RSS(TT-RSS)社区发布公告宣布该项目将停止开发和服务。TT-RSS是一款广受欢迎的开源RSS阅读器和新闻聚合器，拥有活跃的用户社区。公告指出，由于开发者个人原因和资源限制，将不再提供官方支持和更新。这一消息令长期用户感到失望，许多人依赖TT-RSS进行信息获取和内容管理。社区正在讨论可能的解决方案，包括寻找新的维护者、分叉项目或迁移到替代平台。目前推荐的替代方案包括FreshRSS、Miniflux和Self-hosted Reader等开源RSS阅读器。TT-RSS的终结反映了独立开源项目面临的可持续性挑战，以及过度依赖单一开发者维护的风险。对于用户而言，这一变化意味着需要寻找替代解决方案并转移现有订阅数据，提醒人们关注开源项目的长期维护状况并考虑备选方案。 [<a href="https://news.ycombinator.com/item?id=45473911" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
