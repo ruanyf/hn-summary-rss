@@ -145,7 +145,7 @@ async function aiSummary() {
     const data = await response.json();
 
     if (!(data?.choices[0]?.message?.content)) throw new Error('wrong AI response.');
-    // console.log(data.choices[0].message.content);
+    console.log(data.choices[0].message.content);
     const result = JSON.parse(data.choices[0].message.content);
 
     for (let i = 0; i < result.length; i++) {
