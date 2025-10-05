@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://blog.muni.town/personal-data-storage-idea/",
+            "content_html": "这篇文章探讨了个人数据存储的概念及其现代相关性。文章讨论了为什么现在是实施个人数据存储解决方案的理想时机，涉及隐私保护、数据主权和数字资产管理等话题。个人数据存储可能允许用户更安全、更自主地控制自己的数字足迹，减少对集中式平台的依赖，并为用户提供更持久的数据访问能力。 [<a href=\"https://news.ycombinator.com/item?id=45480106\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.muni.town/personal-data-storage-idea/",
+            "title": "个人数据存储是一个时机已到的理念",
+            "date_modified": "2025-10-05T09:07:38.000Z"
+        },
+        {
             "id": "https://www.spinellis.gr/blog/20250926/?li",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45479820\" target=\"_blank\">评论</a>]",
+            "content_html": "作者在这篇文章中详细解释了他偏好使用电子邮件而非即时通讯工具的原因。可能包括对异步通信的重视、邮件的可搜索性和归档功能、对注意力分散的抵抗以及更正式的沟通方式。文章探讨了在工作和个人生活中，电子邮件如何提供更好的思考和响应时间，以及它如何帮助维持更清晰、更有组织的数字交流。 [<a href=\"https://news.ycombinator.com/item?id=45479820\" target=\"_blank\">评论</a>]",
             "url": "https://www.spinellis.gr/blog/20250926/?li",
             "title": "我为什么选择电子邮件而不是即时消息",
             "date_modified": "2025-10-05T08:12:24.000Z"
         },
         {
             "id": "https://www.socialcooling.com/",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45479165\" target=\"_blank\">评论</a>]",
+            "content_html": "社会降温是一个概念，描述了人们因担心自己的在线活动被监视或评判而自我审查的现象。这个现象可能导致人们避免表达某些观点或参与某些活动，从而限制言论自由和创新。该网站探讨了大数据监控如何无形中影响人们的行为，以及这种 chilling effect 如何对社会和文化产生深远影响。内容可能包括相关研究、案例和缓解策略。 [<a href=\"https://news.ycombinator.com/item?id=45479165\" target=\"_blank\">评论</a>]",
             "url": "https://www.socialcooling.com/",
-            "title": "社会冷却",
+            "title": "社会降温（2017）",
             "date_modified": "2025-10-05T06:01:24.000Z"
         },
         {
-            "id": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45479103\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-            "title": "早已过时：亚马逊为何变得如此糟糕？",
-            "date_modified": "2025-10-05T05:47:55.000Z"
-        },
-        {
             "id": "https://www.anthropic.com/news/context-management",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
+            "content_html": "Anthropic公司发布了其Memory API，这是一个旨在增强AI系统上下文管理功能的新工具。这个API可能允许AI模型更有效地存储、检索和利用长期记忆，从而提供更连贯、更相关的交互体验。该功能可能对于需要维持对话历史或跨会话记忆的应用程序特别有价值，有望改善AI助手在与用户长时间互动时的表现和实用性。 [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
             "url": "https://www.anthropic.com/news/context-management",
-            "title": "Anthropic发布记忆API",
+            "title": "Anthropic 发布记忆API",
             "date_modified": "2025-10-05T05:20:08.000Z"
         },
         {
             "id": "https://ambigr.am/hall-of-fame",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45478780\" target=\"_blank\">评论</a>]",
+            "content_html": "Ambigr.am是一个网站，展示了一系列存在歧义的域名或URL示例。这些名称在视觉上可能看起来像合法网站，但实际上是拼写错误域名或钓鱼网站。名人堂部分可能列出了特别引人注目或危险的案例，旨在教育人们识别和避免这类网络陷阱。这个资源对于提高网络安全意识非常有价值，特别是对于那些经常处理未知链接的用户。 [<a href=\"https://news.ycombinator.com/item?id=45478780\" target=\"_blank\">评论</a>]",
             "url": "https://ambigr.am/hall-of-fame",
             "title": "Ambigr.am",
             "date_modified": "2025-10-05T04:11:55.000Z"
         },
         {
             "id": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇披露文章介绍了1Password命令行界面中发现的安全漏洞。漏洞可能涉及身份验证绕过、权限提升或敏感信息泄露等问题。文章详细描述了漏洞的技术细节、潜在影响以及可能的影响范围。对于依赖1Password CLI工具的用户和系统管理员来说，了解此漏洞至关重要，以便及时采取缓解措施并应用安全补丁。 [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
             "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
             "title": "1Password CLI漏洞",
             "date_modified": "2025-10-05T03:01:50.000Z"
         },
         {
             "id": "https://github.com/daniellionel01/parrot",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "content_html": "Parrot是一个用Gleam编程语言构建的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。该库通过编译时类型检查帮助开发者避免SQL注入和其他常见数据库错误。它提供了一个友好、强类型的API，使数据库操作更安全、更直观。对于使用Gleam语言开发需要数据库交互的应用程序的开发者来说，Parrot是一个有价值的工具，能够在保持类型安全的同时简化数据库访问。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/daniellionel01/parrot",
             "title": "Parrot - Gleam中的类型安全SQL，支持SQLite、PostgreSQL和MySQL",
             "date_modified": "2025-10-05T00:51:44.000Z"
         },
         {
             "id": "https://richardsapperdesign.com/products/mod-5140/",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
+            "content_html": "5140型号是IBM在1986年推出的第一台笔记本电脑，也被称为IBM Portable Personal Computer。这款重约13磅的设备配备了Intel 8086处理器、256KB RAM和9英寸单色显示器，代表了便携计算技术的早期里程碑。该页面提供了这款历史性设备的设计细节、技术规格、历史背景以及它在个人计算发展中的重要性。对于计算历史爱好者和IBM收藏家来说，这是一份有价值的资源。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
             "url": "https://richardsapperdesign.com/products/mod-5140/",
-            "title": "5140型 - IBM的第一台笔记本电脑",
+            "title": "5140型号 - IBM的第一台笔记本电脑",
             "date_modified": "2025-10-05T00:35:10.000Z"
         },
         {
             "id": "https://arxiv.org/abs/2509.12351",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇研究论文探讨了针对小行星2024 YR4的潜在空间任务选项，重点关注该小行星的侦察和缓解策略。论文评估了各种航天器设计、任务时间表和轨道动力学，以确定最有效的干预方法。内容包括详细的轨道分析、潜在影响风险评估、不同缓解技术的比较（如引力牵引器、动能撞击器等），以及为政策制定者提供决策支持的模拟结果。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
             "url": "https://arxiv.org/abs/2509.12351",
-            "title": "小行星2024 YR4的侦察和缓解任务选项",
+            "title": "小行星2024 YR4侦察和缓解任务方案",
             "date_modified": "2025-10-04T23:42:55.000Z"
         },
         {
             "id": "https://blog.cr.yp.to/20251004-weakened.html",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇博客文章探讨了美国国家安全局与互联网工程任务组之间可能存在的关联，以及密码学标准是否可能被故意弱化的担忧。文章分析了历史案例、标准制定过程中的透明度问题，以及国家行为体如何通过影响标准化过程来削弱加密技术的可能性。作者提出了对密码学标准制定完整性的质疑，并呼吁更严格的审查和更透明的标准制定流程。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
             "url": "https://blog.cr.yp.to/20251004-weakened.html",
-            "title": "NSA和IETF：攻击者能否购买被弱化的密码学标准？",
+            "title": "NSA与IETF：攻击者能否购买被弱化的密码学标准？",
             "date_modified": "2025-10-04T22:16:33.000Z"
         },
         {
             "id": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
+            "content_html": "香山向量浮点单元设计文档详细介绍了香山处理器架构中的向量浮点单元实现。文档涵盖了VFPU的架构设计、指令集、流水线组织、性能优化策略以及与处理器其他组件的交互方式。作为国产高性能处理器项目的一部分，香山VFPU的设计代表了在高性能计算领域自主研发的重要进展，对于理解现代CPU中的向量处理单元实现有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
             "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
             "title": "香山向量浮点单元设计",
             "date_modified": "2025-10-04T22:02:28.000Z"
         },
         {
             "id": "https://salykova.github.io/matrix-cores-cdna",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇资源详细介绍了如何在AMD GPU上进行矩阵核心编程，涵盖了AMD GPU架构中的矩阵加速单元、相关编程模型、优化技术以及实际应用案例。内容包括详细的性能分析、与CPU实现的比较、特定算法在GPU上的优化策略，以及利用AMD矩阵核心实现机器学习和其他计算密集型任务的最佳实践。对于寻求在AMD GPU上实现高性能矩阵计算的开发者来说，这是一份有价值的指南。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
             "url": "https://salykova.github.io/matrix-cores-cdna",
             "title": "AMD GPU上的矩阵核心编程",
             "date_modified": "2025-10-04T21:22:11.000Z"
         },
         {
             "id": "https://sunboxlabs.com/",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
+            "content_html": "Sunbox Labs提供了一个创新的能源解决方案，声称用户只需912美元即可实现能源独立，无需复杂的手续或审批。该方案包括小型太阳能系统、储能设备和智能能源管理系统的组合设计。网站详细介绍了系统的组成部分、安装指南、维护要求以及成本效益分析。这种低成本、易实施的能源解决方案对于寻求能源自给自足的个人和社区具有吸引力，特别适用于那些被传统能源系统高成本和复杂流程所困扰的用户。 [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
             "url": "https://sunboxlabs.com/",
-            "title": "912美元实现能源独立，无需繁琐程序",
+            "title": "无需繁文缛节的912美元能源独立方案",
             "date_modified": "2025-10-04T21:22:05.000Z"
         },
         {
             "id": "https://blogfeeds.net",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
+            "content_html": "Blog Feeds是一个聚合各种博客订阅源的网站，为用户提供一站式的内容发现平台。该服务收集了来自不同主题、不同作者的大量博客文章，通过RSS等技术实现内容的自动更新和分类。用户可以浏览不同类别的博客内容、订阅特定主题的更新，或者发现新的、有趣的博客。这种聚合服务对于希望高效获取多源博客内容的读者特别有用，同时为博客作者提供了增加曝光度的机会。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
             "url": "https://blogfeeds.net",
             "title": "博客订阅源",
             "date_modified": "2025-10-04T19:08:46.000Z"
         },
         {
             "id": "https://github.com/DebarghaG/proofofthought",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
+            "content_html": "ProofOfThought是一个将大型语言模型与Z3定理证明器相结合的创新项目，旨在增强AI系统的推理能力。该框架允许LLM生成可验证的数学证明，通过结合语言模型的创造性思维与定理证明器的严谨性来解决复杂问题。项目包含相关的算法、实现细节和应用示例，展示了这种方法如何改进LLM在需要精确逻辑推理的任务上的表现。这对于提升AI系统的可靠性和可验证性具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/DebarghaG/proofofthought",
-            "title": "ProofOfThought：基于LLM的推理使用Z3定理证明",
+            "title": "ProofOfThought：基于Z3定理证明的LLM推理",
             "date_modified": "2025-10-04T18:34:23.000Z"
         },
         {
             "id": "https://github.com/Esubaalew/run",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
+            "content_html": "Run是一个用Rust编程语言开发的通用命令行代码运行器，允许开发者快速执行各种编程语言的代码片段。该项目支持多种语言，具有轻量级设计，并提供了简单直观的接口。作者在开发过程中学习了Rust的各种特性，并将所学应用于创建这个实用工具。对于需要频繁测试代码片段或在不同语言间切换的开发者来说，Run提供了一个高效、便捷的解决方案，同时也是一个学习Rust编程的优秀实践案例。 [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/Esubaalew/run",
-            "title": "展示HN：Run - 我在学习Rust时构建的通用代码运行器CLI",
+            "title": "展示HN：Run - 我在学习Rust时构建的通用代码运行器CLI工具",
             "date_modified": "2025-10-04T18:34:13.000Z"
         },
         {
             "id": "https://arxiv.org/abs/2509.19371",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇研究论文探讨了大型语言模型中知识注入的高效方法，提出了一个“知识融合扩展定律“。论文分析了不同知识注入技术的效率、规模效应和局限性，研究了如何以最优化方式将外部知识整合到LLM中。内容包括理论模型、实验结果和性能评估，旨在帮助研究人员和开发者理解如何提升LLM的准确性和可靠性，特别是在处理专业领域知识时。这项研究对于提高AI系统的知识储备和事实准确性具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
             "url": "https://arxiv.org/abs/2509.19371",
-            "title": "如何高效注入知识？大型语言模型的知识注入扩展律",
+            "title": "如何高效注入知识？LLM的知识融合扩展定律",
             "date_modified": "2025-10-04T17:18:07.000Z"
         },
         {
             "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章通过解决“代码冒险“编程挑战的案例，对Ada和Rust两种编程语言进行了详细的比较分析。作者使用相同的算法问题，用两种语言分别实现解决方案，从语法特性、错误处理、并发模型、内存管理和性能等多个维度进行对比。这种基于实际代码示例的比较方式，为开发者提供了关于这两种语言的实用见解，帮助他们在特定项目中做出更合适的选择。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "title": "使用「代码冒险」解决方案比较Ada和Rust",
+            "title": "通过“代码冒险“解决方案比较Ada和Rust",
             "date_modified": "2025-10-04T15:10:49.000Z"
         },
         {
-            "id": "https://www.folklore.org/Thunderscan.html",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
-            "url": "https://www.folklore.org/Thunderscan.html",
-            "title": "Thunderscan：一个巧妙的设备将打印机变成扫描仪(2004)",
-            "date_modified": "2025-10-04T12:16:37.000Z"
+            "id": "https://pagedout.institute/download/PagedOut_007.pdf",
+            "content_html": "Paged Out第7期是一份数字出版物，包含关于计算历史、计算机科学、硬件或软件工程的各种主题文章。作为系列期刊的一部分，本期探讨了复古计算、技术发展史、编程哲学或计算机科学教育的相关话题。文章由领域专家撰写，提供深入的技术分析和历史视角。对于计算机科学爱好者和专业人士来说，这份出版物提供了既有教育意义又具启发性的内容，帮助读者了解计算领域的过去、现在和未来。 [<a href=\"https://news.ycombinator.com/item?id=45472319\" target=\"_blank\">评论</a>]",
+            "url": "https://pagedout.institute/download/PagedOut_007.pdf",
+            "title": "分页出局第7期 [pdf]",
+            "date_modified": "2025-10-04T10:38:06.000Z"
         },
         {
-            "id": "https://pagedout.institute/download/PagedOut_007.pdf",
-            "content_html": "undefined [<a href=\"https://news.ycombinator.com/item?id=45472319\" target=\"_blank\">评论</a>]",
-            "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-            "title": "分页出刊第7期[PDF]",
-            "date_modified": "2025-10-04T10:38:06.000Z"
+            "id": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
+            "content_html": "这篇学术论文研究了具有相似硬件组织的精简指令集计算和复杂指令集计算架构之间的比较。作者通过详细的性能分析、指令执行效率评估和资源利用率的对比，探讨了这两种架构设计哲学的优缺点。研究关注了在保持硬件组织相似的情况下，指令集架构的选择如何影响整体系统性能、能效和可扩展性。这种比较对于计算机体系结构设计者和处理器架构师具有重要的参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45452480\" target=\"_blank\">评论</a>]",
+            "url": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
+            "title": "比较具有相似硬件组织的RISC和CISC",
+            "date_modified": "2025-10-02T17:12:57.000Z"
         }
     ]
 }
