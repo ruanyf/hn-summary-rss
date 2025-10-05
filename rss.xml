@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 03:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 03:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Scribd – 敏感数据的金矿]]></title>
-            <link>https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14</link>
-            <guid isPermaLink="false">https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14</guid>
-            <pubDate>Sun, 05 Oct 2025 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章揭示了Scribd平台上隐藏着大量敏感的个人信息(PII)记录。作者指出这些数据虽然公开可见但实际上是机密的，包括身份证号、银行账户详情等。文章详细分析了如何发现这些泄露的数据，以及这种数据泄露对用户隐私和安全构成的严重威胁。这是一个关于数据安全的重要警示。 [<a href="https://news.ycombinator.com/item?id=45478598" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[展示HN：URI-Transformer：AI架构建模意义。内存减少99.9%]]></title>
-            <link>https://github.com/BruinGrowly/URI_Transformer</link>
-            <guid isPermaLink="false">https://github.com/BruinGrowly/URI_Transformer</guid>
-            <pubDate>Sun, 05 Oct 2025 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[URI-Transformer是一种创新的AI架构，通过独特的数学模型实现意义建模，同时将内存使用减少了惊人的99.9%。这个开源项目展示了如何在保持语义理解能力的同时大幅降低计算资源需求。代码已公开在GitHub上，开发者可以研究和利用这一突破性技术来构建更高效的人工智能系统。 [<a href="https://news.ycombinator.com/item?id=45478585" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Daylight – 一台更关怀的电脑]]></title>
-            <link>https://daylightcomputer.com</link>
-            <guid isPermaLink="false">https://daylightcomputer.com</guid>
-            <pubDate>Sun, 05 Oct 2025 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[Daylight是一款创新的计算机设计，专注于提供更人性化的用户体验。它采用了减少蓝光、调节屏幕亮度以适应自然光线变化的技术，减轻眼睛疲劳。设计理念是基于人体生物钟，通过调整显示模式来减少屏幕对用户睡眠周期的干扰。这种以人为本的计算机设计代表了对数字健康和用户体验的新思考。 [<a href="https://news.ycombinator.com/item?id=45478583" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[数学的未来走向[视频]]]></title>
-            <link>https://www.youtube.com/watch?v=K5w7VS2sxD0</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=K5w7VS2sxD0</guid>
-            <pubDate>Sun, 05 Oct 2025 03:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[这段视频探讨了数学作为一门学科的未来发展方向。内容涵盖了数学研究的新兴领域、人工智能如何改变数学实践以及数学教育的创新方法。视频邀请知名数学家分享他们对学科未来的见解，讨论数学在解决当代复杂问题中的关键作用，以及保持数学纯度与应用价值之间的平衡。 [<a href="https://news.ycombinator.com/item?id=45478570" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[丁丁冒险记原本是给儿童看的吗？]]></title>
-            <link>https://medium.com/@jessenazario/was-tintin-ever-meant-for-kids-859b4ea3824b</link>
-            <guid isPermaLink="false">https://medium.com/@jessenazario/was-tintin-ever-meant-for-kids-859b4ea3824b</guid>
-            <pubDate>Sun, 05 Oct 2025 03:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章深入探讨了经典漫画《丁丁冒险记》的原始受众定位问题。作者分析了创作历史背景、内容和主题，提出虽然丁丁常被视为儿童读物，但其复杂的政治讽刺、历史典故和成人主题表明原作者埃尔热可能 intended 更广泛的读者群。文章提供了对这部经典作品新层次的解读，挑战了关于其目标受众的传统认知。 [<a href="https://news.ycombinator.com/item?id=45478557" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1Password CLI漏洞]]></title>
-            <link>https://codeberg.org/manchicken/1password-cli-vuln-disclosure</link>
-            <guid isPermaLink="false">https://codeberg.org/manchicken/1password-cli-vuln-disclosure</guid>
-            <pubDate>Sun, 05 Oct 2025 03:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[这份披露详细描述了1Password命令行接口(CLI)中的一个安全漏洞。该漏洞可能导致敏感信息泄露，影响使用CLI版本的用户文档。披露包含了技术细节、潜在影响范围以及临时的缓解措施。作者建议用户等待官方修复补丁，同时提供了关于如何评估自己是否受影响的具体指导。这是对密码管理工具安全性的重要警示。 [<a href="https://news.ycombinator.com/item?id=45478553" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[询问HN：HNews移动版经常自动登出？]]></title>
-            <link>https://news.ycombinator.com/item?id=45478524</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45478524</guid>
-            <pubDate>Sun, 05 Oct 2025 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[这是一条Hacker News上的提问，用户报告在使用HNews移动应用时经常遇到自动登出的问题。发布者寻求其他用户是否遇到类似问题以及可能的解决方案。这反映了移动应用用户体验中常见的技术故障，特别是身份验证状态维护方面的挑战。讨论涉及了可能的解决方法和替代应用推荐。 [<a href="https://news.ycombinator.com/item?id=45478524" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[人体冷冻服务提供商之间的差异]]></title>
-            <link>https://news.ycombinator.com/item?id=45478503</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45478503</guid>
-            <pubDate>Sun, 05 Oct 2025 02:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇讨论概述了主要人体冷冻服务提供商之间的技术差异和选择考量。内容涵盖了不同公司的保存方法(神经学vs全身冷冻)、设施位置、价格结构以及长期可持续性等方面。文章提供了如何评估这些因素以做出明智选择的指南，这对考虑人体冷冻服务的人具有重要参考价值。 [<a href="https://news.ycombinator.com/item?id=45478503" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[摩托车是『捐献者摩托车』吗？]]></title>
-            <link>https://pubmed.ncbi.nlm.nih.gov/33334475/</link>
-            <guid isPermaLink="false">https://pubmed.ncbi.nlm.nih.gov/33334475/</guid>
-            <pubDate>Sun, 05 Oct 2025 02:48:17 GMT</pubDate>
-            <content:encoded><![CDATA[这篇医学研究探讨了摩托车安全与器官捐赠之间的关系，挑战了将摩托车称为『捐献者摩托车』的刻板印象。研究分析了事故数据、存活率以及实际器官捐献率，发现与普遍认知相比，摩托车事故导致器官捐赠的比例要低得多。文章提供了基于数据的客观视角，有助于纠正关于摩托车安全风险的误解。 [<a href="https://news.ycombinator.com/item?id=45478502" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[苹果下架ICE追踪应用回应特朗普压力活动]]></title>
-            <link>https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html</link>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html</guid>
-            <pubDate>Sun, 05 Oct 2025 02:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[纽约时报报道，苹果公司回应了特朗普政府施加的压力，从应用商店下架了用于追踪ICE(美国移民和海关执法局)活动的应用程序。此举反映了科技公司在移民政策争议中面临的复杂立场。文章探讨了这一决定的政治背景、对隐私权的影响以及科技公司如何平衡政府压力与用户权益之间的紧张关系。 [<a href="https://news.ycombinator.com/item?id=45478475" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sora：全AI版TikTok克隆。Sora会终结创造力吗？[由Casey Neistat制作]]]></title>
-            <link>https://www.youtube.com/watch?v=I1dW-nZqhew</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=I1dW-nZqhew</guid>
-            <pubDate>Sun, 05 Oct 2025 02:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[这段视频由知名YouTuber Casey Neistat制作，探讨Sora这一AI驱动的短视频平台对创意产业的影响。视频质疑了AI生成内容是否会取代人类创作者，同时分析其对创意过程、原创性和就业市场的潜在变革。Neistat从创作者角度分享了关于AI与人类创造力共存的见解，提供了关于技术如何重塑内容创作的平衡观点。 [<a href="https://news.ycombinator.com/item?id=45478463" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sonnet 4.5能感知自己的上下文窗口，导致『上下文焦虑』]]></title>
-            <link>https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges</link>
-            <guid isPermaLink="false">https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges</guid>
-            <pubDate>Sun, 05 Oct 2025 02:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章介绍了Cognition公司开发的AI模型Sonnet 4.5的新特性，它能够感知并理解自己的上下文窗口限制。作者将这种自我认知状态描述为『上下文焦虑』，探讨了这一特性对AI行为的影响和潜在应用场景。文章分享了在开发过程中遇到的技术挑战和解决方案，以及对未来AI系统设计的启示。 [<a href="https://news.ycombinator.com/item?id=45478462" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[G1人形机器人正在向中国发送信息且容易被黑客攻击]]></title>
-            <link>https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html</link>
-            <guid isPermaLink="false">https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html</guid>
-            <pubDate>Sun, 05 Oct 2025 02:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[科技探索网站报道，G1人形机器人被发现未经用户同意将数据秘密传输到中国服务器，同时存在严重的安全漏洞，使它们容易受到黑客攻击。文章分析了这一数据传输的规模、类型以及潜在风险，包括隐私侵犯和安全威胁。报道还讨论了监管机构、制造商和用户应对这一问题的措施，以及对未来消费级机器人安全的警示。 [<a href="https://news.ycombinator.com/item?id=45478456" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Git、JSON和Markdown走进酒吧]]></title>
-            <link>https://www.grumpygamer.com/git_json_markdown/</link>
-            <guid isPermaLink="false">https://www.grumpygamer.com/git_json_markdown/</guid>
-            <pubDate>Sun, 05 Oct 2025 02:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章以幽默的叙事形式，将Git、JSON和Markdown拟人化，描述它们『走进酒吧』的情景。通过这个隐喻，作者生动地解释了这三个开发工具的基本概念、用途和它们如何协同工作。文章以轻松有趣的方式介绍了版本控制、数据格式化和文档标记的基础知识，适合初学者理解这些常用技术工具。 [<a href="https://news.ycombinator.com/item?id=45478451" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SereneSoul – 100%免费的白噪音和自然声音（无广告，无需注册）]]></title>
-            <link>https://afunning.com</link>
-            <guid isPermaLink="false">https://afunning.com</guid>
-            <pubDate>Sun, 05 Oct 2025 02:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[SereneSoul是一个完全免费的白噪音和自然声音平台，提供无需注册和无广告的纯净体验。网站汇集了各种环境声音，如雨声、海浪、森林等，帮助用户放松、专注或改善睡眠。其设计理念是提供简单的音频解决方案，没有复杂的会员制度或付费墙，使每个人都能轻松获得高质量的放松音频。 [<a href="https://news.ycombinator.com/item?id=45478426" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[寻找真正的朋友，而不仅仅是追随者]]></title>
-            <link>https://socibubble.carrd.co</link>
-            <guid isPermaLink="false">https://socibubble.carrd.co</guid>
-            <pubDate>Sun, 05 Oct 2025 02:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站探讨了社交媒体时代人际关系质量的问题，倡导关注有意义的真实连接而非表面的数字关系。它提供了反思社交媒体使用习惯的工具和指南，帮助用户区分真正的友谊和在线关注。网站强调了深度互动、共同价值观和情感支持在健康人际关系中的重要性，鼓励用户重新思考如何在数字世界中建立真诚连接。 [<a href="https://news.ycombinator.com/item?id=45478374" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI山姆·奥特曼和Sora版权赌注：『我希望任天堂不会起诉我们』]]></title>
-            <link>https://www.cnbc.com/2025/10/04/sora-openai-video-app.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/04/sora-openai-video-app.html</guid>
-            <pubDate>Sun, 05 Oct 2025 02:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[CNBC报道了OpenAI CEO山姆·奥特曼关于Sora视频生成应用的言论，他坦言对潜在版权问题的担忧，表示『希望任天堂不会起诉我们』。文章探讨了AI生成内容与现有版权法之间的紧张关系，以及OpenAI在训练数据使用方面的法律风险。报道分析了这一表态背后的行业现实，即AI公司在创新与法律合规之间寻求平衡面临的挑战。 [<a href="https://news.ycombinator.com/item?id=45478369" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[iOS图标历史]]></title>
-            <link>https://basicappleguy.com/basicappleblog/ios-icon-history</link>
-            <guid isPermaLink="false">https://basicappleguy.com/basicappleblog/ios-icon-history</guid>
-            <pubDate>Sun, 05 Oct 2025 02:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细回顾了iOS操作系统图标设计的演变历程，从最初的iPhone到最新版本。内容涵盖了不同时期的设计风格变化、图标演进背后的设计理念，以及这些变化如何反映整体用户体验趋势的演变。文章提供了丰富的视觉对比，帮助读者理解苹果设计语言的发展，以及图标设计如何适应不同屏幕尺寸和用户期望。 [<a href="https://news.ycombinator.com/item?id=45478320" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[额叶灰白界面损伤、足球头部撞击与语言学习]]></title>
-            <link>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839068</link>
-            <guid isPermaLink="false">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839068</guid>
-            <pubDate>Sun, 05 Oct 2025 01:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[这项医学研究探讨了足球运动员频繁头部撞击与额叶灰白界面损伤之间的关联，以及这种损伤对语言学习能力的影响。研究发现，长期参与头部接触运动的运动员可能存在特定脑区微观结构变化，这些变化与语言处理和学习能力的下降相关。研究强调了运动安全的重要性，并为制定更有效的防护措施提供了科学依据。 [<a href="https://news.ycombinator.com/item?id=45478306" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[你无法用正则表达式解析XML。但我们还是来做吧]]></title>
+            <title><![CDATA[你不能用正则表达式解析XML。但我们还是来试试吧]]></title>
             <link>https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/</link>
             <guid isPermaLink="false">https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/</guid>
             <pubDate>Sun, 05 Oct 2025 01:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章以幽默的方式讨论了编程中的一个经典禁忌：使用正则表达式解析XML。作者承认这违反最佳实践，但展示了在某些特定场景下，如何巧妙地使用正则表达式解决实际问题。文章提供了实用的技巧和代码示例，同时强调了理解何时打破规则的重要性。这种既尊重标准又灵活变通的方法反映了软件开发中实用主义与理论原则的平衡。 [<a href="https://news.ycombinator.com/item?id=45478300" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了使用正则表达式解析XML的不合理性和挑战性。尽管开发者普遍认为不应该用正则表达式解析XML，但作者还是尝试实现了这一功能。文章详细解释了为什么这样做是一个坏主意，包括正则表达式无法处理XML的所有复杂特性、解析器专门针对XML设计等。尽管如此，作者通过展示一种正则表达式方案，提供了有趣的编程挑战和反面教材，帮助读者理解专业工具的价值。这篇文章提醒开发者选择正确的工具来完成特定任务，而不是试图用不合适的工具强行解决问题。 [<a href="https://news.ycombinator.com/item?id=45478300" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Parrot - Gleam语言中的类型安全SQL支持SQLite PostgreSQL和MySQL]]></title>
+            <link>https://github.com/daniellionel01/parrot</link>
+            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
+            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
+            <content:encoded><![CDATA[Parrot是一个在Gleam语言中实现的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。它通过编译时类型检查确保SQL查询的正确性，减少了运行时错误的可能性。Parrot提供直观的API，允许开发者以类型安全的方式构建复杂的查询，同时保持高性能。该库充分利用了Gleam的类型系统特性，使数据库操作变得更加安全和可靠。对于使用Gleam语言开发应用程序的开发者来说，Parrot提供了一种现代、类型安全的数据库交互方式，有助于提高代码质量并减少与数据库相关的bug。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5140型号 - IBM的第一台笔记本电脑]]></title>
+            <link>https://richardsapperdesign.com/products/mod-5140/</link>
+            <guid isPermaLink="false">https://richardsapperdesign.com/products/mod-5140/</guid>
+            <pubDate>Sun, 05 Oct 2025 00:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[5140型号是IBM推出的第一台笔记本电脑，代表了个人计算历史上的一个重要里程碑。这款产品由著名工业设计师理查德·萨珀设计，展示了他在将功能性与美学完美结合方面的天赋。5140笔记本电脑采用了创新的设计理念，在当时的技术条件下提供了良好的便携性和可用性。它的发布标志着计算机技术从桌面向便携设备的转变，为后来的笔记本电脑发展奠定了基础。这款产品不仅是IBM技术实力的体现，也是工业设计史上的经典之作，展现了设计师如何将复杂的技术转化为优雅实用的产品。 [<a href="https://news.ycombinator.com/item?id=45477971" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[小行星2024 YR4侦察和缓解任务的太空任务选项]]></title>
+            <link>https://arxiv.org/abs/2509.12351</link>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
+            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[这篇论文探讨了针对小行星2024 YR4的潜在太空任务选项，包括侦察和缓解措施。研究详细分析了各种可能的技术方案，从远程观测到可能的偏转或摧毁策略。作者评估了不同任务的成本、技术可行性和成功概率，为应对潜在威胁的小行星提供了科学依据。论文强调了早期探测和规划的重要性，以及在轨评估和干预的必要性。这项研究对于完善地球防御系统、提高对小行星威胁的响应能力具有重要意义，代表了行星防御领域的前沿进展，为未来的太空任务规划提供了有价值的参考。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI驱动的开源代码洗钱]]></title>
+            <link>https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md</link>
+            <guid isPermaLink="false">https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md</guid>
+            <pubDate>Sat, 04 Oct 2025 23:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目揭示了AI技术如何被用于开源代码洗钱活动。维护者创建了一个名为“耻辱墙“的文档，记录了恶意行为者如何利用AI工具修改开源代码，以掩盖其恶意意图或侵权行为。项目展示了开发者如何使用自动化技术重写代码，改变变量名、重构逻辑，使恶意代码或盗用代码难以被检测到。这种行为威胁了开源生态系统的健康发展，损害了知识产权保护。该项目旨在提高社区对这种新型威胁的认识，鼓励开发者加强代码审查和安全性检查，共同维护一个更安全、更健康的开源环境。 [<a href="https://news.ycombinator.com/item?id=45477661" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[钻孔振荡器]]></title>
+            <link>https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</link>
+            <guid isPermaLink="false">https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</guid>
+            <pubDate>Sat, 04 Oct 2025 23:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了钻孔振荡器的物理原理和应用。作者详细分析了在深井或钻孔中创建振荡系统的科学原理，包括波在介质中的传播、共振现象以及能量转换机制。这种技术可用于多种应用，如地震监测、资源勘探和地下结构分析。文章提供了数学模型和物理计算，解释了如何设计和优化这类振荡系统以获得最佳性能。这一研究不仅具有理论意义，也为实际的工程应用提供了科学基础。对于地球物理学、工程学和能源勘探领域的专业人士来说，钻孔振荡器技术提供了一种创新的方法来探测和分析地下结构。 [<a href="https://news.ycombinator.com/item?id=45477516" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NSA和IETF：攻击者能否购买弱加密算法的标准制定？]]></title>
+            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
+            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
+            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[这篇博客文章质疑美国国家安全局（NSA）是否通过影响互联网工程任务组（IETF）的标准制定过程来推广被弱化的加密算法。作者探讨了NSA可能如何利用其对标准制定的影响力，暗中植入后门或降低加密强度的机制。文章分析了历史上的案例，暗示NSA可能通过资金支持、人员渗透或其他手段，影响加密算法的标准制定过程，使其符合国家安全需求的同时也创造了潜在的漏洞。这一质疑引发了关于加密算法透明度、标准制定过程安全性以及政府与科技行业关系的深刻讨论，强调了维护加密技术完整性和独立性的重要性。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[香山向量浮点单元设计]]></title>
+            <link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link>
+            <guid isPermaLink="false">https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</guid>
+            <pubDate>Sat, 04 Oct 2025 22:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文档详细介绍了香山处理器架构中的向量浮点单元（VFPU）设计。香山是中国自主研发的开源高性能处理器架构，其向量浮点单元旨在提供高效的数值计算能力。文档详细描述了VFPU的架构设计、指令集、流水线结构和性能特点。该设计支持标准的向量浮点操作，并针对特定应用场景进行了优化，如科学计算、人工智能和大数据处理。香山VFPU的设计充分体现了中国在处理器设计领域的技术进步，为国内高性能计算产业提供了自主可控的技术基础。对于处理器架构师、高性能计算研究者和芯片设计工程师来说，这一设计文档具有重要的参考价值。 [<a href="https://news.ycombinator.com/item?id=45477118" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AMD GPU上的矩阵核心编程]]></title>
+            <link>https://salykova.github.io/matrix-cores-cdna</link>
+            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
+            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[这篇指南详细介绍了如何在AMD GPU上进行矩阵核心编程。作者详细解释了AMD GPU架构中的矩阵处理单元，包括其硬件特性、编程模型和优化技术。文章涵盖了如何利用这些矩阵核心加速各种计算密集型任务，如深度学习训练、科学计算和图形处理。提供了具体的代码示例和性能分析，帮助开发者充分利用AMD GPU的矩阵计算能力。对于想要优化其在AMD平台上矩阵计算性能的开发者和研究人员来说，这份指南提供了宝贵的知识和实用技巧，有助于提高应用程序的计算效率并充分利用现代GPU的并行处理能力。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[无需繁琐手续的912美元能源独立方案]]></title>
+            <link>https://sunboxlabs.com/</link>
+            <guid isPermaLink="false">https://sunboxlabs.com/</guid>
+            <pubDate>Sat, 04 Oct 2025 21:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[Sunboxlabs网站提供了一个价值912美元的能源独立方案，强调无需繁琐的政府许可和文书工作即可实现。该方案整合了太阳能发电、储能和能源管理系统，设计为家庭和小型企业的即插即用解决方案。公司采用创新的商业模式，简化了传统太阳能安装的复杂流程，大大降低了用户的进入门槛。这个方案不仅具有经济性，还强调环保可持续性，帮助用户减少对电网的依赖并降低碳足迹。通过模块化设计和自动化安装流程，Sunboxlabs使清洁能源变得更加普及，为能源转型提供了实用且经济可行的途径。 [<a href="https://news.ycombinator.com/item?id=45476820" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[英国仍试图为苹果用户设置加密后门]]></title>
+            <link>https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users</link>
+            <guid isPermaLink="false">https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users</guid>
+            <pubDate>Sat, 04 Oct 2025 20:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[电子前哨基金会（EFF）的文章指出，英国政府仍在试图为苹果设备设置加密后门，引发了隐私和安全专家的担忧。报道详细分析了英国安全法案中的相关条款，这些条款要求科技公司在特定情况下提供加密数据的能力。EFF认为，这样的后门会破坏整个加密系统的安全性，创造可以被滥用的漏洞，使所有用户面临风险。文章强调了端到端加密对于保护通信隐私的重要性，并警告政府干预可能产生的广泛负面影响。这一争议凸显了国家安全与个人隐私保护之间的持续紧张关系，以及技术政策制定中的复杂平衡。 [<a href="https://news.ycombinator.com/item?id=45476273" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[博客订阅源]]></title>
+            <link>https://blogfeeds.net</link>
+            <guid isPermaLink="false">https://blogfeeds.net</guid>
+            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[Blogfeeds.net是一个博客内容聚合平台，旨在为读者提供便捷的博客订阅和发现服务。网站汇集了各类技术、设计、生活和学术博客的内容，允许用户通过RSS订阅感兴趣的博客，或发现新的优质内容。平台提供个性化推荐和内容分类，帮助用户高效获取有价值的信息。对于博客作者来说，这个平台增加了他们的曝光度和读者群体。Blogfeeds.net界面简洁，加载速度快，支持多设备访问，成为博客爱好者和内容创作者交流的重要渠道，体现了互联网开放、共享的社区精神。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ProofOfThought：使用Z3定理证明的LLM推理]]></title>
+            <link>https://github.com/DebarghaG/proofofthought</link>
+            <guid isPermaLink="false">https://github.com/DebarghaG/proofofthought</guid>
+            <pubDate>Sat, 04 Oct 2025 18:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[ProofOfThought是一个开源项目，结合了大语言模型（LLM）和Z3定理证明器，以提高AI系统的推理能力。该项目允许LLM通过形式化验证技术生成更可靠和逻辑一致的答案。使用Z3定理证明器，系统能够验证LLM输出结果的逻辑正确性，减少幻觉和错误推理的发生。这对于需要高度准确性的应用场景具有重要意义，如数学证明、代码验证和复杂决策系统。项目提供了详细的文档、示例代码和预训练模型，使研究者能够将这一技术集成到自己的AI系统中。ProofOfThought代表了将符号推理与神经网络相结合的前沿研究方向，为构建更可靠、更准确的AI系统提供了新思路。 [<a href="https://news.ycombinator.com/item?id=45475529" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[展示HN：运行 - 我在学习Rust时构建的CLI通用代码运行器]]></title>
+            <link>https://github.com/Esubaalew/run</link>
+            <guid isPermaLink="false">https://github.com/Esubaalew/run</guid>
+            <pubDate>Sat, 04 Oct 2025 18:34:13 GMT</pubDate>
+            <content:encoded><![CDATA[Run是一个命令行界面的通用代码运行器，由开发者Esubaalew在学习Rust语言过程中创建。该工具支持多种编程语言，允许用户通过简单的命令在终端中直接运行不同语言的代码片段，无需分别配置各种编译器或解释器。项目展示了如何利用Rust的系统级性能和跨平台能力构建实用工具。开发者详细记录了从构思到实现的过程，包括遇到的技术挑战和解决方案。对于Rust初学者来说，这是一个学习如何构建实际应用程序的优秀案例。Run工具不仅提高了开发效率，还促进了不同编程语言之间的协作，为开发者提供了一个轻量级但功能强大的代码执行环境。 [<a href="https://news.ycombinator.com/item?id=45475528" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[如何高效注入知识？LLM的知识注入扩展定律]]></title>
+            <link>https://arxiv.org/abs/2509.19371</link>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.19371</guid>
+            <pubDate>Sat, 04 Oct 2025 17:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[这篇研究论文探讨了大型语言模型（LLM）知识注入的效率和扩展规律。作者分析了不同知识注入方法的效果和成本，研究了模型规模、训练策略与知识获取效率之间的关系。论文提出了“知识注入扩展定律“，量化了随着模型规模增大，知识注入效率的变化趋势。研究结果表明，并非所有知识都能以相同的效率被注入模型，某些类型知识的注入成本与模型规模存在特定的幂律关系。这项工作对优化LLM训练过程、降低计算成本具有重要意义，同时也为如何更有效地设计和实施知识注入策略提供了理论依据。对于LLM研究者和实践者来说，这些发现有助于提高模型性能并减少资源消耗。 [<a href="https://news.ycombinator.com/item?id=45474900" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[通过解决代码冒险挑战对比Ada和Rust语言]]></title>
+            <link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link>
+            <guid isPermaLink="false">https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</guid>
+            <pubDate>Sat, 04 Oct 2025 15:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目通过解决“代码冒险“（Advent of Code）编程挑战，详细对比了Ada和Rust两种系统编程语言的特点和差异。作者用两种语言分别解决了相同的问题，从语法特性、类型系统、内存管理和并发支持等方面进行了深入比较。项目不仅展示了两种语言在解决实际问题时的表现差异，还包括性能分析、代码可读性和开发效率的评估。对于系统程序员、语言爱好者和面临技术选型的开发者来说，这个对比提供了实用的参考信息。通过实际代码案例，项目生动地展示了Ada的强类型安全性和Rust的内存安全模型如何在实践中发挥作用，以及它们各自的优缺点。 [<a href="https://news.ycombinator.com/item?id=45473861" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[我如何作为高级软件工程师影响科技公司政治]]></title>
+            <link>https://www.seangoedecke.com/how-to-influence-politics/</link>
+            <guid isPermaLink="false">https://www.seangoedecke.com/how-to-influence-politics/</guid>
+            <pubDate>Sat, 04 Oct 2025 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章分享了作者作为高级软件工程师在科技公司内部政治中产生影响的经验和方法。作者探讨了非正式领导力、沟通策略和关系网络建设的重要性，以及如何在技术决策之外参与组织治理。文章提供了实用的建议，包括如何识别关键利益相关者、构建信任关系、有效传达技术建议，以及将技术影响力转化为组织变革。作者强调，高级工程师不仅要关注技术卓越，还需要发展政治智慧和组织敏感性，才能在复杂的公司环境中有效推动变革。对于希望在职业生涯中从单纯的技术贡献者转变为组织影响者的工程师来说，这篇文章提供了宝贵的见解和指导。 [<a href="https://news.ycombinator.com/item?id=45473852" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[像1984年一样自托管电子邮件]]></title>
+            <link>https://maxadamski.com/blog/2025/10/email.html</link>
+            <guid isPermaLink="false">https://maxadamski.com/blog/2025/10/email.html</guid>
+            <pubDate>Sat, 04 Oct 2025 14:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[这篇博客文章探讨了如何以复古的方式自托管电子邮件系统，模拟1984年的技术环境和功能限制。作者详细描述了使用当时可用的硬件和软件搭建电子邮件服务器的过程，包括MTA（邮件传输代理）、MDA（邮件分发代理）和MUA（邮件用户代理）的配置。文章不仅关注技术实现，还回顾了早期电子邮件系统的工作原理、协议和用户体验。对于技术爱好者和历史研究者来说，这个项目提供了一种独特的视角，了解互联网早期通信技术如何发展。通过重新体验过去的技术环境，作者提醒我们思考数字通信的演变轨迹和技术发展对生活方式的影响，引发对技术进步和人性需求的思考。 [<a href="https://news.ycombinator.com/item?id=45473730" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[雷电扫描仪：一个巧妙的设备将打印机变为扫描仪（2004年）]]></title>
+            <link>https://www.folklore.org/Thunderscan.html</link>
+            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
+            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讲述了Thunderscan的故事，这是一个2004年发明的创新外设，能够将普通的打印机转变为扫描仪。由苹果公司的工程师创建，这个设备通过巧妙的光学设计，利用打印机的机械扫描功能实现了反向操作，使其能够扫描文档。故事不仅展示了工程师们如何在资源有限的情况下创新解决问题，还反映了早期个人计算时代的DIY精神和创造力。Thunderscan是苹果早期企业文化的一个缩影，体现了工程师如何通过团队协作和突破性思维开发独特的产品。这个设备虽然在商业上没有取得巨大成功，但它代表了一种创新精神和解决问题的独特视角，成为苹果历史和计算机发展史上的有趣片段。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
+            <link>https://www.buchstabenmuseum.de/en/</link>
+            <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
+            <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[柏林字母博物馆（Buchstabenmuseum）是德国一家独特的博物馆，专门收藏和保护从废弃建筑物上拆除的字母标志和标牌。该博物馆宣布即将关闭，引起了设计界和历史保护爱好者的关注。博物馆收藏了大量历史字母设计，从经典的霓虹灯标志到现代字体设计，记录了城市视觉语言的发展演变。这些字母不仅是设计作品，也是城市历史和文化记忆的载体。博物馆的关闭意味着一个重要的文化资源的消失，引发了对城市遗产保护和数字时代物理空间价值的思考。尽管面临关闭，博物馆的部分收藏可能被其他机构接收，但这一事件提醒人们重视和保护那些容易被忽视但承载丰富历史文化信息的城市符号。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
