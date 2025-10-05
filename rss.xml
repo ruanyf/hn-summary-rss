@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 17:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 18:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Whitebridge.ai正在整理关于欧盟公民的AI报告]]></title>
-            <link>https://noyb.eu/en/whitebridgeai-your-personal-data-sale-you-and-anyone</link>
-            <guid isPermaLink="false">https://noyb.eu/en/whitebridgeai-your-personal-data-sale-you-and-anyone</guid>
-            <pubDate>Sun, 05 Oct 2025 17:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[这个网页是由noyb（欧洲隐私组织）提供的，内容涉及Whitebridge.ai这个平台如何收集和分析欧盟公民的数据。该平台利用人工智能技术生成关于个人用户的详细报告，这些报告可能被出售给第三方。文章探讨了数据隐私问题，以及此类AI驱动的数据收集实践如何影响普通公民的隐私权。这可能违反欧盟的通用数据保护条例(GDPR)，因为它涉及未经明确同意的个人数据处理和分析。 [<a href="https://news.ycombinator.com/item?id=45483622" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用模板函子的C++回调函数 – Rich Hickey (1994)]]></title>
+            <link>http://www.tutok.sk/fastgl/callback.html</link>
+            <guid isPermaLink="false">http://www.tutok.sk/fastgl/callback.html</guid>
+            <pubDate>Sun, 05 Oct 2025 17:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[该文章由Rich Hickey于1994年撰写，讨论了在C++中使用模板函子实现回调函数的技术方法。文章详细解释了如何利用模板元编程技术创建灵活的回调机制，避免使用函数指针的局限性。这种方法提供了类型安全和更好的封装性，为现代C++的函数式编程概念奠定了基础。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[抗衰老人类间充质祖细胞在灵长类动物中对抗衰老]]></title>
-            <link>https://www.cell.com/cell/abstract/S0092-8674(25)00571-9</link>
-            <guid isPermaLink="false">https://www.cell.com/cell/abstract/S0092-8674(25)00571-9</guid>
-            <pubDate>Sun, 05 Oct 2025 17:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[这项发表在《细胞》杂志上的研究表明，研究人员开发出一种抗衰老的人类间充质祖细胞，能够在灵长类动物模型中有效对抗衰老过程。这些经过基因改造的细胞能够抵抗衰老相关的功能衰退，并改善老年灵长类动物的健康状况。这项研究为开发新型抗衰老疗法提供了重要基础，可能为人类衰老相关疾病的治疗开辟新途径。研究团队通过这些细胞的移植，成功减缓了多个组织和器官的衰老进程。 [<a href="https://news.ycombinator.com/item?id=45483616" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[火灾摧毁韩国政府云存储系统，无可用备份]]></title>
+            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
+            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
+            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[韩国国家情报研究服务器的云存储系统遭遇火灾完全损毁，且系统没有备份机制。这一事件导致大量政府数据可能永久丢失，引发了对政府数据安全策略的严重质疑。报道指出，该系统存储了敏感的政府信息和公民数据，此次事故凸显了数据备份策略的重要性以及云系统灾难恢复规划的必要性。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：哪个大型语言模型画出最好的《星夜》？（使用SVG）]]></title>
-            <link>https://pelican.koenvangilst.nl/</link>
-            <guid isPermaLink="false">https://pelican.koenvangilst.nl/</guid>
-            <pubDate>Sun, 05 Oct 2025 17:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[这个项目展示了一个有趣的实验，比较了不同大型语言模型（LLM）生成梵高名画《星夜》的能力。创作者使用SVG格式让这些AI模型绘画，并通过网页展示了各模型的生成结果。用户可以直观地比较不同AI系统的艺术创作能力，从表现技巧到风格还原度。这个项目不仅展示了AI在艺术创作方面的进展，也引发了对AI艺术原创性和人类创造力本质的思考。网站提供了互动式体验，让用户亲自评判各个AI版本的《星夜》画作。 [<a href="https://news.ycombinator.com/item?id=45483608" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[专注就是说『不』]]></title>
+            <link>https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</link>
+            <guid isPermaLink="false">https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</guid>
+            <pubDate>Sun, 05 Oct 2025 17:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[该文章探讨了软件现代化项目中的核心困境，强调在资源有限的情况下，学会说『不』是保持项目专注的关键。作者指出，技术团队常面临功能扩展压力，但过度扩展会导致项目分散资源、延迟核心功能交付。文章提供了实用的策略，帮助团队识别优先级、委婉拒绝不必要的功能请求，确保项目聚焦于最有价值的部分，提高交付质量和效率。 [<a href="https://news.ycombinator.com/item?id=45483275" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[T-Mac：使用查找表在CPU/NPU上进行低比特大型语言模型推理]]></title>
-            <link>https://github.com/microsoft/T-MAC</link>
-            <guid isPermaLink="false">https://github.com/microsoft/T-MAC</guid>
-            <pubDate>Sun, 05 Oct 2025 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[微软开发的T-MAC是一个开源项目，旨在优化大型语言模型（LLM）在低资源设备上的运行效率。该技术通过使用查找表（lookup table）方法，大幅降低模型推理所需的计算资源，使LLM能够在CPU和NPU（神经网络处理单元）等硬件上高效运行。这种方法特别适合在移动设备和边缘计算场景中部署AI模型，因为它显著减少了内存占用和能耗。T-MAC的实现展示了如何在保持模型性能的同时，大幅降低计算复杂度，为AI模型的普及应用提供了技术支持。 [<a href="https://news.ycombinator.com/item?id=45483580" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[通过监督学习框架实现隐式Actor-Critic耦合用于RLVR]]></title>
+            <link>https://arxiv.org/abs/2509.02522</link>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.02522</guid>
+            <pubDate>Sun, 05 Oct 2025 17:01:19 GMT</pubDate>
+            <content:encoded><![CDATA[该研究论文提出了一种新型强化学习方法，通过监督学习框架实现Actor和Critic模型的隐式耦合。这种方法针对RLVR优化了传统Actor-Critic算法，通过引入监督信号指导策略更新，提高了学习效率和稳定性。研究展示了这种方法在复杂环境中的性能优势，为强化学习领域提供了新的技术思路。 [<a href="https://news.ycombinator.com/item?id=45483205" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[将博物馆带入您的客厅]]></title>
-            <link>https://www.ynetnews.com/health_science/article/bjnw6l8bxx</link>
-            <guid isPermaLink="false">https://www.ynetnews.com/health_science/article/bjnw6l8bxx</guid>
-            <pubDate>Sun, 05 Oct 2025 17:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了科技如何改变人们体验艺术和文化遗产的方式。通过虚拟现实（VR）、增强现实（AR）和高分辨率数字扫描等技术，世界各地的博物馆和艺术作品正在以前所未有的方式进入人们的家庭。这些数字平台不仅使人们能够远程参观著名博物馆，还能提供沉浸式的互动体验，如虚拟导览、高清细节查看和历史背景讲解。这种趋势在疫情期间加速发展，但即使在后疫情时代，它也继续为全球观众，特别是行动不便或身处偏远地区的人们，提供了接触世界文化遗产的新途径。 [<a href="https://news.ycombinator.com/item?id=45483573" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[比亚迪建造世界最快汽车]]></title>
+            <link>https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</link>
+            <guid isPermaLink="false">https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</guid>
+            <pubDate>Sun, 05 Oct 2025 15:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[比亚迪公司宣布成功研发出全球速度最快的电动汽车，该车型采用先进的电池技术和创新设计，最高时速突破400公里。这一成就标志着中国电动汽车技术的重大突破，展现了比亚迪在新能源和电动车领域的领先地位。报道指出，这款车型不仅速度惊人，还实现了出色的能效表现，重新定义了电动汽车的性能标准，对全球汽车产业格局可能产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45482516" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[（经济）AI末日即将来临]]></title>
-            <link>https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence</link>
-            <guid isPermaLink="false">https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence</guid>
-            <pubDate>Sun, 05 Oct 2025 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了人工智能可能对全球经济体系造成的颠覆性影响。作者警告，AI技术的快速发展可能导致劳动力市场的剧烈变革，大量工作被自动化取代，同时财富可能进一步集中在控制AI技术的少数实体手中。文章特别关注了“次级智能“（subprime intelligence）的风险，即开发或使用质量不高、存在缺陷的AI系统，可能引发连锁经济危机。作者认为，需要建立适当的监管框架和社会保障体系，以减轻AI转型带来的经济冲击，确保技术发展的成果能够公平分享。 [<a href="https://news.ycombinator.com/item?id=45483563" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[如果芝加哥大学不捍卫人文学科，谁会？]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</link>
+            <guid isPermaLink="false">https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了芝加哥大学近期削减人文学科博士项目的决定，及其对高等教育的深远影响。作者质疑在当前技术和功利主义导向的教育环境中，顶尖大学是否应该放弃对人文学科的坚守。文章分析了人文学科在培养批判性思维、伦理判断和文化理解方面的重要性，呼吁教育机构重新审视全面教育的价值，而非仅关注就业率和短期经济回报。 [<a href="https://news.ycombinator.com/item?id=45482484" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[自供电AI：一个实用标准，使AI增长不会提高电费]]></title>
-            <link>https://www.thepricer.org/ai-data-centers-strain-the-grid-toward-blackouts-require-ai-to-power-itself/</link>
-            <guid isPermaLink="false">https://www.thepricer.org/ai-data-centers-strain-the-grid-toward-blackouts-require-ai-to-power-itself/</guid>
-            <pubDate>Sun, 05 Oct 2025 17:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讨论了人工智能数据中心对全球电力网格造成的巨大压力，以及可能的解决方案。随着AI应用的爆炸式增长，数据中心消耗的电力正在迅速增加，导致电网紧张，甚至面临停电风险。文章提出“自供电AI“的概念，即开发能够自我供电的AI系统，通过可再生能源（如太阳能、风能）或能源回收技术减少对传统电网的依赖。这种方法不仅有助于稳定电网，还能降低AI运营的能源成本，促进可持续的AI发展。文章还探讨了相关技术和政策挑战。 [<a href="https://news.ycombinator.com/item?id=45483556" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[NFS四十周年——回顾Sun Microsystems网络文件系统]]></title>
+            <link>https://nfs40.online/</link>
+            <guid isPermaLink="false">https://nfs40.online/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[今年是网络文件系统诞生40周年，这个由Sun Microsystems开发的革命性技术彻底改变了分布式计算和数据共享方式。文章回顾了NFS从1984年诞生至今的发展历程，探讨了它如何成为现代网络存储的基础。报道介绍了NFS的技术演进、关键里程碑及其对云计算和现代存储系统的影响，同时展示了技术社区为庆祝这一里程碑而组织的活动和相关纪念内容。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RoftCam]]></title>
-            <link>https://github.com/nekyb/RoftCam</link>
-            <guid isPermaLink="false">https://github.com/nekyb/RoftCam</guid>
-            <pubDate>Sun, 05 Oct 2025 17:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[RoftCam是一个开源的摄像头应用，它专注于提供简单而高效的相机功能。该项目旨在为用户提供一个轻量级的替代方案，取代那些功能复杂、资源消耗大的相机应用。RoftCam的特点包括快速启动、低内存占用和直观的用户界面，使其特别适合在资源有限的设备上使用。作为一个开源项目，它允许开发者和爱好者根据自己的需求定制和扩展功能。从GitHub仓库来看，这个项目可能还支持多种相机格式和高级拍摄模式，同时保持了简洁易用的设计理念。 [<a href="https://news.ycombinator.com/item?id=45483538" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示 HN：ASCII绘图板]]></title>
+            <link>https://www.delopsu.com/draw.html</link>
+            <guid isPermaLink="false">https://www.delopsu.com/draw.html</guid>
+            <pubDate>Sun, 05 Oct 2025 15:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个在Hacker News社区展示的基于ASCII字符的在线绘图工具。用户可以使用简单的文本界面创建ASCII艺术作品，支持基本的绘图功能如画线、矩形和自由绘制。该工具无需安装，通过浏览器直接使用，适合快速创建简单的图形或进行创意文本设计。项目展示了如何将传统绘图概念应用于纯文本环境，为开发者提供了一种轻量级的可视化表达方式。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：ut——基于Rust的开发者和IT人员命令行工具]]></title>
-            <link>https://github.com/ksdme/ut</link>
-            <guid isPermaLink="false">https://github.com/ksdme/ut</guid>
-            <pubDate>Sun, 05 Oct 2025 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[ut是一个用Rust语言编写的命令行工具集，专为开发者和IT专业人员设计。该项目提供了一系列实用工具，旨在简化日常命令行操作和提高工作效率。Rust的选择确保了工具的安全性、性能和跨平台兼容性。工具集可能包括文件操作、数据处理、网络请求等常见功能的快捷实现方式。作为一个展示项目（Show HN），它在开发者社区中引起了关注，因为Rust在系统编程领域的应用越来越广泛，ut展示了如何利用现代编程语言创建实用且高效的命令行工具。 [<a href="https://news.ycombinator.com/item?id=45483531" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[对DeepSeek的妖魔化：NIST如何将开放科学变成安全恐慌]]></title>
+            <link>https://erichartford.com/the-demonization-of-deepseek</link>
+            <guid isPermaLink="false">https://erichartford.com/the-demonization-of-deepseek</guid>
+            <pubDate>Sun, 05 Oct 2025 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章批评了美国国家标准与技术研究院对DeepSeek等开源AI模型的评估过程，认为其评估方法带有偏见，将开放科学研究不当妖魔化为安全威胁。作者指出，NIST的某些评估标准可能过度强调安全风险而忽视开源技术的创新价值和透明度优势。文章呼吁在AI安全评估中保持平衡，既要考虑潜在风险，也应维护开放科学的原则和多样性。 [<a href="https://news.ycombinator.com/item?id=45482106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[纪念史蒂夫·乔布斯]]></title>
-            <link>https://twitter.com/tim_cook/status/1974822379663589796</link>
-            <guid isPermaLink="false">https://twitter.com/tim_cook/status/1974822379663589796</guid>
-            <pubDate>Sun, 05 Oct 2025 17:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[这条推文是苹果公司现任CEO蒂姆·库克（Tim Cook）发布的，内容是关于纪念苹果联合创始人史蒂夫·乔布斯。虽然推文的具体内容没有在链接中完整显示，但通常这类纪念内容会在乔布斯的诞辰或忌日等重要日期发布，表达对这位科技界传奇人物的敬意和怀念。乔布斯以其创新精神、对产品的执着追求和改变世界的愿景而闻名，他领导的苹果公司推出了iMac、iPod、iPhone和iPad等革命性产品，彻底改变了多个行业。库克作为乔布斯的继任者，常常在公开场合表达对创始人的敬意和感谢。 [<a href="https://news.ycombinator.com/item?id=45483529" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[QNX操作系统]]></title>
+            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
+            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
+            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[QNX是一种微内核实时操作系统，以其高可靠性和安全性而闻名。文章详细介绍了QNX的核心架构特点，包括其微内核设计、最小化信任基础和全面的进程间通信机制。QNX广泛应用于汽车电子、工业控制、医疗设备等对稳定性要求极高的领域。文章还探讨了QNX如何通过其独特的架构实现高可靠性和安全性，以及它在现代嵌入式系统中的重要地位。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[发现一颗正在“猛长“的流浪行星——《今日宇宙》]]></title>
-            <link>https://www.universetoday.com/articles/rogue-planet-found-having-massive-growth-spurt</link>
-            <guid isPermaLink="false">https://www.universetoday.com/articles/rogue-planet-found-having-massive-growth-spurt</guid>
-            <pubDate>Sun, 05 Oct 2025 17:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了一项天文学发现：科学家发现了一颗正在经历异常质量增长的流浪行星。这颗行星不属于任何恒星系统，而是独立在宇宙中漂泊。通常情况下，行星在形成后质量相对稳定，而这颗行星却在“成长“，其质量正在迅速增加。这一发现挑战了现有行星形成和演化的理论模型。科学家推测，这颗流浪行星可能通过吸积周围物质或与小型天体碰撞来获取质量。这一发现为研究行星形成机制和宇宙中流浪天体的行为提供了新的线索。 [<a href="https://news.ycombinator.com/item?id=45483516" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Test-Ipv6.com正式退役]]></title>
+            <link>https://retire.test-ipv6.com/</link>
+            <guid isPermaLink="false">https://retire.test-ipv6.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 14:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[Test-Ipv6.com网站宣布正式停止服务，该网站多年来一直是测试IPv6兼容性的重要资源。网站创始人表示，随着IPv6的普及和主流化，这一测试工具的历史使命已经完成。回顾其发展历程，该工具帮助无数开发者和网络管理员测试和诊断IPv6部署问题，推动了互联网向IPv6的平稳过渡。文章感谢了所有贡献者和使用者，并提供了替代资源的建议。 [<a href="https://news.ycombinator.com/item?id=45481609" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[纤丝与刚体接触的凸公式化]]></title>
-            <link>https://arxiv.org/abs/2509.13434</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.13434</guid>
-            <pubDate>Sun, 05 Oct 2025 17:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇arXiv论文提出了一种新的数学方法，用于描述和计算纤丝（如毛发、纤维、神经轴突等细长结构）与刚体之间的接触问题。作者开发了一个凸优化公式化方法，能够更精确地模拟这些复杂接触的物理行为。这种方法在计算机图形学、生物力学和机器人学等领域有广泛应用，例如模拟头发、织物或柔性材料的运动，以及理解生物系统中细胞结构之间的相互作用。论文的贡献在于提供了一个计算高效且数值稳定的框架，解决了传统方法在处理细长结构接触时面临的挑战。 [<a href="https://news.ycombinator.com/item?id=45483510" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示 HN：Pyscn——适合氛围感程序员的Python代码质量分析工具]]></title>
+            <link>https://github.com/ludo-technologies/pyscn</link>
+            <guid isPermaLink="false">https://github.com/ludo-technologies/pyscn</guid>
+            <pubDate>Sun, 05 Oct 2025 13:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[Pyscn是一个专为Python开发者设计的代码质量分析工具，它结合了静态分析和启发式方法，帮助识别代码中的异味和潜在问题。该工具不仅关注传统的代码规范问题，还注重代码的可读性和维护性，为开发者提供直观的反馈。Pyscn易于集成到开发流程中，支持多种IDE和CI/CD工具，旨在帮助团队提高代码质量，减少技术债务，同时保持良好的编码体验。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[巴基斯坦海军的任务与实力]]></title>
-            <link>https://capstanmallnews.blogspot.com/search/label/Pakistan%20Air%20Force%20%28PAF%29?max-results=7</link>
-            <guid isPermaLink="false">https://capstanmallnews.blogspot.com/search/label/Pakistan%20Air%20Force%20%28PAF%29?max-results=7</guid>
-            <pubDate>Sun, 05 Oct 2025 17:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了巴基斯坦海军的任务和军事能力。尽管标题提到海军，但搜索标签显示内容可能更多地涉及巴基斯坦空军（PAF）。文章可能讨论了巴基斯坦海军在地区安全中的角色，其舰队组成，以及现代化进程。巴基斯坦海军负责保护国家漫长的海岸线和海上贸易通道，在印度洋地区具有重要的战略地位。文章还涉及巴海军的演习、国际合作以及应对海上安全威胁的能力，包括海盗、恐怖主义和海上监视等挑战。 [<a href="https://news.ycombinator.com/item?id=45483500" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用ARM SIMD实现86 GB/s的位打包（单线程）]]></title>
+            <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
+            <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
+            <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个性能优化的技术项目，展示了如何在单线程环境下利用ARM SIMD指令集实现高达86 GB/s的位打包速度。项目包含详细的优化技术实现，包括对齐处理、循环展开和向量化计算等方法。作者分享了这些优化技术如何克服内存带宽限制，实现接近理论极限的性能表现。这个项目对于需要高性能数据处理的应用开发具有重要的参考价值，特别是在嵌入式系统和移动设备开发领域。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[《痛苦即威克》（2025）评论：重新定义动作片的情书]]></title>
-            <link>https://butwhytho.net/2025/05/wick-is-pain-review-documentary-john-wick/</link>
-            <guid isPermaLink="false">https://butwhytho.net/2025/05/wick-is-pain-review-documentary-john-wick/</guid>
-            <pubDate>Sun, 05 Oct 2025 17:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[这篇影评是对纪录片《痛苦即威克》（Wick Is Pain）的深入分析，该片聚焦于《约翰·威克》动作系列的幕后制作和影响。作者将这部纪录片描述为“重新定义动作片的情书“，因为它不仅探讨了约翰·威克系列如何革新了现代动作电影，还展示了该系列对动作设计和打斗风格的深远影响。纪录片可能采访了系列导演、动作设计师和演员，揭示了创造那些令人难忘的动作场景背后的过程和挑战。影评人认为，这部纪录片不仅是对约翰·威克系列的致敬，也是对整个动作电影艺术形式的致敬和反思。 [<a href="https://news.ycombinator.com/item?id=45483498" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[截止日期不是AI超越我们的时候——而是我们停止使用自己思维的时候]]></title>
+            <link>https://www.theargumentmag.com/p/you-have-18-months</link>
+            <guid isPermaLink="false">https://www.theargumentmag.com/p/you-have-18-months</guid>
+            <pubDate>Sun, 05 Oct 2025 11:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章提出了一个引人深思的观点：AI真正的风险不在于其智能超越人类，而在于人类过度依赖AI而停止发展自身思维能力。作者警告，当前人们已经表现出将重要决策和思考过程外包给AI的倾向，这种『认知外包』可能导致人类批判性思维和创造能力的退化。文章呼吁读者保持自主思考能力，在利用AI工具的同时，持续锻炼和培养人类独有的思维优势。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[从AWS数据中心检查启动代码的模型（2018年）[PDF]]]></title>
-            <link>https://www.kroening.com/papers/cav2018-aws.pdf</link>
-            <guid isPermaLink="false">https://www.kroening.com/papers/cav2018-aws.pdf</guid>
-            <pubDate>Sun, 05 Oct 2025 17:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[这篇2018年的技术论文介绍了一种用于分析亚马逊AWS数据中心启动代码的模型检查方法。模型检查是一种形式验证技术，用于系统地验证计算机系统是否满足某些属性。研究人员开发了一种专门针对云基础设施启动流程的验证方法，能够自动检测潜在的漏洞和安全问题。这项工作对于确保大规模云基础设施的安全性和可靠性具有重要意义，因为启动代码的缺陷可能导致整个数据中心的安全风险。论文展示了如何将抽象和符号执行等技术应用于云环境中的固件和软件验证，为云安全领域提供了有价值的贡献。 [<a href="https://news.ycombinator.com/item?id=45483488" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[VPS Hetzner和Coolify初学者指南]]></title>
+            <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
+            <guid isPermaLink="false">https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
+            <pubDate>Sun, 05 Oct 2025 10:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[这篇指南为初学者提供了在Hetzner VPS上部署Coolify平台的完整教程。文章详细介绍了从选择合适的VPS配置到安装Coolify，再到配置各种服务的全过程。指南特别强调了安全配置的重要性，包括防火墙设置、SSL证书管理和定期备份策略。作者分享了自己在自托管服务方面的经验，帮助读者避免常见陷阱，实现安全、可靠的个人服务器环境，适合希望开始自托管项目的初学者参考。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Matchctl：首个面向Linux用户的交友应用]]></title>
-            <link>https://fireborn.mataroa.blog/blog/matchctl-the-first-dating-app-for-linux-users-because-youve-already-mounted-devsad/</link>
-            <guid isPermaLink="false">https://fireborn.mataroa.blog/blog/matchctl-the-first-dating-app-for-linux-users-because-youve-already-mounted-devsad/</guid>
-            <pubDate>Sun, 05 Oct 2025 17:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[Matchctl是一款专为Linux用户设计的交友应用，声称是市场上的第一款同类产品。该应用的创建者观察到，开源社区和技术爱好者在使用主流约会平台时常常面临独特挑战，因此开发了这一针对性解决方案。Matchctl不仅提供标准的交友功能，还融入了Linux文化元素，可能包括终端风格的界面、命令行操作选项以及对开源价值的强调。文章探讨了开源社区中的社交需求，以及技术爱好者如何在技术理念的基础上建立联系。这款应用反映了Linux社区内部的创新精神和解决问题的实用主义态度。 [<a href="https://news.ycombinator.com/item?id=45483483" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Framework笔记本和硬盘上自托管10TB S3存储]]></title>
+            <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
+            <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
+            <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细记录了如何在Framework笔记本电脑和外部硬盘上构建一个10TB容量的S3兼容存储系统。作者分享了硬件选择、软件配置和性能优化的完整过程，包括使用开源软件模拟S3接口的方法。项目展示了个人和小团队如何以相对较低的成本构建大规模存储解决方案，同时保持数据控制权和隐私保护。文章还讨论了这种自托管方案与云存储服务的对比及其适用场景。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[40道菜：印度盛大的婚宴]]></title>
-            <link>https://www.bbc.com/travel/article/20251003-100-dishes-in-40-days-indias-epic-wedding-feast</link>
-            <guid isPermaLink="false">https://www.bbc.com/travel/article/20251003-100-dishes-in-40-days-indias-epic-wedding-feast</guid>
-            <pubDate>Sun, 05 Oct 2025 17:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[这篇BBC Travel文章探讨了印度传统婚礼中的餐饮文化，特别是一次婚礼上提供100道菜、持续40天的壮观宴会。文章深入研究了印度婚礼饮食背后的文化意义和社会功能，展示食物如何连接家庭、社区和传统。不同地区的婚礼菜肴反映了印度的地理和文化多样性，从北部的丰盛咖喱到南部的清淡风味，再到东部和西部的独特烹饪风格。文章还讨论了现代印度婚礼如何在保持传统的同时，适应全球化影响和可持续饮食趋势，为读者呈现了一幅印度婚礼美食的丰富图景。 [<a href="https://news.ycombinator.com/item?id=45483473" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[个人数据存储是一个时机已到的理念]]></title>
+            <link>https://blog.muni.town/personal-data-storage-idea/</link>
+            <guid isPermaLink="false">https://blog.muni.town/personal-data-storage-idea/</guid>
+            <pubDate>Sun, 05 Oct 2025 09:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了个人数据存储的重要性及其在未来数字生活中的关键角色。作者指出，随着数据隐私意识的增强和对科技巨头控制数据的担忧，个人数据存储正从一个技术概念转变为实际需求。文章讨论了各种个人数据存储解决方案，从本地存储到分布式网络存储，分析了它们的优势和挑战。作者预测，个人数据存储将成为未来互联网基础设施的重要组成部分，赋予用户对自己数据的真正控制权。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YouTube视频查找器：在档案中寻找丢失的视频]]></title>
-            <link>https://github.com/TheTechRobo/youtubevideofinder</link>
-            <guid isPermaLink="false">https://github.com/TheTechRobo/youtubevideofinder</guid>
-            <pubDate>Sun, 05 Oct 2025 17:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[YouTube视频查找器是一个开源工具，旨在帮助用户找到那些被删除、私有化或难以在YouTube上通过常规搜索方式找到的视频。这个工具通过搜索各种数据源和索引方法，扩大了用户可访问的视频范围，可能包括已被隐藏的视频、旧版本内容或算法推荐系统忽略的优质内容。该项目对内容创作者、研究人员和怀旧爱好者特别有价值，因为他们可能需要访问特定历史时期的视频内容。作为开源软件，它允许社区贡献改进，使其功能更加强大和全面，反映了互联网社区对信息可访问性和数字遗产保护的重视。 [<a href="https://news.ycombinator.com/item?id=45483447" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[社会冷却（2017）]]></title>
+            <link>https://www.socialcooling.com/</link>
+            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[社会冷却是一个概念，描述在高度监控的社会环境中，人们因担心被评判或惩罚而自我审查，从而限制言论自由和创新思想的 chilling effect。这个网站探讨了社会冷却现象的各个方面，包括其历史根源、现代表现形式以及对社会的影响。文章通过实例分析展示了社会冷却如何影响个人行为、公共讨论和社会进步，并提出了缓解这种效应的潜在策略，呼吁创造一个更开放、容忍的社会环境。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[如果你很聪明，为什么你很穷？椭圆曲线版]]></title>
-            <link>https://leetarxiv.substack.com/p/if-youre-smart-why-are-you-poor-elliptic</link>
-            <guid isPermaLink="false">https://leetarxiv.substack.com/p/if-youre-smart-why-are-you-poor-elliptic</guid>
-            <pubDate>Sun, 05 Oct 2025 17:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章以一种讽刺的方式探讨了高智商与经济成功之间的关系，特别从椭圆曲线密码学的角度切入。作者指出，尽管密码学和数学领域需要高度智能，但这些领域的专家往往没有获得与其智力贡献相称的经济回报。文章讨论了加密货币、区块链技术等领域的现状，其中创造巨大价值的往往是投资者和企业家，而非技术开发者。这种智力资本与经济回报之间的不平衡反映了更广泛的社会现象，即价值创造和价值获取之间的脱节。作者暗示，真正的智慧在于理解并适应这种不平衡，而不是简单地追求更多的聪明才智。 [<a href="https://news.ycombinator.com/item?id=45483445" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Claude开发者平台上管理上下文]]></title>
+            <link>https://www.anthropic.com/news/context-management</link>
+            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
+            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[Anthropic官方介绍了Claude开发者平台上的上下文管理功能，帮助开发者更有效地处理大型语言模型的上下文窗口。文章详细解释了如何组织和优化提示内容，以最大化利用有限的上下文空间，同时保持对话连贯性。平台提供了多种工具和技术，如自动摘要、智能检索和上下文压缩，帮助开发者构建更强大、更高效的AI应用。这些功能特别适合需要处理大量信息或复杂对话场景的应用开发。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[儿童如何发现二进制系统——西蒙·佩顿-琼斯[视频]]]></title>
-            <link>https://www.youtube.com/watch?v=lg0RYLlmjJM</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=lg0RYLlmjJM</guid>
-            <pubDate>Sun, 05 Oct 2025 17:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[这个YouTube视频是著名计算机科学家西蒙·佩顿-琼斯（Simon Peyton-Jones）的演讲，内容是关于如何向儿童教授和解释二进制系统。佩顿-琼斯以创造Haskell编程语言而闻名，在这段视频中，他分享了一些适合儿童理解二进制的创意方法和示例。他强调，通过生动、互动的方式教导复杂概念，可以激发儿童对计算机科学的兴趣。视频包括简单的演示、类比和实践活动，帮助孩子们理解二进制如何作为所有计算的基础。这段内容对教育工作者、家长以及任何希望向年轻一代介绍计算机科学基本原理的人来说都很有价值。 [<a href="https://news.ycombinator.com/item?id=45483441" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Ambigr.am]]></title>
+            <link>https://ambigr.am/hall-of-fame</link>
+            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
+            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[Ambigr.am是一个专注于语言模糊性和多义性的网站，其名人堂展示了各种巧妙利用语言歧义的例子。这些例子展示了语言中存在的模棱两可之处，以及如何通过巧妙的表达创造出有趣或引人深思的效果。网站收集了来自不同领域的案例，从广告语到文学引用，展示了语言的丰富性和复杂性。这个项目既是对语言艺术的致敬，也是对人类交流中模糊性本质的探索，提醒我们语言理解的主观性和创造性。 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
