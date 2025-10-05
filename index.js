@@ -167,6 +167,7 @@ function sterilizeJSON(str) {
     .replaceAll('"summary"', 'summaryTAG')
     .replaceAll('"link"', 'linkTAG')
     .replaceAll(':"', 'quoteBEGIN')
+    .replaceAll(': "', 'quoteBEGIN')
     .replaceAll('"}', 'quoteBracesEND')
     .replaceAll('",', 'quoteCommaEND')
     .replaceAll('"', '“')
