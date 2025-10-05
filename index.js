@@ -135,7 +135,7 @@ async function aiSummary() {
   myFeed.items.forEach(item => linkArray.push({title: item.title, link: item.link}));
   // console.log(JSON.stringify(linkArray));
 
-  LLMData.messages[1].content = '后面是一个 JSON 数组，每个数组成员是一个对象，包括 title 和 link 两个字段。你将 title 字段翻译成中文，并生成 link 字段的网址的中文内容总结，每个总结长度不要超过300字，总结里面的半角英语单引号和双引号，一律转为全角的中文单引号和双引号。最后返回以 JSON 格式返回，不要返回其他内容，也不要放在 json 代码块里面。 ' + JSON.stringify(linkArray);
+  LLMData.messages[1].content = '后面是一个 JSON 数组，每个数组成员是一个对象，包括 title 和 link 两个字段。你将 title 字段翻译成中文，并生成 link 字段的网址的中文内容总结，每个总结长度不要超过300字，不得使用半角的单引号和双引号，可以使用全角的单引号和双引号。最后，内容以 JSON 格式返回，不要返回其他内容，也不要放在 json 代码块里面。 ' + JSON.stringify(linkArray);
 
     const response = await fetch(LLMApi, {
       method: 'POST',
