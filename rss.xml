@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 14:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 15:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[退役测试-IPv6.com]]></title>
-            <link>https://retire.test-ipv6.com/</link>
-            <guid isPermaLink="false">https://retire.test-ipv6.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 14:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站是关于测试IPv6功能的工具退役的公告。Test-IPv6.com是一个长期存在的网站，帮助用户测试他们的网络连接是否正确支持IPv6。随着IPv6的普及，该服务将逐渐退役，用户被引导使用其他替代方案进行IPv6兼容性测试。 [<a href="https://news.ycombinator.com/item?id=45481609" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[设计工程基础：类似Spotlight和Omnibox的输入建议功能]]></title>
+            <link>https://blog.florianschulz.info/2025/10/typeahead/</link>
+            <guid isPermaLink="false">https://blog.florianschulz.info/2025/10/typeahead/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了设计工程中的输入建议(Typeahead)功能，特别是受苹果Spotlight和谷歌Chrome Omnibox启发的实现方式。作者详细解析了这种交互模式如何提升用户体验，以及在实际应用中的技术实现。文章探讨了输入建议在不同场景下的应用，包括搜索框、自动完成功能等，并提供了相关的设计原则和最佳实践。 [<a href="https://news.ycombinator.com/item?id=45482111" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我不想再当程序员了]]></title>
-            <link>https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/</link>
-            <guid isPermaLink="false">https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/</guid>
-            <pubDate>Sun, 05 Oct 2025 13:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了作者在输给AI和妻子的争论后对编程职业产生怀疑的故事。作者反思了在AI能够生成代码的时代，人类程序员的真正价值在哪里。他探讨了技术焦虑、职业认同感和在机器学习能力不断提升的情况下，人类程序员如何重新定义自己的工作。 [<a href="https://news.ycombinator.com/item?id=45481490" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[DeepSeek的妖魔化：NIST如何将开放科学转变为安全恐慌]]></title>
+            <link>https://erichartford.com/the-demonization-of-deepseek</link>
+            <guid isPermaLink="false">https://erichartford.com/the-demonization-of-deepseek</guid>
+            <pubDate>Sun, 05 Oct 2025 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[本文探讨了美国国家标准与技术研究院(NIST)对DeepSeek AI模型的批评如何被夸大和误解，导致了对开放科学项目的负面印象。作者认为NIST的评估方式存在问题，将正常的研究和创新活动过度安全化，阻碍了AI技术的发展。文章分析了这种安全恐慌的成因和后果，并呼吁科学界保持客观和平衡的视角。 [<a href="https://news.ycombinator.com/item?id=45482106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示 HN：Pyscn - 面向时尚程序员的Python代码质量分析工具]]></title>
-            <link>https://github.com/ludo-technologies/pyscn</link>
-            <guid isPermaLink="false">https://github.com/ludo-technologies/pyscn</guid>
-            <pubDate>Sun, 05 Oct 2025 13:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[Pyscn是一个专为Python开发者设计的代码质量分析工具，它专注于帮助程序员编写更优雅、更具『vibe』风格的代码。该工具能够检测代码中的异味，提供重构建议，并帮助开发者保持代码的一致性和可读性。它的特点是分析速度快、结果直观，特别适合注重代码风格的开发团队和个人。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[幽光暗影：远征33]]></title>
+            <link>https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/</link>
+            <guid isPermaLink="false">https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[这是一款在Steam平台发布的游戏，名为“幽光暗影：远征33“。游戏似乎围绕光影和探索主题展开，玩家将面临神秘的挑战和环境。根据标题推测，游戏可能包含解谜元素，玩家需要利用光线和阴影的关系来解决谜题或推进剧情。游戏可能具有独特的视觉效果和引人入胜的故事情节，适合喜欢解谜冒险类游戏的玩家。 [<a href="https://news.ycombinator.com/item?id=45482104" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用ARM SIMD实现86 GB/s的位打包技术（单线程）]]></title>
-            <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
-            <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
-            <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[这个项目展示了一种使用ARM SIMD指令集实现的位打包技术，在单线程环境下达到了86 GB/s的惊人速度。这是开发者Ashton Six的性能作品集的一部分，专注于优化数据处理算法。该实现充分利用了现代ARM处理器的向量处理能力，特别适合需要高速数据压缩或解压缩的应用场景。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[小型核反应堆不会拯救世界]]></title>
+            <link>https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html</link>
+            <guid isPermaLink="false">https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html</guid>
+            <pubDate>Sun, 05 Oct 2025 15:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章质疑了小型模块化反应堆(SMRs)作为能源解决方案的有效性。作者认为尽管SMRs被宣传为应对气候变化和能源需求的灵丹妙药，但它们面临着技术、经济和实际部署方面的重大挑战。文章指出SMRs的发电成本高、建设周期长、放射性废物处理问题以及安全风险等限制因素，并认为可再生能源组合才是更可行的能源未来。 [<a href="https://news.ycombinator.com/item?id=45482085" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[截止日期不是当AI超越我们时——而是当我们停止使用自己的大脑时]]></title>
-            <link>https://www.theargumentmag.com/p/you-have-18-months</link>
-            <guid isPermaLink="false">https://www.theargumentmag.com/p/you-have-18-months</guid>
-            <pubDate>Sun, 05 Oct 2025 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨了AI发展的真正临界点不在于AI变得比人类更聪明，而在于人类开始过度依赖AI而停止独立思考。作者警告说，我们面临的是一个认知危机，而非技术挑战。文章提出了一个紧迫的时间框架，强调在AI彻底改变人类思维方式之前，我们需要重新审视人机关系，确保技术增强而非替代人类的认知能力。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[官方的Svelte MCP服务器现已发布]]></title>
+            <link>https://svelte.dev/docs/mcp/overview</link>
+            <guid isPermaLink="false">https://svelte.dev/docs/mcp/overview</guid>
+            <pubDate>Sun, 05 Oct 2025 15:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[Svelte框架发布了官方的MCP(Message Control Protocol)服务器，这为开发者提供了更强大的控制能力。MCP服务器允许Svelte应用与其他系统和服务进行更高效的通信。文章介绍了MCP服务器的主要功能、安装方法和使用示例，强调了它在构建现代Web应用中的优势。这一发布标志着Svelte生态系统进一步扩展，为开发者提供了更多工具和可能性。 [<a href="https://news.ycombinator.com/item?id=45482075" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[笔记本电脑创建系统。手机喂养算法。这种不对称性决定了权力]]></title>
-            <link>https://zakelfassi.com/command-interface-device-power</link>
-            <guid isPermaLink="false">https://zakelfassi.com/command-interface-device-power</guid>
-            <pubDate>Sun, 05 Oct 2025 11:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章深入分析了笔记本电脑和智能手机在数字生态系统中扮演的截然不同角色。笔记本电脑允许用户创建和控制系统，提供自主权和创造性，而智能手机则主要被设计用来消费内容并喂养算法，导致用户行为被数据收集和分析。作者指出，这种根本性的不对称性正在塑造数字时代的权力结构，影响用户的自由度和控制权。 [<a href="https://news.ycombinator.com/item?id=45480620" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[女王之女：英属印度的国家强制卖淫]]></title>
+            <link>https://old.reddit.com/r/IndianHistory/comments/1km7flq/prostitution_during_british_india/</link>
+            <guid isPermaLink="false">https://old.reddit.com/r/IndianHistory/comments/1km7flq/prostitution_during_british_india/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[这篇Reddit文章探讨了英属印度时期的国家强制卖淫现象。文章揭示了殖民政府如何系统性地将女性卖淫作为“女王之女“政策的一部分，以服务于英国军队的需求。这一政策导致了许多印度女性的苦难和边缘化。作者分析了这一历史背景下的权力不平等、性别压迫以及殖民统治的阴暗面，并讨论了其对当代印度社会的影响。 [<a href="https://news.ycombinator.com/item?id=45482057" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VPS Hetzner和Coolify初学者指南]]></title>
-            <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
-            <guid isPermaLink="false">https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
-            <pubDate>Sun, 05 Oct 2025 10:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[这篇全面的指南为初学者提供了在Hetzner VPS上设置Coolify的详细步骤。Coolify是一个开源的、自托管的应用部署平台，简化了在个人服务器上部署和管理应用程序的过程。文章涵盖了从选择合适的VPS计划、安全配置到部署第一个应用的整个流程，帮助用户快速实现自托管，同时保持安全性和易用性。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[纪念史蒂夫·乔布斯]]></title>
+            <link>https://www.macrumors.com/2025/10/05/remembering-steve/</link>
+            <guid isPermaLink="false">https://www.macrumors.com/2025/10/05/remembering-steve/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[这篇纪念文章回顾了苹果联合创始人史蒂夫·乔布斯的生平和贡献。文章强调了乔布斯如何通过创新思维和对完美设计的追求，彻底改变了科技、音乐、电影和电信行业。作者回顾了乔布斯的关键成就，包括Macintosh、iPod、iPhone和iPad等革命性产品的诞生，以及他对Apple Park等公司项目的愿景。文章还探讨了乔布斯的工作哲学和对未来技术发展的影响。 [<a href="https://news.ycombinator.com/item?id=45482007" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[爱好希尔伯特单纯形]]></title>
-            <link>https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html</link>
-            <guid isPermaLink="false">https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html</guid>
-            <pubDate>Sun, 05 Oct 2025 10:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了作者对希尔伯特曲线和单纯形概念的个人探索。作者是一位经验丰富的程序员，他分享了自己如何将数学概念应用于编程项目的经验。文章详细介绍了希尔伯特曲线的性质、生成算法以及在计算机科学中的应用，特别是单纯形概念如何帮助解决复杂的空间分配问题。 [<a href="https://news.ycombinator.com/item?id=45480414" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Apple Notes 现在成为我最喜爱的大纲工具]]></title>
+            <link>https://para.bearblog.dev/apple-notes-is-now-my-favorite-outliner/</link>
+            <guid isPermaLink="false">https://para.bearblog.dev/apple-notes-is-now-my-favorite-outliner/</guid>
+            <pubDate>Sun, 05 Oct 2025 14:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[作者分享了他如何开始使用Apple Notes作为主要的大纲工具，并发现它在组织思想和项目管理方面的优势。文章详细介绍了Apple Notes的层级列表功能如何满足了用户的大纲需求，与其他专业大纲软件相比的优势，以及其在Mac、iPhone、iPad等苹果设备间的无缝同步体验。作者认为Apple Notes的简单易用和跨平台整合使其成为许多人理想的大纲工具，特别是对苹果生态系统用户而言。 [<a href="https://news.ycombinator.com/item?id=45481990" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Framework笔记本电脑和磁盘上自托管10TB S3存储]]></title>
-            <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
-            <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
-            <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了如何在一台Framework笔记本电脑和附加存储磁盘上搭建一个功能完整的10TB S3兼容存储系统。作者分享了硬件选择、软件配置、性能优化和安全性考虑等实践经验。这个自托管解决方案为需要大容量存储的个人或小型团队提供了云存储的替代方案，同时保持数据完全自主控制。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我刚刚构建了自己的GPU仪表盘，希望你喜欢]]></title>
+            <link>https://github.com/psalias2006/gpu-hot</link>
+            <guid isPermaLink="false">https://github.com/psalias2006/gpu-hot</guid>
+            <pubDate>Sun, 05 Oct 2025 14:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[这位开发者分享了他创建的GPU监控仪表盘项目，名为“gpu-hot“。该工具旨在帮助用户实时监控GPU的性能指标，包括温度、使用率、功耗等。文章详细介绍了项目的功能特点、技术实现和安装使用方法。作者强调了这个开源工具对于游戏玩家、内容创作者和系统管理员的价值，可以帮助他们优化系统性能，及时发现硬件问题，并在需要时调整设置。 [<a href="https://news.ycombinator.com/item?id=45481983" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[个人数据存储是一个应运而生的想法]]></title>
-            <link>https://blog.muni.town/personal-data-storage-idea/</link>
-            <guid isPermaLink="false">https://blog.muni.town/personal-data-storage-idea/</guid>
-            <pubDate>Sun, 05 Oct 2025 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨了个人数据存储的概念日益受到关注的原因。随着数据隐私意识的提高和对大型科技公司依赖的不满，越来越多的人在考虑如何在自己的设备上存储和管理个人数据。作者分析了自托管数据的优势，包括更好的隐私控制、长期数据保存和减少对外部服务的依赖，同时讨论了实施个人数据存储的技术和实际挑战。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用sora2重现90年代电视体验]]></title>
+            <link>https://suomi-loop-play.lovable.app</link>
+            <guid isPermaLink="false">https://suomi-loop-play.lovable.app</guid>
+            <pubDate>Sun, 05 Oct 2025 14:57:17 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站提供了一个90年代电视体验的重现，使用sora2技术创建。用户可以通过这个平台体验怀旧的老式电视效果，包括模拟的CRT显示器特性、扫描线和复古的电视节目内容。这种复古体验特别适合怀念90年代电视美学的人，或者想要了解早期电视技术特点的观众。网站可能提供了多种复古效果和模拟选项，让用户自定义他们的怀旧电视体验。 [<a href="https://news.ycombinator.com/item?id=45481977" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[选择电子邮件而非即时通讯的好处]]></title>
-            <link>https://www.spinellis.gr/blog/20250926/?li</link>
-            <guid isPermaLink="false">https://www.spinellis.gr/blog/20250926/?li</guid>
-            <pubDate>Sun, 05 Oct 2025 08:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了在数字通信中选择电子邮件而非即时通讯应用的优势。作者强调了电子邮件的开放标准、互操作性、存档功能和正式性等重要特点。文章指出，电子邮件允许用户完全控制自己的数据和通信历史，不会受到特定平台的限制或突然关闭的影响，同时还提供了更好的法律证据价值和工作效率。 [<a href="https://news.ycombinator.com/item?id=45479820" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[简·古道尔的开创性研究始于坦桑尼亚的一只黑猩猩]]></title>
+            <link>https://thewalrus.ca/jane-goodall/</link>
+            <guid isPermaLink="false">https://thewalrus.ca/jane-goodall/</guid>
+            <pubDate>Sun, 05 Oct 2025 14:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讲述了著名动物行为学家简·古道尔在坦桑尼亚贡贝溪国家公园的研究故事。文章详细描述了她如何通过观察一只名叫大卫·格雷比尔特(David Greybeard)的黑猩猩，首次发现黑猩猩会使用工具的突破性发现。这一发现改变了人类对动物认知和自身在自然界中地位的看法。文章还探讨了古道尔的研究方法、她在保护主义工作中的作用，以及她如何为野生动物保护做出贡献。 [<a href="https://news.ycombinator.com/item?id=45481974" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[社会冷却（2017年）]]></title>
-            <link>https://www.socialcooling.com/</link>
-            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[Social Cooling是一个研究项目，探讨大规模监控和数据收集对个人行为和心理的微妙影响。这个概念类似于『寒蝉效应』，但指的是在数字监控环境下，人们会自我审查，避免可能被算法标记为『异常』的行为。网站提供了关于这种社会现象的研究、案例和影响分析，帮助人们理解在数据驱动的社会中隐私和行为自由的微妙平衡。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[民主的工程问题]]></title>
+            <link>https://defragzone.substack.com/p/the-engineering-problem-with-democracy</link>
+            <guid isPermaLink="false">https://defragzone.substack.com/p/the-engineering-problem-with-democracy</guid>
+            <pubDate>Sun, 05 Oct 2025 14:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[本文从系统工程的角度分析了现代民主制度面临的挑战。作者认为民主决策过程存在信息不对称、群体思维、短期利益优先等“工程缺陷“，这些问题导致决策效率低下和政策质量不高。文章探讨了如何借鉴工程学原理和方法，优化民主制度的运行机制，例如引入更好的反馈系统、改进决策算法、增强透明度等。作者主张将民主视为一个需要不断优化的系统，而非完美的理想状态。 [<a href="https://news.ycombinator.com/item?id=45481971" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Claude开发者平台上管理上下文]]></title>
-            <link>https://www.anthropic.com/news/context-management</link>
-            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
-            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了Anthropic公司开发的Claude AI平台如何处理和管理长上下文窗口的技术。文章解释了Claude如何高效处理大量输入信息，保持相关性和连贯性，同时管理计算资源。这对于开发者构建需要大量上下文理解的应用程序至关重要，也为AI系统的上下文管理提供了技术见解和最佳实践。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[国家安全局摧毁了我的企业]]></title>
+            <link>https://news.ycombinator.com/item?id=45481970</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45481970</guid>
+            <pubDate>Sun, 05 Oct 2025 14:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讲述了一位创业者如何因为国家安全局(NSA)的行为而失去自己的企业。作者详细描述了NSA的某些项目如何直接或间接导致他的业务无法继续运营，包括可能的监控政策影响、市场变化或合作伙伴关系破裂等。文章反映了国家安全措施与商业创新之间的紧张关系，以及个人在面对国家权力时的无力感。这引发了关于隐私、安全与自由之间平衡的深刻讨论。 [<a href="https://news.ycombinator.com/item?id=45481970" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ambigr.am]]></title>
-            <link>https://ambigr.am/hall-of-fame</link>
-            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
-            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[Ambigr.am是一个收集和展示『模糊双关语』网站的平台，专门收录那些在不同上下文中可能有多种解释的文字或图像。这个名人堂页面展示了最具创意和影响力的模糊双关语案例，涵盖了从广告、政治言论到互联网文化的各种例子。这些模糊双关语常常引发有趣的讨论，展示了语言的多义性和人类沟通的复杂性。 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AI繁荣背后的关税豁免]]></title>
+            <link>https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai</link>
+            <guid isPermaLink="false">https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai</guid>
+            <pubDate>Sun, 05 Oct 2025 14:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[本文揭示了人工智能产业快速发展背后的一个关键因素：关税豁免政策。作者分析了特定的进口关税减免政策如何降低了AI研发所需的硬件成本，特别是高端芯片和计算设备的进口成本。这些政策刺激了AI技术的投资和应用，加速了整个行业的发展。文章探讨了这种贸易政策对技术竞争格局的影响，以及它如何可能改变全球AI产业的未来走向。 [<a href="https://news.ycombinator.com/item?id=45481961" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美国人越来越认为合法体育博彩对社会有害]]></title>
-            <link>https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</link>
-            <guid isPermaLink="false">https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</guid>
-            <pubDate>Sun, 05 Oct 2025 04:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[皮尤研究中心的一项调查发现，美国人对合法体育博彩的态度正在转向负面。越来越多的美国人认为体育博彩对社会和体育赛事本身有害。调查分析了不同人口群体对这一问题的看法差异，探讨了人们对博彩成瘾风险、比赛完整性担忧以及对体育文化影响的认识。这项研究反映了美国社会对快速扩张的博彩行业日益增长的警惕。 [<a href="https://news.ycombinator.com/item?id=45478749" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[招聘巴勒斯坦人才 - 旧金山科技周周三下午6点，米申区]]></title>
+            <link>https://partiful.com/e/PRnsnLfAPW8dRPSH10Vu</link>
+            <guid isPermaLink="false">https://partiful.com/e/PRnsnLfAPW8dRPSH10Vu</guid>
+            <pubDate>Sun, 05 Oct 2025 14:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个关于在旧金山科技周期间举办的巴勒斯坦人才招聘活动的信息。活动将于周三下午6点在米申区举行，旨在为巴勒斯坦科技专业人士提供就业机会。活动可能包括企业招聘代表、技术分享、职业发展建议等内容。这类活动反映了科技行业对多元化人才的重视，以及为受冲突影响地区的专业人士创造就业机会的努力。它也体现了旧金山科技社区对全球技术人才的开放态度。 [<a href="https://news.ycombinator.com/item?id=45481956" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1Password CLI漏洞（2023年）]]></title>
-            <link>https://codeberg.org/manchicken/1password-cli-vuln-disclosure</link>
-            <guid isPermaLink="false">https://codeberg.org/manchicken/1password-cli-vuln-disclosure</guid>
-            <pubDate>Sun, 05 Oct 2025 03:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章披露了1Password命令行工具在2023年被发现的一个安全漏洞。漏洞影响了密码管理过程中的认证和授权机制，可能导致未授权访问存储的敏感信息。作者详细描述了漏洞的技术细节、影响范围以及临时缓解措施。这个披露提醒用户及时更新软件并关注安全公告，同时也强调了对流行密码管理工具进行安全审计的重要性。 [<a href="https://news.ycombinator.com/item?id=45478553" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[电动自行车是一种电子威胁]]></title>
+            <link>https://www.washingtonpost.com/opinions/2025/10/02/electric-bikes-speed-injuries/</link>
+            <guid isPermaLink="false">https://www.washingtonpost.com/opinions/2025/10/02/electric-bikes-speed-injuries/</guid>
+            <pubDate>Sun, 05 Oct 2025 14:53:57 GMT</pubDate>
+            <content:encoded><![CDATA[这篇华盛顿邮报的评论文章将电动自行车描述为一种“电子威胁“，主要关注它们带来的安全隐患。作者讨论了电动自行车速度增加导致的交通事故上升，尤其是对行人和其他道路使用者的威胁。文章提到了一些案例，其中电动自行车事故造成严重伤害，并提出了监管和设计方面的建议。作者呼吁对电动自行车进行更严格的监管，包括速度限制、安全要求和适当的骑行规范，以减少相关风险。 [<a href="https://news.ycombinator.com/item?id=45481950" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Parrot - 在Gleam中提供类型安全的SQL，支持SQLite、PostgreSQL和MySQL]]></title>
-            <link>https://github.com/daniellionel01/parrot</link>
-            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
-            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[Parrot是一个用Gleam编程语言构建的SQL查询构建器，它提供了编译时的类型安全，确保查询在执行前就被验证。该工具支持SQLite、PostgreSQL和MySQL等多种数据库系统，允许开发者以类型安全的方式构建复杂查询。Parrot利用Gleam的类型系统来防止常见的SQL注入错误和其他查询问题，同时保持简洁的API设计。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[清晰物理学]]></title>
+            <link>https://www.cphysics.org/index.html</link>
+            <guid isPermaLink="false">https://www.cphysics.org/index.html</guid>
+            <pubDate>Sun, 05 Oct 2025 14:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[Clear Physics是一个致力于以清晰易懂的方式解释复杂物理概念的平台。该网站提供各种物理学主题的解释，从基础概念到前沿研究，特别注重将抽象理论转化为直观可理解的形式。网站可能包含文章、视频、图表等多种形式的资源，旨在帮助物理学爱好者、学生和教育工作者更好地理解自然世界的基本规律。Clear Physics的理念是物理学应该是每个人都能接触和理解的知识，而不仅仅是专家的领域。 [<a href="https://news.ycombinator.com/item?id=45481916" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[小行星2024 YR4侦察和缓解任务的太空任务选择]]></title>
-            <link>https://arxiv.org/abs/2509.12351</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
-            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[这项研究提出了对小行星2024 YR4的多种可能太空任务选项。论文详细分析了不同任务设计的技术可行性、成本效益和成功概率，包括近地轨道侦察、偏转轨迹和潜在的小行星表面采样策略。研究为科学家和政策制定者提供了科学依据，帮助评估应对潜在近地小行星威胁的最佳方法，对行星防御具有重要意义。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我打造了自己买不到的电脑 [视频]]]></title>
+            <link>https://www.youtube.com/watch?v=7HgAN5cEmkk</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=7HgAN5cEmkk</guid>
+            <pubDate>Sun, 05 Oct 2025 14:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个视频内容，作者分享了他如何自己动手组装一台市面上难以购买的定制电脑。视频详细展示了他选择组件的过程、组装步骤、性能测试结果以及他对这台电脑的特殊设计理念。作者可能解释了为什么市场上的配置无法满足他的需求，以及如何通过自己动手解决这些问题。这个视频对于DIY电脑爱好者、游戏玩家或有特殊计算需求的用户来说是一个有价值的参考，展示了如何在现有市场上打造理想中的电脑。 [<a href="https://news.ycombinator.com/item?id=45481913" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NSA和IETF：攻击者能否购买被削弱密码学的标准化？]]></title>
-            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
-            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
-            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了国家安全局是否可能通过影响互联网工程任务组的标准化过程，将有意弱化的密码算法纳入国际标准。作者分析了历史上的类似案例，质疑当前的密码学标准制定过程是否足够透明和抗受操纵。文章提出了对密码学标准制定中潜在利益冲突的担忧，强调了开放性和多方验证对于密码学标准安全性的重要性。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[实验性作品：50台调至不同频率的钢琴共同演奏]]></title>
+            <link>https://www.smithsonianmag.com/smart-news/in-an-experimental-composition-50-pianos-tuned-to-slightly-different-frequencies-play-together-180987442/</link>
+            <guid isPermaLink="false">https://www.smithsonianmag.com/smart-news/in-an-experimental-composition-50-pianos-tuned-to-slightly-different-frequencies-play-together-180987442/</guid>
+            <pubDate>Sun, 05 Oct 2025 14:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[史密森尼杂志报道了一项独特的音乐实验，其中50台钢琴被调至略微不同的频率，同时演奏创作出的和谐作品。这种微妙的音调差异创造出丰富而独特的和声效果，超出了传统钢琴音乐的体验。文章描述了这一实验的艺术构思、技术实现过程以及观众的反应。这种探索声音边界和音乐可能性的尝试，代表了当代音乐创新的一个方向，挑战了人们对音乐和谐的传统理解。 [<a href="https://news.ycombinator.com/item?id=45481903" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD GPU上的矩阵核心编程]]></title>
-            <link>https://salykova.github.io/matrix-cores-cdna</link>
-            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了如何在AMD GPU上有效利用矩阵核心进行高性能计算。作者探讨了AMD GPU架构中的矩阵计算单元特性，提供了优化矩阵运算的编程技巧和最佳实践。文章特别关注了深度学习和科学计算应用中常见的稠密矩阵运算优化，包括内存访问模式、并行计算策略和特定于硬件的优化技术，以充分发挥AMD GPU在矩阵计算方面的性能优势。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[LLM使用破折号的技术解释]]></title>
+            <link>https://msukhareva.substack.com/p/the-mystery-of-emdashes-part-two</link>
+            <guid isPermaLink="false">https://msukhareva.substack.com/p/the-mystery-of-emdashes-part-two</guid>
+            <pubDate>Sun, 05 Oct 2025 14:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章深入探讨了大型语言模型(LLM)为何使用破折号(em dashes)的技术原因。作者分析了破折号在文本生成中的多种功能，包括表示停顿、强调重点、分隔插入语以及增强文本连贯性等。文章从语言学、自然语言处理和用户体验的角度，解释了破折号如何帮助模型生成更自然、更具表达力的文本。此外，作者还讨论了模型在决定何时使用破折号时所考虑的语言上下文和语义因素，以及这一设计选择对人类阅读体验的影响。 [<a href="https://news.ycombinator.com/item?id=45481897" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
