@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 08:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 08:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[社会冷却]]></title>
-            <link>https://www.socialcooling.com/</link>
-            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[社会冷却网站是一个关于社会监控和自我审查现象的项目，探讨数字时代如何因担心被监视而自我限制行为，导致创新和自由表达减少的概念。这一概念类似于社会的“寒蝉效应“，人们因害怕未来的后果而自我约束。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《2025年的访问日志记录》]]></title>
+            <link>https://neugierig.org/software/blog/2025/09/access-log.html</link>
+            <guid isPermaLink="false">https://neugierig.org/software/blog/2025/09/access-log.html</guid>
+            <pubDate>Sun, 05 Oct 2025 08:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讨论了2025年访问日志记录的最新发展和趋势。随着技术的进步，访问日志记录变得更加智能和全面，能够更好地跟踪和分析用户行为。现代访问日志系统不仅记录基本的访问信息，还包括用户交互模式、设备类型、地理位置等多维度数据。这些高级日志功能对于网络安全、用户体验优化和业务分析都至关重要。文章还探讨了隐私保护与日志收集之间的平衡，以及如何利用人工智能技术处理海量日志数据。 [<a href="https://news.ycombinator.com/item?id=45480005" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[早已过时：亚马逊如何变得如此糟糕？]]></title>
-            <link>https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish</link>
-            <guid isPermaLink="false">https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish</guid>
-            <pubDate>Sun, 05 Oct 2025 05:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[这篇《卫报》文章分析了亚马逊从曾经的创新巨头逐渐衰落的过程。文章指出亚马逊在客户服务质量、产品质量、创新能力和员工待遇等方面都出现了严重问题。虽然亚马逊仍在增长，但其声誉和核心竞争力正在下降，失去了早期的创业精神和以客户为中心的核心理念。 [<a href="https://news.ycombinator.com/item?id=45479103" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《在Taskwarrior中设置任务依赖》]]></title>
+            <link>https://randomgeekery.org/post/2018/02/setting-task-dependencies-in-taskwarrior/</link>
+            <guid isPermaLink="false">https://randomgeekery.org/post/2018/02/setting-task-dependencies-in-taskwarrior/</guid>
+            <pubDate>Sun, 05 Oct 2025 08:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细介绍了如何在Taskwarrior这款流行的命令行任务管理工具中设置任务依赖关系。作者通过具体示例展示了如何使用depends标签创建任务之间的依赖关系，当一个前置任务完成时，相关联的任务会自动激活。文章还讨论了不同类型的任务依赖，如软依赖和硬依赖的区别，以及如何在复杂的任务网络中有效管理这些依赖关系。对于希望提高工作效率、合理安排任务顺序的用户来说，这些技巧非常有用。 [<a href="https://news.ycombinator.com/item?id=45479997" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Anthropic发布内存API]]></title>
-            <link>https://www.anthropic.com/news/context-management</link>
-            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
-            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[Anthropic公司发布了内存API，这是一个新的上下文管理工具，旨在提高AI系统的对话连贯性和长期记忆能力。该API允许AI系统更有效地管理和检索对话历史，提供更好的用户体验。这一工具特别适用于需要长时间对话的AI应用，可以帮助AI系统更好地记住用户偏好和之前讨论的内容。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《释放现代CPU潜能——下一代C++优化技术》]]></title>
+            <link>https://www.youtube.com/watch?v=wGSSUSeaLgA</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=wGSSUSeaLgA</guid>
+            <pubDate>Sun, 05 Oct 2025 08:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[这个视频深入探讨了现代CPU架构下的C++编程优化技术。主讲人详细讲解了如何利用最新的CPU特性，如多核处理、SIMD指令集、缓存优化等技术，显著提升C++应用程序的性能。视频内容包括内存对齐、循环展开、数据预取等高级优化技巧，以及如何使用现代C++标准库中的并发工具充分利用多核处理器资源。这些技术对于游戏开发、科学计算和高性能计算等领域的开发者特别有价值，能够帮助他们在现有硬件上实现最佳性能。 [<a href="https://news.ycombinator.com/item?id=45479971" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ambigr.am]]></title>
-            <link>https://ambigr.am/hall-of-fame</link>
-            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
-            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[Ambigr.am是一个展示双关语和文字游戏的网站，其“名人堂“页面收集了各种有趣的双关语示例。这些双关语利用多义词、谐音或文字结构创造出幽默或巧妙的表达方式，展示了语言的创造性和趣味性。网站旨在欣赏和分享这些文字游戏，同时也是一种语言艺术的表现。 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《排12小时队成为新潮流？》]]></title>
+            <link>https://www.bbc.co.uk/news/articles/cgq4e4vgz73o</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgq4e4vgz73o</guid>
+            <pubDate>Sun, 05 Oct 2025 08:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了当今社会中长时间排队成为一种现象级社交活动的现象。作者分析了为什么人们愿意花费大量时间排队等待限量版商品、热门餐厅座位或网红景点打卡。这种行为背后既有社会认同和身份象征的心理因素，也有社交媒体时代炫耀文化的影响。文章通过采访多个长时间排队者，揭示了他们内心的真实想法和感受，同时也批评了这种现象可能造成的社会资源浪费和个人时间损失。 [<a href="https://news.ycombinator.com/item?id=45479967" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美国人越来越认为合法体育博彩对社会有害]]></title>
-            <link>https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</link>
-            <guid isPermaLink="false">https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</guid>
-            <pubDate>Sun, 05 Oct 2025 04:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[皮尤研究中心的调查显示，越来越多的美国人认为合法体育博彩对社会和体育事业有害。调查发现，尽管体育博彩在多州合法化，但公众对其负面影响的认识正在增加，包括成瘾问题、比赛诚信和贫困等社会问题。这一趋势反映了随着博彩业的发展，公众对其社会影响的担忧也在增加。 [<a href="https://news.ycombinator.com/item?id=45478749" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《Chhaya：点对点安全消息传递协议》]]></title>
+            <link>https://github.com/nomnomshark41/Chhaya</link>
+            <guid isPermaLink="false">https://github.com/nomnomshark41/Chhaya</guid>
+            <pubDate>Sun, 05 Oct 2025 08:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[Chhaya是一个开源的点对点安全消息传递协议项目，旨在提供去中心化的加密通信解决方案。该项目采用端到端加密技术，确保只有通信双方能够阅读消息内容。Chhaya的设计注重用户隐私和安全，不依赖中央服务器，从而避免了单点故障和隐私泄露风险。协议支持多种加密算法和密钥交换机制，并提供了抗审查特性。该项目实现了一种新型的社交网络架构，使用户能够直接通信而无需中间商参与，对于追求数字隐私和自主权的用户具有吸引力。 [<a href="https://news.ycombinator.com/item?id=45479956" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1Password CLI漏洞]]></title>
-            <link>https://codeberg.org/manchicken/1password-cli-vuln-disclosure</link>
-            <guid isPermaLink="false">https://codeberg.org/manchicken/1password-cli-vuln-disclosure</guid>
-            <pubDate>Sun, 05 Oct 2025 03:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇关于1Password命令行界面(CLI)漏洞的披露文章。文章揭示了一个安全漏洞，可能导致用户凭据被泄露。该漏洞影响了1Password的CLI工具，使其在某些情况下可能暴露敏感信息。作者提供了漏洞的技术细节和影响评估，并建议用户更新到 patched 版本或采取临时缓解措施来保护他们的密码管理安全。 [<a href="https://news.ycombinator.com/item?id=45478553" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《ImplicitPlotter——绘制任意二元隐函数图形》]]></title>
+            <link>https://github.com/byx2000/ImplicitPlotter</link>
+            <guid isPermaLink="false">https://github.com/byx2000/ImplicitPlotter</guid>
+            <pubDate>Sun, 05 Oct 2025 08:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[ImplicitPlotter是一个开源工具，专门用于可视化二元隐函数图形。它能够处理各种数学方程，如x²+y²=1这样的隐式方程，并生成相应的图形表示。该工具支持实时绘图、缩放、旋转等交互功能，用户可以直观地探索隐函数的几何特性。项目采用高效的数值算法，能够快速渲染复杂的隐函数图形，包括那些难以用显式表示的数学关系。对于数学爱好者、教育工作者和研究人员来说，这个工具提供了一个简单而强大的方法来可视化抽象的数学概念。 [<a href="https://news.ycombinator.com/item?id=45479928" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Parrot - Gleam中的类型安全SQL，支持SQLite、PostgreSQL和MySQL]]></title>
-            <link>https://github.com/daniellionel01/parrot</link>
-            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
-            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[Parrot是一个在Gleam编程语言中实现的类型安全SQL查询构建器。它支持SQLite、PostgreSQL和MySQL等主流数据库系统，提供编译时类型检查，帮助开发者避免常见的SQL错误。该项目结合了函数式编程的优势和SQL的强大功能，使开发者能够以类型安全的方式构建复杂的数据库查询，同时保持代码的可读性和可维护性。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《对抗『足够好』之战》]]></title>
+            <link>https://www.ft.com/content/0fc44c6b-277c-4472-a235-65f59a9195f3</link>
+            <guid isPermaLink="false">https://www.ft.com/content/0fc44c6b-277c-4472-a235-65f59a9195f3</guid>
+            <pubDate>Sun, 05 Oct 2025 08:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了当代商业环境中追求极致与满足于『足够好』之间的矛盾。作者分析了为什么许多企业和个人在追求完美方面投入过多资源，而忽视了『足够好』原则可能带来的效率和实际价值。文中通过多个行业案例，说明了如何在保证基本质量的前提下，通过快速迭代和市场反馈来优化产品，而不是一开始就追求完美。文章还讨论了这种思维模式如何影响创新速度、资源分配和商业决策，为读者提供了一个反思完美主义的新视角。 [<a href="https://news.ycombinator.com/item?id=45479925" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5140型号 - IBM的第一台笔记本电脑]]></title>
-            <link>https://richardsapperdesign.com/products/mod-5140/</link>
-            <guid isPermaLink="false">https://richardsapperdesign.com/products/mod-5140/</guid>
-            <pubDate>Sun, 05 Oct 2025 00:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了IBM 5140，这是IBM公司生产的第一台笔记本电脑。这款产品发布于1986年，重约5公斤，配有小型显示器和键盘。虽然与现代笔记本电脑相比相当笨重，但它代表了便携式计算技术的重要里程碑。文章探讨了这款设备的设计理念、技术规格及其在计算机发展史上的重要意义。 [<a href="https://news.ycombinator.com/item?id=45477971" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《AMPA受体增加与长期新冠认知障碍相关》]]></title>
+            <link>https://pubmed.ncbi.nlm.nih.gov/41036177/</link>
+            <guid isPermaLink="false">https://pubmed.ncbi.nlm.nih.gov/41036177/</guid>
+            <pubDate>Sun, 05 Oct 2025 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[这项研究发现长期新冠患者认知功能障碍与大脑中AMPA受体表达增加有关。AMPA受体是神经元间信息传递的关键蛋白，其异常表达会影响突触可塑性和认知功能。研究团队通过对长期新冠患者和对照组的脑组织分析，发现了这一重要关联。这一发现有助于理解长期新冠导致的『脑雾』等认知症状的生物学机制，为开发针对性治疗方案提供了新思路。研究人员表示，未来可能通过调节AMPA受体功能来改善长期新冠患者的认知状况。 [<a href="https://news.ycombinator.com/item?id=45479897" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[小行星2024 YR4侦察和缓解任务选择]]></title>
-            <link>https://arxiv.org/abs/2509.12351</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
-            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[这篇学术论文分析了针对小行星2024 YR4的潜在太空任务选项。该小行星被确定为对地球有潜在威胁，作者评估了多种可能的侦察和缓解策略，包括无人探测器任务、重力牵引器、撞击器和核装置等。研究提供了各种技术可行性和实施时间表的分析，为行星防御决策者提供了科学依据，旨在评估和减轻潜在的小行星撞击风险。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《修复『AI』造成的损害需要数十年》]]></title>
+            <link>https://andrea.corbellini.name/2025/08/20/it-will-take-decades-to-undo-the-damage-done-by-ai/</link>
+            <guid isPermaLink="false">https://andrea.corbellini.name/2025/08/20/it-will-take-decades-to-undo-the-damage-done-by-ai/</guid>
+            <pubDate>Sun, 05 Oct 2025 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章警告了当前不负责任的人工智能开发和部署可能带来的长期负面影响。作者指出，许多AI系统在未经充分测试和伦理审查的情况下就被广泛应用，导致了就业市场混乱、信息茧房加剧、隐私侵犯等问题。文章强调，修复这些损害不仅需要技术上的改进，更需要社会层面的结构性变革。作者呼吁建立更严格的AI监管框架，推动负责任的AI开发实践，并加强对公众的AI素养教育。文章认为，只有通过多方协作，才能确保AI技术真正造福人类。 [<a href="https://news.ycombinator.com/item?id=45479882" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NSA和IETF：攻击者能否购买被弱化的密码学标准？]]></title>
-            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
-            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
-            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章探讨了美国国家安全局(NSA)可能影响互联网工程任务组(IETF)密码学标准制定过程的担忧。文章提出了一个令人不安的问题：情报机构是否可以通过资助或影响标准组织，推动采用故意弱化的密码学标准。作者分析了这种威胁的可能性、潜在影响以及现有的制衡机制，强调了密码学标准制定过程透明度和独立性的重要性。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《如何自动将任何.sh脚本转为试运行模式》]]></title>
+            <link>https://news.ycombinator.com/item?id=45479861</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45479861</guid>
+            <pubDate>Sun, 05 Oct 2025 08:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了一种巧妙的方法，可以将任何shell脚本转换为试运行模式，让用户能够安全地查看脚本将要执行的操作而不会真正执行它们。作者分享了几个实用的shell脚本技巧，包括使用set -x调试选项、创建包装脚本、使用dry-run参数等方法。这些技术特别适合于处理复杂的系统管理脚本或不确定来源的脚本，可以在执行前预览脚本行为，避免意外操作带来的风险。文章还讨论了如何将这些方法集成到开发流程中，提高脚本的安全性和可靠性。 [<a href="https://news.ycombinator.com/item?id=45479861" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[香山向量浮点单元设计]]></title>
-            <link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link>
-            <guid isPermaLink="false">https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</guid>
-            <pubDate>Sat, 04 Oct 2025 22:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[这是关于香山处理器架构中向量浮点单元(VFPU)的技术文档。该文档详细介绍了香山处理器中向量浮点单元的设计原理、架构特点和实现细节。VFPU是高性能计算中的关键组件，特别适用于科学计算、人工智能和图形处理等需要大量浮点运算的应用场景。文档涵盖了指令集设计、流水线优化、性能评估等多个方面，为开发者提供了深入理解这一关键硬件组件的宝贵资源。 [<a href="https://news.ycombinator.com/item?id=45477118" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《Meta将利用AI对话进行广告个性化》]]></title>
+            <link>https://about.fb.com/news/2025/10/improving-your-recommendations-apps-ai-meta/</link>
+            <guid isPermaLink="false">https://about.fb.com/news/2025/10/improving-your-recommendations-apps-ai-meta/</guid>
+            <pubDate>Sun, 05 Oct 2025 08:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[Meta宣布将利用人工智能技术分析用户对话内容，以提供更精准的广告推荐。这一举措通过分析用户在Meta平台上的聊天内容，提取用户的兴趣、偏好和需求，从而定制更相关的广告内容。公司表示，这种方法能够减少不相关广告的投放，提升用户体验。然而，这一计划也引发了关于隐私和数据安全的担忧，批评者认为这过度侵犯了用户的私人沟通空间。Meta强调所有分析都将采用匿名化和加密技术，并承诺用户可以控制自己的数据使用方式。 [<a href="https://news.ycombinator.com/item?id=45479843" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD GPU上的矩阵核心编程]]></title>
-            <link>https://salykova.github.io/matrix-cores-cdna</link>
-            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了在AMD GPU上进行矩阵核心编程的技术指南。矩阵核心是现代GPU中专门为高效执行矩阵运算而设计的硬件单元，对于机器学习和科学计算至关重要。文章提供了关于如何利用AMD GPU的矩阵核心进行高性能编程的深入见解，包括编程模型、优化技巧和实际应用案例。这对于希望在AMD平台上实现高性能矩阵运算的开发者和研究人员非常有价值。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《基于图像的3D重建技术演变》]]></title>
+            <link>https://www.youtube.com/watch?v=Gwib5IcTKHI</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=Gwib5IcTKHI</guid>
+            <pubDate>Sun, 05 Oct 2025 08:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[这个视频详细回顾了基于图像的3D重建技术的发展历程，从早期的摄影测量法到现代的深度学习技术。视频展示了各种3D重建算法的原理和应用场景，包括结构光、立体视觉、多视角立体匹配等技术。主讲人通过实际案例演示了如何在消费级硬件上实现高质量的3D重建，以及这一技术在游戏开发、文化遗产保护、医疗成像等领域的广泛应用。视频还探讨了当前技术的局限性以及未来可能的发展方向，如实时3D重建和更高效的神经网络架构。 [<a href="https://news.ycombinator.com/item?id=45479831" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[$912无繁文缛节的能源独立]]></title>
-            <link>https://sunboxlabs.com/</link>
-            <guid isPermaLink="false">https://sunboxlabs.com/</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[Sunbox Labs网站提供了一个价值912美元的能源独立解决方案，承诺让用户摆脱对传统电网的依赖。该方案似乎是针对家庭或小型企业的太阳能发电系统，强调其简单性和无障碍实施。网站声称该系统可以帮助用户实现能源独立，减少能源支出，并对环境更加友好。这一目标面向那些希望采用可再生能源但又被复杂安装程序和高成本所阻碍的用户。 [<a href="https://news.ycombinator.com/item?id=45476820" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《如果不是AI初创公司，从风险投资机构融资恐怕很难》]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-03/ai-is-dominating-2025-vc-investing-pulling-in-192-7-billion</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-03/ai-is-dominating-2025-vc-investing-pulling-in-192-7-billion</guid>
+            <pubDate>Sun, 05 Oct 2025 08:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[这篇报道揭示了2025年风险投资市场的明显趋势——AI初创公司吸引了绝大部分投资。数据显示，今年AI领域获得了高达1927亿美元的投资，占据了风险投资总额的绝大部分比例。文章采访了多位风险投资人和创业者，分析了这一现象背后的原因。一方面，AI技术的突破性进展创造了巨大的商业潜力；另一方面，非AI领域的企业面临融资困境，即使有创新理念也难以获得资金支持。这种投资集中现象引发了关于创新多样化和市场风险的担忧，有人警告这可能形成新的科技泡沫。 [<a href="https://news.ycombinator.com/item?id=45479822" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[博客订阅源]]></title>
-            <link>https://blogfeeds.net</link>
-            <guid isPermaLink="false">https://blogfeeds.net</guid>
-            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[Blog Feeds是一个聚合博客内容的平台，收集了来自各种技术、设计、科学和其他领域博客的RSS源。用户可以通过这个一站式平台发现新的博客，跟踪他们感兴趣的作者和话题，而无需在多个网站之间切换。该服务为博客作者提供了增加曝光度的机会，同时也为读者提供了发现高质量内容的便捷方式。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《我为何选择电子邮件而非即时消息》]]></title>
+            <link>https://www.spinellis.gr/blog/20250926/?li</link>
+            <guid isPermaLink="false">https://www.spinellis.gr/blog/20250926/?li</guid>
+            <pubDate>Sun, 05 Oct 2025 08:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章阐述了作者坚持使用电子邮件而非即时通讯工具的理由。作者认为电子邮件提供了更好的信息组织和管理能力，通过文件夹系统和标签功能，用户可以轻松地分类、检索和归档重要信息。相比之下，大多数即时通讯应用缺乏有效的信息管理机制，导致聊天记录难以查找。此外，电子邮件具有更正式的通信性质，适合工作和专业场景，提供了更好的可追溯性。作者还讨论了电子邮件的跨平台兼容性和开放标准优势，以及如何在保持高效沟通的同时减少信息过载。 [<a href="https://news.ycombinator.com/item?id=45479820" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ProofOfThought：使用Z3定理证明的基于LLM的推理]]></title>
-            <link>https://github.com/DebarghaG/proofofthought</link>
-            <guid isPermaLink="false">https://github.com/DebarghaG/proofofthought</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[ProofOfThought是一个结合大型语言模型(LLM)和Z3定理证明器的推理框架。该项目旨在利用LLM的自然语言理解和生成能力与Z3的数学推理能力相结合，创建更强大可靠的AI推理系统。这种方法可以用于形式验证、数学证明、程序验证等需要严格推理的场景。该项目代表了将神经网络和符号AI相结合的前沿研究方向，有望解决当前AI系统在可靠性和可解释性方面的局限性。 [<a href="https://news.ycombinator.com/item?id=45475529" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《Dropstone——一款随工作流程改进而自我学习的AI IDE》]]></title>
+            <link>https://www.dropstone.io</link>
+            <guid isPermaLink="false">https://www.dropstone.io</guid>
+            <pubDate>Sun, 05 Oct 2025 08:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[Dropstone是一款创新的AI集成开发环境，它能够学习并适应用户的个人工作流程。这款工具利用机器学习技术分析开发者的编码习惯、错误模式和效率瓶颈，然后自动调整其功能和界面以更好地满足用户需求。与传统IDE不同，Dropstone会随着使用时间的增加而变得更加智能，提供越来越精准的代码补全、错误预测和性能优化建议。项目旨在减轻开发者的认知负担，让他们能够专注于创造性工作而非重复性任务。Dropstone代表了下一代开发工具的发展方向——更个性化、更智能、更高效。 [<a href="https://news.ycombinator.com/item?id=45479813" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：Run - 我在学习Rust时构建的通用代码运行器CLI工具]]></title>
-            <link>https://github.com/Esubaalew/run</link>
-            <guid isPermaLink="false">https://github.com/Esubaalew/run</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[Run是一个用Rust编程语言开发的通用代码运行器命令行工具。该项目作者在学习Rust过程中创建了这个工具，旨在提供一个简单而强大的方式来运行各种编程语言的代码片段。该工具支持多种编程语言，具有跨平台特性，并提供了简洁的命令行界面。这个项目不仅是一个实用的开发工具，也是展示Rust语言能力的学习案例，适合那些想要学习和实践Rust编程的开发者。 [<a href="https://news.ycombinator.com/item?id=45475528" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《抗衰老细胞在灵长类动物中展现出抗衰老效果》]]></title>
+            <link>https://www.cell.com/cell/fulltext/S0092-8674%2825%2900571-9</link>
+            <guid isPermaLink="false">https://www.cell.com/cell/fulltext/S0092-8674%2825%2900571-9</guid>
+            <pubDate>Sun, 05 Oct 2025 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[这项突破性研究表明，抵抗细胞衰老的细胞移植能够在灵长类动物模型中产生显著的抗衰老效果。研究人员通过特定的基因编辑技术创建了能够抵抗衰老过程的细胞，并将这些细胞移植到老年灵长类动物体内。实验结果显示，接受细胞移植的动物在多种生理指标上出现改善，包括组织修复能力增强、炎症水平降低和认知功能提升。这一发现为开发人类抗衰老疗法提供了重要依据，可能为治疗与年龄相关的疾病开辟新的途径。 [<a href="https://news.ycombinator.com/item?id=45479811" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[如何高效注入知识？大语言模型的知识注入缩放定律]]></title>
-            <link>https://arxiv.org/abs/2509.19371</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.19371</guid>
-            <pubDate>Sat, 04 Oct 2025 17:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[这篇学术论文探讨了向大型语言模型(LLM)高效注入知识的方法和规律。作者研究了不同知识注入技术对模型性能的影响，提出了知识注入缩放定律，描述了知识注入量、模型大小和性能提升之间的关系。研究结果表明，知识注入的效果取决于注入方式、模型容量和知识的质量等多个因素。这项工作对于如何更有效地优化和定制预训练语言模型具有重要意义，为提高模型在特定领域的专业知识提供了理论指导。 [<a href="https://news.ycombinator.com/item?id=45474900" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《WSA终端——Amiga的Windows子系统》]]></title>
+            <link>https://github.com/housey345/wsa</link>
+            <guid isPermaLink="false">https://github.com/housey345/wsa</guid>
+            <pubDate>Sun, 05 Oct 2025 08:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[WSA Terminal是一个创新项目，它将经典的Amiga计算机操作系统集成到了现代Windows环境中。这个项目利用Windows子系统架构技术，允许用户在Windows系统上直接运行Amiga应用程序和游戏，无需虚拟机或其他复杂设置。项目提供了完整的硬件模拟，包括Amiga特制的图形和声音系统，确保软件能够正常运行。对于怀旧游戏玩家、Amiga爱好者以及需要兼容性解决方案的开发者来说，这个项目提供了无缝的跨平台体验。 [<a href="https://news.ycombinator.com/item?id=45479804" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用“编程冒险大会“解决方案比较Ada和Rust]]></title>
-            <link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link>
-            <guid isPermaLink="false">https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</guid>
-            <pubDate>Sat, 04 Oct 2025 15:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章通过解决“编程冒险大会“(Advent of Code)编程挑战的例子，详细比较了Ada和Rust两种系统编程语言。作者使用相同的算法和问题解决方法，分别用两种语言实现解决方案，然后在代码长度、表达力、错误处理、并发支持和性能等多个维度进行对比分析。这种实际代码级别的比较为开发者选择合适的编程语言提供了宝贵的参考，特别是在安全关键系统和高性能应用场景下的语言选择。 [<a href="https://news.ycombinator.com/item?id=45473861" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《检查任意两个正则表达式的等价性》]]></title>
+            <link>https://gruhn.github.io/regex-utils/equiv-checker.html</link>
+            <guid isPermaLink="false">https://gruhn.github.io/regex-utils/equiv-checker.html</guid>
+            <pubDate>Sun, 05 Oct 2025 08:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[这个在线工具可以帮助开发者验证两个不同的正则表达式是否具有相同的匹配行为。用户只需输入两个正则表达式，工具就会通过系统性的分析和测试来确定它们是否在所有输入情况下产生相同的结果。这项功能对于正则表达式的优化和重构非常有用，可以确保在简化或修改正则表达式时不会改变其匹配逻辑。工具支持多种正则表达式风格，并提供了详细的差异分析报告。对于复杂或关键应用中的正则表达式，这个工具能够帮助开发者避免潜在的错误和不一致性。 [<a href="https://news.ycombinator.com/item?id=45479771" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[像1984年一样自托管电子邮件]]></title>
-            <link>https://maxadamski.com/blog/2025/10/email.html</link>
-            <guid isPermaLink="false">https://maxadamski.com/blog/2025/10/email.html</guid>
-            <pubDate>Sat, 04 Oct 2025 14:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何使用现代工具构建一个类似1980年代风格的简单自托管电子邮件系统。作者分析了现代电子邮件系统的复杂性，并提供了一种简化方法，使用相对简单的组件和服务创建一个功能齐全的电子邮件基础设施。这种怀旧方法不仅减少了依赖和攻击面，还使电子邮件系统更加透明和控制，对于那些重视隐私和系统简单性的用户具有吸引力。 [<a href="https://news.ycombinator.com/item?id=45473730" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《小型企业的简单HR平台》]]></title>
+            <link>https://hrsimple.app/</link>
+            <guid isPermaLink="false">https://hrsimple.app/</guid>
+            <pubDate>Sun, 05 Oct 2025 07:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[HRSimple.app是一个专门为小型企业设计的简单人力资源平台，完全使用Lovable.dev构建。该平台提供了一系列基本的HR功能，包括员工信息管理、考勤跟踪、假期管理和简单报告等。界面设计简洁直观，没有复杂的设置和流程，使非专业HR人员也能轻松上手。与大型企业HR系统不同，这个平台专注于小型企业的核心需求，避免了不必要的功能复杂性。平台采用订阅制定价模式，价格亲民，特别适合预算有限但需要基本HR管理工具的小型企业。 [<a href="https://news.ycombinator.com/item?id=45479710" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[雷扫描仪：一个巧妙的设备将打印机变成扫描仪（2004）]]></title>
-            <link>https://www.folklore.org/Thunderscan.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
-            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了关于Thunderscan的有趣历史，这是一个2004年发明的巧妙设备，可以将普通打印机转换为扫描仪。这种创新的硬件设备解决了当时扫描仪价格高昂的问题，为用户提供了一种经济实惠的扫描解决方案。文章回顾了这一创意发明的历史背景、技术实现和它在计算机外设发展中的意义，展示了计算机硬件创新中的一些巧妙思想和解决方案。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[《TextHerRight，完美的关系短信回复AI》]]></title>
+            <link>https://textherright.base44.app/</link>
+            <guid isPermaLink="false">https://textherright.base44.app/</guid>
+            <pubDate>Sun, 05 Oct 2025 07:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[TextHerRight是一款AI辅助应用，旨在帮助用户生成恰当的短信回复，改善关系沟通。该应用分析了大量成功的关系对话，理解不同情境下的最佳回应方式，并据此生成个性化建议。用户只需输入收到的消息或描述当前情况，AI就会提供多种回复选项，包括幽默、认真、含蓄等不同风格。应用还考虑了沟通的历史背景和双方关系动态，确保回复的连贯性和一致性。对于在短信沟通中感到困难或希望提升关系质量的用户来说，这个工具提供了一种新颖的辅助方式。 [<a href="https://news.ycombinator.com/item?id=45479709" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
