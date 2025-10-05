@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.youtube.com/watch?si=O4ON3FGAxNkRobCj&v=BgdWyD0cBx4&feature=youtu.be",
-            "content_html": "这个YouTube视频展示了Google键盘GBoard的最新拨盘版本。这个新版本可能包括通过圆形拨盘进行输入或导航的功能，为用户提供了一种新的文本输入方式。视频详细演示了如何使用这个拨盘功能以及它在日常使用中的优势。 [<a href=\"https://news.ycombinator.com/item?id=45484124\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?si=O4ON3FGAxNkRobCj&v=BgdWyD0cBx4&feature=youtu.be",
-            "title": "GBoard拨盘版",
+            "id": "https://www.hollywoodreporter.com/movies/movie-features/george-r-r-martin-howard-waldrop-ugly-chickens-game-of-thrones-1236078329/",
+            "content_html": "这篇文章探讨了《权力的游戏》作者乔治·R·R·马丁在好莱坞的独特运作方式。马丁坚持按照自己的节奏创作，不遵循好莱坞的快节奏制作模式，这违反了行业的基本规则。文章分析了马丁如何在不妥协于商业压力的情况下保持创作自主权，以及这种方式对他的作品和职业生涯的影响。 [<a href=\"https://news.ycombinator.com/item?id=45484355\" target=\"_blank\">评论</a>]",
+            "url": "https://www.hollywoodreporter.com/movies/movie-features/george-r-r-martin-howard-waldrop-ugly-chickens-game-of-thrones-1236078329/",
+            "title": "乔治·R·R·马丁为何打破了好莱坞的首要规则",
+            "date_modified": "2025-10-05T19:17:22.000Z"
+        },
+        {
+            "id": "https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825",
+            "content_html": "这篇文章讲述了一位商人在寻求巨额商业交易过程中，如何利用与特朗普家族的关系，特别是提及小唐纳德·特朗普的名字来打开商业大门的故事。文章探讨了这种关系如何影响商业决策，以及权力和影响力在商业世界中的重要作用。 [<a href=\"https://news.ycombinator.com/item?id=45484338\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825",
+            "title": "他为达成数十亿美元交易而提及特朗普 Jr. 的名字",
+            "date_modified": "2025-10-05T19:15:34.000Z"
+        },
+        {
+            "id": "https://arxiv.org/abs/2509.15316",
+            "content_html": "这篇技术论文提出了一种创新的机器学习分类器设计方法，采用混合一元二元架构，避免了传统乘法运算的需求。这种方法特别适用于资源受限的边缘计算设备，能够显著降低计算复杂度和能耗。研究展示了这种设计在打印式电子设备上的应用潜力，为物联网和嵌入式系统中的机器学习应用提供了新思路。 [<a href=\"https://news.ycombinator.com/item?id=45484326\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.15316",
+            "title": "用于无乘法器的打印机器学习分类器的混合一元二元设计",
+            "date_modified": "2025-10-05T19:14:19.000Z"
+        },
+        {
+            "id": "https://hollisrobbinsanecdotal.substack.com/p/the-two-minute-mile-problem",
+            "content_html": "这篇文章探讨了人类运动极限的挑战，特别是关于两分钟英里这一看似不可能的体育成就。文章分析了历史长河中运动员如何突破生理和心理障碍，逐渐接近这一目标。作者从科学、技术和训练方法的角度，探讨了人类身体极限的演变，以及社会和技术进步如何帮助运动员不断突破“不可能“的界限。 [<a href=\"https://news.ycombinator.com/item?id=45484322\" target=\"_blank\">评论</a>]",
+            "url": "https://hollisrobbinsanecdotal.substack.com/p/the-two-minute-mile-problem",
+            "title": "两分钟英里问题",
+            "date_modified": "2025-10-05T19:13:53.000Z"
+        },
+        {
+            "id": "https://www.thecrimson.com/article/2025/10/5/hls-visiting-prof-arrested/",
+            "content_html": "这篇报道讲述了哈佛大学法学院的一位访问教授因在犹太教堂附近发射弹丸枪而被停职的事件。文章详细描述了事件的经过，包括警方调查和学校的处理决定。这一事件引发了关于学术自由、安全责任以及大学对教职员工行为监管的广泛讨论，同时也反映了当前社会环境下宗教场所安全问题的敏感性。 [<a href=\"https://news.ycombinator.com/item?id=45484315\" target=\"_blank\">评论</a>]",
+            "url": "https://www.thecrimson.com/article/2025/10/5/hls-visiting-prof-arrested/",
+            "title": "哈佛法学院访问教授在犹太教堂附近发射弹丸枪后被停职",
+            "date_modified": "2025-10-05T19:13:13.000Z"
+        },
+        {
+            "id": "https://www.theatlantic.com/technology/2025/10/is-waymo-safe/684432/",
+            "content_html": "这篇文章探讨了科技公司在快速发展与创新过程中如何平衡速度与质量的问题。作者分析了Waymo等自动驾驶公司在追求技术创新的同时，如何确保产品的安全性和可靠性。文章提出了在快节奏开发环境中实施严格测试和验证策略的重要性，以及如何在加速创新的同时避免系统性故障，为科技行业的可持续发展提供了思考。 [<a href=\"https://news.ycombinator.com/item?id=45484303\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theatlantic.com/technology/2025/10/is-waymo-safe/684432/",
+            "title": "快速行动但不破坏任何东西",
+            "date_modified": "2025-10-05T19:11:47.000Z"
+        },
+        {
+            "id": "https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/",
+            "content_html": "这篇技术文章披露了一个影响Google Chrome浏览器的严重安全漏洞，攻击者可通过CanonicalEquality:EqualValueType()函数实现远程代码执行，且绕过了浏览器的沙盒保护机制。文章详细描述了漏洞的原理、利用方式以及潜在影响，同时也提供了缓解措施和安全建议。这一漏洞提醒用户及时更新浏览器版本，并反映了即使是最主流的软件也可能存在安全风险。 [<a href=\"https://news.ycombinator.com/item?id=45484299\" target=\"_blank\">评论</a>]",
+            "url": "https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/",
+            "title": "通过 CanonicalEquality:EqualValueType() 实现的 Google Chrome RCE（无沙盒）",
+            "date_modified": "2025-10-05T19:11:29.000Z"
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=45484294",
+            "content_html": "这篇帖子分享了Reddit上一个拥有十年历史的高级账户遭遇黑客入侵的经历，尽管账户启用了双因素认证（2FA）。文章详细描述了可能的入侵途径，包括SIM卡劫持、钓鱼攻击或第三方应用漏洞。作者分享了账户恢复的过程，并提醒用户即使有2FA保护，仍需保持警惕，定期审查账户安全设置，谨慎授予第三方应用访问权限。 [<a href=\"https://news.ycombinator.com/item?id=45484294\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45484294",
+            "title": "询问HN：尽管有双因素认证，十年Reddit账户仍被黑客入侵",
+            "date_modified": "2025-10-05T19:10:57.000Z"
+        },
+        {
+            "id": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+            "content_html": "这是艾萨克·阿西莫夫经典科幻短篇小说集的电子版，由Standard Ebooks项目整理出版。收录了阿西莫夫多部脍炙人口的短篇科幻作品，展现了他对未来世界、人工智能和太空探索的独特想象。这些作品不仅具有高度的科学前瞻性，还蕴含深刻的人文思考，为读者提供了理解阿西莫夫科幻世界的绝佳窗口，适合科幻爱好者阅读收藏。 [<a href=\"https://news.ycombinator.com/item?id=45484293\" target=\"_blank\">评论</a>]",
+            "url": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+            "title": "艾萨克·阿西莫夫的科幻短篇小说 – 标准电子书",
+            "date_modified": "2025-10-05T19:10:48.000Z"
+        },
+        {
+            "id": "https://github.com/landley/toybox",
+            "content_html": "Toybox是一个集成了多种常用Linux命令行工具的开源项目，旨在提供轻量级、兼容POSIX标准的工具集。它占用资源少，适合嵌入式系统和资源受限环境使用。该项目维护一个包含数百个实用工具的代码库，这些工具可以单独使用或组合使用，大大简化了Linux环境下的系统管理和开发任务，为开发者提供了灵活高效的命令行解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45484284\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/landley/toybox",
+            "title": "Toybox：一站式Linux命令行工具",
+            "date_modified": "2025-10-05T19:09:35.000Z"
+        },
+        {
+            "id": "https://www.gmpreussner.com/research/dimensional-analysis-in-programming-languages",
+            "content_html": "这篇技术文章探讨了在编程语言中实现量纲分析的方法和意义。量纲分析是一种确保物理计算单位一致性的技术，可以防止因单位错误导致的计算失误。作者分析了如何在现代编程语言中集成量纲分析功能，探讨了类型系统、编译时检查与运行时验证等实现方式。这项研究对于科学计算、工程模拟和金融建模等领域的软件开发具有重要意义，可显著提高代码的可靠性和准确性。 [<a href=\"https://news.ycombinator.com/item?id=45484262\" target=\"_blank\">评论</a>]",
+            "url": "https://www.gmpreussner.com/research/dimensional-analysis-in-programming-languages",
+            "title": "编程语言中的量纲分析（2018）",
+            "date_modified": "2025-10-05T19:07:16.000Z"
+        },
+        {
+            "id": "https://github.com/dylnbk/open-screen",
+            "content_html": "OpenScreen是一个开源的视频内容评估和筛选工具，旨在帮助开发者和内容创作者高效管理和审核视频内容。该工具提供了自动化分析功能，包括内容分类、质量检测和潜在问题识别，同时支持自定义评估标准。项目设计简洁易用，可集成到现有工作流中，特别适合内容审核平台、教育机构或需要大量处理视频内容的组织使用，为视频内容的质量控制提供了开源解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45484235\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/dylnbk/open-screen",
+            "title": "展示HN：OpenScreen. 开放式视频评估筛选工具",
+            "date_modified": "2025-10-05T19:03:31.000Z"
+        },
+        {
+            "id": "https://www.youtube.com/playlist?list=PL4wbshl89IWTHc94BhZI-C-v-neF40boG",
+            "content_html": "这是英国艺术史学家肯尼斯·克拉克1969年制作的经典纪录片《文明》的完整剧集。这部13集的纪录片深入探讨了西方文明从古罗马到现代的发展历程，克拉克以其渊博的学识和优雅的解说，带领观众穿越历史长河，领略艺术、建筑和思想如何塑造了西方世界的面貌。这部作品至今仍是了解西方文明发展的必看纪录片，不仅在艺术史上有重要地位，也对电视纪录片制作产生了深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45484217\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/playlist?list=PL4wbshl89IWTHc94BhZI-C-v-neF40boG",
+            "title": "肯尼斯·克拉克的文明 1969",
+            "date_modified": "2025-10-05T19:00:32.000Z"
+        },
+        {
+            "id": "https://blog.cloudflare.com/nodejs-workers-2025/",
+            "content_html": "这篇文章详细记录了Cloudflare团队在过去一年中为提高Workers平台对Node.js API兼容性所做的工作。项目团队通过逐步实现Node.js核心API、优化性能和改进开发工具，使开发者能够在边缘计算环境中更方便地使用熟悉的Node.js生态系统。文章展示了技术挑战、解决方案和成果，包括兼容性测试结果和开发者反馈，展示了如何在保持高性能的同时实现广泛的Node.js兼容性。 [<a href=\"https://news.ycombinator.com/item?id=45484180\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.cloudflare.com/nodejs-workers-2025/",
+            "title": "一年来提升Cloudflare Workers对Node.js兼容性的工作",
+            "date_modified": "2025-10-05T18:56:38.000Z"
+        },
+        {
+            "id": "https://www.wfla.com/news/florida/florida-student-asks-chatgpt-how-to-kill-his-friend-ends-up-in-jail-deputies/",
+            "content_html": "这篇报道讲述了一起引人深思的事件，一名佛罗里达学生向ChatGPT询问如何杀害自己的朋友，随后被警方逮捕。文章详细描述了事件经过，包括调查过程和指控内容。这一事件引发了对人工智能伦理和安全问题的讨论，特别是AI模型如何响应有害请求以及家长和教育工作者如何监督青少年使用AI技术的情况。案件凸显了科技发展和伦理监管之间的平衡挑战。 [<a href=\"https://news.ycombinator.com/item?id=45484165\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wfla.com/news/florida/florida-student-asks-chatgpt-how-to-kill-his-friend-ends-up-in-jail-deputies/",
+            "title": "佛罗里达学生询问ChatGPT如何杀害朋友，最终入狱：警长称",
+            "date_modified": "2025-10-05T18:54:29.000Z"
+        },
+        {
+            "id": "https://www.heise.de/en/news/Cariad-VW-subsidiary-largely-discontinues-its-own-software-development-10712012.html",
+            "content_html": "这篇报道讲述了大众汽车旗下软件子公司Cariad的重大战略调整，计划大幅减少自有软件开发的投入。文章分析了这一决策的背景，包括行业竞争加剧和开发成本上升等因素。大众正转向更多依赖外部供应商和技术合作伙伴的策略，以加速数字化转型并降低风险。这一转变反映了汽车行业在软件和电气化转型过程中面临的挑战，以及传统车企如何调整其技术发展战略以适应快速变化的市场环境。 [<a href=\"https://news.ycombinator.com/item?id=45484162\" target=\"_blank\">评论</a>]",
+            "url": "https://www.heise.de/en/news/Cariad-VW-subsidiary-largely-discontinues-its-own-software-development-10712012.html",
+            "title": "Cariad：大众子公司大幅停止自有软件开发",
+            "date_modified": "2025-10-05T18:54:09.000Z"
+        },
+        {
+            "id": "https://thewalrus.ca/i-have-a-wodehouse-problem-the-problem-is-i-cant-stop-reading-him/",
+            "content_html": "这篇散文探讨了作者对P.G.伍德豪斯作品的痴迷和喜爱。文章描述了伍德豪斯的独特文学风格如何俘获读者，他那幽默、机智的作品如何让人欲罢不能。作者分享了阅读伍德豪斯不同时期的体验，从初次接触到成为忠实粉丝的过程，以及这些作品如何影响自己的写作风格和生活态度。这篇文章是对伍德豪斯文学魅力的致敬，也展现了伟大文学作品如何能够持续吸引不同时代的读者。 [<a href=\"https://news.ycombinator.com/item?id=45484148\" target=\"_blank\">评论</a>]",
+            "url": "https://thewalrus.ca/i-have-a-wodehouse-problem-the-problem-is-i-cant-stop-reading-him/",
+            "title": "我有一个伍德豪斯问题。问题是我无法停止阅读他的作品",
+            "date_modified": "2025-10-05T18:52:19.000Z"
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=BgdWyD0cBx4",
+            "content_html": "这段视频展示了谷歌键盘GBoard的一个创新版本，采用了拨盘式界面设计。视频中演示了这一版本如何通过圆形界面提供快速输入体验，特别适合单手操作和用户偏好传统输入方式的需求。设计师融合了现代触控技术与经典拨盘元素，创造出独特的输入体验。这一创新展示了在数字产品设计中重新思考传统物理界面元素的可能性，以及在保持功能性的同时提供新的交互方式。 [<a href=\"https://news.ycombinator.com/item?id=45484124\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=BgdWyD0cBx4",
+            "title": "GBoard 拨盘版本",
             "date_modified": "2025-10-05T18:49:34.000Z"
         },
         {
             "id": "https://www.aerolane.com/",
-            "content_html": "Aerolane公司介绍了一种创新的Aerocart货运滑翔机，它可以在现有飞机后方进行滑翔。这种设计使得大型运输机能够携带额外的货物，通过滑翔机的方式增加运载能力而无需改变主体飞机的结构。这种技术可以提高货运效率，降低运输成本，特别是在远程或难以到达的地区。 [<a href=\"https://news.ycombinator.com/item?id=45484123\" target=\"_blank\">评论</a>]",
+            "content_html": "Aerocart是一种创新的货运滑翔系统，设计用于在现有大型飞机后部进行货物运输。这一概念利用空气动力学原理，通过将货物舱附加在飞机尾部，实现无需额外飞机即可运输更多货物的目标。系统提供了燃油效率高、成本低的解决方案，特别适合需要快速部署大量物资的情况。文章介绍了这一技术的原理、应用场景以及潜在的市场价值，展示了航空货运领域可能出现的创新解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45484123\" target=\"_blank\">评论</a>]",
             "url": "https://www.aerolane.com/",
             "title": "现有飞机后滑翔，Aerocart货运滑翔机",
             "date_modified": "2025-10-05T18:49:31.000Z"
         },
         {
             "id": "https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain",
-            "content_html": "这篇文章详细介绍了作者如何成功配置Firebase与Squarespace的自定义域名之间的验证过程。作者分享了在设置过程中遇到的各种挑战和解决方案，包括DNS配置、SSL证书设置以及Firebase项目中自定义域名的添加步骤。这对于希望将Firebase服务集成到Squarespace网站的用户提供了宝贵的实践经验。 [<a href=\"https://news.ycombinator.com/item?id=45484089\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇技术教程分享了作者解决Firebase无法验证Squarespace域名的详细过程。作者遇到了域名验证的常见问题，并通过系统性的方法最终解决了这一挑战。文章提供了详细的步骤指南，包括DNS配置、文件验证和可能的错误排查方法。这一经验对于那些需要在Firebase和Squarespace平台之间建立连接的开发者特别有价值，展示了如何克服跨平台集成中的技术障碍，确保网站和云服务的无缝连接。 [<a href=\"https://news.ycombinator.com/item?id=45484089\" target=\"_blank\">评论</a>]",
             "url": "https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain",
-            "title": "我如何最终让Firebase验证我的Squarespace域名",
+            "title": "我终于如何让Firebase验证我的Squarespace域名",
             "date_modified": "2025-10-05T18:45:56.000Z"
-        },
-        {
-            "id": "https://www.popularmechanics.com/science/a68825778/custom-viruses-fight-e-coli/",
-            "content_html": "《大众力学》杂志探讨了利用经过基因工程的病毒对抗细菌感染的前沿科学。研究人员正在开发能够特异性靶向有害细菌的噬菌体，这些'定制病毒'可以精确攻击大肠杆菌等病原体，同时避免伤害有益细菌。这种被称为噬菌体疗法的治疗方法可能成为抗生素的替代方案，特别是在应对抗生素耐药性危机方面具有巨大潜力。 [<a href=\"https://news.ycombinator.com/item?id=45484078\" target=\"_blank\">评论</a>]",
-            "url": "https://www.popularmechanics.com/science/a68825778/custom-viruses-fight-e-coli/",
-            "title": "工程病毒对抗细菌",
-            "date_modified": "2025-10-05T18:44:59.000Z"
-        },
-        {
-            "id": "https://www.thetimes.com/world/africa/article/sophie-duchess-congo-rape-victims-fj7s0vm3q",
-            "content_html": "《泰晤士报》报道了一位外科医生重返刚果民主共和国的战区，为当地数千名强奸受害者提供医疗援助的故事。文章讲述了一位勇敢的医疗工作者冒着个人风险，前往冲突地区为性暴力受害者提供手术和心理支持。这反映了刚果持续冲突中性暴力作为战争武器的残酷现实，以及国际社会需要更多关注和支持这一人道危机。 [<a href=\"https://news.ycombinator.com/item?id=45484061\" target=\"_blank\">评论</a>]",
-            "url": "https://www.thetimes.com/world/africa/article/sophie-duchess-congo-rape-victims-fj7s0vm3q",
-            "title": "外科医生重返战区帮助刚果数千名强奸受害者之一",
-            "date_modified": "2025-10-05T18:43:23.000Z"
-        },
-        {
-            "id": "https://digitalseams.com/blog/a-recent-phishing-attack-on-github",
-            "content_html": "DigitalSeams博客分析了最近针对GitHub平台的一次网络钓鱼攻击事件。文章详细描述了攻击者如何利用精心设计的钓鱼邮件和假冒页面诱骗开发者泄露其GitHub凭证。作者提供了识别此类攻击的技巧，以及如何在发现自己的账户可能已被盗用时采取的安全措施。这次攻击提醒了开发社区保持警惕和实施多因素验证的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45484058\" target=\"_blank\">评论</a>]",
-            "url": "https://digitalseams.com/blog/a-recent-phishing-attack-on-github",
-            "title": "最近针对GitHub的网络钓鱼攻击",
-            "date_modified": "2025-10-05T18:42:26.000Z"
-        },
-        {
-            "id": "https://modal.com/blog/notebooks-internals",
-            "content_html": "Modal公司分享了他们开发的一种创新云GPU笔记本的技术细节，这种笔记本能够在几秒钟内启动并运行。文章深入探讨了他们的系统架构优化策略，包括容器技术、持久化存储和预加载模型等技术。这种快速启动的云GPU笔记本为数据科学家和机器学习工程师提供了高效的计算环境，大大减少了等待时间和资源浪费。 [<a href=\"https://news.ycombinator.com/item?id=45484055\" target=\"_blank\">评论</a>]",
-            "url": "https://modal.com/blog/notebooks-internals",
-            "title": "我们如何构建了可在几秒内启动的云GPU笔记本",
-            "date_modified": "2025-10-05T18:42:03.000Z"
-        },
-        {
-            "id": "https://www.laphamsquarterly.org/celebrity/without-deeds-without-names",
-            "content_html": "《拉帕姆季刊》的这篇文章探讨了名人文化和无名氏之间的关系。文章可能分析了现代社会中，个人名声与其实际行动之间的脱节现象，以及无名氏如何默默塑造了历史和文化。作者可能还探讨了在数字化时代，名人与普通人之间的界限如何模糊，以及这种模糊带来的社会影响。 [<a href=\"https://news.ycombinator.com/item?id=45484028\" target=\"_blank\">评论</a>]",
-            "url": "https://www.laphamsquarterly.org/celebrity/without-deeds-without-names",
-            "title": "无行为，无名氏",
-            "date_modified": "2025-10-05T18:38:40.000Z"
-        },
-        {
-            "id": "https://www.theguardian.com/world/2025/oct/02/refugees-recall-horrors-of-sudan-civil-war",
-            "content_html": "《卫报》报道了苏丹内战中平民面临的恐怖现实。文章通过难民的第一人称叙述，展现了冲突地区发生的死亡事件、人员失踪以及平民被强迫加入武装团体的情况。这些个人故事揭示了战争的残酷性及其对普通民众生活的毁灭性影响，同时也呼吁国际社会采取行动结束这场持续的人道主义危机。 [<a href=\"https://news.ycombinator.com/item?id=45484027\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/world/2025/oct/02/refugees-recall-horrors-of-sudan-civil-war",
-            "title": "死亡、失踪和强迫征兵：苏丹无休止战争的恐怖",
-            "date_modified": "2025-10-05T18:38:36.000Z"
-        },
-        {
-            "id": "https://bioengineer.org/laser-sintering-3d-prints-silver-electronics-in-space/",
-            "content_html": "BioEngineer.org报道了一项突破性技术，即利用激光烧结技术在太空中直接3D打印银电子设备。这项技术为未来的太空任务提供了就地制造电子组件的能力，无需从地球运送。文章详细介绍了这种增材制造方法的工作原理，其在微重力环境下的应用挑战，以及这项技术如何改变太空探索和卫星维护的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45484018\" target=\"_blank\">评论</a>]",
-            "url": "https://bioengineer.org/laser-sintering-3d-prints-silver-electronics-in-space/",
-            "title": "激光烧结在太空中3D打印银电子设备",
-            "date_modified": "2025-10-05T18:37:50.000Z"
-        },
-        {
-            "id": "https://github.com/Spu7Nix/obamify",
-            "content_html": "这个GitHub项目提供了一个算法工具，能够将普通照片自动转换为前美国总统奥巴马的形象。开发者使用深度学习技术训练了一个模型，可以识别并重构人脸特征，使其呈现出奥巴马的标志性特征。该项目不仅展示了AI在图像处理方面的应用，也提供了一种有趣的创意工具，用户可以上传自己的照片获得'奥巴马化'的效果。 [<a href=\"https://news.ycombinator.com/item?id=45484015\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/Spu7Nix/obamify",
-            "title": "将图像转变为奥巴马形象的算法",
-            "date_modified": "2025-10-05T18:37:42.000Z"
-        },
-        {
-            "id": "https://github.com/microsoft/vscode/issues/269737",
-            "content_html": "GitHub上的一条问题报告显示微软意外地从VSCode扩展市场移除了多个扩展程序。这一事件影响了开发者的工作流程，许多发现他们安装的扩展突然无法使用。该问题追踪了微软团队的回应和后续解决方案，包括恢复受影响扩展的计划以及防止未来类似事件发生的安全措施。这突显了软件分发平台中第三方依赖管理的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45483992\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/microsoft/vscode/issues/269737",
-            "title": "微软意外从VSCode市场移除了扩展程序",
-            "date_modified": "2025-10-05T18:34:53.000Z"
-        },
-        {
-            "id": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
-            "content_html": "《Bleeping Computer》报道了一起安全事件，黑客利用Zimbra邮件服务器中的未知零日漏洞，通过特制的iCalendar文件进行攻击。这种攻击允许攻击者在目标系统上执行任意代码，可能完全控制受影响的服务器。文章详细描述了攻击的工作原理、受影响系统以及管理员可以采取的缓解措施。这一事件提醒组织需要及时更新其电子邮件系统并监控异常日历活动。 [<a href=\"https://news.ycombinator.com/item?id=45483990\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
-            "title": "黑客利用iCalendar文件将Zimbra漏洞作为零日漏洞利用",
-            "date_modified": "2025-10-05T18:34:11.000Z"
-        },
-        {
-            "id": "https://sbcwiki.com/news/articles/how-i-optimized-my-homeserver-with-arm/",
-            "content_html": "这篇技术文章详细介绍了作者如何将家庭服务器迁移到Arm架构以获得更好的性能和能效。作者分享了具体的硬件选择、操作系统配置以及优化过程中的挑战和解决方案。通过使用Arm处理器，作者实现了更低能耗和更高计算密度，同时保持了对家庭网络服务的全面支持。这种优化方案为希望构建高效家庭服务器的用户提供了实用指导。 [<a href=\"https://news.ycombinator.com/item?id=45483957\" target=\"_blank\">评论</a>]",
-            "url": "https://sbcwiki.com/news/articles/how-i-optimized-my-homeserver-with-arm/",
-            "title": "我用Arm架构优化了我的家庭服务器",
-            "date_modified": "2025-10-05T18:30:41.000Z"
-        },
-        {
-            "id": "https://msty.ai/",
-            "content_html": "MSTY AI是一个在线人工智能工作室平台，为用户提供了一系列AI工具和服务。该平台可能包括文本生成、图像处理、数据分析等功能，使个人和企业能够轻松集成AI功能到他们的工作流程中。MSTY AI的界面设计注重用户友好性，使没有技术背景的用户也能利用先进的人工智能技术来提高工作效率和创造力。 [<a href=\"https://news.ycombinator.com/item?id=45483954\" target=\"_blank\">评论</a>]",
-            "url": "https://msty.ai/",
-            "title": "MSTY AI工作室",
-            "date_modified": "2025-10-05T18:30:28.000Z"
-        },
-        {
-            "id": "https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
-            "content_html": "《TechCrunch》报道了Anker公司提出向其Eufy安全摄像头的用户支付报酬，鼓励他们分享录制的盗窃视频用于AI训练的计划。这一提议引发了隐私问题争议，因为用户可能在不知情的情况下同意将其可能包含个人信息的敏感视频用于商业目的。文章讨论了数据收集的伦理边界，以及企业在收集用户数据时应当如何平衡创新与隐私保护。 [<a href=\"https://news.ycombinator.com/item?id=45483951\" target=\"_blank\">评论</a>]",
-            "url": "https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
-            "title": "Anker提出向Eufy摄像头所有者支付每段盗窃视频2美元用于AI训练",
-            "date_modified": "2025-10-05T18:30:20.000Z"
-        },
-        {
-            "id": "https://www.lrb.co.uk/the-paper/v47/n18/patrick-cockburn/diary",
-            "content_html": "《伦敦书评》刊载了帕特里克·考克伦的日记文章，探讨了如何采访历史人物希特勒的可能性。文章可能分析了通过研究希特勒的演讲、著作和同时代人的叙述来重构与这位纳粹领导人的虚拟对话。考克伦可能探讨了历史报道的复杂性，以及理解极端意识形态的困难，即使在面对大量历史资料的情况下。 [<a href=\"https://news.ycombinator.com/item?id=45483946\" target=\"_blank\">评论</a>]",
-            "url": "https://www.lrb.co.uk/the-paper/v47/n18/patrick-cockburn/diary",
-            "title": "帕特里克·考克伦：采访希特勒",
-            "date_modified": "2025-10-05T18:30:10.000Z"
-        },
-        {
-            "id": "https://www.taskzap.site/",
-            "content_html": "Taskzap是一个集成在WhatsApp中的任务管理工具，允许用户直接在流行的消息应用程序内创建、分配和跟踪任务。这个工具利用了WhatsApp广泛的用户基础和直观的界面，使团队协作变得更加无缝。用户可以通过简单的命令创建任务列表，设置截止日期，并接收提醒，从而无需切换到单独的任务管理应用程序就能提高工作效率。 [<a href=\"https://news.ycombinator.com/item?id=45483931\" target=\"_blank\">评论</a>]",
-            "url": "https://www.taskzap.site/",
-            "title": "Taskzap：在WhatsApp中管理您的任务",
-            "date_modified": "2025-10-05T18:29:08.000Z"
-        },
-        {
-            "id": "https://fi-le.net/oss/",
-            "content_html": "Fi-Le网站分析了GPT-OSS（一个开源的GPT风格模型）所揭示的关于OpenAI专有模型训练数据的信息。通过比较两个模型的能力和局限性，研究人员推断出OpenAI可能使用了哪些类型的数据来训练其模型，包括可能使用的编程语言、代码库和文本来源。这种分析为理解大型语言模型的训练过程和潜在偏差提供了见解。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
-            "url": "https://fi-le.net/oss/",
-            "title": "GPT-OSS泄露了关于OpenAI训练数据的什么信息",
-            "date_modified": "2025-10-05T18:28:16.000Z"
-        },
-        {
-            "id": "https://sameerbajaj.com/magicdisappears/",
-            "content_html": "Sameer Bajaj的网站'魔力消失'可能探讨了某种技术、创意或现象逐渐消失或过时的过程。文章可能分析了为什么曾经被认为具有革命性或神奇的事物最终被淘汰，以及这种消失如何影响我们的日常生活和文化。作者可能还反思了创新、怀旧和进步之间的关系，以及我们如何应对和适应不断变化的技术环境。 [<a href=\"https://news.ycombinator.com/item?id=45483908\" target=\"_blank\">评论</a>]",
-            "url": "https://sameerbajaj.com/magicdisappears/",
-            "title": "魔力消失",
-            "date_modified": "2025-10-05T18:26:15.000Z"
         }
     ]
 }
