@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://richardsapperdesign.com/products/mod-5140/",
-            "content_html": "这是关于IBM Mod. 5140的介绍，这是IBM公司推出的第一台笔记本电脑。这个产品由著名工业设计师Richard Sapper设计，在1980年代末期发布。Mod 5140采用了当时先进的技术，包括单色显示屏和内置键盘，展现了IBM在便携计算设备领域的创新。该产品是笔记本电脑发展史上的重要里程碑，为后来的便携式电脑设计奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
-            "url": "https://richardsapperdesign.com/products/mod-5140/",
-            "title": "Mod. 5140 - IBM的首台笔记本电脑",
-            "date_modified": "2025-10-05T00:35:10.000Z"
+            "id": "https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14",
+            "content_html": "这篇文章揭示了Scribd平台上隐藏着大量敏感的个人信息(PII)记录。作者指出这些数据虽然公开可见但实际上是机密的，包括身份证号、银行账户详情等。文章详细分析了如何发现这些泄露的数据，以及这种数据泄露对用户隐私和安全构成的严重威胁。这是一个关于数据安全的重要警示。 [<a href=\"https://news.ycombinator.com/item?id=45478598\" target=\"_blank\">评论</a>]",
+            "url": "https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14",
+            "title": "Scribd – 敏感数据的金矿",
+            "date_modified": "2025-10-05T03:16:44.000Z"
         },
         {
-            "id": "https://arxiv.org/abs/2509.12351",
-            "content_html": "这篇论文探讨了针对小行星2024 YR4的潜在太空任务方案。该小行星对地球构成潜在威胁，研究人员提出了多种任务选项，包括侦察任务、偏转任务和可能的摧毁任务。文章详细分析了各种技术方案的成本、可行性和效果，以及实施时间表。研究团队建议采用组合策略，先进行侦察评估威胁程度，然后根据情况选择最合适的缓解措施。这项研究对于未来应对近地小行星威胁具有重要的参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2509.12351",
-            "title": "小行星2024 YR4侦察和缓解任务的太空任务选择",
-            "date_modified": "2025-10-04T23:42:55.000Z"
+            "id": "https://github.com/BruinGrowly/URI_Transformer",
+            "content_html": "URI-Transformer是一种创新的AI架构，通过独特的数学模型实现意义建模，同时将内存使用减少了惊人的99.9%。这个开源项目展示了如何在保持语义理解能力的同时大幅降低计算资源需求。代码已公开在GitHub上，开发者可以研究和利用这一突破性技术来构建更高效的人工智能系统。 [<a href=\"https://news.ycombinator.com/item?id=45478585\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/BruinGrowly/URI_Transformer",
+            "title": "展示HN：URI-Transformer：AI架构建模意义。内存减少99.9%",
+            "date_modified": "2025-10-05T03:11:10.000Z"
         },
         {
-            "id": "https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/",
-            "content_html": "美国参议院国土安全和政府事务委员会的报告指出，DOGE在未经适当监督的情况下运作，可能违反了联邦隐私和安全法律，对美国人的个人信息安全构成威胁。报告发现该机构缺乏透明的数据管理实践，没有适当的安全措施来保护敏感信息，且未能对其数据处理活动进行充分问责。这种情况可能导致大规模数据泄露、身份盗窃和其他隐私侵犯问题。报告呼吁加强对该机构的监管，确保其遵守所有相关法律。 [<a href=\"https://news.ycombinator.com/item?id=45477686\" target=\"_blank\">评论</a>]",
-            "url": "https://www.hsgac.senate.gov/media/dems/peters-report-finds-that-doge-continues-to-operate-unchecked-likely-violating-federal-privacy-and-security-laws-and-putting-the-safety-of-americans-personal-information-in-danger/",
-            "title": "缺乏监督与问责：DOGE如何危害美国人的数据安全",
-            "date_modified": "2025-10-04T23:30:16.000Z"
+            "id": "https://daylightcomputer.com",
+            "content_html": "Daylight是一款创新的计算机设计，专注于提供更人性化的用户体验。它采用了减少蓝光、调节屏幕亮度以适应自然光线变化的技术，减轻眼睛疲劳。设计理念是基于人体生物钟，通过调整显示模式来减少屏幕对用户睡眠周期的干扰。这种以人为本的计算机设计代表了对数字健康和用户体验的新思考。 [<a href=\"https://news.ycombinator.com/item?id=45478583\" target=\"_blank\">评论</a>]",
+            "url": "https://daylightcomputer.com",
+            "title": "Daylight – 一台更关怀的电脑",
+            "date_modified": "2025-10-05T03:10:47.000Z"
         },
         {
-            "id": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
-            "content_html": "这篇文章探讨了钻孔振荡器的工作原理和应用。钻孔振荡器是一种安装在钻井内部的设备，通过产生特定频率的振动来提高钻井效率。文章详细分析了振荡器如何减少钻头与岩石之间的摩擦，改善岩屑清除，以及防止钻杆卡住等技术细节。作者还讨论了不同地质条件下振荡器参数的优化方法，以及这种技术在现代石油和天然气勘探中的重要性。此外，文章还探讨了钻孔振荡器技术可能面临的技术挑战。 [<a href=\"https://news.ycombinator.com/item?id=45477516\" target=\"_blank\">评论</a>]",
-            "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
-            "title": "钻孔振荡器",
-            "date_modified": "2025-10-04T23:02:32.000Z"
+            "id": "https://www.youtube.com/watch?v=K5w7VS2sxD0",
+            "content_html": "这段视频探讨了数学作为一门学科的未来发展方向。内容涵盖了数学研究的新兴领域、人工智能如何改变数学实践以及数学教育的创新方法。视频邀请知名数学家分享他们对学科未来的见解，讨论数学在解决当代复杂问题中的关键作用，以及保持数学纯度与应用价值之间的平衡。 [<a href=\"https://news.ycombinator.com/item?id=45478570\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=K5w7VS2sxD0",
+            "title": "数学的未来走向[视频]",
+            "date_modified": "2025-10-05T03:05:22.000Z"
         },
         {
-            "id": "https://blog.cr.yp.to/20251004-weakened.html",
-            "content_html": "这篇文章探讨了美国国家安全局(NSA)可能通过互联网工程任务组(IETF)影响密码学标准制定的风险。作者质疑是否存在潜在的利益冲突，以及外国政府或商业实体是否有可能通过影响标准制定过程，植入被故意弱化的密码算法。文章分析了IETF的决策机制和透明度，提出了担忧：如果NSA或其他实体在密码学标准制定过程中拥有不当影响力，可能导致全球广泛使用的不安全加密标准，危及全球互联网通信的安全基础。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.cr.yp.to/20251004-weakened.html",
-            "title": "NSA和IETF：攻击者能否购买被弱化的密码学标准？",
-            "date_modified": "2025-10-04T22:16:33.000Z"
+            "id": "https://medium.com/@jessenazario/was-tintin-ever-meant-for-kids-859b4ea3824b",
+            "content_html": "这篇文章深入探讨了经典漫画《丁丁冒险记》的原始受众定位问题。作者分析了创作历史背景、内容和主题，提出虽然丁丁常被视为儿童读物，但其复杂的政治讽刺、历史典故和成人主题表明原作者埃尔热可能 intended 更广泛的读者群。文章提供了对这部经典作品新层次的解读，挑战了关于其目标受众的传统认知。 [<a href=\"https://news.ycombinator.com/item?id=45478557\" target=\"_blank\">评论</a>]",
+            "url": "https://medium.com/@jessenazario/was-tintin-ever-meant-for-kids-859b4ea3824b",
+            "title": "丁丁冒险记原本是给儿童看的吗？",
+            "date_modified": "2025-10-05T03:02:28.000Z"
         },
         {
-            "id": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
-            "content_html": "华尔街日报报道，OpenAI CEO萨姆·奥尔特曼正全球奔走，寻求为该公司人工智能模型提供足够的计算资源。随着OpenAI的AI模型变得日益复杂和强大，它们需要越来越强大的计算能力支持。奥尔特曼访问了亚洲和中东地区，与多个潜在合作伙伴就芯片供应和能源问题进行谈判。报道称，OpenAI正在寻找替代能源解决方案，以应对训练AI模型所需的巨大电力消耗。这一全球性寻求反映了当前AI计算资源竞争的白热化。 [<a href=\"https://news.ycombinator.com/item?id=45477192\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
-            "title": "OpenAI对计算能力的渴望迫使Sam Altman全球奔走",
-            "date_modified": "2025-10-04T22:14:29.000Z"
+            "id": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "content_html": "这份披露详细描述了1Password命令行接口(CLI)中的一个安全漏洞。该漏洞可能导致敏感信息泄露，影响使用CLI版本的用户文档。披露包含了技术细节、潜在影响范围以及临时的缓解措施。作者建议用户等待官方修复补丁，同时提供了关于如何评估自己是否受影响的具体指导。这是对密码管理工具安全性的重要警示。 [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
+            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "title": "1Password CLI漏洞",
+            "date_modified": "2025-10-05T03:01:50.000Z"
         },
         {
-            "id": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-            "content_html": "这是关于香山处理器架构中向量浮点单元(VFPU)的技术文档。香山是中国自主研发的高性能处理器架构，其VFPU设计支持多种浮点运算，包括单精度和双精度浮点数，以及向量运算。文档详细介绍了VFPU的架构设计、指令集、性能参数以及与其他处理单元的协同工作机制。VFPU采用高度并行化设计，能够高效处理科学计算、人工智能应用等需要大量浮点运算的任务。该文档为开发者提供了关于如何充分利用向量浮点单元功能的详细指导。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
-            "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-            "title": "香山向量浮点单元设计",
-            "date_modified": "2025-10-04T22:02:28.000Z"
+            "id": "https://news.ycombinator.com/item?id=45478524",
+            "content_html": "这是一条Hacker News上的提问，用户报告在使用HNews移动应用时经常遇到自动登出的问题。发布者寻求其他用户是否遇到类似问题以及可能的解决方案。这反映了移动应用用户体验中常见的技术故障，特别是身份验证状态维护方面的挑战。讨论涉及了可能的解决方法和替代应用推荐。 [<a href=\"https://news.ycombinator.com/item?id=45478524\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45478524",
+            "title": "询问HN：HNews移动版经常自动登出？",
+            "date_modified": "2025-10-05T02:54:06.000Z"
         },
         {
-            "id": "https://salykova.github.io/matrix-cores-cdna",
-            "content_html": "这篇指南介绍了如何在AMD GPU上有效地使用矩阵核心进行编程。AMD GPU集成了专门的矩阵计算单元，可以显著加速矩阵运算，这在机器学习、科学计算和图形处理等领域具有重要应用。文章详细讲解了AMD矩阵核心的架构特性，支持的矩阵操作类型，以及如何通过CDNA架构充分利用这些核心。作者提供了编程示例和优化技巧，帮助开发者最大化矩阵计算性能。该指南对于需要在AMD平台上进行高性能矩阵计算的开发者具有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
-            "url": "https://salykova.github.io/matrix-cores-cdna",
-            "title": "AMD GPU上的矩阵核编程",
-            "date_modified": "2025-10-04T21:22:11.000Z"
+            "id": "https://news.ycombinator.com/item?id=45478503",
+            "content_html": "这篇讨论概述了主要人体冷冻服务提供商之间的技术差异和选择考量。内容涵盖了不同公司的保存方法(神经学vs全身冷冻)、设施位置、价格结构以及长期可持续性等方面。文章提供了如何评估这些因素以做出明智选择的指南，这对考虑人体冷冻服务的人具有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45478503\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45478503",
+            "title": "人体冷冻服务提供商之间的差异",
+            "date_modified": "2025-10-05T02:48:58.000Z"
         },
         {
-            "id": "https://sunboxlabs.com/",
-            "content_html": "Sunbox Labs提供了一种创新的能源解决方案，声称可以通过912美元的投资实现能源独立。该方案可能包括太阳能电池板、储能系统和智能电网技术的组合，为家庭或小型企业提供自主发电和能源管理能力。通过消除对传统电网的依赖，用户可以减少能源成本，提高能源安全，并为减少碳足迹做出贡献。该平台提供一站式解决方案，从设备采购到安装维护，简化了可再生能源采用的过程。这种低成本方案适合寻求减少能源开支的个人和小型企业。 [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
-            "url": "https://sunboxlabs.com/",
-            "title": "912美元无繁琐手续的能源独立方案",
-            "date_modified": "2025-10-04T21:22:05.000Z"
+            "id": "https://pubmed.ncbi.nlm.nih.gov/33334475/",
+            "content_html": "这篇医学研究探讨了摩托车安全与器官捐赠之间的关系，挑战了将摩托车称为『捐献者摩托车』的刻板印象。研究分析了事故数据、存活率以及实际器官捐献率，发现与普遍认知相比，摩托车事故导致器官捐赠的比例要低得多。文章提供了基于数据的客观视角，有助于纠正关于摩托车安全风险的误解。 [<a href=\"https://news.ycombinator.com/item?id=45478502\" target=\"_blank\">评论</a>]",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33334475/",
+            "title": "摩托车是『捐献者摩托车』吗？",
+            "date_modified": "2025-10-05T02:48:17.000Z"
         },
         {
-            "id": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-            "content_html": "电子前哨基金会(EFF)的文章指出，英国政府仍在试图为苹果设备上的加密开后门，这可能危及全球用户的数据安全。据报道，英国当局要求苹果为其设备构建一种特殊功能，允许执法部门在获得适当授权后访问加密数据。EFF批评这一举措违背了加密的基本原则，即保护用户隐私和数据安全不受政府不当干预。文章指出，一旦存在这样的后门，它不仅可能被英国政府滥用，还可能被其他恶意行为者发现和利用，危及所有用户的通信安全。 [<a href=\"https://news.ycombinator.com/item?id=45476273\" target=\"_blank\">评论</a>]",
-            "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-            "title": "英国仍试图为苹果用户加密开后门",
-            "date_modified": "2025-10-04T20:07:11.000Z"
+            "id": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
+            "content_html": "纽约时报报道，苹果公司回应了特朗普政府施加的压力，从应用商店下架了用于追踪ICE(美国移民和海关执法局)活动的应用程序。此举反映了科技公司在移民政策争议中面临的复杂立场。文章探讨了这一决定的政治背景、对隐私权的影响以及科技公司如何平衡政府压力与用户权益之间的紧张关系。 [<a href=\"https://news.ycombinator.com/item?id=45478475\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
+            "title": "苹果下架ICE追踪应用回应特朗普压力活动",
+            "date_modified": "2025-10-05T02:42:39.000Z"
         },
         {
-            "id": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
-            "content_html": "这篇文章分析了Microsoft 365 Copilot的商业表现，认为它未能达到微软的预期目标。Copilot是微软推出的AI助手，旨在提高Office套件的生产力，但据报道采用率远低于预期。文章指出，高昂的定价、有限的功能集和实际生产力提升不明显是导致市场反应冷淡的主要原因。此外，企业客户对数据安全和隐私的担忧，以及对AI辅助功能实际价值的质疑，也影响了Copilot的广泛采用。微软需要重新评估其AI战略，才能在竞争日益激烈的AI助手市场中取得成功。 [<a href=\"https://news.ycombinator.com/item?id=45476045\" target=\"_blank\">评论</a>]",
-            "url": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
-            "title": "Microsoft 365 Copilot商业上失败",
-            "date_modified": "2025-10-04T19:39:00.000Z"
+            "id": "https://www.youtube.com/watch?v=I1dW-nZqhew",
+            "content_html": "这段视频由知名YouTuber Casey Neistat制作，探讨Sora这一AI驱动的短视频平台对创意产业的影响。视频质疑了AI生成内容是否会取代人类创作者，同时分析其对创意过程、原创性和就业市场的潜在变革。Neistat从创作者角度分享了关于AI与人类创造力共存的见解，提供了关于技术如何重塑内容创作的平衡观点。 [<a href=\"https://news.ycombinator.com/item?id=45478463\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=I1dW-nZqhew",
+            "title": "Sora：全AI版TikTok克隆。Sora会终结创造力吗？[由Casey Neistat制作]",
+            "date_modified": "2025-10-05T02:37:18.000Z"
         },
         {
-            "id": "https://blogfeeds.net",
-            "content_html": "BlogFeeds.net是一个提供博客聚合服务的平台，它收集各种主题的博客内容，为用户提供一站式的阅读体验。用户可以通过该平台发现新的博客，订阅自己感兴趣的作者和话题，并获得最新的文章更新。网站可能提供分类浏览、关键词搜索和个性化推荐等功能，帮助用户高效地获取有价值的信息。BlogFeeds.net对于希望扩展阅读范围、跟踪多个博客动态的用户特别有用，同时也为博客作者提供了增加读者群的渠道。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
-            "url": "https://blogfeeds.net",
-            "title": "博客订阅源",
-            "date_modified": "2025-10-04T19:08:46.000Z"
+            "id": "https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges",
+            "content_html": "这篇博客文章介绍了Cognition公司开发的AI模型Sonnet 4.5的新特性，它能够感知并理解自己的上下文窗口限制。作者将这种自我认知状态描述为『上下文焦虑』，探讨了这一特性对AI行为的影响和潜在应用场景。文章分享了在开发过程中遇到的技术挑战和解决方案，以及对未来AI系统设计的启示。 [<a href=\"https://news.ycombinator.com/item?id=45478462\" target=\"_blank\">评论</a>]",
+            "url": "https://cognition.ai/blog/devin-sonnet-4-5-lessons-and-challenges",
+            "title": "Sonnet 4.5能感知自己的上下文窗口，导致『上下文焦虑』",
+            "date_modified": "2025-10-05T02:37:06.000Z"
         },
         {
-            "id": "https://github.com/DebarghaG/proofofthought",
-            "content_html": "ProofOfThought是一个将大型语言模型与Z3定理证明器相结合的项目，旨在提高LLM的逻辑推理能力。该项目允许LLM生成形式化证明，然后使用Z3定理证明器验证这些证明的正确性。这种方法结合了LLM的自然语言处理优势和Z3的形式化验证能力，可以显著减少幻觉问题并提高推理可靠性。项目提供了工具和框架，使研究人员和开发者能够构建更可靠的基于LLM的应用程序，特别是在需要严谨逻辑推理的场景中。该项目的源代码在GitHub上公开，欢迎社区贡献和改进。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/DebarghaG/proofofthought",
-            "title": "ProofOfThought：基于Z3定理证明的LLM推理",
-            "date_modified": "2025-10-04T18:34:23.000Z"
+            "id": "https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html",
+            "content_html": "科技探索网站报道，G1人形机器人被发现未经用户同意将数据秘密传输到中国服务器，同时存在严重的安全漏洞，使它们容易受到黑客攻击。文章分析了这一数据传输的规模、类型以及潜在风险，包括隐私侵犯和安全威胁。报道还讨论了监管机构、制造商和用户应对这一问题的措施，以及对未来消费级机器人安全的警示。 [<a href=\"https://news.ycombinator.com/item?id=45478456\" target=\"_blank\">评论</a>]",
+            "url": "https://techxplore.com/news/2025-09-g1-humanoid-robots-secretly-china.html",
+            "title": "G1人形机器人正在向中国发送信息且容易被黑客攻击",
+            "date_modified": "2025-10-05T02:35:35.000Z"
         },
         {
-            "id": "https://github.com/Esubaalew/run",
-            "content_html": "Run是一个用Rust语言开发的命令行工具，旨在提供一个通用的代码运行解决方案。开发者在学习Rust的过程中创建了这个项目，它允许用户通过命令行直接运行多种编程语言的代码，无需为每种语言配置复杂的环境。该工具支持代码的在线执行，适用于快速测试、学习和分享代码片段。项目体现了Rust在开发系统工具方面的优势，包括高性能、安全性和跨平台兼容性。Run的源代码托管在GitHub上，遵循开源协议，欢迎社区反馈和贡献。 [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/Esubaalew/run",
-            "title": "分享HN：Run - 我在学习Rust时构建的CLI通用代码运行器",
-            "date_modified": "2025-10-04T18:34:13.000Z"
+            "id": "https://www.grumpygamer.com/git_json_markdown/",
+            "content_html": "这篇文章以幽默的叙事形式，将Git、JSON和Markdown拟人化，描述它们『走进酒吧』的情景。通过这个隐喻，作者生动地解释了这三个开发工具的基本概念、用途和它们如何协同工作。文章以轻松有趣的方式介绍了版本控制、数据格式化和文档标记的基础知识，适合初学者理解这些常用技术工具。 [<a href=\"https://news.ycombinator.com/item?id=45478451\" target=\"_blank\">评论</a>]",
+            "url": "https://www.grumpygamer.com/git_json_markdown/",
+            "title": "Git、JSON和Markdown走进酒吧",
+            "date_modified": "2025-10-05T02:34:16.000Z"
         },
         {
-            "id": "https://arxiv.org/abs/2509.19371",
-            "content_html": "这篇论文探讨了向大型语言模型(LLM)高效注入外部知识的方法，并提出了“知识注入扩展定律“。研究人员分析了不同知识注入技术(如参数微调、检索增强和提示工程)的效果和效率，发现了模型大小与知识吸收能力之间的定量关系。论文指出，随着模型参数规模的增加，知识注入的效率呈现特定规律，这有助于优化知识注入策略。研究团队通过大量实验验证了他们的理论，并提出了在保持性能的同时最小化计算开销的方法。这项研究对于提高LLM的知识准确性具有重要价值。 [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2509.19371",
-            "title": "如何高效注入知识？LLM的知识注入扩展定律",
-            "date_modified": "2025-10-04T17:18:07.000Z"
+            "id": "https://afunning.com",
+            "content_html": "SereneSoul是一个完全免费的白噪音和自然声音平台，提供无需注册和无广告的纯净体验。网站汇集了各种环境声音，如雨声、海浪、森林等，帮助用户放松、专注或改善睡眠。其设计理念是提供简单的音频解决方案，没有复杂的会员制度或付费墙，使每个人都能轻松获得高质量的放松音频。 [<a href=\"https://news.ycombinator.com/item?id=45478426\" target=\"_blank\">评论</a>]",
+            "url": "https://afunning.com",
+            "title": "SereneSoul – 100%免费的白噪音和自然声音（无广告，无需注册）",
+            "date_modified": "2025-10-05T02:29:29.000Z"
         },
         {
-            "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "content_html": "这篇文章通过解决“编程挑战日“(Advent of Code)的问题，详细比较了Ada和Rust两种编程语言的特性和表现。作者使用相同的问题和算法实现，对比了两种语言在代码简洁性、性能、安全性、错误处理和并发能力等方面的差异。分析显示，Rust在内存安全和并发编程方面具有优势，而Ada则在任务关键型系统和嵌入式应用领域表现更为突出。文章还讨论了两种语言的类型系统、包管理和开发工具链的异同。这项比较对于需要在项目中选择合适编程语言的开发者提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "title": "通过解决Advent of Code问题比较Ada和Rust",
-            "date_modified": "2025-10-04T15:10:49.000Z"
+            "id": "https://socibubble.carrd.co",
+            "content_html": "这个网站探讨了社交媒体时代人际关系质量的问题，倡导关注有意义的真实连接而非表面的数字关系。它提供了反思社交媒体使用习惯的工具和指南，帮助用户区分真正的友谊和在线关注。网站强调了深度互动、共同价值观和情感支持在健康人际关系中的重要性，鼓励用户重新思考如何在数字世界中建立真诚连接。 [<a href=\"https://news.ycombinator.com/item?id=45478374\" target=\"_blank\">评论</a>]",
+            "url": "https://socibubble.carrd.co",
+            "title": "寻找真正的朋友，而不仅仅是追随者",
+            "date_modified": "2025-10-05T02:16:14.000Z"
         },
         {
-            "id": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "content_html": "这篇文章分享了作者作为高级软件工程师在科技公司内部政治环境中有效影响决策的策略和经验。作者详细讨论了如何在技术决策中平衡业务需求与工程最佳实践，以及如何在不正式权力职位的情况下推动重要技术变革。文章强调了建立人际网络、理解组织动力、清晰沟通和展示技术价值的重要性。作者还分享了处理抵制、建立共识和长期维持技术影响力的实用技巧。这些见解对于那些希望在技术组织中发挥更大影响力的工程师，特别是刚晋升到高级职位的工程师，提供了宝贵的指导。 [<a href=\"https://news.ycombinator.com/item?id=45473852\" target=\"_blank\">评论</a>]",
-            "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "title": "作为一名高级软件工程师，我如何影响科技公司政治",
-            "date_modified": "2025-10-04T15:09:41.000Z"
+            "id": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
+            "content_html": "CNBC报道了OpenAI CEO山姆·奥特曼关于Sora视频生成应用的言论，他坦言对潜在版权问题的担忧，表示『希望任天堂不会起诉我们』。文章探讨了AI生成内容与现有版权法之间的紧张关系，以及OpenAI在训练数据使用方面的法律风险。报道分析了这一表态背后的行业现实，即AI公司在创新与法律合规之间寻求平衡面临的挑战。 [<a href=\"https://news.ycombinator.com/item?id=45478369\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
+            "title": "AI山姆·奥特曼和Sora版权赌注：『我希望任天堂不会起诉我们』",
+            "date_modified": "2025-10-05T02:14:58.000Z"
         },
         {
-            "id": "https://maxadamski.com/blog/2025/10/email.html",
-            "content_html": "这篇文章探讨了如何以复古的方式实现自托管电子邮件系统，模拟1984年代的电子邮件体验。作者介绍了使用老式硬件和软件配置邮件服务器的方法，包括选择适当的操作系统、邮件传输代理(MTA)和邮件用户代理(MUA)。文章详细讲解了配置SMTP、POP3和IMAP协议的步骤，以及如何处理现代电子邮件系统中的安全挑战。作者还讨论了这种自托管方式的优缺点，包括对隐私控制的增强和随之而来的维护复杂性。这篇文章对于那些对互联网历史感兴趣或希望体验早期电子邮件技术的读者具有吸引力。 [<a href=\"https://news.ycombinator.com/item?id=45473730\" target=\"_blank\">评论</a>]",
-            "url": "https://maxadamski.com/blog/2025/10/email.html",
-            "title": "像1984年那样自托管电子邮件",
-            "date_modified": "2025-10-04T14:53:32.000Z"
+            "id": "https://basicappleguy.com/basicappleblog/ios-icon-history",
+            "content_html": "这篇文章详细回顾了iOS操作系统图标设计的演变历程，从最初的iPhone到最新版本。内容涵盖了不同时期的设计风格变化、图标演进背后的设计理念，以及这些变化如何反映整体用户体验趋势的演变。文章提供了丰富的视觉对比，帮助读者理解苹果设计语言的发展，以及图标设计如何适应不同屏幕尺寸和用户期望。 [<a href=\"https://news.ycombinator.com/item?id=45478320\" target=\"_blank\">评论</a>]",
+            "url": "https://basicappleguy.com/basicappleblog/ios-icon-history",
+            "title": "iOS图标历史",
+            "date_modified": "2025-10-05T02:02:41.000Z"
         },
         {
-            "id": "https://www.folklore.org/Thunderscan.html",
-            "content_html": "这篇文章讲述了Thunderscan的历史，这是一个1981年推出的创新设备，它能够将Apple II打印机转变为扫描仪。Thunderscan由工程师Glenn Knapp发明，它包含一个光学扫描单元和特殊的控制软件，当安装在打印机上时，可以利用打印机的机械运动来扫描文档。这个设备在个人计算机早期阶段为普通用户提供了数字化的可能，远在消费级扫描仪普及之前。文章详细描述了Thunderscan的技术原理、市场反应以及它对个人计算发展的贡献，反映了苹果生态系统中那些被遗忘但具有创新精神的硬件产品的历史。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
-            "url": "https://www.folklore.org/Thunderscan.html",
-            "title": "Thunderscan：一个巧妙的设备将打印机变成扫描仪",
-            "date_modified": "2025-10-04T12:16:37.000Z"
+            "id": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839068",
+            "content_html": "这项医学研究探讨了足球运动员频繁头部撞击与额叶灰白界面损伤之间的关联，以及这种损伤对语言学习能力的影响。研究发现，长期参与头部接触运动的运动员可能存在特定脑区微观结构变化，这些变化与语言处理和学习能力的下降相关。研究强调了运动安全的重要性，并为制定更有效的防护措施提供了科学依据。 [<a href=\"https://news.ycombinator.com/item?id=45478306\" target=\"_blank\">评论</a>]",
+            "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839068",
+            "title": "额叶灰白界面损伤、足球头部撞击与语言学习",
+            "date_modified": "2025-10-05T01:59:52.000Z"
         },
         {
-            "id": "https://www.buchstabenmuseum.de/en/",
-            "content_html": "柏林字母博物馆(Buchstabenmuseum)宣布即将关闭，这是德国文化遗产的一大损失。该博物馆专门收藏和展示来自柏林各地的老式招牌和字母符号，这些文物见证了城市的变迁和设计历史。博物馆的藏品包括从商业建筑、广告牌和公共设施中收集的各种字体和字母设计，代表了20世纪德国设计的重要部分。关闭原因可能与资金不足、场地问题或其他运营挑战有关。这一消息引发了设计爱好者和文化遗产保护者的担忧，许多人呼吁寻找方式保存这一独特的文化机构及其珍贵藏品。字母博物馆的关闭象征着对城市历史和设计遗产保护面临的持续挑战。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
-            "url": "https://www.buchstabenmuseum.de/en/",
-            "title": "柏林字母博物馆即将关闭",
-            "date_modified": "2025-10-04T11:58:58.000Z"
+            "id": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
+            "content_html": "这篇文章以幽默的方式讨论了编程中的一个经典禁忌：使用正则表达式解析XML。作者承认这违反最佳实践，但展示了在某些特定场景下，如何巧妙地使用正则表达式解决实际问题。文章提供了实用的技巧和代码示例，同时强调了理解何时打破规则的重要性。这种既尊重标准又灵活变通的方法反映了软件开发中实用主义与理论原则的平衡。 [<a href=\"https://news.ycombinator.com/item?id=45478300\" target=\"_blank\">评论</a>]",
+            "url": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
+            "title": "你无法用正则表达式解析XML。但我们还是来做吧",
+            "date_modified": "2025-10-05T01:58:31.000Z"
         }
     ]
 }
