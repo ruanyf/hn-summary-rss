@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 18:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 18:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[使用模板函子的C++回调函数 – Rich Hickey (1994)]]></title>
-            <link>http://www.tutok.sk/fastgl/callback.html</link>
-            <guid isPermaLink="false">http://www.tutok.sk/fastgl/callback.html</guid>
-            <pubDate>Sun, 05 Oct 2025 17:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[该文章由Rich Hickey于1994年撰写，讨论了在C++中使用模板函子实现回调函数的技术方法。文章详细解释了如何利用模板元编程技术创建灵活的回调机制，避免使用函数指针的局限性。这种方法提供了类型安全和更好的封装性，为现代C++的函数式编程概念奠定了基础。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[GBoard拨盘版]]></title>
+            <link>https://www.youtube.com/watch?si=O4ON3FGAxNkRobCj&amp;v=BgdWyD0cBx4&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?si=O4ON3FGAxNkRobCj&amp;v=BgdWyD0cBx4&amp;feature=youtu.be</guid>
+            <pubDate>Sun, 05 Oct 2025 18:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[这个YouTube视频展示了Google键盘GBoard的最新拨盘版本。这个新版本可能包括通过圆形拨盘进行输入或导航的功能，为用户提供了一种新的文本输入方式。视频详细演示了如何使用这个拨盘功能以及它在日常使用中的优势。 [<a href="https://news.ycombinator.com/item?id=45484124" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[火灾摧毁韩国政府云存储系统，无可用备份]]></title>
-            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
-            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
-            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[韩国国家情报研究服务器的云存储系统遭遇火灾完全损毁，且系统没有备份机制。这一事件导致大量政府数据可能永久丢失，引发了对政府数据安全策略的严重质疑。报道指出，该系统存储了敏感的政府信息和公民数据，此次事故凸显了数据备份策略的重要性以及云系统灾难恢复规划的必要性。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[现有飞机后滑翔，Aerocart货运滑翔机]]></title>
+            <link>https://www.aerolane.com/</link>
+            <guid isPermaLink="false">https://www.aerolane.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:49:31 GMT</pubDate>
+            <content:encoded><![CDATA[Aerolane公司介绍了一种创新的Aerocart货运滑翔机，它可以在现有飞机后方进行滑翔。这种设计使得大型运输机能够携带额外的货物，通过滑翔机的方式增加运载能力而无需改变主体飞机的结构。这种技术可以提高货运效率，降低运输成本，特别是在远程或难以到达的地区。 [<a href="https://news.ycombinator.com/item?id=45484123" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[专注就是说『不』]]></title>
-            <link>https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</link>
-            <guid isPermaLink="false">https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</guid>
-            <pubDate>Sun, 05 Oct 2025 17:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[该文章探讨了软件现代化项目中的核心困境，强调在资源有限的情况下，学会说『不』是保持项目专注的关键。作者指出，技术团队常面临功能扩展压力，但过度扩展会导致项目分散资源、延迟核心功能交付。文章提供了实用的策略，帮助团队识别优先级、委婉拒绝不必要的功能请求，确保项目聚焦于最有价值的部分，提高交付质量和效率。 [<a href="https://news.ycombinator.com/item?id=45483275" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我如何最终让Firebase验证我的Squarespace域名]]></title>
+            <link>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</link>
+            <guid isPermaLink="false">https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</guid>
+            <pubDate>Sun, 05 Oct 2025 18:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细介绍了作者如何成功配置Firebase与Squarespace的自定义域名之间的验证过程。作者分享了在设置过程中遇到的各种挑战和解决方案，包括DNS配置、SSL证书设置以及Firebase项目中自定义域名的添加步骤。这对于希望将Firebase服务集成到Squarespace网站的用户提供了宝贵的实践经验。 [<a href="https://news.ycombinator.com/item?id=45484089" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[通过监督学习框架实现隐式Actor-Critic耦合用于RLVR]]></title>
-            <link>https://arxiv.org/abs/2509.02522</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.02522</guid>
-            <pubDate>Sun, 05 Oct 2025 17:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[该研究论文提出了一种新型强化学习方法，通过监督学习框架实现Actor和Critic模型的隐式耦合。这种方法针对RLVR优化了传统Actor-Critic算法，通过引入监督信号指导策略更新，提高了学习效率和稳定性。研究展示了这种方法在复杂环境中的性能优势，为强化学习领域提供了新的技术思路。 [<a href="https://news.ycombinator.com/item?id=45483205" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[工程病毒对抗细菌]]></title>
+            <link>https://www.popularmechanics.com/science/a68825778/custom-viruses-fight-e-coli/</link>
+            <guid isPermaLink="false">https://www.popularmechanics.com/science/a68825778/custom-viruses-fight-e-coli/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[《大众力学》杂志探讨了利用经过基因工程的病毒对抗细菌感染的前沿科学。研究人员正在开发能够特异性靶向有害细菌的噬菌体，这些'定制病毒'可以精确攻击大肠杆菌等病原体，同时避免伤害有益细菌。这种被称为噬菌体疗法的治疗方法可能成为抗生素的替代方案，特别是在应对抗生素耐药性危机方面具有巨大潜力。 [<a href="https://news.ycombinator.com/item?id=45484078" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[比亚迪建造世界最快汽车]]></title>
-            <link>https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</link>
-            <guid isPermaLink="false">https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</guid>
-            <pubDate>Sun, 05 Oct 2025 15:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[比亚迪公司宣布成功研发出全球速度最快的电动汽车，该车型采用先进的电池技术和创新设计，最高时速突破400公里。这一成就标志着中国电动汽车技术的重大突破，展现了比亚迪在新能源和电动车领域的领先地位。报道指出，这款车型不仅速度惊人，还实现了出色的能效表现，重新定义了电动汽车的性能标准，对全球汽车产业格局可能产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45482516" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[外科医生重返战区帮助刚果数千名强奸受害者之一]]></title>
+            <link>https://www.thetimes.com/world/africa/article/sophie-duchess-congo-rape-victims-fj7s0vm3q</link>
+            <guid isPermaLink="false">https://www.thetimes.com/world/africa/article/sophie-duchess-congo-rape-victims-fj7s0vm3q</guid>
+            <pubDate>Sun, 05 Oct 2025 18:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[《泰晤士报》报道了一位外科医生重返刚果民主共和国的战区，为当地数千名强奸受害者提供医疗援助的故事。文章讲述了一位勇敢的医疗工作者冒着个人风险，前往冲突地区为性暴力受害者提供手术和心理支持。这反映了刚果持续冲突中性暴力作为战争武器的残酷现实，以及国际社会需要更多关注和支持这一人道危机。 [<a href="https://news.ycombinator.com/item?id=45484061" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[如果芝加哥大学不捍卫人文学科，谁会？]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</link>
-            <guid isPermaLink="false">https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</guid>
-            <pubDate>Sun, 05 Oct 2025 15:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了芝加哥大学近期削减人文学科博士项目的决定，及其对高等教育的深远影响。作者质疑在当前技术和功利主义导向的教育环境中，顶尖大学是否应该放弃对人文学科的坚守。文章分析了人文学科在培养批判性思维、伦理判断和文化理解方面的重要性，呼吁教育机构重新审视全面教育的价值，而非仅关注就业率和短期经济回报。 [<a href="https://news.ycombinator.com/item?id=45482484" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[最近针对GitHub的网络钓鱼攻击]]></title>
+            <link>https://digitalseams.com/blog/a-recent-phishing-attack-on-github</link>
+            <guid isPermaLink="false">https://digitalseams.com/blog/a-recent-phishing-attack-on-github</guid>
+            <pubDate>Sun, 05 Oct 2025 18:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[DigitalSeams博客分析了最近针对GitHub平台的一次网络钓鱼攻击事件。文章详细描述了攻击者如何利用精心设计的钓鱼邮件和假冒页面诱骗开发者泄露其GitHub凭证。作者提供了识别此类攻击的技巧，以及如何在发现自己的账户可能已被盗用时采取的安全措施。这次攻击提醒了开发社区保持警惕和实施多因素验证的重要性。 [<a href="https://news.ycombinator.com/item?id=45484058" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NFS四十周年——回顾Sun Microsystems网络文件系统]]></title>
-            <link>https://nfs40.online/</link>
-            <guid isPermaLink="false">https://nfs40.online/</guid>
-            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[今年是网络文件系统诞生40周年，这个由Sun Microsystems开发的革命性技术彻底改变了分布式计算和数据共享方式。文章回顾了NFS从1984年诞生至今的发展历程，探讨了它如何成为现代网络存储的基础。报道介绍了NFS的技术演进、关键里程碑及其对云计算和现代存储系统的影响，同时展示了技术社区为庆祝这一里程碑而组织的活动和相关纪念内容。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我们如何构建了可在几秒内启动的云GPU笔记本]]></title>
+            <link>https://modal.com/blog/notebooks-internals</link>
+            <guid isPermaLink="false">https://modal.com/blog/notebooks-internals</guid>
+            <pubDate>Sun, 05 Oct 2025 18:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[Modal公司分享了他们开发的一种创新云GPU笔记本的技术细节，这种笔记本能够在几秒钟内启动并运行。文章深入探讨了他们的系统架构优化策略，包括容器技术、持久化存储和预加载模型等技术。这种快速启动的云GPU笔记本为数据科学家和机器学习工程师提供了高效的计算环境，大大减少了等待时间和资源浪费。 [<a href="https://news.ycombinator.com/item?id=45484055" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示 HN：ASCII绘图板]]></title>
-            <link>https://www.delopsu.com/draw.html</link>
-            <guid isPermaLink="false">https://www.delopsu.com/draw.html</guid>
-            <pubDate>Sun, 05 Oct 2025 15:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个在Hacker News社区展示的基于ASCII字符的在线绘图工具。用户可以使用简单的文本界面创建ASCII艺术作品，支持基本的绘图功能如画线、矩形和自由绘制。该工具无需安装，通过浏览器直接使用，适合快速创建简单的图形或进行创意文本设计。项目展示了如何将传统绘图概念应用于纯文本环境，为开发者提供了一种轻量级的可视化表达方式。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[无行为，无名氏]]></title>
+            <link>https://www.laphamsquarterly.org/celebrity/without-deeds-without-names</link>
+            <guid isPermaLink="false">https://www.laphamsquarterly.org/celebrity/without-deeds-without-names</guid>
+            <pubDate>Sun, 05 Oct 2025 18:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[《拉帕姆季刊》的这篇文章探讨了名人文化和无名氏之间的关系。文章可能分析了现代社会中，个人名声与其实际行动之间的脱节现象，以及无名氏如何默默塑造了历史和文化。作者可能还探讨了在数字化时代，名人与普通人之间的界限如何模糊，以及这种模糊带来的社会影响。 [<a href="https://news.ycombinator.com/item?id=45484028" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[对DeepSeek的妖魔化：NIST如何将开放科学变成安全恐慌]]></title>
-            <link>https://erichartford.com/the-demonization-of-deepseek</link>
-            <guid isPermaLink="false">https://erichartford.com/the-demonization-of-deepseek</guid>
-            <pubDate>Sun, 05 Oct 2025 15:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章批评了美国国家标准与技术研究院对DeepSeek等开源AI模型的评估过程，认为其评估方法带有偏见，将开放科学研究不当妖魔化为安全威胁。作者指出，NIST的某些评估标准可能过度强调安全风险而忽视开源技术的创新价值和透明度优势。文章呼吁在AI安全评估中保持平衡，既要考虑潜在风险，也应维护开放科学的原则和多样性。 [<a href="https://news.ycombinator.com/item?id=45482106" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[死亡、失踪和强迫征兵：苏丹无休止战争的恐怖]]></title>
+            <link>https://www.theguardian.com/world/2025/oct/02/refugees-recall-horrors-of-sudan-civil-war</link>
+            <guid isPermaLink="false">https://www.theguardian.com/world/2025/oct/02/refugees-recall-horrors-of-sudan-civil-war</guid>
+            <pubDate>Sun, 05 Oct 2025 18:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[《卫报》报道了苏丹内战中平民面临的恐怖现实。文章通过难民的第一人称叙述，展现了冲突地区发生的死亡事件、人员失踪以及平民被强迫加入武装团体的情况。这些个人故事揭示了战争的残酷性及其对普通民众生活的毁灭性影响，同时也呼吁国际社会采取行动结束这场持续的人道主义危机。 [<a href="https://news.ycombinator.com/item?id=45484027" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[QNX操作系统]]></title>
-            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
-            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
-            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[QNX是一种微内核实时操作系统，以其高可靠性和安全性而闻名。文章详细介绍了QNX的核心架构特点，包括其微内核设计、最小化信任基础和全面的进程间通信机制。QNX广泛应用于汽车电子、工业控制、医疗设备等对稳定性要求极高的领域。文章还探讨了QNX如何通过其独特的架构实现高可靠性和安全性，以及它在现代嵌入式系统中的重要地位。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[激光烧结在太空中3D打印银电子设备]]></title>
+            <link>https://bioengineer.org/laser-sintering-3d-prints-silver-electronics-in-space/</link>
+            <guid isPermaLink="false">https://bioengineer.org/laser-sintering-3d-prints-silver-electronics-in-space/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[BioEngineer.org报道了一项突破性技术，即利用激光烧结技术在太空中直接3D打印银电子设备。这项技术为未来的太空任务提供了就地制造电子组件的能力，无需从地球运送。文章详细介绍了这种增材制造方法的工作原理，其在微重力环境下的应用挑战，以及这项技术如何改变太空探索和卫星维护的可能性。 [<a href="https://news.ycombinator.com/item?id=45484018" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Test-Ipv6.com正式退役]]></title>
-            <link>https://retire.test-ipv6.com/</link>
-            <guid isPermaLink="false">https://retire.test-ipv6.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 14:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[Test-Ipv6.com网站宣布正式停止服务，该网站多年来一直是测试IPv6兼容性的重要资源。网站创始人表示，随着IPv6的普及和主流化，这一测试工具的历史使命已经完成。回顾其发展历程，该工具帮助无数开发者和网络管理员测试和诊断IPv6部署问题，推动了互联网向IPv6的平稳过渡。文章感谢了所有贡献者和使用者，并提供了替代资源的建议。 [<a href="https://news.ycombinator.com/item?id=45481609" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[将图像转变为奥巴马形象的算法]]></title>
+            <link>https://github.com/Spu7Nix/obamify</link>
+            <guid isPermaLink="false">https://github.com/Spu7Nix/obamify</guid>
+            <pubDate>Sun, 05 Oct 2025 18:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目提供了一个算法工具，能够将普通照片自动转换为前美国总统奥巴马的形象。开发者使用深度学习技术训练了一个模型，可以识别并重构人脸特征，使其呈现出奥巴马的标志性特征。该项目不仅展示了AI在图像处理方面的应用，也提供了一种有趣的创意工具，用户可以上传自己的照片获得'奥巴马化'的效果。 [<a href="https://news.ycombinator.com/item?id=45484015" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示 HN：Pyscn——适合氛围感程序员的Python代码质量分析工具]]></title>
-            <link>https://github.com/ludo-technologies/pyscn</link>
-            <guid isPermaLink="false">https://github.com/ludo-technologies/pyscn</guid>
-            <pubDate>Sun, 05 Oct 2025 13:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[Pyscn是一个专为Python开发者设计的代码质量分析工具，它结合了静态分析和启发式方法，帮助识别代码中的异味和潜在问题。该工具不仅关注传统的代码规范问题，还注重代码的可读性和维护性，为开发者提供直观的反馈。Pyscn易于集成到开发流程中，支持多种IDE和CI/CD工具，旨在帮助团队提高代码质量，减少技术债务，同时保持良好的编码体验。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[微软意外从VSCode市场移除了扩展程序]]></title>
+            <link>https://github.com/microsoft/vscode/issues/269737</link>
+            <guid isPermaLink="false">https://github.com/microsoft/vscode/issues/269737</guid>
+            <pubDate>Sun, 05 Oct 2025 18:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[GitHub上的一条问题报告显示微软意外地从VSCode扩展市场移除了多个扩展程序。这一事件影响了开发者的工作流程，许多发现他们安装的扩展突然无法使用。该问题追踪了微软团队的回应和后续解决方案，包括恢复受影响扩展的计划以及防止未来类似事件发生的安全措施。这突显了软件分发平台中第三方依赖管理的重要性。 [<a href="https://news.ycombinator.com/item?id=45483992" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用ARM SIMD实现86 GB/s的位打包（单线程）]]></title>
-            <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
-            <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
-            <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个性能优化的技术项目，展示了如何在单线程环境下利用ARM SIMD指令集实现高达86 GB/s的位打包速度。项目包含详细的优化技术实现，包括对齐处理、循环展开和向量化计算等方法。作者分享了这些优化技术如何克服内存带宽限制，实现接近理论极限的性能表现。这个项目对于需要高性能数据处理的应用开发具有重要的参考价值，特别是在嵌入式系统和移动设备开发领域。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[黑客利用iCalendar文件将Zimbra漏洞作为零日漏洞利用]]></title>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[《Bleeping Computer》报道了一起安全事件，黑客利用Zimbra邮件服务器中的未知零日漏洞，通过特制的iCalendar文件进行攻击。这种攻击允许攻击者在目标系统上执行任意代码，可能完全控制受影响的服务器。文章详细描述了攻击的工作原理、受影响系统以及管理员可以采取的缓解措施。这一事件提醒组织需要及时更新其电子邮件系统并监控异常日历活动。 [<a href="https://news.ycombinator.com/item?id=45483990" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[截止日期不是AI超越我们的时候——而是我们停止使用自己思维的时候]]></title>
-            <link>https://www.theargumentmag.com/p/you-have-18-months</link>
-            <guid isPermaLink="false">https://www.theargumentmag.com/p/you-have-18-months</guid>
-            <pubDate>Sun, 05 Oct 2025 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章提出了一个引人深思的观点：AI真正的风险不在于其智能超越人类，而在于人类过度依赖AI而停止发展自身思维能力。作者警告，当前人们已经表现出将重要决策和思考过程外包给AI的倾向，这种『认知外包』可能导致人类批判性思维和创造能力的退化。文章呼吁读者保持自主思考能力，在利用AI工具的同时，持续锻炼和培养人类独有的思维优势。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我用Arm架构优化了我的家庭服务器]]></title>
+            <link>https://sbcwiki.com/news/articles/how-i-optimized-my-homeserver-with-arm/</link>
+            <guid isPermaLink="false">https://sbcwiki.com/news/articles/how-i-optimized-my-homeserver-with-arm/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[这篇技术文章详细介绍了作者如何将家庭服务器迁移到Arm架构以获得更好的性能和能效。作者分享了具体的硬件选择、操作系统配置以及优化过程中的挑战和解决方案。通过使用Arm处理器，作者实现了更低能耗和更高计算密度，同时保持了对家庭网络服务的全面支持。这种优化方案为希望构建高效家庭服务器的用户提供了实用指导。 [<a href="https://news.ycombinator.com/item?id=45483957" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VPS Hetzner和Coolify初学者指南]]></title>
-            <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
-            <guid isPermaLink="false">https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
-            <pubDate>Sun, 05 Oct 2025 10:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[这篇指南为初学者提供了在Hetzner VPS上部署Coolify平台的完整教程。文章详细介绍了从选择合适的VPS配置到安装Coolify，再到配置各种服务的全过程。指南特别强调了安全配置的重要性，包括防火墙设置、SSL证书管理和定期备份策略。作者分享了自己在自托管服务方面的经验，帮助读者避免常见陷阱，实现安全、可靠的个人服务器环境，适合希望开始自托管项目的初学者参考。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[MSTY AI工作室]]></title>
+            <link>https://msty.ai/</link>
+            <guid isPermaLink="false">https://msty.ai/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[MSTY AI是一个在线人工智能工作室平台，为用户提供了一系列AI工具和服务。该平台可能包括文本生成、图像处理、数据分析等功能，使个人和企业能够轻松集成AI功能到他们的工作流程中。MSTY AI的界面设计注重用户友好性，使没有技术背景的用户也能利用先进的人工智能技术来提高工作效率和创造力。 [<a href="https://news.ycombinator.com/item?id=45483954" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Framework笔记本和硬盘上自托管10TB S3存储]]></title>
-            <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
-            <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
-            <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细记录了如何在Framework笔记本电脑和外部硬盘上构建一个10TB容量的S3兼容存储系统。作者分享了硬件选择、软件配置和性能优化的完整过程，包括使用开源软件模拟S3接口的方法。项目展示了个人和小团队如何以相对较低的成本构建大规模存储解决方案，同时保持数据控制权和隐私保护。文章还讨论了这种自托管方案与云存储服务的对比及其适用场景。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Anker提出向Eufy摄像头所有者支付每段盗窃视频2美元用于AI训练]]></title>
+            <link>https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/</link>
+            <guid isPermaLink="false">https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[《TechCrunch》报道了Anker公司提出向其Eufy安全摄像头的用户支付报酬，鼓励他们分享录制的盗窃视频用于AI训练的计划。这一提议引发了隐私问题争议，因为用户可能在不知情的情况下同意将其可能包含个人信息的敏感视频用于商业目的。文章讨论了数据收集的伦理边界，以及企业在收集用户数据时应当如何平衡创新与隐私保护。 [<a href="https://news.ycombinator.com/item?id=45483951" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[个人数据存储是一个时机已到的理念]]></title>
-            <link>https://blog.muni.town/personal-data-storage-idea/</link>
-            <guid isPermaLink="false">https://blog.muni.town/personal-data-storage-idea/</guid>
-            <pubDate>Sun, 05 Oct 2025 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了个人数据存储的重要性及其在未来数字生活中的关键角色。作者指出，随着数据隐私意识的增强和对科技巨头控制数据的担忧，个人数据存储正从一个技术概念转变为实际需求。文章讨论了各种个人数据存储解决方案，从本地存储到分布式网络存储，分析了它们的优势和挑战。作者预测，个人数据存储将成为未来互联网基础设施的重要组成部分，赋予用户对自己数据的真正控制权。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[帕特里克·考克伦：采访希特勒]]></title>
+            <link>https://www.lrb.co.uk/the-paper/v47/n18/patrick-cockburn/diary</link>
+            <guid isPermaLink="false">https://www.lrb.co.uk/the-paper/v47/n18/patrick-cockburn/diary</guid>
+            <pubDate>Sun, 05 Oct 2025 18:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[《伦敦书评》刊载了帕特里克·考克伦的日记文章，探讨了如何采访历史人物希特勒的可能性。文章可能分析了通过研究希特勒的演讲、著作和同时代人的叙述来重构与这位纳粹领导人的虚拟对话。考克伦可能探讨了历史报道的复杂性，以及理解极端意识形态的困难，即使在面对大量历史资料的情况下。 [<a href="https://news.ycombinator.com/item?id=45483946" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[社会冷却（2017）]]></title>
-            <link>https://www.socialcooling.com/</link>
-            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[社会冷却是一个概念，描述在高度监控的社会环境中，人们因担心被评判或惩罚而自我审查，从而限制言论自由和创新思想的 chilling effect。这个网站探讨了社会冷却现象的各个方面，包括其历史根源、现代表现形式以及对社会的影响。文章通过实例分析展示了社会冷却如何影响个人行为、公共讨论和社会进步，并提出了缓解这种效应的潜在策略，呼吁创造一个更开放、容忍的社会环境。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Taskzap：在WhatsApp中管理您的任务]]></title>
+            <link>https://www.taskzap.site/</link>
+            <guid isPermaLink="false">https://www.taskzap.site/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[Taskzap是一个集成在WhatsApp中的任务管理工具，允许用户直接在流行的消息应用程序内创建、分配和跟踪任务。这个工具利用了WhatsApp广泛的用户基础和直观的界面，使团队协作变得更加无缝。用户可以通过简单的命令创建任务列表，设置截止日期，并接收提醒，从而无需切换到单独的任务管理应用程序就能提高工作效率。 [<a href="https://news.ycombinator.com/item?id=45483931" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Claude开发者平台上管理上下文]]></title>
-            <link>https://www.anthropic.com/news/context-management</link>
-            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
-            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[Anthropic官方介绍了Claude开发者平台上的上下文管理功能，帮助开发者更有效地处理大型语言模型的上下文窗口。文章详细解释了如何组织和优化提示内容，以最大化利用有限的上下文空间，同时保持对话连贯性。平台提供了多种工具和技术，如自动摘要、智能检索和上下文压缩，帮助开发者构建更强大、更高效的AI应用。这些功能特别适合需要处理大量信息或复杂对话场景的应用开发。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[GPT-OSS泄露了关于OpenAI训练数据的什么信息]]></title>
+            <link>https://fi-le.net/oss/</link>
+            <guid isPermaLink="false">https://fi-le.net/oss/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[Fi-Le网站分析了GPT-OSS（一个开源的GPT风格模型）所揭示的关于OpenAI专有模型训练数据的信息。通过比较两个模型的能力和局限性，研究人员推断出OpenAI可能使用了哪些类型的数据来训练其模型，包括可能使用的编程语言、代码库和文本来源。这种分析为理解大型语言模型的训练过程和潜在偏差提供了见解。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ambigr.am]]></title>
-            <link>https://ambigr.am/hall-of-fame</link>
-            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
-            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[Ambigr.am是一个专注于语言模糊性和多义性的网站，其名人堂展示了各种巧妙利用语言歧义的例子。这些例子展示了语言中存在的模棱两可之处，以及如何通过巧妙的表达创造出有趣或引人深思的效果。网站收集了来自不同领域的案例，从广告语到文学引用，展示了语言的丰富性和复杂性。这个项目既是对语言艺术的致敬，也是对人类交流中模糊性本质的探索，提醒我们语言理解的主观性和创造性。 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[魔力消失]]></title>
+            <link>https://sameerbajaj.com/magicdisappears/</link>
+            <guid isPermaLink="false">https://sameerbajaj.com/magicdisappears/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[Sameer Bajaj的网站'魔力消失'可能探讨了某种技术、创意或现象逐渐消失或过时的过程。文章可能分析了为什么曾经被认为具有革命性或神奇的事物最终被淘汰，以及这种消失如何影响我们的日常生活和文化。作者可能还反思了创新、怀旧和进步之间的关系，以及我们如何应对和适应不断变化的技术环境。 [<a href="https://news.ycombinator.com/item?id=45483908" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
