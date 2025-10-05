@@ -146,8 +146,10 @@ async function aiSummary() {
 
     if (!(data?.choices[0]?.message?.content)) throw new Error('wrong AI response.');
     console.log(data.choices[0].message.content);
-    const result = JSON.parse(data.choices[0].message.content);
 
+    let result = sterilizeJSON(data.choices[0].message.content);
+    result = JSON.parse(result);
+ 
     for (let i = 0; i < result.length; i++) {
       const item = myFeed.items[i];
       item.title = result[i].title; 
@@ -156,6 +158,25 @@ async function aiSummary() {
 
     console.log('successfully AI summarize the content');
   
+}
+
+function sterilizeJSON(str) {
+  let newStr = str;
+  newStr = newStr
+    .replaceAll('"title"', 'titleTAG')
+    .replaceAll('"summary"', 'summaryTAG')
+    .replaceAll('"link"', 'linkTAG')
+    .replaceAll(':"', 'quoteBEGIN')
+    .replaceAll('"}', 'quoteBracesEND')
+    .replaceAll('",', 'quoteCommaEND')
+    .replaceAll('"', '“')
+    .replaceAll('quoteCommaEND', '",')
+    .replaceAll('quoteBracesEND', '"}')
+    .replaceAll('quoteBEGIN', ':"')
+    .replaceAll('linkTAG', '"link"')
+    .replaceAll('summaryTAG', '"summary"')
+    .replaceAll('titleTAG', '"title"');
+  return newStr;
 }
 
 /*
