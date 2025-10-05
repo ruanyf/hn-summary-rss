@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 04:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 04:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[1Password CLI 漏洞]]></title>
-            <link>https://codeberg.org/manchicken/1password-cli-vuln-disclosure</link>
-            <guid isPermaLink="false">https://codeberg.org/manchicken/1password-cli-vuln-disclosure</guid>
-            <pubDate>Sun, 05 Oct 2025 03:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章披露了 1Password 命令行界面的安全漏洞，详细描述了可能影响用户数据安全的问题。漏洞可能使攻击者能够在特定条件下访问敏感信息。作者提供了详细的漏洞分析、影响范围以及可能的修复建议。对于使用 1Password CLI 工具的用户来说，了解此漏洞并采取适当的防护措施至关重要。 [<a href="https://news.ycombinator.com/item?id=45478553" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Reddit在AI游戏中获胜]]></title>
+            <link>https://www.cjr.org/analysis/reddit-winning-ai-licensing-deals-openai-google-gemini-answers-rsl.php</link>
+            <guid isPermaLink="false">https://www.cjr.org/analysis/reddit-winning-ai-licensing-deals-openai-google-gemini-answers-rsl.php</guid>
+            <pubDate>Sun, 05 Oct 2025 04:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[Reddit正在成为AI领域的重要玩家 通过向OpenAI和Google等科技巨头提供内容许可协议 Reddit的战略转变使其从对AI公司的批评者变为合作者 为其带来可观收入 这种内容许可模式正在重塑科技公司获取训练数据的方式 Reddit通过这种独特的优势在激烈的AI竞争中取得了领先地位 [<a href="https://news.ycombinator.com/item?id=45478919" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[你不能用正则表达式解析 XML。但不管怎样，我们试试]]></title>
-            <link>https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/</link>
-            <guid isPermaLink="false">https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/</guid>
-            <pubDate>Sun, 05 Oct 2025 01:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了使用正则表达式解析 XML 的危险性和常见错误。作者承认虽然严格来说不应该用正则表达式处理 XML，但在某些特定场景下，简单的正则表达式可能是有用的。文章通过实例展示了如何安全地使用正则表达式提取 XML 数据，同时强调了理解 XML 结构的重要性。这对于需要在受限环境中处理 XML 数据的开发者提供了实用的参考。 [<a href="https://news.ycombinator.com/item?id=45478300" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[亚马逊Prime视频撤回争议性的詹姆斯·邦德无枪缩略图]]></title>
+            <link>https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns</link>
+            <guid isPermaLink="false">https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns</guid>
+            <pubDate>Sun, 05 Oct 2025 04:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[亚马逊Prime视频撤回了因移除枪支而引起争议的詹姆斯·邦德电影风格化缩略图 此前 这些缩略图被修改为移除所有武器 引发粉丝和评论人士的强烈反应 在广泛批评后 亚马逊决定恢复原始的包含枪支的缩略图 这一事件引发了关于如何在保持敏感内容敏感性的同时尊重电影完整性的讨论 [<a href="https://news.ycombinator.com/item?id=45478906" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Parrot - Gleam 中的类型安全 SQL，支持 SQLite、PostgreSQL 和 MySQL]]></title>
-            <link>https://github.com/daniellionel01/parrot</link>
-            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
-            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[Parrot 是一个用 Gleam 编写的类型安全 SQL 库，支持 SQLite、PostgreSQL 和 MySQL 数据库。该项目通过编译时类型检查来防止常见的 SQL 查询错误，如类型不匹配和注入攻击。Parrot 提供了一个简洁的 API，使开发者能够构建安全的数据库应用程序。对于 Gleam 语言爱好者或需要加强数据库操作安全性的开发者来说，这是一个有价值的项目。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[许多用于英特尔加速器的Debian/Ubuntu软件包已被遗弃]]></title>
+            <link>https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned</link>
+            <guid isPermaLink="false">https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned</guid>
+            <pubDate>Sun, 05 Oct 2025 04:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[大量用于英特尔硬件加速器的Debian/Ubuntu软件包目前处于无人维护状态 这些软件包的维护者似乎已经停止了更新和支持 这可能导致使用这些硬件加速器的Linux用户遇到兼容性问题 这一情况对依赖英特尔加速技术的开源社区和专业人士构成了挑战 用户可能需要寻找替代方案或自行维护这些软件包 [<a href="https://news.ycombinator.com/item?id=45478905" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mod. 5140 - IBM 的第一台笔记本电脑]]></title>
-            <link>https://richardsapperdesign.com/products/mod-5140/</link>
-            <guid isPermaLink="false">https://richardsapperdesign.com/products/mod-5140/</guid>
-            <pubDate>Sun, 05 Oct 2025 00:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了 IBM 5140 型号，这是 IBM 公司推出的第一台笔记本电脑。这款设备采用了创新的模块化设计，由著名设计师理查德·萨珀设计。文章详细描述了其技术规格、设计理念以及在计算机历史上的重要意义。5140 的推出标志着便携计算设备的重要里程碑，为后来的笔记本电脑发展奠定了基础。 [<a href="https://news.ycombinator.com/item?id=45477971" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[英国就加密数据访问权与苹果公司再次发生冲突]]></title>
+            <link>https://www.esecurityplanet.com/news/the-uks-renewed-clash-with-apple-over-encrypted-data-access/</link>
+            <guid isPermaLink="false">https://www.esecurityplanet.com/news/the-uks-renewed-clash-with-apple-over-encrypted-data-access/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[英国政府与苹果公司之间就加密数据访问权问题再次发生冲突 英国官员希望获得对加密通信内容的访问权限以协助犯罪调查 而苹果则坚持认为其加密技术是为了保护用户隐私而设计的 不应被削弱 这一争议反映了全球范围内安全与隐私之间的持续张力 各国政府正在寻求平衡国家安全与个人数据保护的方法 [<a href="https://news.ycombinator.com/item?id=45478891" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[小行星 2024 YR4 的侦察和缓解任务选项]]></title>
-            <link>https://arxiv.org/abs/2509.12351</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
-            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[这篇论文探讨了针对小行星 2024 YR4 的潜在太空任务选项，包括侦察和缓解策略。研究人员分析了多种可能的任务方案，评估了各种技术的可行性和有效性。文章讨论了轨道测定、潜在撞击风险评估以及可能的偏转技术。这项研究对于开发行星防御系统具有重要的参考价值，有助于保护地球免受小行星撞击的威胁。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[战胜每年影响三百万英国人的脊椎疾病]]></title>
+            <link>https://www.dailymail.co.uk/health/article-15162069/cure-sciatica-WITHOUT-drugs-experts-reveal.html</link>
+            <guid isPermaLink="false">https://www.dailymail.co.uk/health/article-15162069/cure-sciatica-WITHOUT-drugs-experts-reveal.html</guid>
+            <pubDate>Sun, 05 Oct 2025 04:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[专家揭示了一种无需药物即可治愈坐骨神经痛的方法 坐骨神经痛是一种影响数百万英国人的常见脊椎疾病 会导致从下背部延伸到腿部的剧烈疼痛 特定的运动 姿势调整和物理治疗可以有效缓解症状 甚至完全消除疼痛 这种方法强调了非药物干预在管理脊椎健康问题中的重要性 为患者提供了一种安全自然的替代方案 [<a href="https://news.ycombinator.com/item?id=45478882" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI 驱动的开源代码洗钱]]></title>
-            <link>https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md</link>
-            <guid isPermaLink="false">https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md</guid>
-            <pubDate>Sat, 04 Oct 2025 23:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[这个 GitHub 仓库记录了利用人工智能技术进行开源代码洗钱的行为。作者创建了“耻辱堂“，揭露了那些使用 AI 工具将闭源代码转换为看似原创的开源代码的项目。这种行为通过重命名变量、改变代码结构和使用 AI 生成的注释来掩盖代码来源，损害了开源社区的诚信。该资源旨在提高开发者对这种不良行为的认识，并鼓励更好的代码道德实践。 [<a href="https://news.ycombinator.com/item?id=45477661" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Gmail商务用户现在可以向任何人发送安全的加密邮件]]></title>
+            <link>https://mashable.com/article/gmail-business-encrypted-emails-everyone</link>
+            <guid isPermaLink="false">https://mashable.com/article/gmail-business-encrypted-emails-everyone</guid>
+            <pubDate>Sun, 05 Oct 2025 04:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[谷歌宣布Gmail商业用户现在可以向任何电子邮件地址发送端到端加密的邮件 无论收件人是否使用Gmail 这项新功能增强了商务通信的安全性 使敏感商业信息的传输更加安全 用户只需在撰写邮件时点击『机密模式』选项即可启用此功能 这一更新反映了谷歌对加强商业通信安全的承诺 [<a href="https://news.ycombinator.com/item?id=45478880" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[钻孔振荡器]]></title>
-            <link>https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</link>
-            <guid isPermaLink="false">https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</guid>
-            <pubDate>Sat, 04 Oct 2025 23:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了钻孔振荡器的物理原理和应用。作者详细分析了在地下钻孔中创建振荡系统的理论模型，包括能量传递、共振效应和可能的实际应用。这些振荡器可以用于地震研究、资源勘探或地下通信等领域。文章通过数学模型和物理原理解释了系统的运作机制，为工程师和物理学家提供了有价值的技术参考。 [<a href="https://news.ycombinator.com/item?id=45477516" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[鲍威尔警告股市估值过高 引发抛售潮]]></title>
+            <link>https://www.perplexity.ai/page/powell-warns-stocks-fairly-hig-1Ru_K5uKSpGJaT_WK3SbnQ</link>
+            <guid isPermaLink="false">https://www.perplexity.ai/page/powell-warns-stocks-fairly-hig-1Ru_K5uKSpGJaT_WK3SbnQ</guid>
+            <pubDate>Sun, 05 Oct 2025 04:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[美联储主席鲍威尔表示股市估值『相当高』 此言论引发了市场恐慌性抛售 投资者对这一言论解读为可能的政策收紧信号 导致多个股指大幅下跌 鲍威尔的谨慎言论反映了央行对通胀压力和资产泡沫的担忧 市场波动性上升 投资者正在密切关注美联储未来的政策信号 以调整其投资策略 [<a href="https://news.ycombinator.com/item?id=45478861" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NSA 和 IETF：攻击者能否购买被弱化的密码学标准？]]></title>
-            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
-            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
-            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了国家安全局（NSA）是否可能通过影响互联网工程任务组（IETF）来推广被弱化的密码学标准。作者质疑是否存在安全漏洞被故意引入密码学标准中的可能性，以及这种做法是否会被用于监视目的。文章分析了密码学标准制定过程中的潜在风险，强调了透明度和独立审查的重要性，以防止潜在的安全后门被植入关键基础设施。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我刚做了我的第一个智商测试]]></title>
+            <link>https://cait-nv.vercel.app/</link>
+            <guid isPermaLink="false">https://cait-nv.vercel.app/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站提供了一个在线智商测试平台 用户可以通过一系列认知测试题来评估自己的智力水平 测试涵盖逻辑推理 空间感知 语言能力和数学技巧等多个认知领域 测试完成后 系统会根据用户的表现提供一个智商分数和详细的认知能力分析报告 这种自我评估工具可以帮助人们了解自己的认知优势和劣势 [<a href="https://news.ycombinator.com/item?id=45478843" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI 对计算能力的渴求]]></title>
-            <link>https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809</link>
-            <guid isPermaLink="false">https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809</guid>
-            <pubDate>Sat, 04 Oct 2025 22:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了 OpenAI 对计算资源的巨大需求及其对全球能源市场的影响。公司首席执行官山姆·奥特曼正在亚洲和中东地区寻求更多的计算资源，以支持人工智能模型的训练和运行。随着 AI 模型规模的不断扩大，计算需求呈指数级增长，这导致了能源消耗的显著增加。文章分析了这一趋势对技术发展、能源政策以及全球 AI 竞争格局的深远影响。 [<a href="https://news.ycombinator.com/item?id=45477192" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[为大型语言模型优化的德里地铁文本地图]]></title>
+            <link>https://github.com/firasd/delhi-metro-text-map</link>
+            <guid isPermaLink="false">https://github.com/firasd/delhi-metro-text-map</guid>
+            <pubDate>Sun, 05 Oct 2025 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目提供了一个专门为大型语言模型优化的德里地铁系统文本地图 该地图以纯文本格式呈现德里地铁的路线 站点和换乘信息 便于AI系统理解和使用 这种上下文工程方法使AI能够更好地理解和响应用户关于德里地铁路线的查询 开发者将复杂的视觉信息转换为结构化的文本数据 使AI能够更有效地处理和提供导航信息 [<a href="https://news.ycombinator.com/item?id=45478838" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[香山向量浮点单元设计]]></title>
-            <link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link>
-            <guid isPermaLink="false">https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</guid>
-            <pubDate>Sat, 04 Oct 2025 22:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[这份文档详细介绍了香山处理器架构中的向量浮点单元（VFPU）设计。香山是中国自主研发的高性能开源处理器架构，其 VFPU 支持多种浮点操作，旨在提升科学计算和人工智能应用的性能。文档详细描述了 VFPU 的架构特性、指令集设计以及优化策略，为处理器开发者提供了宝贵的技术参考。这一设计对于推动国产高性能处理器的发展具有重要意义。 [<a href="https://news.ycombinator.com/item?id=45477118" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[FontOps：大规模字体开发（2024）]]></title>
+            <link>https://simoncozens.github.io/fontops/</link>
+            <guid isPermaLink="false">https://simoncozens.github.io/fontops/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[FontOps是一个现代的字体开发工具包 旨在简化和扩展大规模字体创建流程 该工具集提供了从设计到发布的完整字体工作流程支持 包括字符轮廓编辑 自动提示生成 多字体变体管理和自动质量检查等功能 FontOps采用开源方法 鼓励字体开发社区的创新和协作 对于专业字体设计师和开发团队提供了强大解决方案 [<a href="https://news.ycombinator.com/item?id=45478835" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD GPU 上的矩阵核编程]]></title>
-            <link>https://salykova.github.io/matrix-cores-cdna</link>
-            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了在 AMD GPU 上进行矩阵核编程的技术和方法。作者详细分析了 AMD GPU 架构的特点，特别是针对矩阵运算的优化策略。文章介绍了如何利用 AMD GPU 的并行计算能力高效地实现矩阵乘法等线性代数运算，这对于科学计算和机器学习应用至关重要。提供的代码示例和性能优化技巧可以帮助开发者充分利用 AMD GPU 的计算潜力。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[中国的新医药API之战 及其上次罢工的经验教训]]></title>
+            <link>https://the-ken.com/newsletter/make-india-competitive-again/chinas-new-pharma-api-war-and-lessons-from-its-last-strike/</link>
+            <guid isPermaLink="false">https://the-ken.com/newsletter/make-india-competitive-again/chinas-new-pharma-api-war-and-lessons-from-its-last-strike/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[中国正在积极扩大其在医药活性药物成分领域的全球影响力 对包括印度在内的其他主要API生产国构成挑战 中国通过大规模投资 政策支持和垂直整合 正在从API进口国转变为全球主要出口国 印度制药业可以从自身监管挑战和过去生产中断中吸取教训 提高竞争力并多样化供应链 这场全球API市场的重新洗牌可能对全球药品价格产生深远影响 [<a href="https://news.ycombinator.com/item?id=45478820" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[912美元无官僚主义的能源独立]]></title>
-            <link>https://sunboxlabs.com/</link>
-            <guid isPermaLink="false">https://sunboxlabs.com/</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[SunBox Labs 提供了一种创新的能源解决方案，声称用户只需 912 美元就能实现能源独立，无需复杂的官僚程序。该公司专注于太阳能技术，提供易于安装和维护的系统，适合家庭和小型企业使用。其产品强调可持续性和成本效益，旨在减少对传统能源的依赖，同时降低用户的能源开支。这种解决方案代表了向分布式能源系统转变的重要趋势。 [<a href="https://news.ycombinator.com/item?id=45476820" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Taskwarrior命令行工具 - 工作流程示例]]></title>
+            <link>https://taskwarrior.org/docs/workflow/</link>
+            <guid isPermaLink="false">https://taskwarrior.org/docs/workflow/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[Taskwarrior是一个功能强大的命令行任务管理工具 这个页面提供了各种工作流程示例 帮助用户充分利用其功能 示例涵盖了从基本的任务创建 修改和完成 到更高级的功能如项目组织 标签系统 优先级设置和报告生成 这些示例展示了如何将Taskwarrior融入个人和团队的工作流程 以提高效率和生产力 [<a href="https://news.ycombinator.com/item?id=45478816" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[博客订阅源]]></title>
-            <link>https://blogfeeds.net</link>
-            <guid isPermaLink="false">https://blogfeeds.net</guid>
-            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[BlogFeeds.net 是一个博客聚合平台，汇集了来自世界各地的优质博客内容。用户可以通过该平台发现和订阅各种主题的博客，包括技术、科学、文化、生活等。网站提供了简洁的界面和强大的搜索功能，帮助用户快速找到感兴趣的内容。对于想要拓展阅读范围或跟踪特定领域最新发展的读者来说，这是一个有价值的资源。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Mole - 像鼹鼠一样深入清理你的Mac]]></title>
+            <link>https://github.com/tw93/Mole</link>
+            <guid isPermaLink="false">https://github.com/tw93/Mole</guid>
+            <pubDate>Sun, 05 Oct 2025 04:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[Mole是一个专为macOS设计的系统清理工具 可以帮助用户识别并删除系统中不必要的文件和应用程序 该工具通过深度扫描系统 找出临时文件 缓存 重复文件和未使用的大型应用程序等占用磁盘空间的项目 Mole提供直观的用户界面和详细的清理建议 让用户能够安全地清理系统而不会影响重要文件 [<a href="https://news.ycombinator.com/item?id=45478803" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ProofOfThought：基于 Z3 定理证明的 LLM 推理]]></title>
-            <link>https://github.com/DebarghaG/proofofthought</link>
-            <guid isPermaLink="false">https://github.com/DebarghaG/proofofthought</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[ProofOfThought 是一个结合大语言模型（LLM）和 Z3 定理证明器的推理框架。该项目利用 LLM 的自然语言处理能力与 Z3 的形式化验证能力，增强了复杂问题的推理和解决能力。这种组合方法可以应用于数学证明、程序验证和逻辑推理等领域，为解决需要严格验证的问题提供了新思路。对于研究 AI 推理和形式化方法的开发者来说，这是一个有价值的项目。 [<a href="https://news.ycombinator.com/item?id=45475529" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Ambigr.am]]></title>
+            <link>https://ambigr.am/hall-of-fame</link>
+            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
+            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[Ambigr.am是一个展示人工智能生成图像创意和技术的平台 这个『名人堂』页面展示了一系列由AI生成的令人印象深刻的图像 这些图像展示了当前AI图像生成技术的能力和创造力 这些作品来自全球的AI艺术家和开发者 展示了如何利用先进的人工智能模型创作出复杂 精细和富有想象力的视觉内容 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示 HN：Run - 我在学习 Rust 时构建的 CLI 通用代码运行器]]></title>
-            <link>https://github.com/Esubaalew/run</link>
-            <guid isPermaLink="false">https://github.com/Esubaalew/run</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[Run 是一个用 Rust 编写的命令行通用代码运行器，允许开发者在不同编程语言中快速执行代码片段。该项目旨在简化开发和测试过程，支持多种编程语言和自定义环境配置。作者分享了构建过程中的技术挑战和解决方案，为其他 Rust 学习者提供了有价值的参考。这个工具对于需要快速测试代码片段或跨语言工作的开发者特别有用。 [<a href="https://news.ycombinator.com/item?id=45475528" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[技术问答：如何生成FFMI准确的模特照片？]]></title>
+            <link>https://news.ycombinator.com/item?id=45478774</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45478774</guid>
+            <pubDate>Sun, 05 Oct 2025 04:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[在Hacker News上 用户询问如何生成FFMI（脂肪量肌肉指数）准确的模特照片 FFMI是一种评估身体成分的指标 问题聚焦于如何利用人工智能技术创建具有特定身体特征的真实感图像 讨论涵盖了各种AI图像生成工具 技术参数设置以及如何确保生成的图像在视觉上准确反映特定的身体成分指标 [<a href="https://news.ycombinator.com/item?id=45478774" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[如何高效注入知识？LLM 的知识注入扩展定律]]></title>
-            <link>https://arxiv.org/abs/2509.19371</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.19371</guid>
-            <pubDate>Sat, 04 Oct 2025 17:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[这篇论文探讨了大型语言模型（LLM）中高效知识注入的方法和规模定律。研究人员分析了不同知识注入技术的效果，包括参数微调、检索增强和持续学习等方法。文章提出了知识注入的扩展定律，量化了模型大小、知识量和性能之间的关系。这项研究对于优化 LLM 的知识整合能力、减少幻觉并提高准确性具有重要指导意义，为 AI 系统的知识管理提供了理论框架。 [<a href="https://news.ycombinator.com/item?id=45474900" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[美国人越来越认为合法体育博彩对社会有害]]></title>
+            <link>https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</link>
+            <guid isPermaLink="false">https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[皮尤研究中心的一项调查显示 美国人越来越认为合法体育博彩对社会和体育运动有负面影响 认为体育博彩对社会有好处的美国人比例有所下降 而认为有负面影响的比例则上升 这种态度转变可能与近年来各州纷纷合法化体育博彩的趋势形成对比 调查还发现对体育博彩的态度存在明显的党派和人口统计学差异 [<a href="https://news.ycombinator.com/item?id=45478749" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用圣诞节编程挑战赛解决方案比较 Ada 和 Rust]]></title>
-            <link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link>
-            <guid isPermaLink="false">https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</guid>
-            <pubDate>Sat, 04 Oct 2025 15:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章通过解决“圣诞节编程挑战赛“（Advent of Code）问题的案例，详细比较了 Ada 和 Rust 两种编程语言。作者分析了两种语言在语法、类型系统、并发控制和错误处理等方面的差异，以及它们在解决实际问题时的表现差异。这种基于实际编程挑战的比较为开发者选择合适的编程语言提供了有价值的参考，特别适合需要在高性能和安全性之间平衡的项目。 [<a href="https://news.ycombinator.com/item?id=45473861" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[先付给自己]]></title>
+            <link>https://world.hey.com/dhh/pay-yourself-first-e86f8147</link>
+            <guid isPermaLink="false">https://world.hey.com/dhh/pay-yourself-first-e86f8147</guid>
+            <pubDate>Sun, 05 Oct 2025 03:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讨论了个人理财中的『先付给自己』原则 即优先将收入的一部分用于储蓄和投资 然后再支付其他账单和开支 这种财务策略强调建立紧急基金和长期投资的重要性 而不是等待月底剩余的资金 作者认为这种自律方法有助于建立财务安全网并积累财富 这一原则对于希望改善财务状况的人来说是一种实用的财务管理方法 [<a href="https://news.ycombinator.com/item?id=45478732" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[像 1984 年那样自托管电子邮件]]></title>
-            <link>https://maxadamski.com/blog/2025/10/email.html</link>
-            <guid isPermaLink="false">https://maxadamski.com/blog/2025/10/email.html</guid>
-            <pubDate>Sat, 04 Oct 2025 14:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何以复古的方式自托管电子邮件系统，模拟 1980 年代的电子邮件体验。作者详细介绍了使用现代技术重现老式电子邮件界面的方法，包括简单的文本界面和基础功能。这种做法既是对早期互联网文化的致敬，也是对现代复杂电子邮件系统的反思。文章提供了实现这一复古项目的技术指导，适合对互联网历史和技术复古感兴趣的读者。 [<a href="https://news.ycombinator.com/item?id=45473730" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[据报道 Meta收购芯片初创公司Rivos以推动AI发展]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-09-30/meta-is-said-to-acquire-chips-startup-rivos-to-push-ai-effort</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-09-30/meta-is-said-to-acquire-chips-startup-rivos-to-push-ai-effort</guid>
+            <pubDate>Sun, 05 Oct 2025 03:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[据报道 Meta正在收购芯片初创公司Rivos 以加强其人工智能硬件能力 Rivos专注于开发高性能处理器 这些处理器对于运行复杂的AI模型至关重要 此次收购反映了Meta在AI领域的持续投入 以及公司减少对芯片供应商依赖的战略意图 通过获取芯片设计专长 Meta希望更好地控制其AI基础设施 提高效率并降低成本 [<a href="https://news.ycombinator.com/item?id=45478715" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Thunderscan：一个巧妙设备将打印机变成扫描仪（2004）]]></title>
-            <link>https://www.folklore.org/Thunderscan.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
-            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了 Thunderscan 设备的创新故事，这是一个 2004 年发明的巧妙设备，可以将普通打印机转变为扫描仪。通过利用打印机的机械运动和图像传感器，Thunderscan 能够捕获文档的数字图像。这一发明展示了如何在有限资源下创造性地解决问题，体现了苹果公司创新文化的精神。文章分享了这一设备的开发历程和市场反响，是科技史上一个有趣的创新案例。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[分享：我构建了一个在线像素艺术缩放工具]]></title>
+            <link>https://pixelera.art/tools/pixel-art-downscaler</link>
+            <guid isPermaLink="false">https://pixelera.art/tools/pixel-art-downscaler</guid>
+            <pubDate>Sun, 05 Oct 2025 03:52:36 GMT</pubDate>
+            <content:encoded><![CDATA[开发者分享了一个在线像素艺术缩放工具 可将高分辨率像素艺术图像缩小到更低的分辨率 同时保持像素艺术的特征和质量 该工具采用先进的算法处理像素缩放 避免传统缩放方法常见的模糊或锯齿问题 对于游戏开发者和像素艺术家来说 这是一个实用的在线工具 支持多种图像格式 无需安装 即可使用 [<a href="https://news.ycombinator.com/item?id=45478712" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
-            <link>https://www.buchstabenmuseum.de/en/</link>
-            <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
-            <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[柏林字母博物馆（Buchstabenmuseum）宣布将关闭，结束了其展示和保存标志性字母标识的历史。该博物馆收藏了来自德国各地的霓虹灯字母和招牌，这些是城市视觉文化的重要组成部分。博物馆的关闭代表着一段独特文化遗产的消失，但也引发了关于城市遗产保护和数字化保存的新讨论。这一事件提醒人们关注城市标志性元素的保存价值，以及如何在城市发展过程中保护这些文化符号。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[长达十四年的《我的世界》远地之旅终于结束]]></title>
+            <link>https://www.pcgamer.com/games/survival-crafting/it-took-14-years-for-a-streamer-to-walk-to-the-far-lands-in-minecraft-but-his-long-journey-is-finally-over/</link>
+            <guid isPermaLink="false">https://www.pcgamer.com/games/survival-crafting/it-took-14-years-for-a-streamer-to-walk-to-the-far-lands-in-minecraft-but-his-long-journey-is-finally-over/</guid>
+            <pubDate>Sun, 05 Oct 2025 03:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[一位游戏主播完成了史诗般的《我的世界》挑战：徒步14年到达游戏中的『远地』 在《我的世界》中 远地是指距离世界生成中心约12500万格外的区域 那里会出现独特的地形生成错误和视觉效果 这位主播从2011年开始这项挑战 不间断地进行游戏直播 最终完成了这段漫长的旅程 这一壮举展示了玩家对虚拟世界的持久投入 [<a href="https://news.ycombinator.com/item?id=45478711" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
