@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 20:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 20:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[无行为，无名号]]></title>
+            <title><![CDATA[致特斯拉股东 [pdf]]]></title>
+            <link>https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf</link>
+            <guid isPermaLink="false">https://static1.squarespace.com/static/5d374de8aae9940001c8ed59/t/68de828992aced27fc2d217c/1759412874017/TSLA+Vote+No_Oct_2025_Final.pdf</guid>
+            <pubDate>Sun, 05 Oct 2025 20:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[这是一份特斯拉公司向股东发送的投票文件，日期为2025年10月。文件中可能包含有关公司治理、股东投票事项和决策的信息。特斯拉作为电动汽车行业的领导者，这份文件反映了公司对股东权益的重视以及透明沟通的承诺。文件可能涉及公司战略方向、财务状况或重要决策，股东需要仔细阅读并参与投票过程。 [<a href="https://news.ycombinator.com/item?id=45484753" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[无行为，无名姓]]></title>
             <link>https://www.laphamsquarterly.org/celebrity/without-deeds-without-names</link>
             <guid isPermaLink="false">https://www.laphamsquarterly.org/celebrity/without-deeds-without-names</guid>
             <pubDate>Sun, 05 Oct 2025 18:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[这是拉帕姆季刊上的一篇文章，探讨了名人文化中的行为与名声之间的关系。文章可能讨论了当代社会对名人的关注常常超越其实际成就的现象，指出许多人追求名声而非实际行动，导致了名实不符的文化现象。 [<a href="https://news.ycombinator.com/item?id=45484028" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了名人与行为之间的关系，思考了在现代社会中名声与实际行动脱节的现象。作者可能分析了那些只有名声但缺乏实质贡献的公众人物，或者名声与真实行为不符的情况。文章可能会从历史、文化或社会学的角度，讨论名望的本质以及名人在社会中的真正角色，反思我们应该如何看待和评价那些拥有巨大影响力的人。 [<a href="https://news.ycombinator.com/item?id=45484028" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GPT-OSS泄露了关于OpenAI训练数据的什么信息]]></title>
             <link>https://fi-le.net/oss/</link>
             <guid isPermaLink="false">https://fi-le.net/oss/</guid>
             <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了GPT-OSS项目泄露的信息，揭示了OpenAI可能用于训练其大型语言模型的数据来源。文章可能探讨了开源代码库中的数据如何被用于AI训练，以及这种做法对隐私和版权的潜在影响。作者还讨论了这对AI开发社区和OpenAI自身商业实践的启示。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章讨论了GPT-OSS（可能是一个开源项目或研究）如何揭示OpenAI训练数据集的某些细节。作者可能分析了OpenAI如何收集和处理训练数据，这些数据集的构成和特点，以及其对AI模型性能的影响。文章可能探讨了数据隐私、伦理问题以及开源与闭源AI系统之间的差异。这为理解大型语言模型如何被训练提供了宝贵的见解，也引发了对AI数据来源和使用透明度的讨论。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用模板函子实现C++回调函数 - Rich Hickey (1994)]]></title>
+            <title><![CDATA[使用模板函数器的C++回调函数 – Rich Hickey (1994)]]></title>
             <link>http://www.tutok.sk/fastgl/callback.html</link>
             <guid isPermaLink="false">http://www.tutok.sk/fastgl/callback.html</guid>
             <pubDate>Sun, 05 Oct 2025 17:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[这是Rich Hickey在1994年发表的一篇关于在C++中使用模板函子实现回调函数的技术文章。文章详细介绍了如何利用C++的模板元编程特性创建灵活的回调机制，这是函数式编程概念在C++中的早期应用。Hickey后来因创建Clojure语言而闻名，这篇文章展示了他对编程语言设计的早期思考。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一篇1994年Rich Hickey撰写的早期技术文章，介绍了如何在C++中使用模板函数器实现回调机制。回调是编程中常见的模式，允许函数作为参数传递并在适当的时候执行。这篇文章可能展示了如何利用C++的模板特性创建灵活的回调系统，为现代函数式编程概念奠定了基础。Rich Hickey后来因创建Clojure编程语言而闻名，这篇文章反映了他早期对编程语言设计的思考。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：ut - 面向开发者和IT人员的基于Rust的命令行工具]]></title>
+            <title><![CDATA[推荐 HN：ut - 面向开发者和IT人员的基于Rust的CLI工具]]></title>
             <link>https://github.com/ksdme/ut</link>
             <guid isPermaLink="false">https://github.com/ksdme/ut</guid>
             <pubDate>Sun, 05 Oct 2025 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个名为ut的开源项目，使用Rust语言为开发者和IT专业人员创建命令行工具集合。该项目提供了一系列实用程序，用于简化日常开发任务、系统管理和文件操作。作为Rust项目，它强调了性能、安全性和并发性的优势，适合在需要高效工具的环境中工作。 [<a href="https://news.ycombinator.com/item?id=45483531" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一个用Rust编程语言开发的命令行工具集合，专为开发者和IT专业人员设计。ut可能提供了一系列实用工具，帮助用户完成常见的系统管理、文件处理、网络或其他开发任务。作为基于Rust的工具，它可能具有高性能、内存安全和跨平台的特点。项目托管在GitHub上，表明它是一个开源项目，可能受到社区积极维护和贡献，适合那些需要在命令行环境中高效工作的技术专业人士。 [<a href="https://news.ycombinator.com/item?id=45483531" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[大火摧毁韩国政府云存储系统，无可用备份]]></title>
+            <title><![CDATA[MIT用于科学发现的新AI平台]]></title>
+            <link>https://www.hpcwire.com/2025/10/03/inside-mits-new-ai-platform-for-scientific-discovery/</link>
+            <guid isPermaLink="false">https://www.hpcwire.com/2025/10/03/inside-mits-new-ai-platform-for-scientific-discovery/</guid>
+            <pubDate>Sun, 05 Oct 2025 17:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[麻省理工学院(MIT)推出了一个新的人工智能平台，专门用于加速科学发现。该平台可能结合了先进的人工智能技术、高性能计算和科学知识库，帮助研究人员处理复杂的科学问题。文章可能详细介绍了平台的功能、架构及其在各个科学领域的潜在应用。这个平台可能会改变科学家进行研究的方式，通过自动化分析、预测建模和数据处理，加速从基础研究到应用创新的整个周期。 [<a href="https://news.ycombinator.com/item?id=45483435" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[火灾摧毁韩国政府云存储系统，无可用备份]]></title>
             <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
             <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
             <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2025年10月1日，韩国政府的一个云存储系统遭遇火灾而被摧毁，且没有可用的备份。这一事件导致大量政府数据丢失，影响公共服务和行政运作。文章报道了事故的详情、政府对此的回应以及未来如何改进数据存储策略以防止类似事件再次发生。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[韩国政府的一个重要云存储系统遭遇火灾并被摧毁，更严重的是，该系统没有可用的备份。这一事件可能导致大量政府数据丢失，影响公共服务的正常运作。文章可能详细描述了事件发生的经过、涉及的政府部门以及应对措施。这一事件突显了数据备份和灾难恢复计划的重要性，特别是对于存储关键政府信息的系统。事件可能促使韩国政府重新评估其数据存储策略和网络安全措施。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[专注就是说“不“]]></title>
+            <title><![CDATA[专注就说＂不＂]]></title>
             <link>https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</link>
             <guid isPermaLink="false">https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1</guid>
             <pubDate>Sun, 05 Oct 2025 17:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇关于软件现代化项目困境的第二部分文章，强调了在项目管理中专注的重要性。文章讨论了如何在众多需求和功能请求中做出取舍，指出真正的专注不仅是关注重要事项，更是勇敢地对不重要的事项说“不“。作者分享了在软件现代化过程中如何平衡技术债务、新功能开发和资源限制的经验。 [<a href="https://news.ycombinator.com/item?id=45483275" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章讨论了在软件现代化项目中专注的重要性，作者认为真正的专注意味着学会拒绝。在软件开发和项目管理中，面对各种需求和机会，能够明确地说＂不＂是成功的关键。文章可能探讨了如何确定优先级、避免范围蔓延，以及如何在保持项目方向的同时应对外部压力。作者可能分享了一些实用策略，帮助开发团队和项目经理在面对复杂环境时保持专注，确保高质量地交付真正有价值的结果。 [<a href="https://news.ycombinator.com/item?id=45483275" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[通过监督学习框架实现RLVR的隐式Actor-Critic耦合]]></title>
+            <title><![CDATA[通过监督学习框架实现RLVR的隐式演员-评论家耦合]]></title>
             <link>https://arxiv.org/abs/2509.02522</link>
             <guid isPermaLink="false">https://arxiv.org/abs/2509.02522</guid>
             <pubDate>Sun, 05 Oct 2025 17:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇研究论文，提出了一种通过监督学习框架实现RLVR中隐式Actor-Critic耦合的方法。论文介绍了如何将监督学习技术与强化学习相结合，通过训练神经网络来近似策略和价值函数，从而提高智能体在复杂视觉环境中的决策能力。这种方法减少了传统强化学习对大量交互数据的依赖。 [<a href="https://news.ycombinator.com/item?id=45483205" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一篇研究论文，提出了一种通过监督学习框架实现RLVR（可能指某种强化学习场景）的隐式演员-评论家耦合方法。演员-评论家是强化学习中的一种经典算法结构，结合了策略梯度方法和值函数近似。该研究可能提出了一种新的方法，通过监督学习来优化这两个组件之间的交互，提高学习效率和性能。论文可能包含了理论分析、实验设计和结果评估，为解决强化学习中的某些挑战提供了新思路。 [<a href="https://news.ycombinator.com/item?id=45483205" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[比亚迪打造全球最快汽车]]></title>
-            <link>https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</link>
-            <guid isPermaLink="false">https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</guid>
-            <pubDate>Sun, 05 Oct 2025 15:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[比亚迪公司宣布制造了全球最快的电动汽车，展示了其电池技术和电动动力系统的最新进展。这一成就标志着中国电动车制造商在全球汽车技术竞争中的重要地位，可能对传统汽车制造商构成挑战。文章详细介绍了这款车的技术规格、性能特点以及比亚迪在电动车领域的发展战略。 [<a href="https://news.ycombinator.com/item?id=45482516" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[如果芝加哥大学不捍卫人文学科，那谁会捍卫？]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</link>
-            <guid isPermaLink="false">https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/</guid>
-            <pubDate>Sun, 05 Oct 2025 15:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了芝加哥大学在人文学科教育中的立场和责任，批评了该大学在支持人文学科方面的不足。文章分析了当代高等教育中人文学科面临的挑战，包括预算削减、就业前景不明和学生兴趣下降等问题，并呼吁顶尖大学重新认识到人文学科对于培养学生批判思维和人文素养的重要性。 [<a href="https://news.ycombinator.com/item?id=45482484" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[展示HN：ASCII绘图板]]></title>
+            <title><![CDATA[推荐 HN：ASCII绘图板]]></title>
             <link>https://www.delopsu.com/draw.html</link>
             <guid isPermaLink="false">https://www.delopsu.com/draw.html</guid>
             <pubDate>Sun, 05 Oct 2025 15:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个基于ASCII字符的在线绘图工具，允许用户使用文本字符创建简单的图形和艺术作品。该工具提供了各种绘图功能，如线条、形状、文本输入等，并支持实时预览和导出功能。作为一款创意工具，它特别适合程序员和ASCII艺术爱好者，提供了一种独特的文本-based创作体验。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一个基于ASCII字符的在线绘图工具，允许用户使用简单的文本字符创建图像和图表。该工具可能提供直观的界面，让用户能够通过点击或拖拽在网格上放置不同ASCII字符，从而创建像素艺术、图表或简单设计。由于使用的是标准ASCII字符，创建的作品可以在任何支持文本显示的设备上查看，具有良好的兼容性。这个项目可能适合程序员、艺术家或任何喜欢创意表达的人，特别是在需要创建简单图形但不想使用复杂图形软件的场景中。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NIST对DeepSeek的“评估“是一篇抨击文章]]></title>
+            <title><![CDATA[NIST对DeepSeek的＂评估＂是一篇攻击性文章]]></title>
             <link>https://erichartford.com/the-demonization-of-deepseek</link>
             <guid isPermaLink="false">https://erichartford.com/the-demonization-of-deepseek</guid>
             <pubDate>Sun, 05 Oct 2025 15:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章批评了美国国家标准与技术研究院对DeepSeek模型的所谓“评估“，认为评估过程存在偏见，目的是妖魔化这家中国AI公司。作者分析了NIST评估的方法论问题，指出其评估标准可能更适合西方开发的模型，而对非西方开发的AI模型不够公平。文章反映了AI领域中美技术竞争中的紧张关系和意识形态分歧。 [<a href="https://news.ycombinator.com/item?id=45482106" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章批评了美国国家标准与技术研究院(NIST)对DeepSeek（可能是一个AI模型或公司）的所谓＂评估＂实际上是带有偏见的攻击。作者认为NIST的评估缺乏客观性，旨在贬低DeepSeek的成就或可信度。文章可能分析了评估报告中的方法学问题、数据选择偏差或结论的不公正性，认为这是美国科技政策中针对特定AI实体的系统性偏见的一部分。这反映了当前AI评估领域存在的争议，以及不同国家和地区AI发展之间的竞争关系。 [<a href="https://news.ycombinator.com/item?id=45482106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[QNX操作系统]]></title>
             <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
             <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
             <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了QNX操作系统的特点和优势，这是一款基于微内核架构的实时操作系统。文章探讨了QNX在关键任务系统中的应用，如汽车电子、医疗设备和工业控制系统，强调了其高可靠性、安全性和确定性性能。QNX的微内核设计提供了比传统宏内核更好的稳定性和安全性，适合需要高可靠性的环境。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[QNX是一种实时操作系统(RTOS)，以其高可靠性和安全性著称，广泛应用于汽车、工业自动化、医疗设备等关键任务领域。文章可能介绍了QNX的微内核架构设计，这种设计将操作系统功能分解为小型、独立的进程，通过消息传递进行通信，从而提高了系统的稳定性和安全性。QNX被许多汽车制造商用于信息娱乐系统和高级驾驶辅助系统(ADAS)，也是自动驾驶技术中的重要组成部分。文章可能探讨了QNX的技术特点、优势以及在不同行业的应用案例。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Test-Ipv6.com正式退休]]></title>
+            <title><![CDATA[Test-Ipv6.com网站退役]]></title>
             <link>https://retire.test-ipv6.com/</link>
             <guid isPermaLink="false">https://retire.test-ipv6.com/</guid>
             <pubDate>Sun, 05 Oct 2025 14:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[Test-Ipv6.com是一个长期用于测试IPv6兼容性和连接性的网站，现宣布正式停止服务。文章回顾了该网站自成立以来在推动IPv6采用方面所做的贡献，包括为网络管理员和普通用户提供简单有效的IPv6测试工具。随着IPv6成为互联网标准，这一服务完成了其历史使命，但作者表达了对这一标志性网站关闭的惋惜之情。 [<a href="https://news.ycombinator.com/item?id=45481609" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Test-Ipv6.com是一个专门用于测试IPv6兼容性的网站，现已宣布退役。这个网站长期以来帮助网站管理员、开发者和网络工程师测试他们的服务是否正确支持IPv6协议。随着IPv6的普及和互联网协议向IPv6的过渡，这个测试工具可能已经完成了其历史使命。文章可能回顾了该网站的功能、使用方法及其在推动IPv6采用方面的贡献，同时可能提供替代的测试工具或资源，帮助用户继续评估IPv6兼容性。 [<a href="https://news.ycombinator.com/item?id=45481609" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：Pyscn - 面向风格编码者的Python代码质量分析器]]></title>
+            <title><![CDATA[推荐 HN：Pyscn - 面向有风格的程序员的Python代码质量分析器]]></title>
             <link>https://github.com/ludo-technologies/pyscn</link>
             <guid isPermaLink="false">https://github.com/ludo-technologies/pyscn</guid>
             <pubDate>Sun, 05 Oct 2025 13:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[Pyscn是一个Python代码质量分析工具，专为注重代码风格和可读性的开发者设计。该工具提供了一套自定义的代码检查规则，超越了传统的linter和formatter，关注更高层次的代码结构和设计模式。它特别适合那些注重“编码风格“的开发者，帮助他们维护一致、优雅且易于维护的代码库。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Pyscn是一个Python代码质量分析工具，专为注重代码风格和质量的开发者设计。它可能提供了一系列静态代码分析功能，帮助识别潜在的问题、不符合最佳实践的代码模式以及可能的改进点。与传统的linter不同，Pyscn可能更关注代码的整体＂感觉＂或＂风格＂，而不仅仅是语法错误或风格问题。这个工具可能整合了多种代码分析技术，为开发者提供全面的质量评估，帮助他们编写更整洁、更高效、更易维护的Python代码。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[使用ARM SIMD实现86 GB/s的位打包（单线程）]]></title>
             <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
             <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
             <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章展示了一种使用ARM SIMD指令集优化的位打包算法，实现了每秒86GB的惊人处理速度，仅需单线程处理。作者详细介绍了如何利用ARM NEON指令集的并行处理能力，以及各种优化技术如对齐访问、循环展开和缓存友好设计。这一成果对数据密集型应用如数据库、压缩算法和科学计算具有重要价值。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一个性能优化项目，展示了如何在单线程环境下使用ARM SIMD（单指令多数据）指令集实现高达86 GB/s的位打包速度。位打包是一种将多个小数值压缩到一个较大数据单元中的技术，常用于数据压缩和高效存储。这个项目可能包含了优化的算法和实现细节，展示了如何充分利用现代ARM处理器的并行处理能力。代码可能包含详细的注释和性能分析，对从事高性能计算、数据压缩或嵌入式系统开发的开发者有重要参考价值。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[最后期限不是AI超越人类智能之时，而是我们停止使用自己大脑之时]]></title>
+            <title><![CDATA[截止日期不是当AI超越我们的时候——而是当我们停止使用自己思想的时候]]></title>
             <link>https://www.theargumentmag.com/p/you-have-18-months</link>
             <guid isPermaLink="false">https://www.theargumentmag.com/p/you-have-18-months</guid>
             <pubDate>Sun, 05 Oct 2025 11:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章提出了一个关于人工智能发展的独特观点：真正的危险不在于AI变得比人类更智能，而在于人类过度依赖AI而停止思考和批判性思考。作者警告了随着AI工具变得越来越普及和强大，人类社会可能面临“智力退化“的风险。文章呼吁读者保持独立思考能力，即使在AI辅助工具日益强大的时代也要保持人类的认知优势。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了人工智能发展与人类思维之间的关系，提出了一个观点：真正的危险不是AI变得比人类更聪明，而是人类过度依赖AI而停止使用自己的思维能力。作者可能分析了随着AI技术的进步，人们如何逐渐将决策、创造甚至基本思考外包给机器，从而导致人类认知能力的退化。文章可能呼吁重新思考人类与AI的关系，强调保持独立思考和批判性思维能力的重要性，以及如何在AI时代维持人类的独特价值。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[VPS Hetzner和Coolify初学者指南]]></title>
             <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
             <guid isPermaLink="false">https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
             <pubDate>Sun, 05 Oct 2025 10:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[这是一份全面的初学者指南，介绍了如何在Hetzner VPS上设置和配置服务器，并使用Coolify简化自托管流程。文章涵盖了从选择VPS计划到基本安全配置的全过程，包括防火墙设置、SSL证书管理、数据库配置和应用程序部署等。这份指南特别适合想要自托管网站或应用程序但缺乏经验的技术爱好者，提供了清晰、可操作的步骤。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是一份面向初学者的完整指南，介绍了如何使用Hetzner的VPS（虚拟专用服务器）和Coolify平台进行自托管。指南可能涵盖了从选择合适的VPS计划、设置服务器、配置安全措施到部署应用程序的整个过程。Hetzner是一家知名的云服务提供商，以其性价比高的VPS服务而闻名；Coolify可能是一个自托管管理工具，简化了应用程序的部署和管理。这份指南可能包含了详细的步骤说明、最佳实践和安全建议，帮助用户建立安全、可靠的自托管环境，而无需深厚的技术背景。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Framework笔记本电脑和磁盘上自托管10TB S3存储]]></title>
+            <title><![CDATA[在Framework笔记本电脑和磁盘上自托管10TB的S3存储]]></title>
             <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
             <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
             <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了如何在Framework笔记本电脑上结合外部存储设备，构建一个容量为10TB的自托管S3兼容存储系统。作者分享了硬件选择、软件配置、网络设置和数据安全策略等技术细节，展示了如何使用消费级硬件创建类似AWS S3的存储解决方案。这种设置对于需要大容量本地或私有云存储的开发者和小型企业具有实用价值。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章详细介绍了如何在Framework笔记本电脑（一款模块化的开源硬件）上使用额外的磁盘存储，配置一个兼容S3协议的自托管存储系统，容量达到10TB。作者可能分享了硬件选择、系统配置、软件设置和性能优化的经验。这可能包括安装类似MinIO或Wasabi的开源S3兼容软件，配置存储策略，以及确保数据安全和高可用性的方法。这种解决方案适合需要大量本地存储但不想依赖云服务提供商的开发者和小型企业，提供了数据主权和潜在成本优势。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[个人数据存储的想法已经成熟]]></title>
+            <title><![CDATA[个人数据存储是一个时机已到的理念]]></title>
             <link>https://blog.muni.town/personal-data-storage-idea/</link>
             <guid isPermaLink="false">https://blog.muni.town/personal-data-storage-idea/</guid>
             <pubDate>Sun, 05 Oct 2025 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了个人数据存储概念的兴起，认为随着人们对隐私和数据主权的意识增强，个人拥有和控制自己数据的理念已经获得广泛认同。文章讨论了现有云存储服务的局限性，以及个人数据存储解决方案如何赋予用户更大的数据控制权和隐私保护。作者还展望了这一理念对未来互联网和数据经济的影响。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了个人数据存储的兴起及其在现代数字生活中的重要性。作者可能讨论了随着数据隐私意识的增强和对科技巨头控制个人数据的担忧，个人拥有和控制自己数据的必要性增加。文章可能介绍了各种个人数据存储解决方案，从本地存储到分布式网络，以及这些解决方案如何赋予用户对其数据的更多控制权。作者可能强调，个人数据存储不仅关乎隐私，还关乎数字主权和长期数据保存，代表了向更公平、更平衡的数字生态系统转变。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[社会冷却（2017）]]></title>
+            <title><![CDATA[社会冷却 (2017)]]></title>
             <link>https://www.socialcooling.com/</link>
             <guid isPermaLink="false">https://www.socialcooling.com/</guid>
             <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[这是关于“社会冷却“概念的介绍，一个类似于“社会信用“系统但更微妙的社会现象概念。社会冷却指的是当人们意识到自己的在线行为可能被永久记录和评估时，开始自我审查，抑制创造性、批判性和非传统的表达。这一概念由社会科学家提出，旨在警示过度监控和数据持久性对社会创新和个人自由的潜在危害，特别是在数字时代。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这个网站介绍了＂社会冷却＂的概念，这是一个描述社会自我审查现象的术语，类似于＂寒蝉效应＂。当人们意识到自己的在线行为可能被永久记录并影响未来时，他们可能会避免某些表达或行为，即使这些行为是合法和正当的。文章可能探讨了这种自我审查如何限制言论自由、创新和社会进步，以及它如何通过监控技术、社交媒体算法和数据持久化而加剧。社会冷却的概念强调了在数字时代平衡安全与自由的重要性，以及思考我们如何设计技术系统以支持而非抑制开放交流。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
