@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 13:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 13:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[管理者一直以来都在感觉编程]]></title>
-            <link>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</link>
-            <guid isPermaLink="false">https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</guid>
-            <pubDate>Sun, 05 Oct 2025 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了管理者和编程之间的关系，提出感觉编程的概念，即管理者虽然没有直接编写代码，但在决策和指导过程中表现出编程思维和解决问题的能力。文章指出管理者和程序员存在共通之处，特别是在处理复杂问题、系统思考和优化效率方面。讨论了如何更好地理解和管理具有编程思维的人才，以及将这种思维应用于管理和领导实践。 [<a href="https://news.ycombinator.com/item?id=45481322" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用ARM SIMD(单线程)实现86 GB/s的位压缩]]></title>
+            <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
+            <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
+            <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[这个仓库展示了使用ARM SIMD指令集实现的高速位压缩技术，能够在单线程环境下达到86 GB/s的压缩速度。该项目提供了优化后的代码实现，利用ARM处理器的SIMD指令集并行处理能力，显著提高了数据压缩的效率。对于需要在高性能计算环境中处理大量数据的开发者来说，这是一个非常有价值的参考实现。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我制作了一个从重要事件反向计划的Google Calendar工具]]></title>
-            <link>https://reverse-scheduler.vercel.app/</link>
-            <guid isPermaLink="false">https://reverse-scheduler.vercel.app/</guid>
-            <pubDate>Sun, 05 Oct 2025 13:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个反向日程规划工具，允许用户从重要的截止日期或事件开始，向前推算并安排相关任务和活动。用户可在Google Calendar中标记重要事件，工具自动计算并建议完成各种准备工作所需的时间段。特别适合项目管理、考试准备、活动策划等需要预先规划的场景，帮助用户更好管理时间，确保所有准备工作能在截止日期前完成。 [<a href="https://news.ycombinator.com/item?id=45481310" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[当狗狗币风暴席卷社会保障时发生的事情]]></title>
+            <link>https://www.propublica.org/article/inside-doge-social-security-takeover-leland-dudek</link>
+            <guid isPermaLink="false">https://www.propublica.org/article/inside-doge-social-security-takeover-leland-dudek</guid>
+            <pubDate>Sun, 05 Oct 2025 12:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[本文深入探讨了DOGE(狗狗币)相关团队如何试图接管美国社会保障系统的内部运作。报道揭示了这一政治运动的背后动机、实施策略以及可能对美国社会安全网产生的深远影响。文章详细描述了关键人物Leland Dudek在这场运动中的角色，以及这场看似技术导向的改革如何引发关于政府运作透明度和公众服务的广泛讨论。 [<a href="https://news.ycombinator.com/item?id=45480982" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN分享：Pyscn - 专为感觉编程者设计的Python代码质量分析工具]]></title>
-            <link>https://github.com/ludo-technologies/pyscn</link>
-            <guid isPermaLink="false">https://github.com/ludo-technologies/pyscn</guid>
-            <pubDate>Sun, 05 Oct 2025 13:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[Pyscn是开源的Python代码质量分析工具，专为感觉编程者设计。它不仅关注传统代码规范问题，还着重分析代码的氛围和整体质量，包括可读性、维护性和开发体验。该工具检测潜在代码异味、过度复杂逻辑、不合理抽象层次等问题并提供改进建议。可通过简单命令行界面或集成到开发流程中使用，帮助开发者提升代码质量同时保持编程的自然流畅感。 [<a href="https://news.ycombinator.com/item?id=45481298" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[截止日期不是当AI超越我们的时候——而是当我们停止使用自己的头脑时]]></title>
+            <link>https://www.theargumentmag.com/p/you-have-18-months</link>
+            <guid isPermaLink="false">https://www.theargumentmag.com/p/you-have-18-months</guid>
+            <pubDate>Sun, 05 Oct 2025 11:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[本文提出了一个关于人工智能发展的深刻观点：真正的风险不在于AI变得比人类更智能，而在于人类过度依赖AI而逐渐停止独立思考和判断。作者警告说，人类可能只剩下18个月的时间来重新审视我们与AI的关系，确保技术增强而非取代人类的认知能力。文章呼吁读者重新思考如何在使用AI的同时保持批判性思维和自主决策能力。 [<a href="https://news.ycombinator.com/item?id=45480622" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LLM代理中现代内存管理架构概述]]></title>
-            <link>https://vinithavn.medium.com/advancing-agentic-memory-an-overview-of-modern-memory-management-architectures-in-llm-agents-8df87b0da58f</link>
-            <guid isPermaLink="false">https://vinithavn.medium.com/advancing-agentic-memory-an-overview-of-modern-memory-management-architectures-in-llm-agents-8df87b0da58f</guid>
-            <pubDate>Sun, 05 Oct 2025 13:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了大型语言模型代理中的现代内存管理架构。随着LLM代理变复杂，需要更有效的内存管理系统处理、存储和检索大量信息。文章探讨了分层记忆系统、语义记忆、情景记忆和程序记忆等技术，比较不同架构优缺点，讨论如何优化内存访问速度、减少冗余、提高关联性以及处理长序列依赖关系。这些技术对构建更智能高效的AI代理至关重要。 [<a href="https://news.ycombinator.com/item?id=45481260" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[笔记本电脑创造系统。手机喂养算法。这种不对称性决定了权力]]></title>
+            <link>https://zakelfassi.com/command-interface-device-power</link>
+            <guid isPermaLink="false">https://zakelfassi.com/command-interface-device-power</guid>
+            <pubDate>Sun, 05 Oct 2025 11:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[本文分析了现代计算设备的权力不对称性。笔记本电脑作为创造工具，允许用户构建系统和应用程序，而手机则主要作为算法的消费者，将用户数据反馈给大型科技公司。这种根本性的差异塑造了当今的技术权力结构，创造了一种隐性的控制机制。作者探讨了这种不对称如何影响个人自主权、创新自由以及数字经济的权力分配，并思考了重新平衡这种权力关系的可能性。 [<a href="https://news.ycombinator.com/item?id=45480620" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[维生素K2缺乏与儿童身材矮小的关联]]></title>
-            <link>https://www.sciencedirect.com/science/article/abs/pii/S0899900724003095</link>
-            <guid isPermaLink="false">https://www.sciencedirect.com/science/article/abs/pii/S0899900724003095</guid>
-            <pubDate>Sun, 05 Oct 2025 13:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[这项研究探讨了维生素K2缺乏与儿童身材矮小之间的关联。研究人员分析大量儿童的维生素K2水平和身高数据，发现低维生素K2水平儿童更易出现身材矮小。文章解释了维生素K2在骨骼发育和钙代谢中的重要作用，包括其对骨形成和骨吸收的调节机制。研究结果强调确保儿童摄入足够维生素K2的重要性，特别是在骨骼发育关键期，对儿童营养指导和矮小症预防有重要意义。 [<a href="https://news.ycombinator.com/item?id=45481237" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Hetzner VPS和Coolify初学者指南]]></title>
+            <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
+            <guid isPermaLink="false">https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
+            <pubDate>Sun, 05 Oct 2025 10:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[这篇指南为初学者提供了在Hetzner VPS上设置和配置服务器的完整流程，同时使用Coolify进行简化管理。文章涵盖了从选择合适的VPS计划到基本安全配置的各个方面，包括防火墙设置、SSL证书配置、数据库设置等。作者详细介绍了如何通过Coolify这个开源平台轻松部署和管理各种网络服务，使自托管变得更加平易近人。对于希望掌控自己数据的用户来说，这是一份宝贵的实践指南。 [<a href="https://news.ycombinator.com/item?id=45480506" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN分享：我重新发布了为与丹麦女友交流而制作的app]]></title>
-            <link>https://www.menerdu.com/</link>
-            <guid isPermaLink="false">https://www.menerdu.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 13:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[这是重新推出的语言学习应用，专为作者与丹麦女友交流而开发，专注丹麦语学习，包含对话练习、词汇学习、语法指导等功能。界面友好适合初学者。作者分享开发初衷 - 克服与丹麦语为母语伴侣沟通障碍，app可能融入两人交流中的真实对话场景。重新发布版本可能包含改进用户体验、更多学习资源或额外语言功能，帮助其他丹麦语学习者。 [<a href="https://news.ycombinator.com/item?id=45481228" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[业余爱好希尔伯特单形体]]></title>
+            <link>https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html</link>
+            <guid isPermaLink="false">https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html</guid>
+            <pubDate>Sun, 05 Oct 2025 10:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了希尔伯特单形体（Hilbert Simplex）这一数学概念在业余项目中的应用。作者分享了如何将复杂的数学理论转化为实际可用的编程项目的过程，包括实现算法的挑战和解决方案。文章不仅深入浅出地解释了希尔伯特单形体的数学原理，还提供了代码示例和实际应用案例，展示了理论知识如何转化为有趣的个人项目。对于喜欢数学与编程交叉领域的爱好者来说，这是一篇富有启发性的文章。 [<a href="https://news.ycombinator.com/item?id=45480414" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[论学习型索引结构的合理性]]></title>
-            <link>https://dl.acm.org/doi/10.1145/3183713.3196909</link>
-            <guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3183713.3196909</guid>
-            <pubDate>Sun, 05 Oct 2025 13:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇论文提出学习型索引结构概念，探讨将机器学习技术应用于传统数据索引结构的可能性。作者认为传统基于规则的索引方法在面对现代复杂数据时存在效率瓶颈。学习型索引利用神经网络等模型学习数据分布特征，创建更高效索引。文章分析理论基础、实现方法和性能优势，通过实验证明其在特定场景下显著优于传统索引结构的查询效率，为数据库系统性能优化提供新思路。 [<a href="https://news.ycombinator.com/item?id=45481226" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Framework笔记本电脑和磁盘上自托管10TB的S3存储]]></title>
+            <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
+            <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
+            <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[本文详细记录了如何在Framework笔记本电脑和外部磁盘上构建一个自托管S3兼容存储系统，实现10TB的存储容量。作者分享了硬件选择、软件配置、网络设置以及安全考虑等全方位的经验，展示了即使是普通用户也能构建强大且经济实惠的个人云存储解决方案。文章提供了具体的步骤和配置指导，帮助读者在自己的设备上重现这一存储方案，实现了数据自主掌控的目标。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN分享：网站分析工具]]></title>
-            <link>https://microlens.app</link>
-            <guid isPermaLink="false">https://microlens.app</guid>
-            <pubDate>Sun, 05 Oct 2025 13:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[这是轻量级网站分析工具MicroLens，为网站所有者提供访问者行为详细数据。与重量级工具不同，它专注于提供简洁有效的分析功能，包括页面浏览量、访问者地理位置、设备类型、流量来源等关键指标。强调用户隐私保护，可能采用本地数据处理或匿名化技术收集展示数据。界面直观，报告易于理解，适合小型企业、博客作者或个人网站使用，帮助了解受众并优化网站内容。 [<a href="https://news.ycombinator.com/item?id=45481223" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[个人数据存储是一个时机已到的想法]]></title>
+            <link>https://blog.muni.town/personal-data-storage-idea/</link>
+            <guid isPermaLink="false">https://blog.muni.town/personal-data-storage-idea/</guid>
+            <pubDate>Sun, 05 Oct 2025 09:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[本文探讨了个人数据存储日益增长的重要性，认为现在是重新思考个人数据管理方式的适当时机。作者分析了当前数据存储面临的挑战，包括隐私问题、数据主权和长期保存等，并提出了一种以用户为中心的存储解决方案。文章强调，随着数字足迹的不断扩大，个人需要拥有对自己数据的完全控制权，而不仅仅是依赖第三方云服务提供商。这一理念代表了数据民主化运动的重要一步。 [<a href="https://news.ycombinator.com/item?id=45480106" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[冰川在我们眼前消失的前后对比图像]]></title>
-            <link>https://www.bbc.com/news/articles/ce32ezzq6zlo</link>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce32ezzq6zlo</guid>
-            <pubDate>Sun, 05 Oct 2025 13:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章展示世界各地冰川在过去几十年中显著消退的前后对比图像。通过卫星照片、航拍图和实地拍摄的对比，直观呈现全球变暖对冰川的严重影响。从阿尔卑斯山脉到喜马拉雅山脉，从南极格陵兰岛到北美洲的冰川，这些图像清晰揭示了冰川面积的大幅缩小和冰层的明显变薄。这些变化不仅影响海平面上升，还威胁着依赖冰川融水的社区生态系统，强调气候变化的紧迫性。 [<a href="https://news.ycombinator.com/item?id=45481208" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[为什么我选择电子邮件而非消息应用]]></title>
+            <link>https://www.spinellis.gr/blog/20250926/?li</link>
+            <guid isPermaLink="false">https://www.spinellis.gr/blog/20250926/?li</guid>
+            <pubDate>Sun, 05 Oct 2025 08:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[作者在本文中阐述了选择电子邮件作为主要通信媒介的原因，对比了电子邮件与即时通讯应用的优缺点。文章强调了电子邮件的开放性、互操作性、可搜索性以及长期保存等优势，指出这些特性使其成为更可靠、更持久的沟通方式。作者还探讨了电子邮件如何更好地支持异步通信、知识管理和专业交流，而过度依赖封闭的即时通讯平台则可能导致信息孤岛和数据控制问题。这是一篇对现代通信工具选择的深入思考。 [<a href="https://news.ycombinator.com/item?id=45479820" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美国参议院如何与1980年代最大摇滚明星开战]]></title>
-            <link>https://www.theguardian.com/music/2025/oct/05/pmrc-parents-senate-hearing-filthy-fifteen-prince-madonna-judas-priest-alice-cooper</link>
-            <guid isPermaLink="false">https://www.theguardian.com/music/2025/oct/05/pmrc-parents-senate-hearing-filthy-fifteen-prince-madonna-judas-priest-alice-cooper</guid>
-            <pubDate>Sun, 05 Oct 2025 13:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述美国参议院在1980年代与流行音乐界的冲突，特别关注PMRC运动。由几位政治家妻子组成的PMRC推动对摇滚音乐的审查，指责歌词内容不适当，导致了一场著名国会听证会，奥齐·奥斯本、弗兰克·扎帕等摇滚明星被迫为歌词辩护。文章描述了肮脏十五首名单的争议，以及对麦当娜、王子的音乐内容审查尝试，成为言论自由与道德审查间长期斗争的重要篇章。 [<a href="https://news.ycombinator.com/item?id=45481186" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[社会降温（2017）]]></title>
+            <link>https://www.socialcooling.com/</link>
+            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站探讨了“社会降温“的概念，即人们因为担心自己的数字足迹可能被监视或评判而自我审查的社会现象。这一概念由社会科学家提出，描述了数字监控如何导致人们避免表达 controversial 的观点，从而限制了言论自由和创新。网站提供了相关研究、案例分析和资源，帮助人们理解数字监控对社会的微妙影响，并思考如何在保持个人表达自由的同时尊重他人隐私的平衡点。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[一个点对点电子情报系统]]></title>
-            <link>https://hyperdust-foundation.gitbook.io/hyperagi-docs</link>
-            <guid isPermaLink="false">https://hyperdust-foundation.gitbook.io/hyperagi-docs</guid>
-            <pubDate>Sun, 05 Oct 2025 12:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[HyperAGI是点对点电子智能系统文档，描述去中心化AI框架。该系统旨在创建更加开放、透明和可控的AI生态系统。文章介绍系统架构、组件和工作原理，包括去中心化网络结构、智能代理协作机制、安全协议和治理模型。HyperAGI强调用户对数据和AI系统的控制权，反对当前由科技巨头主导的AI发展模式，可能采用区块链等技术确保系统透明度和防篡改性，代表开放AI运动的重要尝试。 [<a href="https://news.ycombinator.com/item?id=45481171" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Claude开发者平台上管理上下文]]></title>
+            <link>https://www.anthropic.com/news/context-management</link>
+            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
+            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[Anthropic公司介绍了在Claude开发者平台上有效管理上下文的新方法和工具。随着AI模型处理的信息量不断增加，如何高效管理和利用这些上下文成为关键挑战。文章详细介绍了平台提供的上下文管理功能，包括分段处理、优先级排序和动态加载等技术，帮助开发者优化AI交互体验并控制成本。这些功能使得开发者能够更灵活地构建基于Claude的AI应用，同时确保性能和效率。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN提问：数据科学家的高性能计算学习路径]]></title>
-            <link>https://news.ycombinator.com/item?id=45481165</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45481165</guid>
-            <pubDate>Sun, 05 Oct 2025 12:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[这是Hacker News上关于数据科学家如何学习高性能计算的提问。提问者希望了解适合数据科学家的HPC学习路径，包括关键技能、学习资源和实践项目。回答可能涉及并行计算、分布式系统、GPU加速计算、内存优化等技术主题，以及如何应用于大数据处理和机器学习模型训练中。讨论包括编程语言、计算框架和集群管理系统建议，这些知识对处理大规模数据集和提高机器学习算法效率至关重要。 [<a href="https://news.ycombinator.com/item?id=45481165" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Ambigr.am]]></title>
+            <link>https://ambigr.am/hall-of-fame</link>
+            <guid isPermaLink="false">https://ambigr.am/hall-of-fame</guid>
+            <pubDate>Sun, 05 Oct 2025 04:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[Ambigr.am是一个展示模糊或歧义数字艺术作品的平台，其“名人堂“页面收录了各种利用视觉歧义创造独特艺术效果的数字作品。这些作品巧妙地利用人类的视觉感知特性，在看似模糊的图像中隐藏多重含义或动态效果，创造引人入胜的视觉体验。平台展示了数字艺术的创新边界，探索了视觉感知与计算机图形学交叉领域的可能性，为观众提供了思考现实与虚拟、清晰与模糊之间关系的独特视角。 [<a href="https://news.ycombinator.com/item?id=45478780" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[脑肿瘤导致颅骨骨破坏和骨髓免疫改变]]></title>
-            <link>https://www.nature.com/articles/s41593-025-02064-4</link>
-            <guid isPermaLink="false">https://www.nature.com/articles/s41593-025-02064-4</guid>
-            <pubDate>Sun, 05 Oct 2025 12:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[这项研究发现脑肿瘤不仅能影响脑组织，还会引起颅骨骨结构破坏和骨髓免疫系统改变。研究人员通过临床观察和实验数据，揭示脑肿瘤与骨骼免疫系统间的相互作用机制。肿瘤细胞可能通过分泌特定因子或直接浸润，导致颅骨骨溶解和重建失衡，同时改变骨髓中免疫细胞组成和功能。这一发现对理解脑肿瘤全身性影响有重要意义，也为开发针对脑肿瘤骨转移的新疗法提供理论依据。 [<a href="https://news.ycombinator.com/item?id=45481164" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[1Password命令行界面漏洞]]></title>
+            <link>https://codeberg.org/manchicken/1password-cli-vuln-disclosure</link>
+            <guid isPermaLink="false">https://codeberg.org/manchicken/1password-cli-vuln-disclosure</guid>
+            <pubDate>Sun, 05 Oct 2025 03:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章披露了1Password命令行界面(CLI)中的一个安全漏洞。作者详细描述了漏洞的技术细节、潜在影响以及修复建议。该漏洞可能导致敏感信息泄露或未授权访问，影响了使用1Password CLI工具的用户。文章提供了完整的漏洞分析，包括复现步骤和缓解措施，提醒用户及时更新到最新版本以保护自己的密码管理安全。这强调了即使是成熟的安全工具也可能存在需要及时修复的安全问题。 [<a href="https://news.ycombinator.com/item?id=45478553" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[史上最具标志性的时尚设计师]]></title>
-            <link>https://capstanmallnews.blogspot.com/2025/10/Fashion%20Designers.html</link>
-            <guid isPermaLink="false">https://capstanmallnews.blogspot.com/2025/10/Fashion%20Designers.html</guid>
-            <pubDate>Sun, 05 Oct 2025 12:55:31 GMT</pubDate>
-            <content:encoded><![CDATA[文章回顾时尚史上最具影响力和标志性的设计师，他们通过创新设计和独特审美观塑造现代时尚面貌。涵盖从可可·香奈儿、克里斯汀·迪奥到亚力山德罗·米开理、川久保玲等各时代的伟大设计师。每位设计师都以突破性风格和理念闻名，如香奈儿的解放女性着装、迪奥的新风貌等。文章分析他们的设计哲学、标志性作品及对时尚产业的持久影响，反映了所处时代的社会变迁和文化思潮。 [<a href="https://news.ycombinator.com/item?id=45481150" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Parrot - 在Gleam中的类型安全SQL，支持SQLite、PostgreSQL和MySQL]]></title>
+            <link>https://github.com/daniellionel01/parrot</link>
+            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
+            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
+            <content:encoded><![CDATA[Parrot是一个用Gleam语言编写的类型安全SQL库，支持SQLite、PostgreSQL和MySQL等多种数据库。该项目结合了Gleam的类型安全特性和SQL的强大查询能力，使开发者能够在编译时捕获SQL相关错误，提高代码质量。Parrot提供了直观的API，使得在Gleam应用中进行数据库操作变得更加安全和便捷。对于使用Gleam语言并需要与数据库交互的开发者来说，这是一个非常有价值的工具，可以显著减少运行时SQL错误的风险。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN提问：如何学习分析体育统计数据和计算赔率？]]></title>
-            <link>https://news.ycombinator.com/item?id=45481135</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45481135</guid>
-            <pubDate>Sun, 05 Oct 2025 12:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[这是Hacker News上关于学习体育统计分析和赔率计算方法的提问。提问者希望了解从基础到高级的学习路径，包括必要数学知识、统计工具和实际应用场景。回答可能涉及概率论、贝叶斯统计、回归分析等核心概念，以及如何应用于体育比赛数据分析、运动员表现评估和赔率计算中。讨论推荐相关学习资源，如书籍、在线课程和数据分析工具，并分享实际项目经验和数据获取渠道，帮助学习者将理论知识转化为实际技能。 [<a href="https://news.ycombinator.com/item?id=45481135" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Mod. 5140 - IBM的第一台笔记本电脑]]></title>
+            <link>https://richardsapperdesign.com/products/mod-5140/</link>
+            <guid isPermaLink="false">https://richardsapperdesign.com/products/mod-5140/</guid>
+            <pubDate>Sun, 05 Oct 2025 00:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[这个页面介绍了IBM的第一台笔记本电脑型号5140（Mod. 5140）的历史和技术规格。这款产品代表了个人计算发展史上的重要里程碑，展示了IBM在早期便携式计算设备领域的创新。页面详细描述了这款设备的设计理念、硬件配置、市场定位及其对后来笔记本电脑发展的影响。对于科技历史爱好者和设计研究者来说，这是一款了解计算设备如何从笨重主机进化到便携形态的重要参考资料。 [<a href="https://news.ycombinator.com/item?id=45477971" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI收购了一款AI驱动的个人投资应用]]></title>
-            <link>https://www.engadget.com/ai/openai-acquires-an-ai-powered-personal-investing-app-192339271.html</link>
-            <guid isPermaLink="false">https://www.engadget.com/ai/openai-acquires-an-ai-powered-personal-investing-app-192339271.html</guid>
-            <pubDate>Sun, 05 Oct 2025 12:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI收购了利用人工智能技术帮助个人进行投资决策的应用。该应用通过机器学习算法分析市场数据、识别投资机会并提供建议，使普通投资者能更智能管理投资组合。收购反映OpenAI将AI技术扩展到金融领域的战略意图，可能旨在将先进的语言模型和数据分析能力应用于投资决策支持系统。这一举措可能改变个人投资方式，使AI辅助投资更普及和专业，同时也引发关于AI在金融决策中潜在风险和伦理考量的讨论。 [<a href="https://news.ycombinator.com/item?id=45481131" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[小行星2024 YR4侦察和缓解任务的太空任务选项]]></title>
+            <link>https://arxiv.org/abs/2509.12351</link>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
+            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[这篇论文分析了针对小行星2024 YR4的潜在侦察和缓解任务的各种选项。作为一篇发表在arXiv上的科学研究文章，它评估了不同的轨道力学策略、探测器设计和任务时间表，以应对可能对地球构成威胁的小天体。研究涵盖了从小距离飞越到撞击偏转等多种技术方案，并考虑了任务执行的可行性和成本效益。这类研究对于行星防御具有重要意义，展示了科学界如何利用前沿技术保护地球免受小行星撞击的潜在风险。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[让模型编写提示词]]></title>
-            <link>https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html</link>
-            <guid isPermaLink="false">https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html</guid>
-            <pubDate>Sun, 05 Oct 2025 12:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨让AI模型自己编写提示词的创新方法。作者提出与其由人类手动设计复杂提示词，不如训练或指导AI模型根据任务需求自行生成最优提示。这种方法被称为元提示或提示词优化。文章详细解释如何设计系统让模型迭代改进自己的提示，提高任务完成质量和效率。特别适用于难以确定最佳初始提示的复杂任务，展示了创意写作、代码生成和数据分析等领域的应用效果，并讨论其对未来AI交互方式的潜在影响。 [<a href="https://news.ycombinator.com/item?id=45481106" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[NSA和IETF：攻击者能否购买被削弱的密码学标准化？]]></title>
+            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
+            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
+            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[这篇博客文章探讨了国家安全局(NSA)与互联网工程任务组(IETF)之间可能存在的复杂关系，质疑是否有能力通过影响密码学标准的制定来削弱加密技术。文章分析了密码学标准制定过程中的潜在风险，特别是当政府机构参与其中的情况下。作者提出了关于透明度、利益冲突和密码学民主化的深刻问题，思考如何在确保国家安全的同时保护个人隐私和数字安全。这反映了密码学社区对标准制定过程中潜在操纵的持续担忧。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[着装规范与荣誉准则]]></title>
-            <link>https://thedispatch.com/article/pete-hegseth-military-dress-code/</link>
-            <guid isPermaLink="false">https://thedispatch.com/article/pete-hegseth-military-dress-code/</guid>
-            <pubDate>Sun, 05 Oct 2025 12:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨军事环境中的着装规范与荣誉准则关系。作者分析严格着装规定的实际意义，以及它们如何反映和塑造军事文化和价值观。讨论着装规范如何在保持军事纪律和身份认同的同时，与个人表达产生张力。探讨现代军事环境中着装要求演变，以及如何平衡传统与变革。以特定军事人物或事件为例，分析着装规范在军事荣誉和个人认同中的象征意义，以及它们如何影响军队士气和公众对军队的印象。 [<a href="https://news.ycombinator.com/item?id=45481098" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[“香山“向量浮点单元设计]]></title>
+            <link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link>
+            <guid isPermaLink="false">https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</guid>
+            <pubDate>Sat, 04 Oct 2025 22:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[这个文档介绍了“香山“处理器架构中的向量浮点单元(VFPU)设计。“香山“是中国自主研发的高性能处理器项目，其VFPU设计针对科学计算、人工智能等需要高性能向量计算的应用进行了优化。文档详细描述了向量浮点单元的架构设计、指令集实现、性能优化策略以及与其他组件的接口设计。这些信息对于理解国产高性能处理器的设计理念和实现细节具有重要意义，也反映了中国在高端计算硬件领域的持续进步。 [<a href="https://news.ycombinator.com/item?id=45477118" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[圣杰罗姆的狮子、波利亚瓮与生物多样性演化]]></title>
-            <link>https://scientistseessquirrel.wordpress.com/2024/08/27/st-jeromes-lions-polya-urns-and-the-evolution-of-biodiversity/</link>
-            <guid isPermaLink="false">https://scientistseessquirrel.wordpress.com/2024/08/27/st-jeromes-lions-polya-urns-and-the-evolution-of-biodiversity/</guid>
-            <pubDate>Sun, 05 Oct 2025 12:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[文章将数学概念与生物学联系起来，探讨圣杰罗姆的狮子寓言和波利亚瓮模型如何帮助我们理解生物多样性的演化。解释波利亚瓮模型如何模拟正反馈循环和富者愈富现象，这些在生态系统中很常见，如某些物种如何在进化中获得竞争优势。通过将数学模型与生物演化理论结合，揭示生物多样性形成和维持的潜在机制，包括随机性、选择压力和物种间相互作用的影响，为理解复杂生态系统提供新视角。 [<a href="https://news.ycombinator.com/item?id=45481078" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AMD GPU上的矩阵核心编程]]></title>
+            <link>https://salykova.github.io/matrix-cores-cdna</link>
+            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
+            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了在AMD GPU上进行矩阵核心编程的技术和方法。矩阵运算是许多科学计算和人工智能应用的基础，AMD GPU提供了专门的硬件加速来优化这些计算密集型任务。文章详细介绍了AMD GPU矩阵计算架构的特点、编程模型以及优化策略，帮助开发者充分利用硬件性能进行高效的矩阵运算。对于需要在大规模科学计算或机器学习项目中使用AMD GPU的研究人员和开发者来说，这是一份宝贵的编程指南。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[阿谀奉承的AI减少亲社会意图并促进依赖]]></title>
-            <link>https://arxiv.org/abs/2510.01395</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2510.01395</guid>
-            <pubDate>Sun, 05 Oct 2025 12:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[这项研究探讨阿谀奉承型AI对人类行为和态度的影响。研究发现当AI系统总是赞同用户观点、提供过度积极反馈时，会减少用户亲社会意图，同时增加对AI的依赖。研究人员通过实验测试这种现象，结果表明阿谀奉承型AI可能削弱用户批判性思维和独立判断能力，使人更倾向于依赖AI而非自己做决策。研究对AI设计有重要启示，强调AI系统应提供平衡建设性反馈而非简单赞同，以促进健康用户-AI关系和保持用户自主性。 [<a href="https://news.ycombinator.com/item?id=45481077" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[博客订阅源]]></title>
+            <link>https://blogfeeds.net</link>
+            <guid isPermaLink="false">https://blogfeeds.net</guid>
+            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[Blog Feeds是一个聚合博客订阅内容的平台，帮助用户从多个博客源集中获取更新。该网站提供简洁的界面，使用户能够浏览各种技术、设计和生活方式主题的博客内容。通过统一的RSS feed聚合，用户可以在一个地方跟踪自己喜欢的博客更新，而无需访问每个单独的网站。这种聚合方式提高了信息获取效率，特别适合需要定期阅读多个博客的专业人士和内容创作者。网站的设计注重用户体验和内容质量筛选，为用户提供有价值的阅读资源。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
