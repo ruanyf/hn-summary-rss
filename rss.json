@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.cent.capital",
-            "content_html": "这篇文章介绍了Cent Capital开发的AI财务助手，旨在帮助用户减轻财务压力。该工具通过AI技术提供个性化的财务建议，帮助用户更好地管理资金、制定预算和投资计划。作者分享了开发过程中的挑战和解决方案，以及如何确保AI建议的准确性和实用性。该工具旨在使复杂的财务管理变得更加简单易懂，让普通用户也能做出明智的财务决策。 [<a href=\"https://news.ycombinator.com/item?id=45481664\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cent.capital",
-            "title": "展示HN：我构建了一个AI财务助手来减轻金钱压力",
-            "date_modified": "2025-10-05T14:17:53.000Z"
-        },
-        {
-            "id": "https://www.pnas.org/doi/10.1073/pnas.2510318122",
-            "content_html": "这项研究分析了3800万份讣告，揭示了人们在不同时代和文化背景下重视的基本价值观。研究团队通过自然语言处理技术分析了这些讣告中的关键词和主题，发现随着时间推移，人们对家庭和社区的重视程度有所增加，而对成就和财富的关注则有所减少。这项研究为我们理解人类社会价值观的演变提供了宝贵的数据支持，也反映了社会变迁对人们价值观念的影响。 [<a href=\"https://news.ycombinator.com/item?id=45481663\" target=\"_blank\">评论</a>]",
-            "url": "https://www.pnas.org/doi/10.1073/pnas.2510318122",
-            "title": "在3800万讣告中探索基本人类价值观",
-            "date_modified": "2025-10-05T14:17:46.000Z"
-        },
-        {
-            "id": "https://engelsbergideas.com/portraits/rachel-ruysch-and-the-bounties-of-nature/",
-            "content_html": "这篇文章介绍了17世纪荷兰女画家瑞秋·鲁伊斯克的生平和艺术成就。鲁伊斯克以其精美的静物画闻名，尤其擅长描绘花卉和自然元素。文章探讨了她的作品如何体现对自然的细致观察和敬畏，以及她的艺术风格如何反映了当时科学探索与艺术创作的交融。作为当时少数获得成功的女性艺术家，鲁伊斯克的职业生涯也反映了社会对女性艺术家的态度变化。 [<a href=\"https://news.ycombinator.com/item?id=45481660\" target=\"_blank\">评论</a>]",
-            "url": "https://engelsbergideas.com/portraits/rachel-ruysch-and-the-bounties-of-nature/",
-            "title": "瑞秋·鲁伊斯克与自然的丰饶",
-            "date_modified": "2025-10-05T14:17:41.000Z"
-        },
-        {
-            "id": "https://fleetingswallow.com/beyond-knowledge-graphs-person-based-architecture-mixed-documents/",
-            "content_html": "这篇文章提出了一种基于人物架构的混合文档存储方法，作为传统知识图谱的替代方案。作者认为，对于结构松散的内容，传统的知识图谱可能过于 rigid 和限制性。新方法采用更灵活的架构，结合了文档结构和关系型数据的特点，能够更好地处理复杂且不规则的信息。文章详细介绍了这种架构的设计原则、实现方式以及与传统方法相比的优势，并提供了实际应用案例。 [<a href=\"https://news.ycombinator.com/item?id=45481656\" target=\"_blank\">评论</a>]",
-            "url": "https://fleetingswallow.com/beyond-knowledge-graphs-person-based-architecture-mixed-documents/",
-            "title": "一种用于存储松散结构化内容的知识图谱替代方案",
-            "date_modified": "2025-10-05T14:17:22.000Z"
-        },
-        {
-            "id": "https://www.shayon.dev/post/2025/276/exploring-postgresql-to-parquet-archival-for-json-data-with-s3-range-reads/",
-            "content_html": "这篇文章探讨了将PostgreSQL中的JSON数据归档为Parquet格式的优化策略，特别关注如何利用S3的范围读取功能提高效率。作者详细介绍了将JSON数据从关系型数据库转换为列式存储格式的技术细节，包括数据类型映射、压缩策略和分区方案。文章还讨论了如何通过S3的部分读取功能只检索需要的数据子集，从而降低成本和提高性能。这种架构特别适合处理大量时间序列数据或需要频繁分析的历史数据。 [<a href=\"https://news.ycombinator.com/item?id=45481655\" target=\"_blank\">评论</a>]",
-            "url": "https://www.shayon.dev/post/2025/276/exploring-postgresql-to-parquet-archival-for-json-data-with-s3-range-reads/",
-            "title": "探索PostgreSQL到Parquet的JSON数据归档，配合S3范围读取",
-            "date_modified": "2025-10-05T14:17:20.000Z"
-        },
-        {
-            "id": "https://www.theregister.com/2025/10/05/zdi_wiz_hacking_contest_kerfuffle/",
-            "content_html": "这篇报道了一场在安全研究社区引发争议的黑客比赛纠纷。Wiz和ZDI两家公司因比赛规则相似而发生争执，双方各执一词。Wiz指责ZDI复制了他们的比赛规则，而ZDI则否认这一指控。这一事件引发了关于网络安全比赛原创性和道德标准的讨论。文章详细报道了双方的声明、社区的反应，以及可能对安全研究生态系统产生的影响。事件也引发了关于如何确保比赛规则原创性和透明度的思考。 [<a href=\"https://news.ycombinator.com/item?id=45481646\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/05/zdi_wiz_hacking_contest_kerfuffle/",
-            "title": "关于复制规则的黑客比赛纠纷引发Wiz与ZDI的对决",
-            "date_modified": "2025-10-05T14:16:16.000Z"
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Bematist",
-            "content_html": "维基百科上关于步测师的条目介绍了这种古代专业测量师的工作。步测师是通过步测距离的专业人员，他们在古希腊和古罗马时期被广泛用于土地测量和地理勘测。这些专家通过精确计算自己的步数来确定距离，精度令人惊讶。文章详细介绍了步测师的历史背景、训练方法、工作技巧以及他们在古代社会中的重要角色。这些专业人员为当时城市的建设和扩张提供了关键的数据支持。 [<a href=\"https://news.ycombinator.com/item?id=45481631\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Bematist",
-            "title": "步测师（专业『步测者』）",
-            "date_modified": "2025-10-05T14:14:39.000Z"
-        },
-        {
-            "id": "https://sleepingpotato.com/platform-engineering-easy-to-use-hard-to-mess-up/",
-            "content_html": "这篇文章探讨了平台工程的核心原则：构建既易于开发者使用又难以误用的系统。作者认为，好的平台应该隐藏复杂性，同时提供足够的灵活性，让开发者能够高效地完成任务而不必担心底层基础设施的细节。文章讨论了如何通过抽象层、自动化和良好设计来实现这一目标，以及平台团队如何与开发团队协作，共同创造更高效的开发环境。这种工程理念有助于减少技术债务，提高开发速度和代码质量。 [<a href=\"https://news.ycombinator.com/item?id=45481618\" target=\"_blank\">评论</a>]",
-            "url": "https://sleepingpotato.com/platform-engineering-easy-to-use-hard-to-mess-up/",
-            "title": "平台工程：易于使用，难以搞砸",
-            "date_modified": "2025-10-05T14:12:46.000Z"
-        },
-        {
-            "id": "https://www.bbc.com/news/articles/cy7p1lzvxjro",
-            "content_html": "BBC的这篇文章报道了科学家们开发出利用迷你人脑组织（类器官）作为计算元素的研究。这些微型脑组织能够在实验室中生长并处理信息，为开发新型生物计算系统提供了可能。研究人员通过培养脑细胞并将其与电子设备连接，创造出『生物-混合』计算系统。这项技术有潜力大幅提高计算效率，特别是在处理复杂模式和适应性学习任务方面。文章讨论了这一突破的科学意义、潜在应用以及相关的伦理考量。 [<a href=\"https://news.ycombinator.com/item?id=45481617\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bbc.com/news/articles/cy7p1lzvxjro",
-            "title": "科学家培养迷你人脑为计算机提供动力",
-            "date_modified": "2025-10-05T14:12:28.000Z"
-        },
-        {
-            "id": "https://jkebertz.medium.com/thinking-bigger-ab25b93b20f0",
-            "content_html": "这篇文章探讨了如何培养更广阔的思维方式，超越日常思考的限制。作者提出了一系列策略，包括质疑假设、寻求多元视角、连接看似不相关的概念，以及拥抱不确定性。文章强调，思考更大的关键在于保持好奇心和开放心态，不断挑战自己的认知边界。通过实际案例和练习，作者展示了如何将这种思维方式应用到个人和职业发展中，以解决复杂问题并发现创新机会。这种思维方式不仅有助于个人成长，也能为组织带来更创新的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45481615\" target=\"_blank\">评论</a>]",
-            "url": "https://jkebertz.medium.com/thinking-bigger-ab25b93b20f0",
-            "title": "思考更大",
-            "date_modified": "2025-10-05T14:12:12.000Z"
-        },
-        {
             "id": "https://retire.test-ipv6.com/",
-            "content_html": "这篇文章宣布Test-Ipv6.com网站正式退役。Test-Ipv6.com是一个长期为互联网用户提供IPv6兼容性测试服务的网站，帮助用户检查他们的设备和网络是否支持IPv6协议。随着IPv6的普及和主流化，这个服务已经完成了其历史使命。文章回顾了网站的发展历程，感谢所有贡献者和用户，并提供了关于IPv6现状和未来发展的简要介绍。同时，作者建议用户可以通过其他方式继续监测和确保IPv6兼容性。 [<a href=\"https://news.ycombinator.com/item?id=45481609\" target=\"_blank\">评论</a>]",
+            "content_html": "这个网站是关于测试IPv6功能的工具退役的公告。Test-IPv6.com是一个长期存在的网站，帮助用户测试他们的网络连接是否正确支持IPv6。随着IPv6的普及，该服务将逐渐退役，用户被引导使用其他替代方案进行IPv6兼容性测试。 [<a href=\"https://news.ycombinator.com/item?id=45481609\" target=\"_blank\">评论</a>]",
             "url": "https://retire.test-ipv6.com/",
-            "title": "退役Test-Ipv6.com",
+            "title": "退役测试-IPv6.com",
             "date_modified": "2025-10-05T14:11:37.000Z"
         },
         {
-            "id": "https://www.quetzalliwrites.com/newsletters/three-times-you-have-to-say-no-soft-promotions-scope-creep-and-burnout",
-            "content_html": "这篇文章讨论了在职业生涯中学会说『不』的重要性，特别是在面临软性促销、范围蔓延和职业倦怠这三种常见情况时。作者分析了为什么人们难以拒绝，以及如何优雅而坚定地表达拒绝。文章提供了实用的沟通策略，帮助读者在不损害关系的情况下保护自己的时间和精力。通过具体案例，作者展示了设定边界如何不仅能防止职业倦怠，还能提高工作效率和项目成功率。这种能力对于维持长期职业健康和个人福祉至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45481597\" target=\"_blank\">评论</a>]",
-            "url": "https://www.quetzalliwrites.com/newsletters/three-times-you-have-to-say-no-soft-promotions-scope-creep-and-burnout",
-            "title": "你必须说『不』的三种情况",
-            "date_modified": "2025-10-05T14:09:47.000Z"
+            "id": "https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/",
+            "content_html": "这篇文章讲述了作者在输给AI和妻子的争论后对编程职业产生怀疑的故事。作者反思了在AI能够生成代码的时代，人类程序员的真正价值在哪里。他探讨了技术焦虑、职业认同感和在机器学习能力不断提升的情况下，人类程序员如何重新定义自己的工作。 [<a href=\"https://news.ycombinator.com/item?id=45481490\" target=\"_blank\">评论</a>]",
+            "url": "https://mindthenerd.com/i-do-not-want-to-be-a-programmer-anymore-after-losing-an-argument-to-ai-and-my-wife/",
+            "title": "我不想再当程序员了",
+            "date_modified": "2025-10-05T13:53:41.000Z"
         },
         {
-            "id": "https://www.tomshardware.com/peripherals/keyboards/crazy-google-japan-keyboard-design-switches-keys-for-dials-the-gboard-dial-edition-shows-why-the-software-team-isnt-allowed-to-design-hardware",
-            "content_html": "这篇报道介绍了谷歌日本为日语输入开发的Gboard Dial Edition键盘，其独特之处是将传统的按键替换为旋钮。这种创新设计旨在提高日语输入的效率，特别是对于复杂字符的输入。文章详细描述了键盘的工作原理、使用体验以及开发团队的设计理念。报道还指出，这种硬件创新证明了软件团队不应完全局限于软件设计，有时需要突破传统思维创造新的用户体验。这款键盘展示了如何针对特定语言和文化背景定制输入设备，以提供更高效的用户体验。 [<a href=\"https://news.ycombinator.com/item?id=45481587\" target=\"_blank\">评论</a>]",
-            "url": "https://www.tomshardware.com/peripherals/keyboards/crazy-google-japan-keyboard-design-switches-keys-for-dials-the-gboard-dial-edition-shows-why-the-software-team-isnt-allowed-to-design-hardware",
-            "title": "疯狂的谷歌日本键盘设计将按键换成旋钮",
-            "date_modified": "2025-10-05T14:08:21.000Z"
+            "id": "https://github.com/ludo-technologies/pyscn",
+            "content_html": "Pyscn是一个专为Python开发者设计的代码质量分析工具，它专注于帮助程序员编写更优雅、更具『vibe』风格的代码。该工具能够检测代码中的异味，提供重构建议，并帮助开发者保持代码的一致性和可读性。它的特点是分析速度快、结果直观，特别适合注重代码风格的开发团队和个人。 [<a href=\"https://news.ycombinator.com/item?id=45481298\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ludo-technologies/pyscn",
+            "title": "展示 HN：Pyscn - 面向时尚程序员的Python代码质量分析工具",
+            "date_modified": "2025-10-05T13:22:31.000Z"
         },
         {
-            "id": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
-            "content_html": "这篇文章探讨了使用多个AI编码代理并行工作的开发模式。作者描述了如何同时运行多个AI助手，每个助手负责代码的不同部分，通过协作完成复杂的编程任务。这种方法可以提高开发效率，减少错误，并生成更加创新和健壮的代码。文章详细介绍了这种并行工作流程的设置、协调机制和最佳实践。作者认为，这种『代理驱动』的开发方式代表了软件开发的未来趋势，它充分利用了AI的协作能力，使人类开发者能够专注于更高层次的设计和决策。 [<a href=\"https://news.ycombinator.com/item?id=45481585\" target=\"_blank\">评论</a>]",
-            "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
-            "title": "拥抱并行编码代理的生活方式",
-            "date_modified": "2025-10-05T14:08:13.000Z"
+            "id": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "content_html": "这个项目展示了一种使用ARM SIMD指令集实现的位打包技术，在单线程环境下达到了86 GB/s的惊人速度。这是开发者Ashton Six的性能作品集的一部分，专注于优化数据处理算法。该实现充分利用了现代ARM处理器的向量处理能力，特别适合需要高速数据压缩或解压缩的应用场景。 [<a href=\"https://news.ycombinator.com/item?id=45481008\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "title": "使用ARM SIMD实现86 GB/s的位打包技术（单线程）",
+            "date_modified": "2025-10-05T12:27:11.000Z"
         },
         {
-            "id": "https://lichess.org/@/FIDE/blog/fide-2025-world-corporate-chess-championship-registration-open/DtbQi870",
-            "content_html": "这篇文章宣布了2025年世界企业象棋锦标赛的注册已经开放。由国际象棋联合会（FIDE）主办的这项赛事将汇集来自全球各地的企业代表队，进行智力竞技。文章详细介绍了比赛的时间安排、参赛资格、比赛规则以及奖励机制。这项赛事不仅是一场比赛，也是企业间交流合作的平台，通过象棋这一古老智力游戏促进商业网络和团队建设。文章还强调了智力运动对培养战略思维和决策能力的重要性，以及企业参与此类活动的价值和意义。 [<a href=\"https://news.ycombinator.com/item?id=45481568\" target=\"_blank\">评论</a>]",
-            "url": "https://lichess.org/@/FIDE/blog/fide-2025-world-corporate-chess-championship-registration-open/DtbQi870",
-            "title": "2025年世界企业象棋锦标赛",
-            "date_modified": "2025-10-05T14:04:56.000Z"
+            "id": "https://www.theargumentmag.com/p/you-have-18-months",
+            "content_html": "文章探讨了AI发展的真正临界点不在于AI变得比人类更聪明，而在于人类开始过度依赖AI而停止独立思考。作者警告说，我们面临的是一个认知危机，而非技术挑战。文章提出了一个紧迫的时间框架，强调在AI彻底改变人类思维方式之前，我们需要重新审视人机关系，确保技术增强而非替代人类的认知能力。 [<a href=\"https://news.ycombinator.com/item?id=45480622\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theargumentmag.com/p/you-have-18-months",
+            "title": "截止日期不是当AI超越我们时——而是当我们停止使用自己的大脑时",
+            "date_modified": "2025-10-05T11:08:25.000Z"
         },
         {
-            "id": "https://www.wsj.com/tech/ai/ai-investors-are-chasing-a-big-prize-heres-what-can-go-wrong-9a6bf37d",
-            "content_html": "《华尔街日报》的这篇文章分析了AI投资热潮中的潜在风险。尽管AI领域吸引了大量资本和关注，但作者指出投资者可能面临多重挑战，包括技术泡沫、估值过高、监管不确定性和实际应用与预期之间的差距。文章探讨了几个可能的投资失败案例，并提供了评估AI项目价值的方法论。作者建议投资者采取更加谨慎和全面的方法，关注实际应用场景和可持续的商业模式，而非仅仅被技术突破和市场炒作所吸引。这种平衡的投资视角对于在快速发展的AI领域中做出明智决策至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45481563\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wsj.com/tech/ai/ai-investors-are-chasing-a-big-prize-heres-what-can-go-wrong-9a6bf37d",
-            "title": "AI投资者追求巨额奖金。以下是可能出错的地方",
-            "date_modified": "2025-10-05T14:04:14.000Z"
+            "id": "https://zakelfassi.com/command-interface-device-power",
+            "content_html": "这篇文章深入分析了笔记本电脑和智能手机在数字生态系统中扮演的截然不同角色。笔记本电脑允许用户创建和控制系统，提供自主权和创造性，而智能手机则主要被设计用来消费内容并喂养算法，导致用户行为被数据收集和分析。作者指出，这种根本性的不对称性正在塑造数字时代的权力结构，影响用户的自由度和控制权。 [<a href=\"https://news.ycombinator.com/item?id=45480620\" target=\"_blank\">评论</a>]",
+            "url": "https://zakelfassi.com/command-interface-device-power",
+            "title": "笔记本电脑创建系统。手机喂养算法。这种不对称性决定了权力",
+            "date_modified": "2025-10-05T11:07:53.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45481558",
-            "content_html": "这篇Hacker News帖子探讨了为什么一些专注于AI应用开发的开发者会如此自信地讨论通用人工智能（AGI）话题。作者质疑这些开发者是否有足够的专业知识来谈论如此复杂和有争议的话题。帖子引发了关于AI专业领域划分、知识深度与广度的讨论，以及技术社区中过度自信现象的分析。评论者从不同角度回应，有人认为这是AI领域跨学科交流的积极表现，也有人担忧这种未经充分专业知识支撑的讨论可能导致不切实际的期望。这一讨论反映了技术社区对AI发展和伦理影响的持续关注。 [<a href=\"https://news.ycombinator.com/item?id=45481558\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45481558",
-            "title": "询问HN：为什么AI包装器开发者自信地谈论通用人工智能",
-            "date_modified": "2025-10-05T14:03:39.000Z"
+            "id": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "content_html": "这篇全面的指南为初学者提供了在Hetzner VPS上设置Coolify的详细步骤。Coolify是一个开源的、自托管的应用部署平台，简化了在个人服务器上部署和管理应用程序的过程。文章涵盖了从选择合适的VPS计划、安全配置到部署第一个应用的整个流程，帮助用户快速实现自托管，同时保持安全性和易用性。 [<a href=\"https://news.ycombinator.com/item?id=45480506\" target=\"_blank\">评论</a>]",
+            "url": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "title": "VPS Hetzner和Coolify初学者指南",
+            "date_modified": "2025-10-05T10:39:12.000Z"
         },
         {
-            "id": "https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/",
-            "content_html": "这篇文章分享了作者对Anthropic的Claude AI模型进行非官方修改和实验的经验。作者详细介绍了如何通过逆向工程和API扩展来定制Claude的行为，增强其功能或适应特定用例。文章涵盖了技术细节、安全考虑以及实验过程中遇到的挑战和解决方案。作者认为，这类实验不仅有助于理解AI模型的工作原理，还能为社区提供有价值的见解和工具。同时，作者也强调了在实验过程中尊重用户隐私和遵守服务条款的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45481535\" target=\"_blank\">评论</a>]",
-            "url": "https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/",
-            "title": "为了乐趣和利润而黑客破解Claude代码",
-            "date_modified": "2025-10-05T14:01:11.000Z"
+            "id": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
+            "content_html": "这篇文章探讨了作者对希尔伯特曲线和单纯形概念的个人探索。作者是一位经验丰富的程序员，他分享了自己如何将数学概念应用于编程项目的经验。文章详细介绍了希尔伯特曲线的性质、生成算法以及在计算机科学中的应用，特别是单纯形概念如何帮助解决复杂的空间分配问题。 [<a href=\"https://news.ycombinator.com/item?id=45480414\" target=\"_blank\">评论</a>]",
+            "url": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
+            "title": "爱好希尔伯特单纯形",
+            "date_modified": "2025-10-05T10:14:40.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45481530",
-            "content_html": "这篇Hacker News帖子询问社区用于编写汇编代码的最佳AI代理工具。发帖者寻求能够理解低级编程语言、优化代码结构和处理架构特定特性的AI工具。评论区中，有开发者分享了各种工具的经验，包括专门为汇编编程设计的AI助手、能够生成优化的机器代码的通用大语言模型，以及结合人类专业知识与AI辅助的开发工作流。讨论还涵盖了评估这类工具的标准，如代码质量、学习曲线、与现有工具链的集成度以及处理特定架构的能力。 [<a href=\"https://news.ycombinator.com/item?id=45481530\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45481530",
-            "title": "询问HN：编写汇编代码的最佳AI代理工具是什么",
-            "date_modified": "2025-10-05T14:00:05.000Z"
+            "id": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "content_html": "这篇文章详细介绍了如何在一台Framework笔记本电脑和附加存储磁盘上搭建一个功能完整的10TB S3兼容存储系统。作者分享了硬件选择、软件配置、性能优化和安全性考虑等实践经验。这个自托管解决方案为需要大容量存储的个人或小型团队提供了云存储的替代方案，同时保持数据完全自主控制。 [<a href=\"https://news.ycombinator.com/item?id=45480317\" target=\"_blank\">评论</a>]",
+            "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "title": "在Framework笔记本电脑和磁盘上自托管10TB S3存储",
+            "date_modified": "2025-10-05T09:51:26.000Z"
         },
         {
-            "id": "https://github.com/recal-dev/scheduling-sdk",
-            "content_html": "GitHub上的这个项目提供了一个软件开发工具包（SDK），使开发者能够轻松构建类似Calendly的日程安排系统。这个SDK处理了复杂的日程管理逻辑，包括时区转换、时间冲突检测、集成日历服务以及管理不同时区用户的可用性。开发者可以将其集成到自己的应用中，为用户提供灵活的预约体验。项目文档详细介绍了API接口、安装方法、配置选项以及自定义工作流的实现指南。这个开源解决方案为需要日程管理功能但不想依赖第三方服务的开发团队提供了有价值的资源。 [<a href=\"https://news.ycombinator.com/item?id=45481525\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/recal-dev/scheduling-sdk",
-            "title": "用于构建自己的Calendly的日程安排SDK",
-            "date_modified": "2025-10-05T13:59:18.000Z"
+            "id": "https://blog.muni.town/personal-data-storage-idea/",
+            "content_html": "文章探讨了个人数据存储的概念日益受到关注的原因。随着数据隐私意识的提高和对大型科技公司依赖的不满，越来越多的人在考虑如何在自己的设备上存储和管理个人数据。作者分析了自托管数据的优势，包括更好的隐私控制、长期数据保存和减少对外部服务的依赖，同时讨论了实施个人数据存储的技术和实际挑战。 [<a href=\"https://news.ycombinator.com/item?id=45480106\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.muni.town/personal-data-storage-idea/",
+            "title": "个人数据存储是一个应运而生的想法",
+            "date_modified": "2025-10-05T09:07:38.000Z"
+        },
+        {
+            "id": "https://www.spinellis.gr/blog/20250926/?li",
+            "content_html": "这篇文章分析了在数字通信中选择电子邮件而非即时通讯应用的优势。作者强调了电子邮件的开放标准、互操作性、存档功能和正式性等重要特点。文章指出，电子邮件允许用户完全控制自己的数据和通信历史，不会受到特定平台的限制或突然关闭的影响，同时还提供了更好的法律证据价值和工作效率。 [<a href=\"https://news.ycombinator.com/item?id=45479820\" target=\"_blank\">评论</a>]",
+            "url": "https://www.spinellis.gr/blog/20250926/?li",
+            "title": "选择电子邮件而非即时通讯的好处",
+            "date_modified": "2025-10-05T08:12:24.000Z"
+        },
+        {
+            "id": "https://www.socialcooling.com/",
+            "content_html": "Social Cooling是一个研究项目，探讨大规模监控和数据收集对个人行为和心理的微妙影响。这个概念类似于『寒蝉效应』，但指的是在数字监控环境下，人们会自我审查，避免可能被算法标记为『异常』的行为。网站提供了关于这种社会现象的研究、案例和影响分析，帮助人们理解在数据驱动的社会中隐私和行为自由的微妙平衡。 [<a href=\"https://news.ycombinator.com/item?id=45479165\" target=\"_blank\">评论</a>]",
+            "url": "https://www.socialcooling.com/",
+            "title": "社会冷却（2017年）",
+            "date_modified": "2025-10-05T06:01:24.000Z"
+        },
+        {
+            "id": "https://www.anthropic.com/news/context-management",
+            "content_html": "这篇文章详细介绍了Anthropic公司开发的Claude AI平台如何处理和管理长上下文窗口的技术。文章解释了Claude如何高效处理大量输入信息，保持相关性和连贯性，同时管理计算资源。这对于开发者构建需要大量上下文理解的应用程序至关重要，也为AI系统的上下文管理提供了技术见解和最佳实践。 [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
+            "url": "https://www.anthropic.com/news/context-management",
+            "title": "在Claude开发者平台上管理上下文",
+            "date_modified": "2025-10-05T05:20:08.000Z"
+        },
+        {
+            "id": "https://ambigr.am/hall-of-fame",
+            "content_html": "Ambigr.am是一个收集和展示『模糊双关语』网站的平台，专门收录那些在不同上下文中可能有多种解释的文字或图像。这个名人堂页面展示了最具创意和影响力的模糊双关语案例，涵盖了从广告、政治言论到互联网文化的各种例子。这些模糊双关语常常引发有趣的讨论，展示了语言的多义性和人类沟通的复杂性。 [<a href=\"https://news.ycombinator.com/item?id=45478780\" target=\"_blank\">评论</a>]",
+            "url": "https://ambigr.am/hall-of-fame",
+            "title": "Ambigr.am",
+            "date_modified": "2025-10-05T04:11:55.000Z"
+        },
+        {
+            "id": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "content_html": "皮尤研究中心的一项调查发现，美国人对合法体育博彩的态度正在转向负面。越来越多的美国人认为体育博彩对社会和体育赛事本身有害。调查分析了不同人口群体对这一问题的看法差异，探讨了人们对博彩成瘾风险、比赛完整性担忧以及对体育文化影响的认识。这项研究反映了美国社会对快速扩张的博彩行业日益增长的警惕。 [<a href=\"https://news.ycombinator.com/item?id=45478749\" target=\"_blank\">评论</a>]",
+            "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "title": "美国人越来越认为合法体育博彩对社会有害",
+            "date_modified": "2025-10-05T04:01:57.000Z"
+        },
+        {
+            "id": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "content_html": "这篇文章披露了1Password命令行工具在2023年被发现的一个安全漏洞。漏洞影响了密码管理过程中的认证和授权机制，可能导致未授权访问存储的敏感信息。作者详细描述了漏洞的技术细节、影响范围以及临时缓解措施。这个披露提醒用户及时更新软件并关注安全公告，同时也强调了对流行密码管理工具进行安全审计的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
+            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "title": "1Password CLI漏洞（2023年）",
+            "date_modified": "2025-10-05T03:01:50.000Z"
+        },
+        {
+            "id": "https://github.com/daniellionel01/parrot",
+            "content_html": "Parrot是一个用Gleam编程语言构建的SQL查询构建器，它提供了编译时的类型安全，确保查询在执行前就被验证。该工具支持SQLite、PostgreSQL和MySQL等多种数据库系统，允许开发者以类型安全的方式构建复杂查询。Parrot利用Gleam的类型系统来防止常见的SQL注入错误和其他查询问题，同时保持简洁的API设计。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/daniellionel01/parrot",
+            "title": "Parrot - 在Gleam中提供类型安全的SQL，支持SQLite、PostgreSQL和MySQL",
+            "date_modified": "2025-10-05T00:51:44.000Z"
+        },
+        {
+            "id": "https://arxiv.org/abs/2509.12351",
+            "content_html": "这项研究提出了对小行星2024 YR4的多种可能太空任务选项。论文详细分析了不同任务设计的技术可行性、成本效益和成功概率，包括近地轨道侦察、偏转轨迹和潜在的小行星表面采样策略。研究为科学家和政策制定者提供了科学依据，帮助评估应对潜在近地小行星威胁的最佳方法，对行星防御具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.12351",
+            "title": "小行星2024 YR4侦察和缓解任务的太空任务选择",
+            "date_modified": "2025-10-04T23:42:55.000Z"
+        },
+        {
+            "id": "https://blog.cr.yp.to/20251004-weakened.html",
+            "content_html": "这篇文章探讨了国家安全局是否可能通过影响互联网工程任务组的标准化过程，将有意弱化的密码算法纳入国际标准。作者分析了历史上的类似案例，质疑当前的密码学标准制定过程是否足够透明和抗受操纵。文章提出了对密码学标准制定中潜在利益冲突的担忧，强调了开放性和多方验证对于密码学标准安全性的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.cr.yp.to/20251004-weakened.html",
+            "title": "NSA和IETF：攻击者能否购买被削弱密码学的标准化？",
+            "date_modified": "2025-10-04T22:16:33.000Z"
+        },
+        {
+            "id": "https://salykova.github.io/matrix-cores-cdna",
+            "content_html": "这篇文章详细介绍了如何在AMD GPU上有效利用矩阵核心进行高性能计算。作者探讨了AMD GPU架构中的矩阵计算单元特性，提供了优化矩阵运算的编程技巧和最佳实践。文章特别关注了深度学习和科学计算应用中常见的稠密矩阵运算优化，包括内存访问模式、并行计算策略和特定于硬件的优化技术，以充分发挥AMD GPU在矩阵计算方面的性能优势。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
+            "url": "https://salykova.github.io/matrix-cores-cdna",
+            "title": "AMD GPU上的矩阵核心编程",
+            "date_modified": "2025-10-04T21:22:11.000Z"
         }
     ]
 }
