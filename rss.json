@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://news.ycombinator.com/item?id=45482881",
-            "content_html": "这篇文章讨论了在没有外接显示器的情况下如何有效使用笔记本电脑的方法。可能包括使用远程桌面、平板设备作为第二显示器、连接电视或投影仪，以及使用虚拟机或云服务进行多任务处理。作者还分享了各种软件和设置技巧，帮助用户在没有传统显示器的情况下获得类似的多屏体验，提高工作效率。 [<a href=\"https://news.ycombinator.com/item?id=45482881\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45482881",
-            "title": "HN提问：如何在没有显示器的情况下使用我的笔记本电脑？",
-            "date_modified": "2025-10-05T16:28:05.000Z"
-        },
-        {
-            "id": "https://www.owlposting.com/p/ask-not-why-would-you-work-in-biology",
-            "content_html": "这篇文章探讨了生物学作为职业选择的优势和魅力。作者强调了生物学领域的广泛机遇，包括从基础研究到应用开发的各类工作机会。文章提到了生物技术在医疗、环保、农业等多个领域的广泛应用，以及生物学研究对解决全球性挑战的重要性。作者还分享了生物学工作带来的智力满足感和职业成就感。 [<a href=\"https://news.ycombinator.com/item?id=45482857\" target=\"_blank\">评论</a>]",
-            "url": "https://www.owlposting.com/p/ask-not-why-would-you-work-in-biology",
-            "title": "不要问为何要在生物学领域工作，而要问为何不这样做？",
-            "date_modified": "2025-10-05T16:26:15.000Z"
-        },
-        {
-            "id": "https://alexspyropoulos.com/posts/ai-engineer-paris/",
-            "content_html": "本文总结了2025年在巴黎举行的AI工程师大会的主要内容和收获。涵盖了人工智能领域的最新技术进展、行业趋势和最佳实践。作者分享了关于大型语言模型开发、AI伦理问题、自动化测试策略以及团队协作方面的见解。文章还讨论了AI工程师需要具备的技能和知识，以及未来几年AI行业的发展方向和就业前景。 [<a href=\"https://news.ycombinator.com/item?id=45482828\" target=\"_blank\">评论</a>]",
-            "url": "https://alexspyropoulos.com/posts/ai-engineer-paris/",
-            "title": "2025年巴黎AI工程师大会要点与启示",
-            "date_modified": "2025-10-05T16:23:10.000Z"
-        },
-        {
-            "id": "https://fortune.com/article/north-korean-it-workers-kim-jong-un-cybersecurity-nuclear-program-america/",
-            "content_html": "这篇报道揭露了朝鲜特工通过伪装成IT专业人员，在全球范围内进行网络欺诈和黑客攻击，筹集了约10亿美元资金，用于支持金正恩政权和核武器计划。文章详细描述了这些特工如何利用远程工作平台，雇佣西方国家开发者实施网络犯罪，以及这些资金如何被转移至朝鲜。报道还强调了网络安全漏洞和供应链安全的重要性，以及国际社会应对此类威胁的挑战。 [<a href=\"https://news.ycombinator.com/item?id=45482776\" target=\"_blank\">评论</a>]",
-            "url": "https://fortune.com/article/north-korean-it-workers-kim-jong-un-cybersecurity-nuclear-program-america/",
-            "title": "朝鲜特工伪装成IT人员向金正恩输送10亿美元",
-            "date_modified": "2025-10-05T16:18:01.000Z"
-        },
-        {
-            "id": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-            "content_html": "这篇文章探讨了编程中的“折叠“操作在并行计算环境中的实现方法和优化策略。作者详细解释了map、monoid和reduce等函数式编程概念如何在多核处理器和分布式系统中高效应用。文章涵盖了并行算法的设计原则、数据分割策略、负载均衡技术以及性能优化方法。这些内容对于高性能计算和大数据处理领域的开发者和研究人员具有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45482767\" target=\"_blank\">评论</a>]",
-            "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-            "title": "并行折叠技术",
-            "date_modified": "2025-10-05T16:17:00.000Z"
-        },
-        {
-            "id": "https://kelvinpaschal.com/blog/educators-hackers/",
-            "content_html": "文章主张教育者应该采用黑客的思维方式和创新精神来改革教育。作者探讨了黑客文化中的创造性问题解决、系统思维和持续学习的理念如何应用于教育实践。文章介绍了教育黑客的具体案例，如创新教学方法、教育技术工具的开发和实施，以及如何打破传统教育的束缚。这种教育方式强调学生的主动参与、批判性思维和实践能力，旨在培养适应未来社会需求的创新人才。 [<a href=\"https://news.ycombinator.com/item?id=45482761\" target=\"_blank\">评论</a>]",
-            "url": "https://kelvinpaschal.com/blog/educators-hackers/",
-            "title": "教育者应像黑客一样思考",
-            "date_modified": "2025-10-05T16:16:42.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=oRM5O7V6J2Q",
-            "content_html": "这个视频通过数学可视化的方式，分析了约翰·柯川爵士经典作品《巨人步伐》的音乐结构和和声进行。视频展示了如何将复杂的爵士乐和弦转换和即兴演奏模式转化为数学模型和空间图形，帮助观众理解这首作品的数学之美。这种独特的分析方法不仅加深了音乐爱好者对爵士乐理论的理解，也为音乐教育提供了创新的视觉学习工具，展示了音乐与数学之间的深刻联系。 [<a href=\"https://news.ycombinator.com/item?id=45482740\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=oRM5O7V6J2Q",
-            "title": "约翰·柯川的《巨人步伐》在数学空间中的可视化呈现",
-            "date_modified": "2025-10-05T16:15:05.000Z"
-        },
-        {
-            "id": "https://jdiaz97.github.io/blog/what-julia-has-that-rust-needs/",
-            "content_html": "本文比较了Julia和Rust两种编程语言的特点，探讨了Julia语言中一些可能对Rust有益的特性。作者分析了Julia在科学计算领域的优势，如灵活的类型系统、多分派机制、内置并行计算支持等，并讨论了这些特性如何为Rust提供借鉴。文章还探讨了Rust在性能和安全性方面的优势，以及如何结合两种语言的优点，创建更强大的编程工具，满足不同领域的开发需求。 [<a href=\"https://news.ycombinator.com/item?id=45482726\" target=\"_blank\">评论</a>]",
-            "url": "https://jdiaz97.github.io/blog/what-julia-has-that-rust-needs/",
-            "title": "Julia拥有而Rust迫切需要的特性",
-            "date_modified": "2025-10-05T16:14:22.000Z"
-        },
-        {
             "id": "https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/",
-            "content_html": "前FTC主席莉娜·汗对微软收购动视暴雪的交易提出批评，表示此举正在伤害玩家和游戏开发者。文章指出，微软在收购后进行了大规模裁员，并提高了Game Pass订阅价格，印证了她在交易审查中的担忧。莉娜·汗认为，此次收购导致市场竞争减少，创新能力下降，并损害了消费者利益。文章还讨论了这一案例对反垄断政策和科技行业监管的影响，以及未来可能的游戏行业合并趋势。 [<a href=\"https://news.ycombinator.com/item?id=45482719\" target=\"_blank\">评论</a>]",
+            "content_html": "微软大规模裁员并提高Game Pass价格，前FTC主席莉娜·汗表示这是她曾警告过的结果。她认为微软收购动视暴雪损害了玩家和开发者利益。据报道，微软在收购后进行了大规模裁员，同时提高了Game Pass订阅价格，这证实了收购对游戏生态系统的负面影响。汗曾质疑该收购会削弱市场竞争，导致价格上涨和就业减少，目前的状况似乎验证了她的担忧。 [<a href=\"https://news.ycombinator.com/item?id=45482719\" target=\"_blank\">评论</a>]",
             "url": "https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/",
-            "title": "莉娜·汗 我告诉过你们：动视暴雪收购案损害玩家和开发者利益",
+            "title": "莉娜·汗 我告诉过你：动视暴雪收购损害了玩家和开发者",
             "date_modified": "2025-10-05T16:13:58.000Z"
         },
         {
-            "id": "https://www.axios.com/local/richmond/2025/08/06/electricity-costs-bills-data-centers-ai-virginia",
-            "content_html": "随着数据中心和人工智能产业在弗吉尼亚州的快速发展，当地电力需求激增，导致电费持续上涨。文章探讨了数据中心扩张对当地电网和电力供应的压力，以及电力公司为满足需求而进行的投资和基础设施升级。报道分析了这一趋势对居民和商业电费的影响，以及当地政府和企业正在采取的措施来平衡经济增长与能源负担。这一现象反映了数字经济发展与能源基础设施之间的矛盾和挑战。 [<a href=\"https://news.ycombinator.com/item?id=45482710\" target=\"_blank\">评论</a>]",
-            "url": "https://www.axios.com/local/richmond/2025/08/06/electricity-costs-bills-data-centers-ai-virginia",
-            "title": "弗吉尼亚州数据中心激增导致电费上涨",
-            "date_modified": "2025-10-05T16:13:05.000Z"
-        },
-        {
-            "id": "https://www.businessinsider.com/visited-2-new-jersey-diners-summit-tops-food-community-business-2025-9",
-            "content_html": "这篇文章回顾了美国餐厅文化的演变历程，从20世纪初的黄金时代到现代的衰落。作者通过亲自探访新泽西州的两家历史悠久的餐厅，分析了这一标志性美国餐饮文化的变化。文章探讨了餐厅文化在美国社会变迁中的角色，以及快餐连锁店和现代餐饮趋势对传统餐厅的影响。报道还讨论了餐厅面临的挑战，如成本上涨、劳动力短缺和消费者习惯改变等，以及这一文化遗产如何保存和适应现代社会。 [<a href=\"https://news.ycombinator.com/item?id=45482647\" target=\"_blank\">评论</a>]",
-            "url": "https://www.businessinsider.com/visited-2-new-jersey-diners-summit-tops-food-community-business-2025-9",
-            "title": "美国餐厅的兴衰史",
-            "date_modified": "2025-10-05T16:07:50.000Z"
-        },
-        {
-            "id": "https://github.com/HoshinoSuzumi/chronoframe",
-            "content_html": "ChronoFrame是一款开源的个人照片管理应用，允许用户在自己的服务器上托管照片库。该应用提供了直观的界面来组织和浏览照片，支持多种格式和元数据。作者强调了这款应用的隐私保护特性，以及用户完全掌控自己照片数据的能力。文章还介绍了ChronoFrame的技术特点，如响应式设计、轻量级架构和与其他服务的集成可能性，适合关注数据隐私和希望自主管理照片内容的用户使用。 [<a href=\"https://news.ycombinator.com/item?id=45482636\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/HoshinoSuzumi/chronoframe",
-            "title": "展示 HN：ChronoFrame – 一款自托管个人照片库应用",
-            "date_modified": "2025-10-05T16:06:57.000Z"
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/1952/11/rugby-is-a-better-game/642007/",
-            "content_html": "这篇1952年发表在《大西洋月刊》上的文章，作者对比了橄榄球和美式足球，认为橄榄球是一项更优越的运动。作者从运动员技能要求、比赛策略、团队合作等多个角度分析了橄榄球的优越性。文章探讨了两种运动的起源和发展，以及它们如何反映不同文化的价值观。尽管年代久远，但这篇文章仍为理解美式橄榄球与英式橄榄球的文化差异和历史渊源提供了有趣的视角。 [<a href=\"https://news.ycombinator.com/item?id=45482582\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theatlantic.com/magazine/archive/1952/11/rugby-is-a-better-game/642007/",
-            "title": "橄榄球是一项更好的运动（1952年）",
-            "date_modified": "2025-10-05T16:01:08.000Z"
-        },
-        {
-            "id": "https://gobolinux.org//news/119.html",
-            "content_html": "GoboLinux发布了其017.01版本，标志着项目的一次重要更新和传承。“传递火炬“暗示了项目领导层的变更或社区发展的新阶段。这一版本包含了系统架构的改进、软件包管理系统的升级，以及对现代硬件和软件的更好支持。文章还介绍了GoboLinux独特的文件系统组织方式，以及如何通过这种设计简化软件安装和管理，为用户提供更加直观和透明的操作系统体验。 [<a href=\"https://news.ycombinator.com/item?id=45482577\" target=\"_blank\">评论</a>]",
-            "url": "https://gobolinux.org//news/119.html",
-            "title": "GoboLinux 017.01 – 传递火炬",
-            "date_modified": "2025-10-05T16:00:38.000Z"
-        },
-        {
-            "id": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-            "content_html": "这篇文章全面探讨了评估大型语言模型的多种方法。作者详细介绍了选择题测试、自动验证器、排行榜比较和利用LLM自身作为评判工具等技术。文章分析了各种评估方法的优缺点，适用场景和局限性。作者还讨论了如何构建综合评估体系，避免单一指标的偏见，以及如何确保评估过程的一致性和可靠性。这些内容对于研究人员和开发者在选择和应用适当的LLM评估方法具有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45482523\" target=\"_blank\">评论</a>]",
-            "url": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
-            "title": "从零开始评估大型语言模型：选择题、验证器、排行榜和LLM评判",
-            "date_modified": "2025-10-05T15:55:26.000Z"
-        },
-        {
-            "id": "https://scoutqa.ai",
-            "content_html": "Scout QA是一个创新的质量保证工具，专注于“氛围测试“的概念，即在开发过程中评估软件的用户体验和感觉。该工具通过自动化测试和用户反馈分析，帮助开发者识别那些可能未被传统QA方法捕捉到的细微用户体验问题。文章介绍了Scout QA的工作原理，如何与现有开发流程集成，以及它如何帮助团队提升产品的整体质量和用户满意度。这种关注“氛围“和“感觉“的QA方法代表了软件测试领域的创新思路。 [<a href=\"https://news.ycombinator.com/item?id=45482519\" target=\"_blank\">评论</a>]",
-            "url": "https://scoutqa.ai",
-            "title": "展示 HN：Scout QA —— 为编程体验进行氛围测试",
-            "date_modified": "2025-10-05T15:54:24.000Z"
-        },
-        {
-            "id": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
-            "content_html": "比亚迪宣布推出一款全球速度最快的电动汽车，这一成就标志着中国汽车制造商在电动和高速车辆技术领域的重大突破。文章详细介绍了这款超级跑车的设计特点、性能参数和技术创新，可能包括电池技术、电机设计和空气动力学优化等方面。报道还分析了比亚迪如何在全球汽车市场竞争中不断提升技术实力，以及这一成就对中国汽车产业和全球电动车市场的影响。这一发展展示了电动汽车技术的快速进步和未来潜力。 [<a href=\"https://news.ycombinator.com/item?id=45482516\" target=\"_blank\">评论</a>]",
-            "url": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
-            "title": "比亚迪建造全球最快汽车",
-            "date_modified": "2025-10-05T15:54:01.000Z"
-        },
-        {
-            "id": "https://thehill.com/opinion/technology/5523626-in-the-fight-over-ai-copyright-is-americas-competitive-weapon/",
-            "content_html": "文章探讨了美国在人工智能发展过程中如何利用版权法作为战略工具，保持其在全球技术竞争中的优势。作者分析了美国版权政策如何影响AI训练数据的获取和使用，以及这些政策如何被用作对抗其他国家的技术壁垒。文章还讨论了版权与AI创新之间的平衡问题，以及美国可能采取的策略来保护其AI产业利益。这种将法律武器化的趋势反映了科技强国间日益激烈的竞争和知识产权在数字经济中的战略重要性。 [<a href=\"https://news.ycombinator.com/item?id=45482511\" target=\"_blank\">评论</a>]",
-            "url": "https://thehill.com/opinion/technology/5523626-in-the-fight-over-ai-copyright-is-americas-competitive-weapon/",
-            "title": "在AI之争中，版权是美国的竞争优势武器",
-            "date_modified": "2025-10-05T15:53:45.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=rcd_SQZDlnk",
-            "content_html": "这段视频记录了SpaceX星舰在2025年8月26日进行的第十次飞行测试。展示了星舰从发射到着陆的完整过程，包括关键技术指标和测试目标。视频还提供了专家分析，讨论了这次测试的成功之处和需要改进的地方。此次测试代表了人类深空探索技术的重要进展，为未来的火星任务和其他太空探索计划奠定了基础。星舰作为可重复使用的超重型运载火箭，其成功发展将大大降低太空探索成本，开启太空探索的新时代。 [<a href=\"https://news.ycombinator.com/item?id=45482510\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=rcd_SQZDlnk",
-            "title": "星舰——第十次飞行测试（2025年8月26日）",
-            "date_modified": "2025-10-05T15:53:34.000Z"
-        },
-        {
             "id": "https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/",
-            "content_html": "这篇文章探讨了芝加哥大学等著名学府在面对人文科学博士项目缩减或取消的情况时，应该如何保护和加强人文学科教育。作者分析了当前高等教育中实用主义和功利主义倾向对人文科学的冲击，以及这种趋势可能对社会和文化传承造成的负面影响。文章还讨论了人文学科在培养批判性思维、道德判断力和文化理解方面不可替代的价值，以及大学在平衡学术实用性与人文精神之间的责任。这种反思对于理解高等教育的使命和意义具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45482484\" target=\"_blank\">评论</a>]",
+            "content_html": "芝加哥大学似乎不再积极捍卫人文学科，引发了关于谁将承担这一角色的讨论。文章探讨了在人文学科面临挑战的环境中，高等教育机构的责任。作者质疑在当前学术环境变化的情况下，人文学科的地位和未来，以及学术界应该如何应对这一转变。文章呼吁重新思考人文学科的价值和它们在高等教育中的核心地位。 [<a href=\"https://news.ycombinator.com/item?id=45482484\" target=\"_blank\">评论</a>]",
             "url": "https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/",
-            "title": "如果芝加哥大学不捍卫人文科学，谁会来捍卫？",
+            "title": "如果芝加哥大学不捍卫人文学科，谁会呢？",
             "date_modified": "2025-10-05T15:51:08.000Z"
+        },
+        {
+            "id": "https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/",
+            "content_html": "本文探讨了语言不可知编程的概念，讨论了为什么即使在这种编程范式下，代码仍然是必要的。作者认为，尽管有抽象层和高级工具，底层代码仍然是软件开发的基石。文章分析了不同编程语言的优缺点，并指出了解多种编程语言的价值，以及如何在保持代码质量的同时选择合适的语言。作者强调了代码仍然是表达逻辑和解决问题的主要工具。 [<a href=\"https://news.ycombinator.com/item?id=45482309\" target=\"_blank\">评论</a>]",
+            "url": "https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/",
+            "title": "语言不可知编程：为什么你可能仍然需要代码",
+            "date_modified": "2025-10-05T15:34:32.000Z"
+        },
+        {
+            "id": "https://retire.test-ipv6.com/",
+            "content_html": "Test-IPv6.com网站宣布正式关闭。该网站长期以来一直帮助用户测试其IPv6连接的兼容性和功能。关闭声明表示，随着IPv6的普及和广泛支持，测试工具的需求已经减少。网站感谢多年来用户的支持和贡献，并表示希望用户已适应IPv6网络环境。这一决定反映了互联网基础设施从IPv4向IPv6过渡的进展。 [<a href=\"https://news.ycombinator.com/item?id=45481609\" target=\"_blank\">评论</a>]",
+            "url": "https://retire.test-ipv6.com/",
+            "title": "Test-Ipv6.com正式关闭",
+            "date_modified": "2025-10-05T14:11:37.000Z"
+        },
+        {
+            "id": "https://github.com/ludo-technologies/pyscn",
+            "content_html": "Pyscn是一个面向注重风格开发的Python程序员设计的代码质量分析工具。该项目在HackerNews上被展示，专注于提供代码风格和质量的实时反馈。Pyscn通过静态分析技术帮助开发者发现潜在问题、改进代码结构并遵循最佳实践。项目目标是使Python代码更加整洁、可维护且符合团队标准。开发者可以轻松集成到开发工作流程中，提高代码质量。 [<a href=\"https://news.ycombinator.com/item?id=45481298\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ludo-technologies/pyscn",
+            "title": "展示HackerNews：Pyscn - 专为风格程序员设计的Python代码质量分析器",
+            "date_modified": "2025-10-05T13:22:31.000Z"
+        },
+        {
+            "id": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "content_html": "这个项目展示了如何使用ARM SIMD指令集实现高达86GB/s的单线程位打包性能。作者详细介绍了优化技术，包括对齐、缓存友好访问和SIMD指令的充分利用。项目代码展示了如何利用现代ARM处理器的向量处理能力来显著提高数据处理速度。性能优化对于需要高效处理大量数据的应用程序至关重要，特别是在嵌入式系统和低功耗设备上。 [<a href=\"https://news.ycombinator.com/item?id=45481008\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "title": "使用ARM SIMD实现86 GB/s的位打包（单线程）",
+            "date_modified": "2025-10-05T12:27:11.000Z"
+        },
+        {
+            "id": "https://www.theargumentmag.com/p/you-have-18-months",
+            "content_html": "文章讨论了人工智能发展的真正最后期限不是AI超越人类智能的时刻，而是人类停止使用自己思维的转折点。作者警告过度依赖AI可能导致人类认知能力的退化。文章强调保持独立思考和批判性思维的重要性，以及如何在AI时代保持人类的独特价值。这引发了关于技术与人类关系本质的深刻思考。 [<a href=\"https://news.ycombinator.com/item?id=45480622\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theargumentmag.com/p/you-have-18-months",
+            "title": "最后期限不是人工智能超越我们的时候——而是当我们停止使用自己的头脑时",
+            "date_modified": "2025-10-05T11:08:25.000Z"
+        },
+        {
+            "id": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "content_html": "这是一份面向初学者的Hetzner VPS和Coolify完整指南，提供了从设置到安全检查的全面步骤。作者详细解释了如何选择合适的VPS计划、安装必要软件、配置防火墙以及实施安全措施。文章还介绍了Coolify平台的使用，帮助用户轻松管理和部署自托管服务。这份指南旨在帮助那些想要自托管服务但又缺乏经验的用户，提供了实用的建议和最佳实践。 [<a href=\"https://news.ycombinator.com/item?id=45480506\" target=\"_blank\">评论</a>]",
+            "url": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "title": "初学者指南：Hetzner VPS和Coolify",
+            "date_modified": "2025-10-05T10:39:12.000Z"
+        },
+        {
+            "id": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
+            "content_html": "这篇博客文章探讨了业余爱好者如何实现希尔伯特单纯形曲线。希尔伯特曲线是一种空间填充曲线，常用于多维数据的降维。作者分享了个人项目中实现这种数学概念的体验和挑战。文章详细解释了算法原理和实现过程中的技术细节，适合对数学和计算机图形学感兴趣的读者。这展示了如何将复杂的数学概念转化为实际的应用程序。 [<a href=\"https://news.ycombinator.com/item?id=45480414\" target=\"_blank\">评论</a>]",
+            "url": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
+            "title": "业余希尔伯特单纯形",
+            "date_modified": "2025-10-05T10:14:40.000Z"
+        },
+        {
+            "id": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "content_html": "这篇文章详细介绍了如何在Framework笔记本电脑和外部磁盘上搭建一个自托管的S3兼容存储系统，容量达到10TB。作者分享了硬件选择、软件配置、网络设置和成本优化的经验。这个项目展示了如何在有限的预算和设备条件下构建一个功能强大的个人云存储解决方案。这对于需要大容量个人存储但又不想依赖云服务的用户来说是一个实用的指南。 [<a href=\"https://news.ycombinator.com/item?id=45480317\" target=\"_blank\">评论</a>]",
+            "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "title": "在Framework笔记本电脑和磁盘上使用S3自行托管10TB数据",
+            "date_modified": "2025-10-05T09:51:26.000Z"
+        },
+        {
+            "id": "https://blog.muni.town/personal-data-storage-idea/",
+            "content_html": "文章讨论了个人数据存储的概念，认为这个想法已经到了实施的时机。作者分析了当前个人数据被大科技公司控制的现状，提出了建立个人数据存储系统的必要性和可能性。文章探讨了技术实现、数据隐私保护以及如何让用户真正拥有自己的数据。这反映了随着数据隐私意识的增强，人们对数据自主权的追求日益增长。 [<a href=\"https://news.ycombinator.com/item?id=45480106\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.muni.town/personal-data-storage-idea/",
+            "title": "个人数据存储是一个时机已到的想法",
+            "date_modified": "2025-10-05T09:07:38.000Z"
+        },
+        {
+            "id": "https://www.spinellis.gr/blog/20250926/?li",
+            "content_html": "文章比较了选择电子邮件与传统即时通讯方式的好处。作者指出电子邮件提供了更正式的通信记录、更好的可搜索性、更强的跨平台兼容性以及更少的干扰。文章讨论了在工作和个人生活中如何有效使用电子邮件，以及如何避免电子邮件过载。这提醒我们在快速变化的通信环境中，传统工具仍然具有独特价值。 [<a href=\"https://news.ycombinator.com/item?id=45479820\" target=\"_blank\">评论</a>]",
+            "url": "https://www.spinellis.gr/blog/20250926/?li",
+            "title": "选择电子邮件而非即时通讯的好处",
+            "date_modified": "2025-10-05T08:12:24.000Z"
+        },
+        {
+            "id": "https://www.socialcooling.com/",
+            "content_html": "这是关于『社会冷却』概念的网站，探讨了社会监控如何导致自我审查和行为抑制。社会冷却理论认为，人们知道自己的行为可能被记录和分析，因此会避免可能被负面评价的活动。这个概念由社会学家弗兰克·帕斯奎尔提出，讨论了数字监控对自由表达和社会创新的影响。网站提供了相关研究和案例，帮助理解这一重要社会现象。 [<a href=\"https://news.ycombinator.com/item?id=45479165\" target=\"_blank\">评论</a>]",
+            "url": "https://www.socialcooling.com/",
+            "title": "社会冷却（2017）",
+            "date_modified": "2025-10-05T06:01:24.000Z"
+        },
+        {
+            "id": "https://www.anthropic.com/news/context-management",
+            "content_html": "Anthropic公司发布了关于在Claude开发者平台上管理上下文的指南。文章详细介绍了如何有效管理对话上下文以提高AI助手性能和用户体验。内容包括最佳实践、技术限制以及如何优化提示和查询。这对于开发者和希望更好地使用Claude平台的专业人士来说是一个有价值的资源，帮助他们最大化AI助手的能力。 [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
+            "url": "https://www.anthropic.com/news/context-management",
+            "title": "在Claude开发者平台上管理上下文",
+            "date_modified": "2025-10-05T05:20:08.000Z"
+        },
+        {
+            "id": "https://ambigr.am/hall-of-fame",
+            "content_html": "Ambigr.am网站展示了其名人堂，收录了在该平台上创建的最有趣和创意的歧义双关语。这个平台专注于创造和分享具有双重含义的幽默内容，展示了语言的创造性使用。名人堂表彰了那些能够巧妙利用词汇多义性创造有趣内容的创作者。这反映了人类对语言游戏和幽默的永恒兴趣。 [<a href=\"https://news.ycombinator.com/item?id=45478780\" target=\"_blank\">评论</a>]",
+            "url": "https://ambigr.am/hall-of-fame",
+            "title": "Ambigr.am",
+            "date_modified": "2025-10-05T04:11:55.000Z"
+        },
+        {
+            "id": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "content_html": "皮尤研究中心的报告显示，越来越多的美国人认为合法体育博彩对社会和体育事业有害。调查发现，过去几年公众对体育博彩的态度明显转向负面。受访者提到了赌博成瘾问题、体育诚信风险以及对社会价值观的影响。这一趋势可能与各州扩大体育博彩合法化后出现的社会问题有关，反映了公众对这一问题的担忧增加。 [<a href=\"https://news.ycombinator.com/item?id=45478749\" target=\"_blank\">评论</a>]",
+            "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "title": "美国人越来越认为合法体育博彩对社会不利",
+            "date_modified": "2025-10-05T04:01:57.000Z"
+        },
+        {
+            "id": "https://github.com/daniellionel01/parrot",
+            "content_html": "Parrot是一个用Gleam语言编写的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。该项目提供了类型安全的查询构建器和执行器，帮助开发者避免SQL注入和其他常见错误。Gleam是一种类型安全的函数式编程语言，运行在Erlang虚拟机上。Parrot项目展示了如何在现代类型安全环境中构建数据库工具，提高代码质量和安全性。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/daniellionel01/parrot",
+            "title": "Parrot - Gleam中的类型安全SQL，支持SQLite、PostgreSQL和MySQL",
+            "date_modified": "2025-10-05T00:51:44.000Z"
+        },
+        {
+            "id": "https://blog.cr.yp.to/20251004-weakened.html",
+            "content_html": "这篇文章探讨了NSA和IETF之间的关系，质疑攻击者是否能够通过影响标准制定过程来推广弱加密算法。作者分析了过去发生的加密标准争议，以及可能存在的安全风险。文章特别关注了标准制定过程的透明度和独立性，以及如何防止潜在的利益冲突影响网络安全标准。这反映了在数字时代，密码学标准制定的重要性日益增长。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.cr.yp.to/20251004-weakened.html",
+            "title": "NSA和IETF：攻击者能否购买弱加密算法的标准制定？",
+            "date_modified": "2025-10-04T22:16:33.000Z"
+        },
+        {
+            "id": "https://blogfeeds.net",
+            "content_html": "Blog Feeds是一个聚合博客订阅源的平台，帮助用户发现和跟踪各种主题的博客文章。该网站收集来自不同领域的博客内容，为用户提供一站式的博客阅读体验。用户可以根据兴趣选择订阅特定的博客类别，或者探索新的内容来源。这个平台对于那些希望广泛阅读但又不希望被多个RSS订阅源淹没的读者来说非常有用。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
+            "url": "https://blogfeeds.net",
+            "title": "博客订阅源",
+            "date_modified": "2025-10-04T19:08:46.000Z"
+        },
+        {
+            "id": "https://github.com/DebarghaG/proofofthought",
+            "content_html": "ProofOfThought是一个利用Z3定理证明器实现的大语言模型推理系统。该项目将形式化验证技术应用于AI推理过程，试图提高LLM输出的准确性和可靠性。通过将LLM的推理步骤转化为数学命题，并使用Z3进行验证，系统可以识别和纠正逻辑错误。这代表了AI安全和可靠性领域的前沿研究，探索如何结合符号推理和神经网络的优势。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/DebarghaG/proofofthought",
+            "title": "ProofOfThought：使用Z3定理证明的LLM推理",
+            "date_modified": "2025-10-04T18:34:23.000Z"
         }
     ]
 }
