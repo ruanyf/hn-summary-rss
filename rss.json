@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://old.reddit.com/r/slatestarcodex/comments/1no45rn",
-            "content_html": "《饥饿游戏》系列最新小说据报道是由AI参与创作的，这标志着知名文学作品创作中AI应用的又一次重大尝试。这一消息引起了广泛讨论，有人担心这会影响原创性，也有人认为这是创意写作的新方向。这一事件反映了AI在创意内容领域日益增长的影响力。 [<a href=\"https://news.ycombinator.com/item?id=45479153\" target=\"_blank\">评论</a>]",
-            "url": "https://old.reddit.com/r/slatestarcodex/comments/1no45rn",
-            "title": "《饥饿游戏》最新小说由AI合作创作",
-            "date_modified": "2025-10-05T05:57:31.000Z"
-        },
-        {
-            "id": "https://nani.now/en",
-            "content_html": "Nani是一款创新的AI翻译工具，它不仅能够进行语言翻译，还能在翻译过程中帮助用户学习语言知识。该工具通过在翻译过程中提供语法解释、词汇用法和文化背景等额外信息，让用户在使用翻译服务的同时提升语言能力。这种边用边学的模式特别适合语言学习者，将实用性和教育性结合起来。 [<a href=\"https://news.ycombinator.com/item?id=45479123\" target=\"_blank\">评论</a>]",
-            "url": "https://nani.now/en",
-            "title": "展示HN：Nani？——边翻译边教学的AI翻译工具",
-            "date_modified": "2025-10-05T05:51:35.000Z"
-        },
-        {
-            "id": "https://pixel-kit.vercel.app/signup",
-            "content_html": "Pixel Kit是一款可视化界面构建工具，允许用户通过拖拽方式创建移动应用和网页界面，无需编写代码。该工具提供了丰富的组件库和预设模板，让设计师和开发者能够快速将创意转化为实际可用的界面。其直观的设计流程降低了开发门槛，适合各种技能水平的用户使用，加速了原型设计和开发流程。 [<a href=\"https://news.ycombinator.com/item?id=45479110\" target=\"_blank\">评论</a>]",
-            "url": "https://pixel-kit.vercel.app/signup",
-            "title": "展示HN：Pixel Kit——可视化构建移动和网页界面",
-            "date_modified": "2025-10-05T05:48:50.000Z"
-        },
-        {
             "id": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-            "content_html": "这篇文章探讨了亚马逊从曾经的行业标杆逐渐下滑的原因。文章指出，亚马逊曾经以客户为中心的理念如今已被利润最大化的策略所取代，导致产品质量下降、客户服务变差、平台充满假冒伪劣产品等问题。同时，亚马逊的生态系统变得复杂且难以导航，用户体验大不如前。这一变化反映了大型科技公司发展过程中常见的从初创到成熟的心态转变。 [<a href=\"https://news.ycombinator.com/item?id=45479103\" target=\"_blank\">评论</a>]",
+            "content_html": "本文探讨了亚马逊公司从辉煌走向衰落的原因。文章分析了亚马逊在产品质量、客户服务、工作环境等方面的变化，指出亚马逊已经失去了其早期的创新精神和客户至上的理念。作者认为，亚马逊的过度扩张和以利润为中心的运营模式导致了其服务质量下降，使其不再是曾经的电商领导者。亚马逊需要重新关注其核心价值观，才能重获市场竞争力。 [<a href=\"https://news.ycombinator.com/item?id=45479103\" target=\"_blank\">评论</a>]",
             "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-            "title": "早已过时：亚马逊为何变得如此糟糕？",
+            "title": "早已辉煌不再：亚马逊是如何变差的？",
             "date_modified": "2025-10-05T05:47:55.000Z"
         },
         {
-            "id": "https://twistedvoxel.com/nintendo-reportedly-lobbying-japanese-government-to-push-back-against-generative-ai/",
-            "content_html": "据报道，任天堂正在积极游说日本政府加强对生成式AI的监管。此举反映了游戏行业对AI技术版权问题的担忧，任天堂可能担心未经授权使用其角色和内容的训练数据会被用于生成式AI。大型游戏公司普遍担忧AI技术可能侵犯其知识产权，并希望政府制定更严格的法规来保护游戏内容和角色的版权。 [<a href=\"https://news.ycombinator.com/item?id=45479090\" target=\"_blank\">评论</a>]",
-            "url": "https://twistedvoxel.com/nintendo-reportedly-lobbying-japanese-government-to-push-back-against-generative-ai/",
-            "title": "据报道任天堂正在游说日本政府抵制生成式AI",
-            "date_modified": "2025-10-05T05:45:39.000Z"
+            "id": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "content_html": "皮尤研究中心的调查显示，美国人对合法体育博彩的负面看法日益增强。研究发现，越来越多的美国人认为体育博彩对社会和体育运动有害，担心其可能导致赌博成瘾、腐败和财务问题。这一趋势反映了公众对博彩行业扩张的担忧，尽管博彩在美国多州已合法化，但公众对其社会影响的质疑正在增加。 [<a href=\"https://news.ycombinator.com/item?id=45478749\" target=\"_blank\">评论</a>]",
+            "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+            "title": "美国人越来越认为合法体育博彩对社会有害",
+            "date_modified": "2025-10-05T04:01:57.000Z"
         },
         {
-            "id": "https://searchengineland.com/openai-staffing-chatgpt-ad-platform-462554",
-            "content_html": "据报道，OpenAI正在积极招聘营销和广告相关人才，计划将ChatGPT转变为一个广告平台。这一战略转变表明OpenAI正在寻求新的收入来源，以支撑其庞大的AI研发成本。这一举措可能意味着用户将看到更多与对话内容相关的广告投放，引发人们对AI体验商业化影响的讨论。同时，这也反映了大型AI公司在商业化和伦理考量之间的持续平衡。 [<a href=\"https://news.ycombinator.com/item?id=45479086\" target=\"_blank\">评论</a>]",
-            "url": "https://searchengineland.com/openai-staffing-chatgpt-ad-platform-462554",
-            "title": "OpenAI正在增加人手，将ChatGPT转变为广告平台",
-            "date_modified": "2025-10-05T05:44:03.000Z"
+            "id": "https://github.com/daniellionel01/parrot",
+            "content_html": "Parrot是一个用Gleam编程语言开发的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。它提供了类型安全的查询构建功能，可以在编译时捕获SQL查询中的错误，而不是等到运行时。Parrot的设计目标是让开发者在保持类型安全的同时，能够以简洁直观的方式与数据库交互。该项目基于Erlang虚拟机，继承了Gleam的类型系统优势，为开发者提供了一种安全可靠的数据库操作方式。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/daniellionel01/parrot",
+            "title": "Parrot - Gleam语言中的类型安全SQL，支持SQLite、PostgreSQL和MySQL",
+            "date_modified": "2025-10-05T00:51:44.000Z"
         },
         {
-            "id": "https://james-see.github.io/pngmeta/",
-            "content_html": "Pngmeta是一个Python库，专门用于编辑PNG图像文件的元数据。该工具允许开发者轻松读取、修改和删除PNG文件中的EXIF信息、注释等元数据，提供了一种便捷的方式来处理图像文件的隐藏数据。这对于需要处理大量图像文件的开发者、数据分析师或对图像隐私有要求的用户来说非常有用，可以帮助他们管理和清理图像文件的元数据信息。 [<a href=\"https://news.ycombinator.com/item?id=45479068\" target=\"_blank\">评论</a>]",
-            "url": "https://james-see.github.io/pngmeta/",
-            "title": "展示HN：Pngmeta——编辑PNG元数据的Python库",
-            "date_modified": "2025-10-05T05:38:46.000Z"
+            "id": "https://richardsapperdesign.com/products/mod-5140/",
+            "content_html": "IBM 5140型号是IBM公司推出的第一台笔记本电脑，这款产品在便携计算领域具有重要意义。5140采用创新的设计理念，将当时的大型计算机功能浓缩到一个便携设备中。它配备了彩色液晶显示屏、全尺寸键盘和内置调制解调器，代表了1980年代末期便携计算技术的巅峰。这款笔记本电脑不仅是IBM产品线的重要里程碑，也为后来的笔记本电脑发展奠定了基础，展示了IBM在技术创新方面的领导地位。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
+            "url": "https://richardsapperdesign.com/products/mod-5140/",
+            "title": "5140型号 - IBM的第一台笔记本电脑",
+            "date_modified": "2025-10-05T00:35:10.000Z"
         },
         {
-            "id": "https://www.anthropic.com/news/context-management",
-            "content_html": "Anthropic公司发布了其记忆API，这是一个允许AI系统更好地记住和管理对话上下文的新功能。该API使开发者能够构建具有长期记忆能力的AI应用，让AI系统能够在多次对话之间保持连贯性和相关性。这一功能对于需要持续互动的应用特别有价值，如客服聊天机器人、个人助手等。记忆API的推出标志着AI在理解和处理长期交互方面的进步。 [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
-            "url": "https://www.anthropic.com/news/context-management",
-            "title": "Anthropic发布记忆API",
-            "date_modified": "2025-10-05T05:20:08.000Z"
+            "id": "https://arxiv.org/abs/2509.12351",
+            "content_html": "这篇研究论文探讨了针对小行星2024 YR4的潜在空间任务方案。2024 YR4是一颗新发现的近地小行星，对其轨道和特性进行深入研究对于行星防御具有重要意义。论文分析了多种可能的侦察和缓解任务选项，包括飞越任务、采样返回任务和偏转任务等。研究强调了国际合作的重要性，并提出了基于现有技术和未来技术发展的任务规划建议，旨在为地球提供有效的近地天体威胁防护措施。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.12351",
+            "title": "小行星2024 YR4的侦察与缓解任务选项",
+            "date_modified": "2025-10-04T23:42:55.000Z"
         },
         {
-            "id": "https://www.reuters.com/legal/government/meta-could-owe-billions-flo-class-action-verdict-2025-10-01/",
-            "content_html": "Meta因一起集体诉讼面临巨额赔偿风险，该诉讼指控其非法收集用户数据并将其用于个性化广告。据报道，初步判决可能要求Meta支付数十亿美元的赔偿金，这将是美国历史上最大的隐私相关赔偿之一。这一案件凸显了大型科技公司面临的隐私和数据使用方面的法律风险，可能会对Meta的财务状况和业务模式产生深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45478983\" target=\"_blank\">评论</a>]",
-            "url": "https://www.reuters.com/legal/government/meta-could-owe-billions-flo-class-action-verdict-2025-10-01/",
-            "title": "Meta可能因弗洛集体诉讼判决而欠下数十亿美元",
-            "date_modified": "2025-10-05T05:08:54.000Z"
+            "id": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
+            "content_html": "这篇文章介绍了钻孔振荡器的物理原理和应用。钻孔振荡器是一种利用地下深处压力和温度差异产生振荡能量的装置。通过在钻井中创建特殊结构，可以利用地热和地球引力场的变化来产生持续的能量振荡。这项技术有潜力成为一种新型的可再生能源，特别适用于地热资源丰富的地区。文章详细分析了钻孔振荡器的工作原理、效率计算和潜在应用前景，展示了这一创新技术在能源领域的潜力。 [<a href=\"https://news.ycombinator.com/item?id=45477516\" target=\"_blank\">评论</a>]",
+            "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
+            "title": "钻孔振荡器",
+            "date_modified": "2025-10-04T23:02:32.000Z"
         },
         {
-            "id": "https://www.reuters.com/business/media-telecom/scores-bollywood-ai-videos-vanish-youtube-after-reuters-story-2025-10-03/",
-            "content_html": "路透社报道揭示了许多使用AI技术制作和操纵印度宝莱坞明星形象的流行视频后，这些视频迅速从YouTube平台消失。这些AI生成的视频往往未经许可就使用了演员的形象和声音，引发了版权和肖像权问题。这一事件反映了随着AI技术发展，内容平台面临的版权和监管挑战日益增加，以及平台在处理AI生成内容方面的责任和困境。 [<a href=\"https://news.ycombinator.com/item?id=45478977\" target=\"_blank\">评论</a>]",
-            "url": "https://www.reuters.com/business/media-telecom/scores-bollywood-ai-videos-vanish-youtube-after-reuters-story-2025-10-03/",
-            "title": "路透社报道后，数十部宝莱坞AI视频从YouTube消失",
-            "date_modified": "2025-10-05T05:06:39.000Z"
+            "id": "https://blog.cr.yp.to/20251004-weakened.html",
+            "content_html": "这篇文章探讨了美国国家安全局(NSA)可能通过影响互联网工程任务组(IETF)的标准化过程，推动采用被弱化的密码算法的可能性。作者质疑是否存在安全漏洞被故意引入密码学标准的机制，以及是否可以通过游说或影响标准化进程来削弱加密强度。文章分析了密码学标准化的风险，强调了开放、透明和独立评估的重要性，以防止国家安全机构或第三方通过标准化的方式引入后门或降低安全性的密码算法。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.cr.yp.to/20251004-weakened.html",
+            "title": "NSA和IETF：攻击者能否购买被弱化的密码学标准化？",
+            "date_modified": "2025-10-04T22:16:33.000Z"
         },
         {
-            "id": "https://matharena.ai/apex/",
-            "content_html": "MathArena Apex是一个专注于高级数学挑战的平台，提供了一系列需要创新思维和深入理解的复杂数学问题。这些问题不仅需要计算能力，更需要创造性的解题思路，适合数学爱好者和专业人士挑战自我。平台旨在培养解决问题的能力和数学思维，通过不断挑战更难的问题来提升用户的数学素养和逻辑推理能力。 [<a href=\"https://news.ycombinator.com/item?id=45478969\" target=\"_blank\">评论</a>]",
-            "url": "https://matharena.ai/apex/",
-            "title": "MathArena Apex：未征服的最终答案问题",
-            "date_modified": "2025-10-05T05:02:42.000Z"
+            "id": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+            "content_html": "本文详细介绍了香山处理器架构中的向量浮点单元(VFPU)设计。香山是中国自主研发的开源高性能处理器架构，其向量浮点单元针对大规模科学计算和人工智能应用进行了优化。文档详细阐述了VFPU的架构设计、指令集和性能特性，包括支持多种浮点精度、高效的向量化操作和针对特定工作负载的优化。该设计体现了中国在处理器设计领域的进步，为国产处理器在高性能计算领域的发展提供了重要参考。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
+            "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+            "title": "香山向量浮点单元设计",
+            "date_modified": "2025-10-04T22:02:28.000Z"
         },
         {
-            "id": "https://community.designtaxi.com/topic/17988-is-chase-bank-down-october-4-2025/",
-            "content_html": "这篇文章讨论了2025年10月4日大通银行系统疑似出现宕机的情况。许多用户报告无法访问其在线银行服务、移动应用或进行交易，引发了人们对金融系统稳定性的关注。文章提供了用户反馈系统状态的讨论，以及对大型银行在面对技术故障时的可靠性和客户服务能力的质疑。事件也引发了对数字化金融服务依赖性的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45478932\" target=\"_blank\">评论</a>]",
-            "url": "https://community.designtaxi.com/topic/17988-is-chase-bank-down-october-4-2025/",
-            "title": "大通银行是否宕机？",
-            "date_modified": "2025-10-05T04:50:24.000Z"
+            "id": "https://salykova.github.io/matrix-cores-cdna",
+            "content_html": "这篇资源介绍了如何在AMD GPU上进行矩阵核心编程。矩阵计算在现代科学计算、机器学习和图形处理中扮演着重要角色。文章详细讲解了AMD GPU架构中针对矩阵运算的优化技术，包括矩阵核的硬件实现、编程模型和性能优化策略。内容涵盖了如何利用AMD GPU的矩阵处理单元加速各种计算密集型任务，以及如何编写高效的矩阵运算代码。这些技术对于希望充分利用AMD GPU计算能力的开发者来说非常有价值。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
+            "url": "https://salykova.github.io/matrix-cores-cdna",
+            "title": "AMD GPU上的矩阵核编程",
+            "date_modified": "2025-10-04T21:22:11.000Z"
         },
         {
-            "id": "https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/",
-            "content_html": "哈佛大学公共卫生学院的研究人员发表了报告，驳斥了关于种子油对健康有害的各种说法。科学证据表明，种子油作为均衡饮食的一部分，适量消费是安全的，与心脏病或其他健康风险没有直接联系。这一结论有助于消除社交媒体上广泛传播的关于种子油的错误信息，帮助公众基于科学事实做出健康的饮食选择。 [<a href=\"https://news.ycombinator.com/item?id=45478931\" target=\"_blank\">评论</a>]",
-            "url": "https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/",
-            "title": "科学家驳斥种子油健康风险说法",
-            "date_modified": "2025-10-05T04:50:02.000Z"
+            "id": "https://sunboxlabs.com/",
+            "content_html": "Sunbox Labs提供了一种只需912美元即可实现能源独立的解决方案。该方案可能基于太阳能或其他可再生能源技术，旨在为家庭或小型企业提供自主供电能力。这种低成本的能源解决方案简化了传统太阳能系统的安装过程，减少了复杂的许可和审批流程。通过创新的设计和高效的能源利用技术，该方案让普通家庭也能负担得起能源独立，减少对电网的依赖，同时降低能源成本并减少碳足迹。 [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
+            "url": "https://sunboxlabs.com/",
+            "title": "912美元无繁琐程序的能源独立方案",
+            "date_modified": "2025-10-04T21:22:05.000Z"
         },
         {
-            "id": "https://www.cjr.org/analysis/reddit-winning-ai-licensing-deals-openai-google-gemini-answers-rsl.php",
-            "content_html": "据报道，Reddit通过与OpenAI和Google等AI公司签订数据授权协议，成功在AI时代的商业模式转型中占据有利位置。Reddit凭借其庞大的用户生成内容和社区讨论数据，为AI模型提供了训练素材，并从中获得了可观的收入。这一策略不仅为Reddit带来了新的收入来源，还保护了社区内容的价值，同时确保了用户数据的使用符合平台政策，展示了传统社交平台在AI时代的创新生存之道。 [<a href=\"https://news.ycombinator.com/item?id=45478919\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cjr.org/analysis/reddit-winning-ai-licensing-deals-openai-google-gemini-answers-rsl.php",
-            "title": "Reddit在AI游戏中胜出",
-            "date_modified": "2025-10-05T04:47:40.000Z"
+            "id": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
+            "content_html": "这篇文章分析了Microsoft 365 Copilot的商业失败情况。尽管微软投入了大量资源推广其AI助手Copilot，但市场反响并未达到预期。文章探讨了Copilot面临的多重挑战，包括高成本、用户接受度低、实际价值有限等问题。微软可能低估了企业采用AI工具的难度，以及用户习惯改变所需要的时间。这一案例反映了AI工具商业化过程中的普遍挑战，特别是在企业应用领域，技术先进并不一定意味着市场成功。 [<a href=\"https://news.ycombinator.com/item?id=45476045\" target=\"_blank\">评论</a>]",
+            "url": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
+            "title": "Microsoft 365 Copilot的商业失败",
+            "date_modified": "2025-10-04T19:39:00.000Z"
         },
         {
-            "id": "https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns",
-            "content_html": "亚马逊Prime Video撤回了经过修改的詹姆斯·邦德电影海报缩略图，这些缩略图移除了原版中的枪支。这一修改最初是为了使内容更加“家庭友好“，但引发了观众和粉丝的强烈批评，认为这违背了角色原貌和电影的历史背景。在收到大量负面反馈后，亚马逊决定恢复原始海报。这一事件反映了内容平台在试图平衡安全审核和尊重原始艺术完整性时面临的挑战。 [<a href=\"https://news.ycombinator.com/item?id=45478906\" target=\"_blank\">评论</a>]",
-            "url": "https://entertainment.slashdot.org/story/25/10/05/0418224/amazons-prime-video-rolls-back-controversial-stylized-james-bond-thumbnails-without-guns",
-            "title": "亚马逊Prime Video撤回争议性詹姆斯邦德缩略图（无枪版本）",
-            "date_modified": "2025-10-05T04:44:19.000Z"
+            "id": "https://blogfeeds.net",
+            "content_html": "Blog Feeds是一个聚合博客内容的平台，它收集并整理了各种博客的RSS订阅源。用户可以通过这个平台发现感兴趣的博客内容，或者将自己博客的订阅源提交给平台增加曝光度。该服务为博客作者提供了展示内容的渠道，也为读者提供了一种发现优质博客内容的便捷方式。平台可能包含分类导航、搜索功能和个性化推荐，帮助用户高效地浏览和订阅感兴趣的博客内容。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
+            "url": "https://blogfeeds.net",
+            "title": "博客订阅源",
+            "date_modified": "2025-10-04T19:08:46.000Z"
         },
         {
-            "id": "https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned",
-            "content_html": "据报道，多个用于英特尔硬件加速器的Debian和Ubuntu软件包已被原作者遗弃，这对使用这些Linux发行版的用户造成了困扰。这些软件包包括对英特尔GPU、AI加速器和处理器优化功能的支持，遗弃可能导致这些功能在新版本中无法正常工作，甚至影响系统的稳定性。这一情况凸显了开源社区中维护者资源不足的问题，以及依赖硬件厂商支持的开源软件面临的可持续性挑战。 [<a href=\"https://news.ycombinator.com/item?id=45478905\" target=\"_blank\">评论</a>]",
-            "url": "https://www.phoronix.com/news/Intel-Debian-Packages-Orphaned",
-            "title": "许多用于英特尔加速器的Debian/Ubuntu软件包已被遗弃",
-            "date_modified": "2025-10-05T04:44:14.000Z"
+            "id": "https://github.com/DebarghaG/proofofthought",
+            "content_html": "ProofOfThought是一个基于大语言模型(LLM)和Z3定理证明器的推理框架。该框架将LLM的灵活性与Z3定理证明器的精确性相结合，使AI系统能够进行更可靠的逻辑推理。通过将自然语言问题转化为形式化的数学表达式，然后使用Z3进行验证，ProofOfThought能够显著提高LLM在需要精确推理的任务中的表现。这一方法特别适合数学证明、逻辑推理和需要严格验证的应用场景，为AI系统的可靠性提供了新的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/DebarghaG/proofofthought",
+            "title": "ProofOfThought：使用Z3定理证明的LLM推理",
+            "date_modified": "2025-10-04T18:34:23.000Z"
         },
         {
-            "id": "https://www.esecurityplanet.com/news/the-uks-renewed-clash-with-apple-over-encrypted-data-access/",
-            "content_html": "英国政府与苹果公司之间的加密数据访问争议再次升级，英国执法部门希望获得更多访问加密用户数据的权限，以打击犯罪活动。苹果公司则坚持认为保护用户隐私是其核心价值，过度削弱加密将危及所有用户的安全。这一冲突反映了全球范围内安全与隐私、执法需求与个人权利之间的持续紧张关系，可能对未来数字通信的加密标准产生重大影响。 [<a href=\"https://news.ycombinator.com/item?id=45478891\" target=\"_blank\">评论</a>]",
-            "url": "https://www.esecurityplanet.com/news/the-uks-renewed-clash-with-apple-over-encrypted-data-access/",
-            "title": "英国就加密数据访问问题与苹果公司再次发生冲突",
-            "date_modified": "2025-10-05T04:41:28.000Z"
+            "id": "https://github.com/Esubaalew/run",
+            "content_html": "Run是一个用Rust语言开发的命令行通用代码运行器，作者在学习Rust过程中创建了这个开源项目。该工具旨在提供一个简单高效的方式来运行各种编程语言的代码片段，无需设置复杂的环境。Run支持多种编程语言，提供了统一的命令行接口，可以自动检测代码类型并选择适当的运行方式。项目展现了Rust在系统编程和工具开发方面的优势，也为开发者提供了一个实用的代码运行工具，特别适合快速测试代码片段和学习不同编程语言。 [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Esubaalew/run",
+            "title": "展示HN：Run - 我在学习Rust过程中构建的CLI通用代码运行器",
+            "date_modified": "2025-10-04T18:34:13.000Z"
         },
         {
-            "id": "https://www.dailymail.co.uk/health/article-15162069/cure-sciatica-WITHOUT-drugs-experts-reveal.html",
-            "content_html": "这篇文章介绍了如何通过非药物方法缓解坐骨神经痛，这种疾病每年影响数百万英国人。专家建议了几种无需药物的治疗方法，包括特定运动、姿势调整、物理治疗和生活方式改变等。文章强调，大多数坐骨神经痛病例可以通过综合的非侵入性方法得到有效管理，避免了对止痛药和手术的依赖。这为患者提供了实用的自我管理策略，帮助他们减轻疼痛并改善生活质量。 [<a href=\"https://news.ycombinator.com/item?id=45478882\" target=\"_blank\">评论</a>]",
-            "url": "https://www.dailymail.co.uk/health/article-15162069/cure-sciatica-WITHOUT-drugs-experts-reveal.html",
-            "title": "战胜每年影响三百万英国人的脊椎疾病",
-            "date_modified": "2025-10-05T04:39:58.000Z"
+            "id": "https://arxiv.org/abs/2509.19371",
+            "content_html": "这篇研究论文探讨了大语言模型(LLM)知识注入的效率问题，提出了知识注入扩展定律。研究分析了不同知识注入方法的效果和效率，包括参数微调、检索增强和提示工程等。论文发现，知识注入的效果与注入的信息量、质量和模型规模之间存在特定的数学关系。这一发现对于优化LLM的知识获取过程具有重要意义，可以帮助开发者更高效地更新和扩展大语言模型的知识库，同时减少计算资源的消耗，为LLM的持续学习和知识更新提供了理论指导。 [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.19371",
+            "title": "如何高效注入知识？大语言模型的知识注入扩展定律",
+            "date_modified": "2025-10-04T17:18:07.000Z"
         },
         {
-            "id": "https://mashable.com/article/gmail-business-encrypted-emails-everyone",
-            "content_html": "谷歌宣布，Gmail商业用户现在可以向任何电子邮件地址发送端到端加密的邮件，而不仅限于其他Gmail用户。这一功能通过新的加密标准实现，确保邮件在传输过程中和接收端都是安全的，只有收件人能够查看内容。这一改进大大增强了商务通信的安全性，使企业能够更可靠地保护敏感信息，同时保持了良好的用户体验，无需复杂的设置即可使用。 [<a href=\"https://news.ycombinator.com/item?id=45478880\" target=\"_blank\">评论</a>]",
-            "url": "https://mashable.com/article/gmail-business-encrypted-emails-everyone",
-            "title": "Gmail商业用户现在可以向任何人发送安全加密邮件",
-            "date_modified": "2025-10-05T04:39:22.000Z"
+            "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+            "content_html": "这篇文章通过解决“代码冒险挑战“(Advent of Code)的一系列编程问题，对Ada和Rust两种编程语言进行了详细比较。作者使用相同的算法和思路，分别用Ada和Rust实现解决方案，分析了两种语言在语法特性、错误处理、并发模型、性能等方面的差异。比较结果展示了两种语言各自的优势和适用场景，Rust以其内存安全和并发性能著称，而Ada则以其强大的类型系统和可靠性验证机制闻名。这种实践性的比较为开发者选择适合特定项目需求的编程语言提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+            "title": "通过解决“代码冒险挑战“比较Ada和Rust",
+            "date_modified": "2025-10-04T15:10:49.000Z"
         },
         {
-            "id": "https://www.perplexity.ai/page/powell-warns-stocks-fairly-hig-1Ru_K5uKSpGJaT_WK3SbnQ",
-            "content_html": "美联储主席鲍威尔表示股市估值'相当高'，引发市场担忧和抛售活动。这一表态被视为可能收紧货币政策的信号，投资者担心过高的股市估值可能无法持续。鲍威尔的警告导致主要股指下跌，市场波动性增加。这一事件凸显了货币政策言论对金融市场的重大影响，以及投资者对央行政策变化的敏感性，反映了当前经济环境中的不确定性和谨慎情绪。 [<a href=\"https://news.ycombinator.com/item?id=45478861\" target=\"_blank\">评论</a>]",
-            "url": "https://www.perplexity.ai/page/powell-warns-stocks-fairly-hig-1Ru_K5uKSpGJaT_WK3SbnQ",
-            "title": "鲍威尔警告股市估值'相当高'，引发抛售潮",
-            "date_modified": "2025-10-05T04:32:48.000Z"
+            "id": "https://www.seangoedecke.com/how-to-influence-politics/",
+            "content_html": "这篇文章分享了高级软件工程师如何在科技公司内部政治环境中有效影响决策的方法。作者探讨了在技术决策、资源分配和团队管理等方面，工程师如何通过建立专业信誉、理解业务目标、有效沟通和建立联盟来发挥影响力。文章强调了技术能力与软技能相结合的重要性，以及如何在保持技术诚信的同时，在公司政治中找到平衡点。这些经验对于那些希望在技术组织中发挥更大作用的工程师具有指导意义，提供了在复杂组织中推进技术变革的策略。 [<a href=\"https://news.ycombinator.com/item?id=45473852\" target=\"_blank\">评论</a>]",
+            "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+            "title": "作为一名高级软件工程师，我如何影响科技公司的政治环境",
+            "date_modified": "2025-10-04T15:09:41.000Z"
+        },
+        {
+            "id": "https://maxadamski.com/blog/2025/10/email.html",
+            "content_html": "这篇文章探讨了如何使用1980年代的技术和方法来自托管电子邮件服务。作者回顾了早期互联网电子邮件系统的设计理念和工作方式，思考如何在现代环境中实现类似的技术架构。文章详细介绍了使用简单协议和基础硬件设置自托管电子邮件的方法，以及这种复古方法可能带来的好处，如更高的隐私控制、减少对第三方服务的依赖。这种回归基础的方法反映了人们对现代复杂电子邮件系统的反思，以及对更简单、更直接通信方式的追求。 [<a href=\"https://news.ycombinator.com/item?id=45473730\" target=\"_blank\">评论</a>]",
+            "url": "https://maxadamski.com/blog/2025/10/email.html",
+            "title": "像1984年那样自托管电子邮件",
+            "date_modified": "2025-10-04T14:53:32.000Z"
+        },
+        {
+            "id": "https://www.folklore.org/Thunderscan.html",
+            "content_html": "Thunderscan是一个在1984年开发的创新设备，它能够将苹果公司的打印机转变为扫描仪。这个设备通过巧妙地利用打印机机制，实现了文档扫描功能，在当时是一项创新技术。它连接到打印机端口，使用打印头的移动来逐行扫描文档，然后将图像数据传输到计算机。Thunderscan展示了如何通过创新思维将现有设备的功能扩展，创造出新的可能性。这个产品不仅体现了早期计算机硬件创新的智慧，也反映了那个时代DIY精神和解决问题的创造性。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
+            "url": "https://www.folklore.org/Thunderscan.html",
+            "title": "雷扫描：一个巧妙设备将打印机转变为扫描仪（2004）",
+            "date_modified": "2025-10-04T12:16:37.000Z"
+        },
+        {
+            "id": "https://www.buchstabenmuseum.de/en/",
+            "content_html": "柏林字母博物馆(Buchstabenmuseum)宣布即将关闭。这家独特的博物馆收藏了来自柏林各地和各种建筑物的历史字母和标牌，展示了城市文字设计和视觉文化的历史。博物馆的关闭意味着这些珍贵的文字设计遗产面临消失的风险，反映了城市发展中历史保护与现代化之间的冲突。字母的收藏不仅具有设计价值，也记录了柏林城市变迁的历史。这一事件引发了人们对城市文化遗产保护的讨论，以及如何平衡城市现代化与历史保存的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
+            "url": "https://www.buchstabenmuseum.de/en/",
+            "title": "柏林字母博物馆即将关闭",
+            "date_modified": "2025-10-04T11:58:58.000Z"
         }
     ]
 }
