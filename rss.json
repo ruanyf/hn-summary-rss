@@ -10,141 +10,141 @@
     },
     "items": [
         {
+            "id": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "content_html": "这篇文章披露了 1Password 命令行界面的安全漏洞，详细描述了可能影响用户数据安全的问题。漏洞可能使攻击者能够在特定条件下访问敏感信息。作者提供了详细的漏洞分析、影响范围以及可能的修复建议。对于使用 1Password CLI 工具的用户来说，了解此漏洞并采取适当的防护措施至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
+            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "title": "1Password CLI 漏洞",
+            "date_modified": "2025-10-05T03:01:50.000Z"
+        },
+        {
             "id": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
-            "content_html": "这篇文章探讨了使用正则表达式解析XML的不合理性和挑战性。尽管开发者普遍认为不应该用正则表达式解析XML，但作者还是尝试实现了这一功能。文章详细解释了为什么这样做是一个坏主意，包括正则表达式无法处理XML的所有复杂特性、解析器专门针对XML设计等。尽管如此，作者通过展示一种正则表达式方案，提供了有趣的编程挑战和反面教材，帮助读者理解专业工具的价值。这篇文章提醒开发者选择正确的工具来完成特定任务，而不是试图用不合适的工具强行解决问题。 [<a href=\"https://news.ycombinator.com/item?id=45478300\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了使用正则表达式解析 XML 的危险性和常见错误。作者承认虽然严格来说不应该用正则表达式处理 XML，但在某些特定场景下，简单的正则表达式可能是有用的。文章通过实例展示了如何安全地使用正则表达式提取 XML 数据，同时强调了理解 XML 结构的重要性。这对于需要在受限环境中处理 XML 数据的开发者提供了实用的参考。 [<a href=\"https://news.ycombinator.com/item?id=45478300\" target=\"_blank\">评论</a>]",
             "url": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
-            "title": "你不能用正则表达式解析XML。但我们还是来试试吧",
+            "title": "你不能用正则表达式解析 XML。但不管怎样，我们试试",
             "date_modified": "2025-10-05T01:58:31.000Z"
         },
         {
             "id": "https://github.com/daniellionel01/parrot",
-            "content_html": "Parrot是一个在Gleam语言中实现的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。它通过编译时类型检查确保SQL查询的正确性，减少了运行时错误的可能性。Parrot提供直观的API，允许开发者以类型安全的方式构建复杂的查询，同时保持高性能。该库充分利用了Gleam的类型系统特性，使数据库操作变得更加安全和可靠。对于使用Gleam语言开发应用程序的开发者来说，Parrot提供了一种现代、类型安全的数据库交互方式，有助于提高代码质量并减少与数据库相关的bug。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "content_html": "Parrot 是一个用 Gleam 编写的类型安全 SQL 库，支持 SQLite、PostgreSQL 和 MySQL 数据库。该项目通过编译时类型检查来防止常见的 SQL 查询错误，如类型不匹配和注入攻击。Parrot 提供了一个简洁的 API，使开发者能够构建安全的数据库应用程序。对于 Gleam 语言爱好者或需要加强数据库操作安全性的开发者来说，这是一个有价值的项目。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/daniellionel01/parrot",
-            "title": "Parrot - Gleam语言中的类型安全SQL支持SQLite PostgreSQL和MySQL",
+            "title": "Parrot - Gleam 中的类型安全 SQL，支持 SQLite、PostgreSQL 和 MySQL",
             "date_modified": "2025-10-05T00:51:44.000Z"
         },
         {
             "id": "https://richardsapperdesign.com/products/mod-5140/",
-            "content_html": "5140型号是IBM推出的第一台笔记本电脑，代表了个人计算历史上的一个重要里程碑。这款产品由著名工业设计师理查德·萨珀设计，展示了他在将功能性与美学完美结合方面的天赋。5140笔记本电脑采用了创新的设计理念，在当时的技术条件下提供了良好的便携性和可用性。它的发布标志着计算机技术从桌面向便携设备的转变，为后来的笔记本电脑发展奠定了基础。这款产品不仅是IBM技术实力的体现，也是工业设计史上的经典之作，展现了设计师如何将复杂的技术转化为优雅实用的产品。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了 IBM 5140 型号，这是 IBM 公司推出的第一台笔记本电脑。这款设备采用了创新的模块化设计，由著名设计师理查德·萨珀设计。文章详细描述了其技术规格、设计理念以及在计算机历史上的重要意义。5140 的推出标志着便携计算设备的重要里程碑，为后来的笔记本电脑发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
             "url": "https://richardsapperdesign.com/products/mod-5140/",
-            "title": "5140型号 - IBM的第一台笔记本电脑",
+            "title": "Mod. 5140 - IBM 的第一台笔记本电脑",
             "date_modified": "2025-10-05T00:35:10.000Z"
         },
         {
             "id": "https://arxiv.org/abs/2509.12351",
-            "content_html": "这篇论文探讨了针对小行星2024 YR4的潜在太空任务选项，包括侦察和缓解措施。研究详细分析了各种可能的技术方案，从远程观测到可能的偏转或摧毁策略。作者评估了不同任务的成本、技术可行性和成功概率，为应对潜在威胁的小行星提供了科学依据。论文强调了早期探测和规划的重要性，以及在轨评估和干预的必要性。这项研究对于完善地球防御系统、提高对小行星威胁的响应能力具有重要意义，代表了行星防御领域的前沿进展，为未来的太空任务规划提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇论文探讨了针对小行星 2024 YR4 的潜在太空任务选项，包括侦察和缓解策略。研究人员分析了多种可能的任务方案，评估了各种技术的可行性和有效性。文章讨论了轨道测定、潜在撞击风险评估以及可能的偏转技术。这项研究对于开发行星防御系统具有重要的参考价值，有助于保护地球免受小行星撞击的威胁。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
             "url": "https://arxiv.org/abs/2509.12351",
-            "title": "小行星2024 YR4侦察和缓解任务的太空任务选项",
+            "title": "小行星 2024 YR4 的侦察和缓解任务选项",
             "date_modified": "2025-10-04T23:42:55.000Z"
         },
         {
             "id": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
-            "content_html": "这个GitHub项目揭示了AI技术如何被用于开源代码洗钱活动。维护者创建了一个名为“耻辱墙“的文档，记录了恶意行为者如何利用AI工具修改开源代码，以掩盖其恶意意图或侵权行为。项目展示了开发者如何使用自动化技术重写代码，改变变量名、重构逻辑，使恶意代码或盗用代码难以被检测到。这种行为威胁了开源生态系统的健康发展，损害了知识产权保护。该项目旨在提高社区对这种新型威胁的认识，鼓励开发者加强代码审查和安全性检查，共同维护一个更安全、更健康的开源环境。 [<a href=\"https://news.ycombinator.com/item?id=45477661\" target=\"_blank\">评论</a>]",
+            "content_html": "这个 GitHub 仓库记录了利用人工智能技术进行开源代码洗钱的行为。作者创建了“耻辱堂“，揭露了那些使用 AI 工具将闭源代码转换为看似原创的开源代码的项目。这种行为通过重命名变量、改变代码结构和使用 AI 生成的注释来掩盖代码来源，损害了开源社区的诚信。该资源旨在提高开发者对这种不良行为的认识，并鼓励更好的代码道德实践。 [<a href=\"https://news.ycombinator.com/item?id=45477661\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
-            "title": "AI驱动的开源代码洗钱",
+            "title": "AI 驱动的开源代码洗钱",
             "date_modified": "2025-10-04T23:26:02.000Z"
         },
         {
             "id": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
-            "content_html": "这篇文章探讨了钻孔振荡器的物理原理和应用。作者详细分析了在深井或钻孔中创建振荡系统的科学原理，包括波在介质中的传播、共振现象以及能量转换机制。这种技术可用于多种应用，如地震监测、资源勘探和地下结构分析。文章提供了数学模型和物理计算，解释了如何设计和优化这类振荡系统以获得最佳性能。这一研究不仅具有理论意义，也为实际的工程应用提供了科学基础。对于地球物理学、工程学和能源勘探领域的专业人士来说，钻孔振荡器技术提供了一种创新的方法来探测和分析地下结构。 [<a href=\"https://news.ycombinator.com/item?id=45477516\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了钻孔振荡器的物理原理和应用。作者详细分析了在地下钻孔中创建振荡系统的理论模型，包括能量传递、共振效应和可能的实际应用。这些振荡器可以用于地震研究、资源勘探或地下通信等领域。文章通过数学模型和物理原理解释了系统的运作机制，为工程师和物理学家提供了有价值的技术参考。 [<a href=\"https://news.ycombinator.com/item?id=45477516\" target=\"_blank\">评论</a>]",
             "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
             "title": "钻孔振荡器",
             "date_modified": "2025-10-04T23:02:32.000Z"
         },
         {
             "id": "https://blog.cr.yp.to/20251004-weakened.html",
-            "content_html": "这篇博客文章质疑美国国家安全局（NSA）是否通过影响互联网工程任务组（IETF）的标准制定过程来推广被弱化的加密算法。作者探讨了NSA可能如何利用其对标准制定的影响力，暗中植入后门或降低加密强度的机制。文章分析了历史上的案例，暗示NSA可能通过资金支持、人员渗透或其他手段，影响加密算法的标准制定过程，使其符合国家安全需求的同时也创造了潜在的漏洞。这一质疑引发了关于加密算法透明度、标准制定过程安全性以及政府与科技行业关系的深刻讨论，强调了维护加密技术完整性和独立性的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了国家安全局（NSA）是否可能通过影响互联网工程任务组（IETF）来推广被弱化的密码学标准。作者质疑是否存在安全漏洞被故意引入密码学标准中的可能性，以及这种做法是否会被用于监视目的。文章分析了密码学标准制定过程中的潜在风险，强调了透明度和独立审查的重要性，以防止潜在的安全后门被植入关键基础设施。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
             "url": "https://blog.cr.yp.to/20251004-weakened.html",
-            "title": "NSA和IETF：攻击者能否购买弱加密算法的标准制定？",
+            "title": "NSA 和 IETF：攻击者能否购买被弱化的密码学标准？",
             "date_modified": "2025-10-04T22:16:33.000Z"
         },
         {
+            "id": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
+            "content_html": "这篇文章探讨了 OpenAI 对计算资源的巨大需求及其对全球能源市场的影响。公司首席执行官山姆·奥特曼正在亚洲和中东地区寻求更多的计算资源，以支持人工智能模型的训练和运行。随着 AI 模型规模的不断扩大，计算需求呈指数级增长，这导致了能源消耗的显著增加。文章分析了这一趋势对技术发展、能源政策以及全球 AI 竞争格局的深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45477192\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
+            "title": "OpenAI 对计算能力的渴求",
+            "date_modified": "2025-10-04T22:14:29.000Z"
+        },
+        {
             "id": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-            "content_html": "这篇文档详细介绍了香山处理器架构中的向量浮点单元（VFPU）设计。香山是中国自主研发的开源高性能处理器架构，其向量浮点单元旨在提供高效的数值计算能力。文档详细描述了VFPU的架构设计、指令集、流水线结构和性能特点。该设计支持标准的向量浮点操作，并针对特定应用场景进行了优化，如科学计算、人工智能和大数据处理。香山VFPU的设计充分体现了中国在处理器设计领域的技术进步，为国内高性能计算产业提供了自主可控的技术基础。对于处理器架构师、高性能计算研究者和芯片设计工程师来说，这一设计文档具有重要的参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
+            "content_html": "这份文档详细介绍了香山处理器架构中的向量浮点单元（VFPU）设计。香山是中国自主研发的高性能开源处理器架构，其 VFPU 支持多种浮点操作，旨在提升科学计算和人工智能应用的性能。文档详细描述了 VFPU 的架构特性、指令集设计以及优化策略，为处理器开发者提供了宝贵的技术参考。这一设计对于推动国产高性能处理器的发展具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
             "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
             "title": "香山向量浮点单元设计",
             "date_modified": "2025-10-04T22:02:28.000Z"
         },
         {
             "id": "https://salykova.github.io/matrix-cores-cdna",
-            "content_html": "这篇指南详细介绍了如何在AMD GPU上进行矩阵核心编程。作者详细解释了AMD GPU架构中的矩阵处理单元，包括其硬件特性、编程模型和优化技术。文章涵盖了如何利用这些矩阵核心加速各种计算密集型任务，如深度学习训练、科学计算和图形处理。提供了具体的代码示例和性能分析，帮助开发者充分利用AMD GPU的矩阵计算能力。对于想要优化其在AMD平台上矩阵计算性能的开发者和研究人员来说，这份指南提供了宝贵的知识和实用技巧，有助于提高应用程序的计算效率并充分利用现代GPU的并行处理能力。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了在 AMD GPU 上进行矩阵核编程的技术和方法。作者详细分析了 AMD GPU 架构的特点，特别是针对矩阵运算的优化策略。文章介绍了如何利用 AMD GPU 的并行计算能力高效地实现矩阵乘法等线性代数运算，这对于科学计算和机器学习应用至关重要。提供的代码示例和性能优化技巧可以帮助开发者充分利用 AMD GPU 的计算潜力。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
             "url": "https://salykova.github.io/matrix-cores-cdna",
-            "title": "AMD GPU上的矩阵核心编程",
+            "title": "AMD GPU 上的矩阵核编程",
             "date_modified": "2025-10-04T21:22:11.000Z"
         },
         {
             "id": "https://sunboxlabs.com/",
-            "content_html": "Sunboxlabs网站提供了一个价值912美元的能源独立方案，强调无需繁琐的政府许可和文书工作即可实现。该方案整合了太阳能发电、储能和能源管理系统，设计为家庭和小型企业的即插即用解决方案。公司采用创新的商业模式，简化了传统太阳能安装的复杂流程，大大降低了用户的进入门槛。这个方案不仅具有经济性，还强调环保可持续性，帮助用户减少对电网的依赖并降低碳足迹。通过模块化设计和自动化安装流程，Sunboxlabs使清洁能源变得更加普及，为能源转型提供了实用且经济可行的途径。 [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
+            "content_html": "SunBox Labs 提供了一种创新的能源解决方案，声称用户只需 912 美元就能实现能源独立，无需复杂的官僚程序。该公司专注于太阳能技术，提供易于安装和维护的系统，适合家庭和小型企业使用。其产品强调可持续性和成本效益，旨在减少对传统能源的依赖，同时降低用户的能源开支。这种解决方案代表了向分布式能源系统转变的重要趋势。 [<a href=\"https://news.ycombinator.com/item?id=45476820\" target=\"_blank\">评论</a>]",
             "url": "https://sunboxlabs.com/",
-            "title": "无需繁琐手续的912美元能源独立方案",
+            "title": "912美元无官僚主义的能源独立",
             "date_modified": "2025-10-04T21:22:05.000Z"
         },
         {
-            "id": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-            "content_html": "电子前哨基金会（EFF）的文章指出，英国政府仍在试图为苹果设备设置加密后门，引发了隐私和安全专家的担忧。报道详细分析了英国安全法案中的相关条款，这些条款要求科技公司在特定情况下提供加密数据的能力。EFF认为，这样的后门会破坏整个加密系统的安全性，创造可以被滥用的漏洞，使所有用户面临风险。文章强调了端到端加密对于保护通信隐私的重要性，并警告政府干预可能产生的广泛负面影响。这一争议凸显了国家安全与个人隐私保护之间的持续紧张关系，以及技术政策制定中的复杂平衡。 [<a href=\"https://news.ycombinator.com/item?id=45476273\" target=\"_blank\">评论</a>]",
-            "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-            "title": "英国仍试图为苹果用户设置加密后门",
-            "date_modified": "2025-10-04T20:07:11.000Z"
-        },
-        {
             "id": "https://blogfeeds.net",
-            "content_html": "Blogfeeds.net是一个博客内容聚合平台，旨在为读者提供便捷的博客订阅和发现服务。网站汇集了各类技术、设计、生活和学术博客的内容，允许用户通过RSS订阅感兴趣的博客，或发现新的优质内容。平台提供个性化推荐和内容分类，帮助用户高效获取有价值的信息。对于博客作者来说，这个平台增加了他们的曝光度和读者群体。Blogfeeds.net界面简洁，加载速度快，支持多设备访问，成为博客爱好者和内容创作者交流的重要渠道，体现了互联网开放、共享的社区精神。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
+            "content_html": "BlogFeeds.net 是一个博客聚合平台，汇集了来自世界各地的优质博客内容。用户可以通过该平台发现和订阅各种主题的博客，包括技术、科学、文化、生活等。网站提供了简洁的界面和强大的搜索功能，帮助用户快速找到感兴趣的内容。对于想要拓展阅读范围或跟踪特定领域最新发展的读者来说，这是一个有价值的资源。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
             "url": "https://blogfeeds.net",
             "title": "博客订阅源",
             "date_modified": "2025-10-04T19:08:46.000Z"
         },
         {
             "id": "https://github.com/DebarghaG/proofofthought",
-            "content_html": "ProofOfThought是一个开源项目，结合了大语言模型（LLM）和Z3定理证明器，以提高AI系统的推理能力。该项目允许LLM通过形式化验证技术生成更可靠和逻辑一致的答案。使用Z3定理证明器，系统能够验证LLM输出结果的逻辑正确性，减少幻觉和错误推理的发生。这对于需要高度准确性的应用场景具有重要意义，如数学证明、代码验证和复杂决策系统。项目提供了详细的文档、示例代码和预训练模型，使研究者能够将这一技术集成到自己的AI系统中。ProofOfThought代表了将符号推理与神经网络相结合的前沿研究方向，为构建更可靠、更准确的AI系统提供了新思路。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
+            "content_html": "ProofOfThought 是一个结合大语言模型（LLM）和 Z3 定理证明器的推理框架。该项目利用 LLM 的自然语言处理能力与 Z3 的形式化验证能力，增强了复杂问题的推理和解决能力。这种组合方法可以应用于数学证明、程序验证和逻辑推理等领域，为解决需要严格验证的问题提供了新思路。对于研究 AI 推理和形式化方法的开发者来说，这是一个有价值的项目。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/DebarghaG/proofofthought",
-            "title": "ProofOfThought：使用Z3定理证明的LLM推理",
+            "title": "ProofOfThought：基于 Z3 定理证明的 LLM 推理",
             "date_modified": "2025-10-04T18:34:23.000Z"
         },
         {
             "id": "https://github.com/Esubaalew/run",
-            "content_html": "Run是一个命令行界面的通用代码运行器，由开发者Esubaalew在学习Rust语言过程中创建。该工具支持多种编程语言，允许用户通过简单的命令在终端中直接运行不同语言的代码片段，无需分别配置各种编译器或解释器。项目展示了如何利用Rust的系统级性能和跨平台能力构建实用工具。开发者详细记录了从构思到实现的过程，包括遇到的技术挑战和解决方案。对于Rust初学者来说，这是一个学习如何构建实际应用程序的优秀案例。Run工具不仅提高了开发效率，还促进了不同编程语言之间的协作，为开发者提供了一个轻量级但功能强大的代码执行环境。 [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
+            "content_html": "Run 是一个用 Rust 编写的命令行通用代码运行器，允许开发者在不同编程语言中快速执行代码片段。该项目旨在简化开发和测试过程，支持多种编程语言和自定义环境配置。作者分享了构建过程中的技术挑战和解决方案，为其他 Rust 学习者提供了有价值的参考。这个工具对于需要快速测试代码片段或跨语言工作的开发者特别有用。 [<a href=\"https://news.ycombinator.com/item?id=45475528\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/Esubaalew/run",
-            "title": "展示HN：运行 - 我在学习Rust时构建的CLI通用代码运行器",
+            "title": "展示 HN：Run - 我在学习 Rust 时构建的 CLI 通用代码运行器",
             "date_modified": "2025-10-04T18:34:13.000Z"
         },
         {
             "id": "https://arxiv.org/abs/2509.19371",
-            "content_html": "这篇研究论文探讨了大型语言模型（LLM）知识注入的效率和扩展规律。作者分析了不同知识注入方法的效果和成本，研究了模型规模、训练策略与知识获取效率之间的关系。论文提出了“知识注入扩展定律“，量化了随着模型规模增大，知识注入效率的变化趋势。研究结果表明，并非所有知识都能以相同的效率被注入模型，某些类型知识的注入成本与模型规模存在特定的幂律关系。这项工作对优化LLM训练过程、降低计算成本具有重要意义，同时也为如何更有效地设计和实施知识注入策略提供了理论依据。对于LLM研究者和实践者来说，这些发现有助于提高模型性能并减少资源消耗。 [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇论文探讨了大型语言模型（LLM）中高效知识注入的方法和规模定律。研究人员分析了不同知识注入技术的效果，包括参数微调、检索增强和持续学习等方法。文章提出了知识注入的扩展定律，量化了模型大小、知识量和性能之间的关系。这项研究对于优化 LLM 的知识整合能力、减少幻觉并提高准确性具有重要指导意义，为 AI 系统的知识管理提供了理论框架。 [<a href=\"https://news.ycombinator.com/item?id=45474900\" target=\"_blank\">评论</a>]",
             "url": "https://arxiv.org/abs/2509.19371",
-            "title": "如何高效注入知识？LLM的知识注入扩展定律",
+            "title": "如何高效注入知识？LLM 的知识注入扩展定律",
             "date_modified": "2025-10-04T17:18:07.000Z"
         },
         {
             "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "content_html": "这个GitHub项目通过解决“代码冒险“（Advent of Code）编程挑战，详细对比了Ada和Rust两种系统编程语言的特点和差异。作者用两种语言分别解决了相同的问题，从语法特性、类型系统、内存管理和并发支持等方面进行了深入比较。项目不仅展示了两种语言在解决实际问题时的表现差异，还包括性能分析、代码可读性和开发效率的评估。对于系统程序员、语言爱好者和面临技术选型的开发者来说，这个对比提供了实用的参考信息。通过实际代码案例，项目生动地展示了Ada的强类型安全性和Rust的内存安全模型如何在实践中发挥作用，以及它们各自的优缺点。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章通过解决“圣诞节编程挑战赛“（Advent of Code）问题的案例，详细比较了 Ada 和 Rust 两种编程语言。作者分析了两种语言在语法、类型系统、并发控制和错误处理等方面的差异，以及它们在解决实际问题时的表现差异。这种基于实际编程挑战的比较为开发者选择合适的编程语言提供了有价值的参考，特别适合需要在高性能和安全性之间平衡的项目。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-            "title": "通过解决代码冒险挑战对比Ada和Rust语言",
+            "title": "使用圣诞节编程挑战赛解决方案比较 Ada 和 Rust",
             "date_modified": "2025-10-04T15:10:49.000Z"
         },
         {
-            "id": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "content_html": "这篇文章分享了作者作为高级软件工程师在科技公司内部政治中产生影响的经验和方法。作者探讨了非正式领导力、沟通策略和关系网络建设的重要性，以及如何在技术决策之外参与组织治理。文章提供了实用的建议，包括如何识别关键利益相关者、构建信任关系、有效传达技术建议，以及将技术影响力转化为组织变革。作者强调，高级工程师不仅要关注技术卓越，还需要发展政治智慧和组织敏感性，才能在复杂的公司环境中有效推动变革。对于希望在职业生涯中从单纯的技术贡献者转变为组织影响者的工程师来说，这篇文章提供了宝贵的见解和指导。 [<a href=\"https://news.ycombinator.com/item?id=45473852\" target=\"_blank\">评论</a>]",
-            "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-            "title": "我如何作为高级软件工程师影响科技公司政治",
-            "date_modified": "2025-10-04T15:09:41.000Z"
-        },
-        {
             "id": "https://maxadamski.com/blog/2025/10/email.html",
-            "content_html": "这篇博客文章探讨了如何以复古的方式自托管电子邮件系统，模拟1984年的技术环境和功能限制。作者详细描述了使用当时可用的硬件和软件搭建电子邮件服务器的过程，包括MTA（邮件传输代理）、MDA（邮件分发代理）和MUA（邮件用户代理）的配置。文章不仅关注技术实现，还回顾了早期电子邮件系统的工作原理、协议和用户体验。对于技术爱好者和历史研究者来说，这个项目提供了一种独特的视角，了解互联网早期通信技术如何发展。通过重新体验过去的技术环境，作者提醒我们思考数字通信的演变轨迹和技术发展对生活方式的影响，引发对技术进步和人性需求的思考。 [<a href=\"https://news.ycombinator.com/item?id=45473730\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了如何以复古的方式自托管电子邮件系统，模拟 1980 年代的电子邮件体验。作者详细介绍了使用现代技术重现老式电子邮件界面的方法，包括简单的文本界面和基础功能。这种做法既是对早期互联网文化的致敬，也是对现代复杂电子邮件系统的反思。文章提供了实现这一复古项目的技术指导，适合对互联网历史和技术复古感兴趣的读者。 [<a href=\"https://news.ycombinator.com/item?id=45473730\" target=\"_blank\">评论</a>]",
             "url": "https://maxadamski.com/blog/2025/10/email.html",
-            "title": "像1984年一样自托管电子邮件",
+            "title": "像 1984 年那样自托管电子邮件",
             "date_modified": "2025-10-04T14:53:32.000Z"
         },
         {
             "id": "https://www.folklore.org/Thunderscan.html",
-            "content_html": "这篇文章讲述了Thunderscan的故事，这是一个2004年发明的创新外设，能够将普通的打印机转变为扫描仪。由苹果公司的工程师创建，这个设备通过巧妙的光学设计，利用打印机的机械扫描功能实现了反向操作，使其能够扫描文档。故事不仅展示了工程师们如何在资源有限的情况下创新解决问题，还反映了早期个人计算时代的DIY精神和创造力。Thunderscan是苹果早期企业文化的一个缩影，体现了工程师如何通过团队协作和突破性思维开发独特的产品。这个设备虽然在商业上没有取得巨大成功，但它代表了一种创新精神和解决问题的独特视角，成为苹果历史和计算机发展史上的有趣片段。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章讲述了 Thunderscan 设备的创新故事，这是一个 2004 年发明的巧妙设备，可以将普通打印机转变为扫描仪。通过利用打印机的机械运动和图像传感器，Thunderscan 能够捕获文档的数字图像。这一发明展示了如何在有限资源下创造性地解决问题，体现了苹果公司创新文化的精神。文章分享了这一设备的开发历程和市场反响，是科技史上一个有趣的创新案例。 [<a href=\"https://news.ycombinator.com/item?id=45472765\" target=\"_blank\">评论</a>]",
             "url": "https://www.folklore.org/Thunderscan.html",
-            "title": "雷电扫描仪：一个巧妙的设备将打印机变为扫描仪（2004年）",
+            "title": "Thunderscan：一个巧妙设备将打印机变成扫描仪（2004）",
             "date_modified": "2025-10-04T12:16:37.000Z"
         },
         {
             "id": "https://www.buchstabenmuseum.de/en/",
-            "content_html": "柏林字母博物馆（Buchstabenmuseum）是德国一家独特的博物馆，专门收藏和保护从废弃建筑物上拆除的字母标志和标牌。该博物馆宣布即将关闭，引起了设计界和历史保护爱好者的关注。博物馆收藏了大量历史字母设计，从经典的霓虹灯标志到现代字体设计，记录了城市视觉语言的发展演变。这些字母不仅是设计作品，也是城市历史和文化记忆的载体。博物馆的关闭意味着一个重要的文化资源的消失，引发了对城市遗产保护和数字时代物理空间价值的思考。尽管面临关闭，博物馆的部分收藏可能被其他机构接收，但这一事件提醒人们重视和保护那些容易被忽视但承载丰富历史文化信息的城市符号。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
+            "content_html": "柏林字母博物馆（Buchstabenmuseum）宣布将关闭，结束了其展示和保存标志性字母标识的历史。该博物馆收藏了来自德国各地的霓虹灯字母和招牌，这些是城市视觉文化的重要组成部分。博物馆的关闭代表着一段独特文化遗产的消失，但也引发了关于城市遗产保护和数字化保存的新讨论。这一事件提醒人们关注城市标志性元素的保存价值，以及如何在城市发展过程中保护这些文化符号。 [<a href=\"https://news.ycombinator.com/item?id=45472678\" target=\"_blank\">评论</a>]",
             "url": "https://www.buchstabenmuseum.de/en/",
             "title": "柏林字母博物馆即将关闭",
             "date_modified": "2025-10-04T11:58:58.000Z"
