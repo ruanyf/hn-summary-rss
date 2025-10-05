@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://website.float-chat.com/",
-            "content_html": "Float是一个创新的聊天平台，将Slack的团队协作功能与Claude Imagine的动态特性相结合。该平台引入了动态收件箱的概念，能够智能地组织和管理信息，提高团队沟通效率。用户可以通过这个工具实现更加灵活的信息流转和任务管理，尤其适合需要处理大量信息的团队环境。 [<a href=\"https://news.ycombinator.com/item?id=45480813\" target=\"_blank\">评论</a>]",
-            "url": "https://website.float-chat.com/",
-            "title": "展示HN：Float - 如果Slack像Claude Imagine那样工作会怎样？（动态收件箱）",
-            "date_modified": "2025-10-05T11:47:00.000Z"
+            "id": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "content_html": "这个项目展示了在ARM架构上使用SIMD指令集实现高速位打包的技术。作者通过优化的单线程实现达到了86 GB/s的惊人处理速度。位打包是一种数据压缩技术，能够将多个布尔值或小整数高效地打包到单个机器字中，从而节省内存并提高数据处理效率。该项目展示了如何充分利用ARM NEON指令集的能力，通过流水线、循环展开和SIMD并行计算等技术实现高性能。对于需要处理大量二元数据或小整数的应用场景，这种技术特别有价值，如数据库索引、位图操作和某些机器学习算法。 [<a href=\"https://news.ycombinator.com/item?id=45481008\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "title": "使用ARM SIMD实现86 GB/s的位打包（单线程）",
+            "date_modified": "2025-10-05T12:27:11.000Z"
         },
         {
-            "id": "https://www.youtube.com/watch?v=vGAqYNFQdZ4",
-            "content_html": "这个视频可能是一部教育性质的影片，教导观众如何识别和防范各种欺诈手段。内容可能涵盖了金融诈骗、市场营销陷阱、心理操纵等方面的知识，旨在提高人们的辨别能力和自我保护意识。视频可能通过案例分析、专家解读等方式，帮助观众了解现代社会中常见的骗局及其应对策略。 [<a href=\"https://news.ycombinator.com/item?id=45480776\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=vGAqYNFQdZ4",
-            "title": "不要上当受骗 [视频]",
-            "date_modified": "2025-10-05T11:39:59.000Z"
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=45480764",
-            "content_html": "这是Hacker News上的一则提问，探讨在处理复杂功能和大型代码库时如何实施智能编码工作流。提问者可能关心如何利用AI和自动化工具提高编码效率和质量，特别是在面对庞大代码库时的最佳实践。讨论可能涉及代码生成、自动测试、智能重构等技术，以及如何平衡自动化与人工干预的关系。 [<a href=\"https://news.ycombinator.com/item?id=45480764\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45480764",
-            "title": "询问HN：针对复杂功能和大型代码库的智能编码工作流？",
-            "date_modified": "2025-10-05T11:38:00.000Z"
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=45480760",
-            "content_html": "这个平台可能是专为韩语学习设计的视频聊天应用，连接想要练习韩语的学习者和母语者。平台可能提供一对一或小组视频聊天功能，让学习者能够在真实对话场景中提高语言能力。此外，平台可能还包含语言学习辅助工具，如实时翻译、发音纠正、文化背景介绍等，帮助用户全方位提升韩语水平。 [<a href=\"https://news.ycombinator.com/item?id=45480760\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45480760",
-            "title": "韩语学习视频聊天平台",
-            "date_modified": "2025-10-05T11:37:13.000Z"
-        },
-        {
-            "id": "https://blog.viraptor.info/dramatic-svg/index.html",
-            "content_html": "这是一个创意项目，将普通的SVG图形转化为具有戏剧性效果的可视化作品。该项目可能通过添加动画效果、戏剧性的颜色变化、夸张的变形等方式，使静态的SVG图形变得生动有趣。开发者可能提供了一系列预设效果或工具，让用户能够轻松地为他们的SVG作品添加戏剧性元素，提升视觉冲击力。 [<a href=\"https://news.ycombinator.com/item?id=45480759\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.viraptor.info/dramatic-svg/index.html",
-            "title": "展示HN：SVG但戏剧化",
-            "date_modified": "2025-10-05T11:37:06.000Z"
-        },
-        {
-            "id": "https://www.dw.com/en/how-the-german-government-is-going-all-in-on-ai/a-74214400",
-            "content_html": "文章介绍了德国政府在人工智能领域的全面投入和战略规划。德国可能正在制定国家AI战略，增加研发资金，推动AI技术在工业、医疗、交通等领域的应用。文章还可能讨论了德国如何在保持其制造业优势的同时，迎接AI带来的挑战和机遇，以及如何平衡创新与监管的关系。 [<a href=\"https://news.ycombinator.com/item?id=45480746\" target=\"_blank\">评论</a>]",
-            "url": "https://www.dw.com/en/how-the-german-government-is-going-all-in-on-ai/a-74214400",
-            "title": "德国政府如何全力投入人工智能",
-            "date_modified": "2025-10-05T11:33:51.000Z"
-        },
-        {
-            "id": "https://github.com/bit-team/backintime/releases/tag/v1.5.6",
-            "content_html": "Back in Time 1.5.6是一款开源的备份工具的最新版本发布。该工具允许用户创建定期备份，保护重要数据免受丢失。此版本可能包含错误修复、性能改进、新功能或界面优化。用户可以通过GitHub获取更新，了解详细的功能变更和安装指南，确保他们的数据备份系统保持最新和高效。 [<a href=\"https://news.ycombinator.com/item?id=45480733\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/bit-team/backintime/releases/tag/v1.5.6",
-            "title": "发布 - Back in Time 1.5.6",
-            "date_modified": "2025-10-05T11:31:39.000Z"
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Bush_Mechanics",
-            "content_html": "Bush Mechanics可能是一部电视节目或书籍，展示澳大利亚原住民如何在资源有限的条件下维修和维护车辆。内容可能聚焦于这些社区使用简单工具和创造性解决方案来应对偏远地区交通挑战的技巧和智慧。这个项目可能强调了传统知识与实用技能的结合，以及在不同环境下的适应能力。 [<a href=\"https://news.ycombinator.com/item?id=45480717\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Bush_Mechanics",
-            "title": "丛林 mechanics",
-            "date_modified": "2025-10-05T11:28:44.000Z"
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Saint_Guinefort",
-            "content_html": "圣吉内福可能是一位中世纪被尊为圣人的狗，这在基督教历史上是罕见的。文章可能讲述了关于这只狗的传说、它被尊为圣人的原因，以及围绕它的崇拜历史。这个历史现象可能反映了中世纪人们对动物的特殊情感，以及宗教信仰如何融入民间文化的有趣案例。 [<a href=\"https://news.ycombinator.com/item?id=45480710\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Saint_Guinefort",
-            "title": "圣吉内福",
-            "date_modified": "2025-10-05T11:27:48.000Z"
-        },
-        {
-            "id": "https://apolloinrealtime.org/",
-            "content_html": "这是一个交互式网站，让用户能够以实时体验的方式重历阿波罗太空任务。用户可以跟随任务的时间线，查看原始音频、视频、图片和文档，仿佛亲身参与这些历史性的太空探索。这个项目旨在教育公众关于太空探索的历史，展示阿波罗任务的技术成就和人类勇气。 [<a href=\"https://news.ycombinator.com/item?id=45480698\" target=\"_blank\">评论</a>]",
-            "url": "https://apolloinrealtime.org/",
-            "title": "阿波罗任务的实时之旅",
-            "date_modified": "2025-10-05T11:26:01.000Z"
-        },
-        {
-            "id": "https://calmatters.org/politics/2025/09/redistricting-modoc-marin/",
-            "content_html": "文章探讨了加利福尼亚州农村地区可能脱离该州的分离主义运动。可能的原因包括政治分歧、资源分配不均、经济差异以及与州政府政策的冲突。报道可能分析了这一运动的背景、支持者的论点、可能的后果以及对加州政治格局的潜在影响。 [<a href=\"https://news.ycombinator.com/item?id=45480663\" target=\"_blank\">评论</a>]",
-            "url": "https://calmatters.org/politics/2025/09/redistricting-modoc-marin/",
-            "title": "加利福尼亚州农村居民希望脱离",
-            "date_modified": "2025-10-05T11:19:26.000Z"
-        },
-        {
-            "id": "https://blog.pragmaticdx.com/p/building-developer-first-apis",
-            "content_html": "这篇文章讨论了如何从开发者的角度设计和构建API。内容可能包括API设计的最佳实践、文档编写技巧、开发者体验优化、错误处理方法以及测试策略。作者可能强调了以开发者为中心的API设计如何提高采用率、减少支持成本，并促进更广泛的技术整合。 [<a href=\"https://news.ycombinator.com/item?id=45480661\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.pragmaticdx.com/p/building-developer-first-apis",
-            "title": "构建开发者优先的API",
-            "date_modified": "2025-10-05T11:19:22.000Z"
-        },
-        {
-            "id": "https://www.makeuseof.com/real-reason-keyboard-has-f1-through-f12/",
-            "content_html": "这篇文章解释了计算机键盘上F1到F12功能键的历史由来和用途。可能涵盖了这些键在早期计算机系统中的原始功能、如何随着操作系统的发展而演变，以及它们在现代软件和游戏中的各种应用。读者可能会了解到这些看似简单的按键背后蕴含的技术历史和设计理念。 [<a href=\"https://news.ycombinator.com/item?id=45480654\" target=\"_blank\">评论</a>]",
-            "url": "https://www.makeuseof.com/real-reason-keyboard-has-f1-through-f12/",
-            "title": "你的键盘有F1到F12键的原因",
-            "date_modified": "2025-10-05T11:18:28.000Z"
-        },
-        {
-            "id": "https://www.theguardian.com/us-news/2025/oct/04/trump-gaza-peace-deal",
-            "content_html": "报道了美国特使前往加沙地区进行停火谈判的最新进展。特朗普总统表示各方已接近达成停火协议，这可能标志着持续已久的冲突有望得到缓解。文章可能分析了当前谈判的各方立场、可能的协议内容以及地区局势的最新发展，以及美国在该和平进程中的角色和策略。 [<a href=\"https://news.ycombinator.com/item?id=45480646\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/us-news/2025/oct/04/trump-gaza-peace-deal",
-            "title": "美国特使前往加沙停火谈判，特朗普称『我们接近』达成协议",
-            "date_modified": "2025-10-05T11:16:55.000Z"
-        },
-        {
-            "id": "https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html",
-            "content_html": "这是一个关于WebGPU技术的教程网站，WebGPU是新一代网页图形API，旨在提供更强大的GPU计算能力。网站可能包含从基础概念到高级应用的全面教程，帮助开发者了解如何使用WebGPU在浏览器中创建高性能的3D图形和计算应用。内容可能涵盖API架构、着色器编程、性能优化等方面。 [<a href=\"https://news.ycombinator.com/item?id=45480640\" target=\"_blank\">评论</a>]",
-            "url": "https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html",
-            "title": "WebGPU基础",
-            "date_modified": "2025-10-05T11:14:39.000Z"
-        },
-        {
-            "id": "https://github.com/Kuberwastaken/sweeta",
-            "content_html": "开发者Kuberwastaken在不到72小时内创建并发布了一个名为Sweeta的开源工具，用于移除Sora 2视频生成平台的水印。这个项目展示了开源社区对新兴技术快速响应的能力。工具可能提供了简单易用的界面，让用户能够轻松地去除AI生成视频中的水印，同时尊重创作者的权利和平台的使用条款。 [<a href=\"https://news.ycombinator.com/item?id=45480634\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/Kuberwastaken/sweeta",
-            "title": "展示HN：我用不到72小时制作并发布了一个开源工具来移除Sora 2水印",
-            "date_modified": "2025-10-05T11:13:00.000Z"
-        },
-        {
-            "id": "https://www.theargumentmag.com/p/you-have-18-months",
-            "content_html": "这篇文章探讨了人工智能发展与人类思维的关系，提出了一个发人深省的观点：真正的危机不在于AI变得比人类更聪明，而在于人类过度依赖AI而丧失独立思考能力。作者可能分析了当前社会中人们已经开始依赖AI进行决策、创作和思考的现象，并呼吁保持人类思维的自主性和批判性思考的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45480622\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theargumentmag.com/p/you-have-18-months",
-            "title": "截止日期不是当AI超越我们的时候——而是当我们停止使用自己的思维时",
-            "date_modified": "2025-10-05T11:08:25.000Z"
+            "id": "https://www.propublica.org/article/inside-doge-social-security-takeover-leland-dudek",
+            "content_html": "这篇深入报道揭示了'狗狗币'(DOGE)支持者如何对社会保障系统产生影响。文章详细描述了Leland Dudek等DOGE支持者如何进入社会保障管理局，试图改变其运作方式。这些改革派带来了商业思维和技术解决方案，旨在解决系统中的长期问题。报道探讨了他们面临的挑战、取得的进展以及引起的社会争议。文章提供了对政府机构如何应对非传统改革视角的罕见见解，揭示了社会保障这一庞大复杂系统在新型管理理念下的变革尝试和潜在影响。 [<a href=\"https://news.ycombinator.com/item?id=45480982\" target=\"_blank\">评论</a>]",
+            "url": "https://www.propublica.org/article/inside-doge-social-security-takeover-leland-dudek",
+            "title": "当DOGE风暴来袭：社会保障体系的内部变革",
+            "date_modified": "2025-10-05T12:22:10.000Z"
         },
         {
             "id": "https://zakelfassi.com/command-interface-device-power",
-            "content_html": "这篇文章分析了笔记本电脑和手机这两种不同设备如何塑造不同的技术关系和权力结构。笔记本电脑强调用户创造力和系统控制，而手机则更多关注数据收集和算法优化。作者可能探讨了这种不对称性如何影响个人自由、数据隐私和数字权力分配，以及在技术设计中如何平衡用户控制与平台需求。 [<a href=\"https://news.ycombinator.com/item?id=45480620\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了笔记本电脑和手机这两种设备对现代社会权力结构的不同影响。笔记本电脑被视为创造性和生产力的工具，允许用户构建系统、编写代码和创建内容，赋予用户一种'命令界面'的权力。相比之下，手机主要作为消费设备，更多地用于喂养算法，提供数据而让用户处于被动状态。这种不对称性导致权力从个人向算法和平台所有者转移。作者呼吁人们重新思考与科技的关系，强调恢复创造力和控制力的重要性，以及在日益算法化的世界中保持数字主权。 [<a href=\"https://news.ycombinator.com/item?id=45480620\" target=\"_blank\">评论</a>]",
             "url": "https://zakelfassi.com/command-interface-device-power",
-            "title": "笔记本电脑创建系统。手机喂养算法。不对称性决定权力",
+            "title": "笔记本电脑创建系统，手机喂养算法。这种不对称性决定了权力分配",
             "date_modified": "2025-10-05T11:07:53.000Z"
         },
         {
-            "id": "https://github.com/camdencheek/fre",
-            "content_html": "Fre是一个开源的命令行工具，用于跟踪文件和目录的访问频率，类似frecency（频率+新近度）的概念。这个工具可以帮助开发者更高效地组织工作流程，通过识别最常访问的文件来优化命令行使用体验。用户可以通过简单的命令来获取基于使用频率的建议，从而提高日常开发工作的效率。 [<a href=\"https://news.ycombinator.com/item?id=45480609\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/camdencheek/fre",
-            "title": "Fre - 命令行频率跟踪",
-            "date_modified": "2025-10-05T11:04:53.000Z"
+            "id": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "content_html": "这篇全面的指南为初学者提供了在Hetzner VPS上使用Coolify进行自托管的完整流程。文章从购买Hetzner VPS账户开始，详细介绍了服务器选择、系统配置、安全措施设置，包括防火墙配置、SSH密钥管理和基础安全检查。接着指导读者如何安装和配置Coolify，这是一个开源的PaaS平台，简化了应用程序的部署和管理过程。指南还涵盖了基本的维护任务、备份策略以及常见故障排除方法。这篇指南特别适合想要开始自托管服务但技术经验有限的用户，提供了一条清晰的学习路径。 [<a href=\"https://news.ycombinator.com/item?id=45480506\" target=\"_blank\">评论</a>]",
+            "url": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+            "title": "VPS初学者指南：Hetzner和Coolify入门指南",
+            "date_modified": "2025-10-05T10:39:12.000Z"
         },
         {
-            "id": "https://www.opensourceecology.org/",
-            "content_html": "Open Source Ecology是一个致力于开发和分享开源建筑机械和住房解决方案的项目。该项目旨在降低建设成本，提高自给自足能力，并通过开放设计促进可持续发展。他们的产品可能包括各种建筑施工设备、住房设计方案和资源，使个人和社区能够以更低成本和更环保的方式建造家园和基础设施。 [<a href=\"https://news.ycombinator.com/item?id=45480601\" target=\"_blank\">评论</a>]",
-            "url": "https://www.opensourceecology.org/",
-            "title": "开源住房和建筑机械",
-            "date_modified": "2025-10-05T11:01:27.000Z"
+            "id": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "content_html": "这篇文章详细介绍了如何在Framework笔记本电脑上配置自托管S3兼容存储，实现高达10TB的存储容量。作者选择了Framework笔记本因其模块化设计和可扩展性，结合外部存储设备构建了一个经济实惠的私有云存储解决方案。文章涵盖了硬件选择、软件配置、网络设置和优化策略，包括使用MinIO等开源软件实现S3兼容接口。作者还分享了性能优化技巧、数据冗余策略以及成本效益分析。这个项目展示了个人如何利用现代硬件构建功能强大的私有存储系统，挑战了传统云服务的垄断，为个人数据主权提供了技术路径。 [<a href=\"https://news.ycombinator.com/item?id=45480317\" target=\"_blank\">评论</a>]",
+            "url": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
+            "title": "在Framework笔记本电脑和硬盘上自托管10TB S3存储",
+            "date_modified": "2025-10-05T09:51:26.000Z"
+        },
+        {
+            "id": "https://blog.muni.town/personal-data-storage-idea/",
+            "content_html": "这篇文章主张个人数据存储的概念已经成熟，并探讨了其社会意义和技术可行性。作者认为，随着数据隐私意识的增强和对大科技公司数据收集实践的质疑，个人控制自己的数据将成为未来的主流趋势。文章介绍了个人数据存储的基本理念——将数据存储在个人控制的环境中，而非依赖第三方服务。它讨论了当前的技术实现方案，如个人服务器、边缘计算和分布式存储网络，以及这些解决方案面临的技术和社会挑战。作者认为，个人数据存储不仅是技术问题，也是数字权利和社会自主权的体现，代表着互联网回归其去中心化本质的潜在发展方向。 [<a href=\"https://news.ycombinator.com/item?id=45480106\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.muni.town/personal-data-storage-idea/",
+            "title": "个人数据存储的时代已经到来",
+            "date_modified": "2025-10-05T09:07:38.000Z"
+        },
+        {
+            "id": "https://www.spinellis.gr/blog/20250926/?li",
+            "content_html": "这篇文章作者详细阐述了在数字通信环境中偏爱电子邮件而非即时消息的理由。作者强调了电子邮件的几个关键优势：异步通信特性允许人们按照自己的节奏回复；开放标准确保了跨平台互操作性；可搜索性和持久性使信息易于归档和检索；无算法干扰确保通信内容的完整性和隐私。文章还比较了两种通信模式在正式性、信息组织方式、通知管理和工作流程集成方面的差异。作者认为，电子邮件虽然有其局限性，但其设计理念更符合人类自然沟通的需求，有助于保持数字沟通的清晰、效率和自主权，值得我们坚持使用和改进。 [<a href=\"https://news.ycombinator.com/item?id=45479820\" target=\"_blank\">评论</a>]",
+            "url": "https://www.spinellis.gr/blog/20250926/?li",
+            "title": "为什么我选择电子邮件而非即时消息",
+            "date_modified": "2025-10-05T08:12:24.000Z"
+        },
+        {
+            "id": "https://www.socialcooling.com/",
+            "content_html": "这个网站探讨了'社会冷却效应'的概念，即在高度监控和数字记录的社会中，人们由于担心自己的行为被永久记录和评判而自我限制表达和行为。这种效应类似于物理冷却，通过降低社会参与和言论自由的'温度'来影响社会动态。网站展示了各种案例，说明从社交媒体监控到政府数据收集如何导致人们回避某些话题、避免表达可能被视为有争议的观点，甚至改变自己的行为模式。社会冷却效应对民主社会、创新和社会多样性构成潜在威胁，因为它可能压制异议和挑战现状的能力。该资源旨在提高公众对这种微妙但深远的社会现象的认识，并鼓励思考如何在享受数字技术便利的同时保护个人自由。 [<a href=\"https://news.ycombinator.com/item?id=45479165\" target=\"_blank\">评论</a>]",
+            "url": "https://www.socialcooling.com/",
+            "title": "社会冷却效应（2017）",
+            "date_modified": "2025-10-05T06:01:24.000Z"
+        },
+        {
+            "id": "https://www.anthropic.com/news/context-management",
+            "content_html": "Anthropic发布了关于在Claude开发者平台上有效管理上下文的指南。随着AI模型能够处理的上下文长度不断增加，如何高效组织和利用这些上下文变得尤为重要。文章介绍了Claude平台提供的多种上下文管理工具和技术，包括文档分区、内容过滤、提示工程和元数据处理等方法。作者强调，良好的上下文管理可以提高AI响应的相关性和准确性，同时降低计算成本和响应时间。指南提供了实际案例和最佳实践，帮助开发者构建更高效、更具可扩展性的AI应用。随着AI模型在复杂任务中的应用日益广泛，这些上下文管理技术对于开发生产级AI系统变得越来越关键。 [<a href=\"https://news.ycombinator.com/item?id=45479006\" target=\"_blank\">评论</a>]",
+            "url": "https://www.anthropic.com/news/context-management",
+            "title": "在Claude开发者平台上管理上下文",
+            "date_modified": "2025-10-05T05:20:08.000Z"
+        },
+        {
+            "id": "https://ambigr.am/hall-of-fame",
+            "content_html": "Ambigr.am是一个展示歧义创意项目的平台，其'名人堂'页面汇集了最具代表性的模糊或多义性创意作品。这个平台专注于探索那些故意设计为具有多重解读可能性的数字艺术、设计和创意项目。通过展示这些作品，Ambigr.am探讨了含义的多维性和解释的开放性，挑战了传统设计追求明确性的理念。平台上的项目涵盖了各种形式，从视觉设计到交互体验，每个作品都邀请观众参与意义的创造过程，而不是被动接受预设的含义。这种探索不仅具有重要的艺术和设计价值，也为思考数字时代中沟通、理解和表达的本质提供了独特视角。 [<a href=\"https://news.ycombinator.com/item?id=45478780\" target=\"_blank\">评论</a>]",
+            "url": "https://ambigr.am/hall-of-fame",
+            "title": "Ambigr.am",
+            "date_modified": "2025-10-05T04:11:55.000Z"
+        },
+        {
+            "id": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "content_html": "这篇披露文章详细介绍了1Password命令行界面(CLI)中存在的一个安全漏洞。漏洞影响1Password CLI的认证机制，可能导致未经授权的访问或数据泄露。文章提供了漏洞的技术细节、复现步骤和潜在影响评估。作者强调了及时修复的重要性，并与开发团队沟通了这一问题。披露内容包括漏洞的根本原因、影响范围以及可能的缓解措施。这个案例突显了即使是最受信任的工具也可能存在安全风险，强调了安全审计和负责任漏洞披露的必要性。文章还讨论了如何在保护用户隐私和提高工具可用性之间取得平衡，这对于密码管理工具尤为重要。 [<a href=\"https://news.ycombinator.com/item?id=45478553\" target=\"_blank\">评论</a>]",
+            "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+            "title": "1Password CLI漏洞披露",
+            "date_modified": "2025-10-05T03:01:50.000Z"
+        },
+        {
+            "id": "https://github.com/daniellionel01/parrot",
+            "content_html": "Parrot是一个在Gleam语言中实现的类型安全SQL查询库。Gleam是一种编译成Erlang BEAM语言的类型安全函数式编程语言。Parrot通过在编译时验证SQL查询的类型安全性，帮助开发者在运行前避免常见的数据库查询错误。该库支持多种主流数据库后端，包括SQLite、PostgreSQL和MySQL，提供了统一的API接口。开发者可以使用Gleam的类型系统确保查询与数据库模式匹配，减少运行时错误。这个项目特别适合需要构建健壮数据库应用的开发者，尤其是那些重视类型安全和开发效率的团队。Parrot还展示了如何在函数式编程范式中处理数据库操作，为Gleam生态系统增添了重要的基础设施组件。 [<a href=\"https://news.ycombinator.com/item?id=45478033\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/daniellionel01/parrot",
+            "title": "Parrot - 在Gleam中的类型安全SQL实现，支持SQLite、PostgreSQL和MySQL",
+            "date_modified": "2025-10-05T00:51:44.000Z"
+        },
+        {
+            "id": "https://richardsapperdesign.com/products/mod-5140/",
+            "content_html": "这个页面展示了IBM的第一台笔记本电脑Mod. 5140的历史和技术规格。作为笔记本电脑发展史上的重要里程碑，Mod. 5140代表了IBM在便携计算领域的早期尝试。这款设备发布于20世纪80年代末，采用了当时先进的技术，包括彩色显示、内置调制解调器和可拆卸设计。页面详细介绍了其设计理念、技术规格、市场定位和历史意义。Richard Sapper作为著名工业设计师，参与了这款产品的设计工作，体现了IBM对工业设计的重视。这个产品不仅是技术进步的象征，也反映了早期便携计算机面临的挑战和权衡，为现代笔记本电脑的发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45477971\" target=\"_blank\">评论</a>]",
+            "url": "https://richardsapperdesign.com/products/mod-5140/",
+            "title": "Mod. 5140 - IBM的第一台笔记本电脑",
+            "date_modified": "2025-10-05T00:35:10.000Z"
+        },
+        {
+            "id": "https://arxiv.org/abs/2509.12351",
+            "content_html": "这篇学术论文详细分析了针对小行星2024 YR4的各种可能任务方案，该小行星被评估为具有潜在地球撞击风险。文章从科学探测和技术实现两个维度，系统评估了包括近地小行星轨道修正任务、表面采样返回、引力牵引器等多种技术方案。每种方案都分析了其技术可行性、时间窗口、成本效益和潜在风险。研究特别关注了如何平衡科学价值与行星防御目标，确保在必要情况下能够有效降低撞击风险。论文提供了基于当前航天技术能力的任务概念设计，并提出了分阶段实施的可行性路线图。这项研究对于全球空间机构制定小行星监测和防御策略具有重要参考价值。 [<a href=\"https://news.ycombinator.com/item?id=45477742\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.12351",
+            "title": "小行星2024 YR4的侦察和任务选择方案",
+            "date_modified": "2025-10-04T23:42:55.000Z"
+        },
+        {
+            "id": "https://blog.cr.yp.to/20251004-weakened.html",
+            "content_html": "这篇文章探讨了美国国家安全局(NSA)可能对互联网密码学标准产生影响的争议。作者质疑是否存在通过IETF(互联网工程任务组)渠道削弱密码学标准的风险，以及这种削弱是否可能被恶意行为者利用。文章分析了历史上密码学标准的制定过程，特别关注了NSA曾参与的一些争议性标准。作者提出了一个重要问题：密码学标准是否应该完全避免政府机构参与，以防止潜在的利益冲突？文章还讨论了密码学标准化的透明度、审查过程以及平衡国家安全与技术安全之间的挑战。这篇分析引发了关于密码学治理结构、利益冲突管理以及技术决策民主化的重要思考。 [<a href=\"https://news.ycombinator.com/item?id=45477206\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.cr.yp.to/20251004-weakened.html",
+            "title": "NSA和IETF：攻击者能否购买被削弱密码学的标准化？",
+            "date_modified": "2025-10-04T22:16:33.000Z"
+        },
+        {
+            "id": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+            "content_html": "这份文档详细介绍了香山处理器架构中的向量浮点单元(VFPU)设计。香山是中国自主研发的高性能开源RISC-V处理器架构。VFPU是香山架构的重要组成部分，负责高效的向量浮点运算。文档详细描述了VFPU的微架构设计、指令集扩展、流水线实现以及性能优化策略。设计采用了现代处理器技术，包括超标量执行、乱序执行和多层次缓存架构，以提供卓越的浮点计算性能。文档还介绍了VFPU在科学计算、人工智能和图形处理等领域的应用场景。这个项目展示了国内在高端处理器设计领域的进展，对于推动处理器技术自主创新和构建完整的计算生态系统具有重要意义。 [<a href=\"https://news.ycombinator.com/item?id=45477118\" target=\"_blank\">评论</a>]",
+            "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+            "title": "香山向量浮点单元设计",
+            "date_modified": "2025-10-04T22:02:28.000Z"
+        },
+        {
+            "id": "https://salykova.github.io/matrix-cores-cdna",
+            "content_html": "这篇文章探讨了AMD GPU上矩阵核心编程的技术方法和最佳实践。随着AI和机器学习工作负载的增长，矩阵运算成为GPU计算的关键部分。作者详细介绍了AMD GPU架构中专门用于矩阵运算的硬件单元，以及如何充分利用这些单元优化性能。文章涵盖了矩阵运算的并行策略、内存访问优化、指令选择和任务调度等关键技术。作者提供了具体的代码示例和性能分析，展示了如何针对AMD GPU特性进行深度优化。对于AI框架开发者和高性能计算应用开发者而言，这些技术可以显著提升矩阵运算效率，加速机器学习模型的训练和推理过程。这篇文章是深入理解GPU底层计算架构和优化技术的宝贵资源。 [<a href=\"https://news.ycombinator.com/item?id=45476821\" target=\"_blank\">评论</a>]",
+            "url": "https://salykova.github.io/matrix-cores-cdna",
+            "title": "AMD GPU上的矩阵核心编程",
+            "date_modified": "2025-10-04T21:22:11.000Z"
+        },
+        {
+            "id": "https://blogfeeds.net",
+            "content_html": "Blog Feeds是一个聚合博客内容的平台，旨在帮助读者发现和跟踪感兴趣的博客文章。该平台汇集了来自各种主题的博客内容，包括技术、设计、科学、文化等多个领域。用户可以通过分类、标签或搜索功能找到感兴趣的博客，也可以创建个性化订阅列表，定期接收最新内容更新。Blog Feeds特别强调内容的多样性和高质量，其编辑团队会精选和推荐有价值的博客资源。对于希望发现新博客、节省阅读时间或保持对特定领域了解的读者来说，这个平台提供了便捷的解决方案。它既是对博客生态系统的重要补充，也是连接内容创作者和读者的桥梁。 [<a href=\"https://news.ycombinator.com/item?id=45475808\" target=\"_blank\">评论</a>]",
+            "url": "https://blogfeeds.net",
+            "title": "博客订阅源",
+            "date_modified": "2025-10-04T19:08:46.000Z"
+        },
+        {
+            "id": "https://github.com/DebarghaG/proofofthought",
+            "content_html": "ProofOfThought是一个结合大型语言模型(LLM)和Z3定理证明器的创新项目。该系统利用LLM的自然语言理解和生成能力，将问题转化为形式化逻辑表示，然后使用Z3定理证明器进行精确推理。这种方法结合了LLM的创造性思维和Z3的形式化验证能力，使AI系统能够在保持一定灵活性的同时提供数学上可靠的结论。项目提供了将自然语言问题转换为SMT语言的框架，展示了如何利用LLM进行符号数学推理的探索。这一方法有潜力应用于形式化验证、自动定理证明、数学辅助证明等领域，为AI系统提供更可靠的推理能力，特别是在需要高精度和严格逻辑的领域。 [<a href=\"https://news.ycombinator.com/item?id=45475529\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/DebarghaG/proofofthought",
+            "title": "ProofOfThought：基于Z3定理证明的LLM推理",
+            "date_modified": "2025-10-04T18:34:23.000Z"
+        },
+        {
+            "id": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+            "content_html": "这篇详细比较文章通过解决'Advent of Code'编程挑战，深入对比了Ada和Rust两种系统编程语言。作者针对相同的问题集，分别使用Ada和Rust实现解决方案，从语法、类型系统、并发安全、内存管理和标准库功能等多个维度进行了全面比较。文章不仅分析了两种语言的表达能力和性能特点，还探讨了它们在学习曲线、错误处理和开发效率方面的差异。这种基于实际问题的比较方法，提供了关于语言在真实应用场景中表现的有价值见解。对于需要在安全关键系统或高性能应用中选择编程语言的开发者，这篇比较提供了实用的参考依据，帮助他们根据项目需求做出合适的技术选择。 [<a href=\"https://news.ycombinator.com/item?id=45473861\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+            "title": "通过解决Advent of Code问题比较Ada和Rust",
+            "date_modified": "2025-10-04T15:10:49.000Z"
         }
     ]
 }
