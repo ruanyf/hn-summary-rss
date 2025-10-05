@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 06:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 06:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[早已辉煌不再：亚马逊是如何变差的？]]></title>
+            <title><![CDATA[自闭症不是一种单一疾病，新数据显示]]></title>
+            <link>https://www.medscape.com/viewarticle/autism-not-one-disorder-new-data-show-2025a1000qmm</link>
+            <guid isPermaLink="false">https://www.medscape.com/viewarticle/autism-not-one-disorder-new-data-show-2025a1000qmm</guid>
+            <pubDate>Sun, 05 Oct 2025 06:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了一项研究新发现，表明自闭症实际上不是一种单一疾病，而是多种不同神经发育障碍的集合。最新的数据显示，自闭症的表型具有高度异质性，不同个体之间的症状和脑部活动模式存在显著差异。这项发现可能会改变医学界对自闭症的理解和治疗方式，未来可能需要针对不同类型的自闭症开发个性化治疗方案。 [<a href="https://news.ycombinator.com/item?id=45479380" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[培养孩子的自律能力]]></title>
+            <link>https://williamjbarry.substack.com/p/building-discipline-in-children</link>
+            <guid isPermaLink="false">https://williamjbarry.substack.com/p/building-discipline-in-children</guid>
+            <pubDate>Sun, 05 Oct 2025 06:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了如何在孩子成长过程中培养自律能力。作者提出了几个关键策略，包括设定清晰的界限和规则、以身作则、给予适当的自主权、建立一致的奖惩机制，以及帮助孩子理解行为与后果之间的关系。强调自律不是天生的，而是通过环境和教育培养出来的能力，需要父母或监护人耐心引导和长期坚持。文章还讨论了过度控制与过度放纵之间的平衡，以及如何在不同年龄段采用适当的方法培养孩子的自律性。 [<a href="https://news.ycombinator.com/item?id=45479378" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[这不可能是对的？对吧？]]></title>
+            <link>https://github.com/ktynski/FractalRecursiveCoherence</link>
+            <guid isPermaLink="false">https://github.com/ktynski/FractalRecursiveCoherence</guid>
+            <pubDate>Sun, 05 Oct 2025 06:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目名为“分形递归一致性“，似乎是一个讨论或实现递归、自引用或悖论概念的项目。从标题可以推测，这可能是一个探索递归逻辑、自指系统或悖论现象的项目，类似于“这句话是假的“这样的逻辑悖论。项目可能包含代码实现、理论探讨或哲学思考，旨在探索一致性、递归和自指系统在编程和逻辑中的表现。不过，由于没有具体的项目描述，确切的功能和用途需要查看项目文档才能确定。 [<a href="https://news.ycombinator.com/item?id=45479375" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[新技术大幅缩小大语言模型，使其能在较弱硬件上运行]]></title>
+            <link>https://huggingface.co/papers/2509.22944</link>
+            <guid isPermaLink="false">https://huggingface.co/papers/2509.22944</guid>
+            <pubDate>Sun, 05 Oct 2025 06:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[这项研究提出了一种新的开源技术，能够显著减少大语言模型的尺寸，使其能够在计算能力较弱的硬件上高效运行。这项技术可能通过模型压缩、量化、知识蒸馏等方法实现，降低了运行大型AI模型所需的计算资源。这对于AI民主化和普及化具有重要意义，使得更多开发者和组织能够在本地设备或资源有限的环境中部署大语言模型。该研究可能还包含了相关代码、基准测试和性能分析，为实际应用提供了技术支持和参考。 [<a href="https://news.ycombinator.com/item?id=45479370" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[机场如何应对无人机威胁？]]></title>
+            <link>https://www.rte.ie/brainstorm/2025/1001/1536198-drones-airport-distruption-denmark-eu-summit/</link>
+            <guid isPermaLink="false">https://www.rte.ie/brainstorm/2025/1001/1536198-drones-airport-distruption-denmark-eu-summit/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了机场面临的无人机干扰问题以及可能的应对策略。随着无人机技术的普及，机场面临的安全威胁日益增加，可能导致航班延误甚至取消。文章可能介绍了多种反无人机技术，如电子干扰、定向能量武器、无人机探测系统、物理拦截措施等。同时，还可能讨论了相关法律法规的完善、国际协作机制的建立以及技术与管理相结合的综合应对方案。文章还可能提到了丹麦和欧盟在此方面的最新政策动向，以及机场如何平衡安全保障与商业运营的需求。 [<a href="https://news.ycombinator.com/item?id=45479288" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[现代微调API的解剖]]></title>
+            <link>https://benanderson.work/blog/anatomy-of-finetuning-api/</link>
+            <guid isPermaLink="false">https://benanderson.work/blog/anatomy-of-finetuning-api/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章深入剖析了现代微调API的技术架构和实现细节。微调API允许开发者针对特定任务和数据集对预训练大语言模型进行进一步优化，提高模型在特定领域的性能。文章可能详细介绍了API的关键组件，包括数据预处理模块、模型加载与转换机制、训练参数配置、资源调度与管理、结果评估与反馈系统等。此外，还可能讨论了现代微调API面临的挑战，如计算资源优化、训练效率提升、版本控制、成本效益平衡以及如何处理不同规模和复杂度的微调需求。 [<a href="https://news.ycombinator.com/item?id=45479209" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[分享：我开发了一个工具将Spotify“正在播放“同步到Telegram]]></title>
+            <link>https://github.com/therepanic/spotify-telegram-sync</link>
+            <guid isPermaLink="false">https://github.com/therepanic/spotify-telegram-sync</guid>
+            <pubDate>Sun, 05 Oct 2025 06:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目是一个允许用户将Spotify上正在播放的歌曲信息同步到Telegram的工具。用户可以通过这个工具在Telegram聊天中分享他们当前在Spotify上听的音乐，让朋友实时了解自己的音乐品味和喜好。该项目可能提供了多种自定义选项，如同步频率、消息格式、隐私设置等。它对于音乐爱好者来说是一个便捷的工具，方便在社交平台分享音乐体验。该项目可能使用Spotify API和Telegram Bot API实现，源代码开放，用户可以根据需要进行二次开发或部署。 [<a href="https://news.ycombinator.com/item?id=45479166" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[社会冷却]]></title>
+            <link>https://www.socialcooling.com/</link>
+            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[“社会冷却“是一个概念，指的是在高度监控和社会评判的环境中，人们因担心被负面评价或遭受社会后果而自我审查、减少表达的现象。这种现象类似于“寒蝉效应“，但更侧重于个体如何在社交环境中自我调节行为以避免负面后果。该网站可能探讨了大监控技术、社交媒体评分系统、大数据分析等如何影响人们的行为模式和创新精神。社会冷却可能导致创新减少、社会多样性下降、公民参与度降低等问题。网站可能还提供了相关研究案例、应对策略和促进健康社会环境的建议。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[《饥饿游戏》最新小说由AI合著]]></title>
+            <link>https://old.reddit.com/r/slatestarcodex/comments/1no45rn</link>
+            <guid isPermaLink="false">https://old.reddit.com/r/slatestarcodex/comments/1no45rn</guid>
+            <pubDate>Sun, 05 Oct 2025 05:57:31 GMT</pubDate>
+            <content:encoded><![CDATA[这则Reddit讨论帖可能报道了《饥饿游戏》系列最新一部小说是由人类作家与AI共同创作的消息。这标志着AI技术开始进入主流文学创作领域，引发了关于创作本质、作者身份以及AI在文学创作中作用的讨论。帖中可能包含了相关报道链接、社区成员的评论和观点。讨论可能涉及AI创作的伦理问题、版权归属、创作质量评估以及未来人机协作创作的可能性等内容。这一事件反映了AI技术在创意产业中的应用趋势，以及社会对这种新兴创作方式的接受程度和担忧。 [<a href="https://news.ycombinator.com/item?id=45479153" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[分享：Nani？——边翻译边教你学习的AI翻译工具]]></title>
+            <link>https://nani.now/en</link>
+            <guid isPermaLink="false">https://nani.now/en</guid>
+            <pubDate>Sun, 05 Oct 2025 05:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[Nani是一个创新的AI翻译工具，不仅提供语言翻译功能，还通过翻译过程教授用户语言知识。该工具可能在翻译的同时解释语法规则、词汇用法、文化背景等内容，帮助用户在获取信息的同时学习目标语言。它可能采用了互动式学习模式，让用户在翻译过程中逐步掌握语言技能，而不仅仅是获得翻译结果。这种“边翻译边学习“的模式对于语言学习者来说特别有价值，可以加速语言习得过程，并提高学习效率。该工具可能支持多种语言对，并提供个性化学习路径，适应不同水平的学习者需求。 [<a href="https://news.ycombinator.com/item?id=45479123" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[分享：Pixel Kit——可视化构建移动和网页界面]]></title>
+            <link>https://pixel-kit.vercel.app/signup</link>
+            <guid isPermaLink="false">https://pixel-kit.vercel.app/signup</guid>
+            <pubDate>Sun, 05 Oct 2025 05:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[Pixel Kit是一个可视化界面构建工具，允许用户通过拖拽和点击等直观方式创建移动应用和网页的用户界面。该工具可能提供了丰富的UI组件库、布局模板、样式选项和交互配置，使开发者无需编写大量代码就能构建专业的界面。它可能支持实时预览、响应式设计、多平台导出等功能，提高开发效率。Pixel Kit的目标用户可能是前端开发者、UI设计师，甚至是没有编程经验的用户，让界面开发更加民主化和便捷。该工具可能基于现代Web技术构建，并与Vercel等平台集成，便于部署和分享。 [<a href="https://news.ycombinator.com/item?id=45479110" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[早已过时：亚马逊为何变得如此糟糕？]]></title>
             <link>https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish</link>
             <guid isPermaLink="false">https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish</guid>
             <pubDate>Sun, 05 Oct 2025 05:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[本文探讨了亚马逊公司从辉煌走向衰落的原因。文章分析了亚马逊在产品质量、客户服务、工作环境等方面的变化，指出亚马逊已经失去了其早期的创新精神和客户至上的理念。作者认为，亚马逊的过度扩张和以利润为中心的运营模式导致了其服务质量下降，使其不再是曾经的电商领导者。亚马逊需要重新关注其核心价值观，才能重获市场竞争力。 [<a href="https://news.ycombinator.com/item?id=45479103" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章分析了亚马逊作为一家科技巨头的衰落原因。作者可能探讨了亚马逊近年来在多个方面表现出的质量问题和服务下降，包括物流效率、客户服务、产品质量、工作条件等。文章可能指出，亚马逊在扩张过程中过度关注利润和市场份额，而忽视了曾经让它成功的基本要素，如客户体验和员工福利。此外，还可能讨论了亚马逊面临的市场竞争、监管压力、创新乏力等问题。文章可能回顾了亚马逊的黄金时代与当前状态对比，并对其未来发展方向提出疑问和预测。 [<a href="https://news.ycombinator.com/item?id=45479103" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美国人越来越认为合法体育博彩对社会有害]]></title>
-            <link>https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</link>
-            <guid isPermaLink="false">https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/</guid>
-            <pubDate>Sun, 05 Oct 2025 04:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[皮尤研究中心的调查显示，美国人对合法体育博彩的负面看法日益增强。研究发现，越来越多的美国人认为体育博彩对社会和体育运动有害，担心其可能导致赌博成瘾、腐败和财务问题。这一趋势反映了公众对博彩行业扩张的担忧，尽管博彩在美国多州已合法化，但公众对其社会影响的质疑正在增加。 [<a href="https://news.ycombinator.com/item?id=45478749" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[任天堂据报道正游说日本政府抵制生成式AI]]></title>
+            <link>https://twistedvoxel.com/nintendo-reportedly-lobbying-japanese-government-to-push-back-against-generative-ai/</link>
+            <guid isPermaLink="false">https://twistedvoxel.com/nintendo-reportedly-lobbying-japanese-government-to-push-back-against-generative-ai/</guid>
+            <pubDate>Sun, 05 Oct 2025 05:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[据报道，任天堂正在向日本政府施压，希望制定更严格的法规来限制生成式AI的发展和使用。任天堂可能担忧生成式AI对其知识产权（如游戏角色、故事情节和艺术风格）的潜在威胁，以及AI生成内容可能带来的市场竞争。作为游戏行业的领导者，任天堂可能希望保护其创意资产，防止未经授权使用其IP训练AI模型或生成类似内容。这一行动反映了传统娱乐巨头对新兴AI技术的警惕态度，也预示着未来可能出台更多针对AI创作的监管措施。 [<a href="https://news.ycombinator.com/item?id=45479090" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Parrot - Gleam语言中的类型安全SQL，支持SQLite、PostgreSQL和MySQL]]></title>
-            <link>https://github.com/daniellionel01/parrot</link>
-            <guid isPermaLink="false">https://github.com/daniellionel01/parrot</guid>
-            <pubDate>Sun, 05 Oct 2025 00:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[Parrot是一个用Gleam编程语言开发的类型安全SQL库，支持SQLite、PostgreSQL和MySQL数据库。它提供了类型安全的查询构建功能，可以在编译时捕获SQL查询中的错误，而不是等到运行时。Parrot的设计目标是让开发者在保持类型安全的同时，能够以简洁直观的方式与数据库交互。该项目基于Erlang虚拟机，继承了Gleam的类型系统优势，为开发者提供了一种安全可靠的数据库操作方式。 [<a href="https://news.ycombinator.com/item?id=45478033" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[OpenAI正在扩招以将ChatGPT转变为广告平台]]></title>
+            <link>https://searchengineland.com/openai-staffing-chatgpt-ad-platform-462554</link>
+            <guid isPermaLink="false">https://searchengineland.com/openai-staffing-chatgpt-ad-platform-462554</guid>
+            <pubDate>Sun, 05 Oct 2025 05:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[据报道，OpenAI正在积极招聘人才，计划将ChatGPT转变为一个广告平台。这一转变可能意味着ChatGPT将开始展示广告内容，为用户提供免费服务的同时增加收入来源。这类似于搜索引擎和社交媒体平台的商业模式，即通过广告变现支持免费服务。文章可能讨论了这一战略的商业意义、潜在的技术实现方式、对用户体验的影响，以及AI广告与传统广告的区别和优势。这一举措反映了OpenAI寻求多元化收入来源的努力，可能对其未来发展产生重大影响。 [<a href="https://news.ycombinator.com/item?id=45479086" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5140型号 - IBM的第一台笔记本电脑]]></title>
-            <link>https://richardsapperdesign.com/products/mod-5140/</link>
-            <guid isPermaLink="false">https://richardsapperdesign.com/products/mod-5140/</guid>
-            <pubDate>Sun, 05 Oct 2025 00:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[IBM 5140型号是IBM公司推出的第一台笔记本电脑，这款产品在便携计算领域具有重要意义。5140采用创新的设计理念，将当时的大型计算机功能浓缩到一个便携设备中。它配备了彩色液晶显示屏、全尺寸键盘和内置调制解调器，代表了1980年代末期便携计算技术的巅峰。这款笔记本电脑不仅是IBM产品线的重要里程碑，也为后来的笔记本电脑发展奠定了基础，展示了IBM在技术创新方面的领导地位。 [<a href="https://news.ycombinator.com/item?id=45477971" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[分享：Pngmeta——一个用于编辑PNG元数据的Python库]]></title>
+            <link>https://james-see.github.io/pngmeta/</link>
+            <guid isPermaLink="false">https://james-see.github.io/pngmeta/</guid>
+            <pubDate>Sun, 05 Oct 2025 05:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[Pngmeta是一个Python库，专门用于处理PNG图像文件的元数据。该库可能提供了读取、修改、添加和删除PNG文件中各种元数据的功能，如EXIF信息、文本注释、色彩配置文件等。这对于图像处理、自动化工作流和数据管理特别有用。开发者可以使用该库批量处理PNG文件的元数据，或开发需要与图像元数据交互的应用程序。该库可能简单易用，文档完善，并支持Python的多个版本，是处理PNG元数据的有力工具。 [<a href="https://news.ycombinator.com/item?id=45479068" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[小行星2024 YR4的侦察与缓解任务选项]]></title>
-            <link>https://arxiv.org/abs/2509.12351</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.12351</guid>
-            <pubDate>Sat, 04 Oct 2025 23:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[这篇研究论文探讨了针对小行星2024 YR4的潜在空间任务方案。2024 YR4是一颗新发现的近地小行星，对其轨道和特性进行深入研究对于行星防御具有重要意义。论文分析了多种可能的侦察和缓解任务选项，包括飞越任务、采样返回任务和偏转任务等。研究强调了国际合作的重要性，并提出了基于现有技术和未来技术发展的任务规划建议，旨在为地球提供有效的近地天体威胁防护措施。 [<a href="https://news.ycombinator.com/item?id=45477742" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Anthropic发布记忆API]]></title>
+            <link>https://www.anthropic.com/news/context-management</link>
+            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
+            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[Anthropic公司发布了一项名为记忆API的新功能，旨在增强AI系统的上下文管理和长期记忆能力。这项技术允许AI模型在对话中记住用户的重要信息、偏好和历史交互，从而提供更加个性化和连贯的体验。记忆API可能采用了安全隐私保护措施，确保用户数据的安全和合规性。这一功能对于需要长期交互和个性化服务的AI应用具有重要意义，如虚拟助手、客服机器人等。通过记忆API，开发者可以更容易地构建具有持久记忆能力的AI应用，提升用户体验和服务质量。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[钻孔振荡器]]></title>
-            <link>https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</link>
-            <guid isPermaLink="false">https://www.gregegan.net/SCIENCE/Borehole/Borehole.html</guid>
-            <pubDate>Sat, 04 Oct 2025 23:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了钻孔振荡器的物理原理和应用。钻孔振荡器是一种利用地下深处压力和温度差异产生振荡能量的装置。通过在钻井中创建特殊结构，可以利用地热和地球引力场的变化来产生持续的能量振荡。这项技术有潜力成为一种新型的可再生能源，特别适用于地热资源丰富的地区。文章详细分析了钻孔振荡器的工作原理、效率计算和潜在应用前景，展示了这一创新技术在能源领域的潜力。 [<a href="https://news.ycombinator.com/item?id=45477516" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Meta可能因Flo集体诉讼判决而欠下数十亿美元]]></title>
+            <link>https://www.reuters.com/legal/government/meta-could-owe-billions-flo-class-action-verdict-2025-10-01/</link>
+            <guid isPermaLink="false">https://www.reuters.com/legal/government/meta-could-owe-billions-flo-class-action-verdict-2025-10-01/</guid>
+            <pubDate>Sun, 05 Oct 2025 05:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[据报道，Meta公司可能面临一项数十亿美元的赔偿判决，这是针对其Flo集体诉讼的裁决。该诉讼可能与Meta在用户数据处理、隐私保护或反垄断方面的违规行为有关。文章详细介绍了案件的背景、原告方的指控、法庭的裁决以及可能的法律后果。这一巨额赔偿可能会对Meta的财务状况和业务运营产生重大影响，并可能引发更多类似诉讼，对整个科技行业的数据实践产生深远影响。文章还可能讨论了Meta对此裁决的回应和上诉可能性。 [<a href="https://news.ycombinator.com/item?id=45478983" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NSA和IETF：攻击者能否购买被弱化的密码学标准化？]]></title>
-            <link>https://blog.cr.yp.to/20251004-weakened.html</link>
-            <guid isPermaLink="false">https://blog.cr.yp.to/20251004-weakened.html</guid>
-            <pubDate>Sat, 04 Oct 2025 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了美国国家安全局(NSA)可能通过影响互联网工程任务组(IETF)的标准化过程，推动采用被弱化的密码算法的可能性。作者质疑是否存在安全漏洞被故意引入密码学标准的机制，以及是否可以通过游说或影响标准化进程来削弱加密强度。文章分析了密码学标准化的风险，强调了开放、透明和独立评估的重要性，以防止国家安全机构或第三方通过标准化的方式引入后门或降低安全性的密码算法。 [<a href="https://news.ycombinator.com/item?id=45477206" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[路透社报道后，数十部宝莱坞AI视频从YouTube消失]]></title>
+            <link>https://www.reuters.com/business/media-telecom/scores-bollywood-ai-videos-vanish-youtube-after-reuters-story-2025-10-03/</link>
+            <guid isPermaLink="false">https://www.reuters.com/business/media-telecom/scores-bollywood-ai-videos-vanish-youtube-after-reuters-story-2025-10-03/</guid>
+            <pubDate>Sun, 05 Oct 2025 05:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[在路透社发表相关报道后，YouTube平台上出现了大量使用AI技术生成的宝莱坞电影相关视频被下架的现象。这些视频可能是未经授权使用明星形象、电影片段或知识产权的内容，引发了版权和伦理争议。路透社的报道可能揭示了这些AI视频的制作背景、传播方式以及它们对印度电影产业的影响。视频的下架反映了平台对AI生成内容版权问题的重视，以及可能采取的监管措施。这一事件凸显了AI技术发展中面临的版权挑战，以及内容平台在平衡技术创新与知识产权保护方面的责任。 [<a href="https://news.ycombinator.com/item?id=45478977" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[香山向量浮点单元设计]]></title>
-            <link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link>
-            <guid isPermaLink="false">https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</guid>
-            <pubDate>Sat, 04 Oct 2025 22:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[本文详细介绍了香山处理器架构中的向量浮点单元(VFPU)设计。香山是中国自主研发的开源高性能处理器架构，其向量浮点单元针对大规模科学计算和人工智能应用进行了优化。文档详细阐述了VFPU的架构设计、指令集和性能特性，包括支持多种浮点精度、高效的向量化操作和针对特定工作负载的优化。该设计体现了中国在处理器设计领域的进步，为国产处理器在高性能计算领域的发展提供了重要参考。 [<a href="https://news.ycombinator.com/item?id=45477118" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[MathArena Apex：未征服的终极问题]]></title>
+            <link>https://matharena.ai/apex/</link>
+            <guid isPermaLink="false">https://matharena.ai/apex/</guid>
+            <pubDate>Sun, 05 Oct 2025 05:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[MathArena Apex是一个专注于解决数学挑战的平台，特别关注那些尚未被完全解决的“终极“数学问题。该平台可能汇集了各种高难度数学题目，包括数论、几何、代数、组合数学等领域的经典难题。用户可以通过该平台尝试解决这些问题，提交解决方案，与其他数学爱好者交流，甚至参与数学竞赛。平台可能提供了丰富的学习资源、解题工具和历史背景介绍，帮助用户深入理解这些数学问题的本质和价值。对于数学爱好者和研究者来说，这是一个挑战自我、探索数学奥秘的重要平台。 [<a href="https://news.ycombinator.com/item?id=45478969" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD GPU上的矩阵核编程]]></title>
-            <link>https://salykova.github.io/matrix-cores-cdna</link>
-            <guid isPermaLink="false">https://salykova.github.io/matrix-cores-cdna</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇资源介绍了如何在AMD GPU上进行矩阵核心编程。矩阵计算在现代科学计算、机器学习和图形处理中扮演着重要角色。文章详细讲解了AMD GPU架构中针对矩阵运算的优化技术，包括矩阵核的硬件实现、编程模型和性能优化策略。内容涵盖了如何利用AMD GPU的矩阵处理单元加速各种计算密集型任务，以及如何编写高效的矩阵运算代码。这些技术对于希望充分利用AMD GPU计算能力的开发者来说非常有价值。 [<a href="https://news.ycombinator.com/item?id=45476821" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[912美元无繁琐程序的能源独立方案]]></title>
-            <link>https://sunboxlabs.com/</link>
-            <guid isPermaLink="false">https://sunboxlabs.com/</guid>
-            <pubDate>Sat, 04 Oct 2025 21:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[Sunbox Labs提供了一种只需912美元即可实现能源独立的解决方案。该方案可能基于太阳能或其他可再生能源技术，旨在为家庭或小型企业提供自主供电能力。这种低成本的能源解决方案简化了传统太阳能系统的安装过程，减少了复杂的许可和审批流程。通过创新的设计和高效的能源利用技术，该方案让普通家庭也能负担得起能源独立，减少对电网的依赖，同时降低能源成本并减少碳足迹。 [<a href="https://news.ycombinator.com/item?id=45476820" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft 365 Copilot的商业失败]]></title>
-            <link>https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure</link>
-            <guid isPermaLink="false">https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure</guid>
-            <pubDate>Sat, 04 Oct 2025 19:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了Microsoft 365 Copilot的商业失败情况。尽管微软投入了大量资源推广其AI助手Copilot，但市场反响并未达到预期。文章探讨了Copilot面临的多重挑战，包括高成本、用户接受度低、实际价值有限等问题。微软可能低估了企业采用AI工具的难度，以及用户习惯改变所需要的时间。这一案例反映了AI工具商业化过程中的普遍挑战，特别是在企业应用领域，技术先进并不一定意味着市场成功。 [<a href="https://news.ycombinator.com/item?id=45476045" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[博客订阅源]]></title>
-            <link>https://blogfeeds.net</link>
-            <guid isPermaLink="false">https://blogfeeds.net</guid>
-            <pubDate>Sat, 04 Oct 2025 19:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[Blog Feeds是一个聚合博客内容的平台，它收集并整理了各种博客的RSS订阅源。用户可以通过这个平台发现感兴趣的博客内容，或者将自己博客的订阅源提交给平台增加曝光度。该服务为博客作者提供了展示内容的渠道，也为读者提供了一种发现优质博客内容的便捷方式。平台可能包含分类导航、搜索功能和个性化推荐，帮助用户高效地浏览和订阅感兴趣的博客内容。 [<a href="https://news.ycombinator.com/item?id=45475808" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ProofOfThought：使用Z3定理证明的LLM推理]]></title>
-            <link>https://github.com/DebarghaG/proofofthought</link>
-            <guid isPermaLink="false">https://github.com/DebarghaG/proofofthought</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[ProofOfThought是一个基于大语言模型(LLM)和Z3定理证明器的推理框架。该框架将LLM的灵活性与Z3定理证明器的精确性相结合，使AI系统能够进行更可靠的逻辑推理。通过将自然语言问题转化为形式化的数学表达式，然后使用Z3进行验证，ProofOfThought能够显著提高LLM在需要精确推理的任务中的表现。这一方法特别适合数学证明、逻辑推理和需要严格验证的应用场景，为AI系统的可靠性提供了新的解决方案。 [<a href="https://news.ycombinator.com/item?id=45475529" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[展示HN：Run - 我在学习Rust过程中构建的CLI通用代码运行器]]></title>
-            <link>https://github.com/Esubaalew/run</link>
-            <guid isPermaLink="false">https://github.com/Esubaalew/run</guid>
-            <pubDate>Sat, 04 Oct 2025 18:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[Run是一个用Rust语言开发的命令行通用代码运行器，作者在学习Rust过程中创建了这个开源项目。该工具旨在提供一个简单高效的方式来运行各种编程语言的代码片段，无需设置复杂的环境。Run支持多种编程语言，提供了统一的命令行接口，可以自动检测代码类型并选择适当的运行方式。项目展现了Rust在系统编程和工具开发方面的优势，也为开发者提供了一个实用的代码运行工具，特别适合快速测试代码片段和学习不同编程语言。 [<a href="https://news.ycombinator.com/item?id=45475528" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[如何高效注入知识？大语言模型的知识注入扩展定律]]></title>
-            <link>https://arxiv.org/abs/2509.19371</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.19371</guid>
-            <pubDate>Sat, 04 Oct 2025 17:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[这篇研究论文探讨了大语言模型(LLM)知识注入的效率问题，提出了知识注入扩展定律。研究分析了不同知识注入方法的效果和效率，包括参数微调、检索增强和提示工程等。论文发现，知识注入的效果与注入的信息量、质量和模型规模之间存在特定的数学关系。这一发现对于优化LLM的知识获取过程具有重要意义，可以帮助开发者更高效地更新和扩展大语言模型的知识库，同时减少计算资源的消耗，为LLM的持续学习和知识更新提供了理论指导。 [<a href="https://news.ycombinator.com/item?id=45474900" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[通过解决“代码冒险挑战“比较Ada和Rust]]></title>
-            <link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link>
-            <guid isPermaLink="false">https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</guid>
-            <pubDate>Sat, 04 Oct 2025 15:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章通过解决“代码冒险挑战“(Advent of Code)的一系列编程问题，对Ada和Rust两种编程语言进行了详细比较。作者使用相同的算法和思路，分别用Ada和Rust实现解决方案，分析了两种语言在语法特性、错误处理、并发模型、性能等方面的差异。比较结果展示了两种语言各自的优势和适用场景，Rust以其内存安全和并发性能著称，而Ada则以其强大的类型系统和可靠性验证机制闻名。这种实践性的比较为开发者选择适合特定项目需求的编程语言提供了有价值的参考。 [<a href="https://news.ycombinator.com/item?id=45473861" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[作为一名高级软件工程师，我如何影响科技公司的政治环境]]></title>
-            <link>https://www.seangoedecke.com/how-to-influence-politics/</link>
-            <guid isPermaLink="false">https://www.seangoedecke.com/how-to-influence-politics/</guid>
-            <pubDate>Sat, 04 Oct 2025 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分享了高级软件工程师如何在科技公司内部政治环境中有效影响决策的方法。作者探讨了在技术决策、资源分配和团队管理等方面，工程师如何通过建立专业信誉、理解业务目标、有效沟通和建立联盟来发挥影响力。文章强调了技术能力与软技能相结合的重要性，以及如何在保持技术诚信的同时，在公司政治中找到平衡点。这些经验对于那些希望在技术组织中发挥更大作用的工程师具有指导意义，提供了在复杂组织中推进技术变革的策略。 [<a href="https://news.ycombinator.com/item?id=45473852" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[像1984年那样自托管电子邮件]]></title>
-            <link>https://maxadamski.com/blog/2025/10/email.html</link>
-            <guid isPermaLink="false">https://maxadamski.com/blog/2025/10/email.html</guid>
-            <pubDate>Sat, 04 Oct 2025 14:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何使用1980年代的技术和方法来自托管电子邮件服务。作者回顾了早期互联网电子邮件系统的设计理念和工作方式，思考如何在现代环境中实现类似的技术架构。文章详细介绍了使用简单协议和基础硬件设置自托管电子邮件的方法，以及这种复古方法可能带来的好处，如更高的隐私控制、减少对第三方服务的依赖。这种回归基础的方法反映了人们对现代复杂电子邮件系统的反思，以及对更简单、更直接通信方式的追求。 [<a href="https://news.ycombinator.com/item?id=45473730" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[雷扫描：一个巧妙设备将打印机转变为扫描仪（2004）]]></title>
-            <link>https://www.folklore.org/Thunderscan.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Thunderscan.html</guid>
-            <pubDate>Sat, 04 Oct 2025 12:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[Thunderscan是一个在1984年开发的创新设备，它能够将苹果公司的打印机转变为扫描仪。这个设备通过巧妙地利用打印机机制，实现了文档扫描功能，在当时是一项创新技术。它连接到打印机端口，使用打印头的移动来逐行扫描文档，然后将图像数据传输到计算机。Thunderscan展示了如何通过创新思维将现有设备的功能扩展，创造出新的可能性。这个产品不仅体现了早期计算机硬件创新的智慧，也反映了那个时代DIY精神和解决问题的创造性。 [<a href="https://news.ycombinator.com/item?id=45472765" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[柏林字母博物馆即将关闭]]></title>
-            <link>https://www.buchstabenmuseum.de/en/</link>
-            <guid isPermaLink="false">https://www.buchstabenmuseum.de/en/</guid>
-            <pubDate>Sat, 04 Oct 2025 11:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[柏林字母博物馆(Buchstabenmuseum)宣布即将关闭。这家独特的博物馆收藏了来自柏林各地和各种建筑物的历史字母和标牌，展示了城市文字设计和视觉文化的历史。博物馆的关闭意味着这些珍贵的文字设计遗产面临消失的风险，反映了城市发展中历史保护与现代化之间的冲突。字母的收藏不仅具有设计价值，也记录了柏林城市变迁的历史。这一事件引发了人们对城市文化遗产保护的讨论，以及如何平衡城市现代化与历史保存的重要性。 [<a href="https://news.ycombinator.com/item?id=45472678" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[摩根大通银行是否宕机？]]></title>
+            <link>https://community.designtaxi.com/topic/17988-is-chase-bank-down-october-4-2025/</link>
+            <guid isPermaLink="false">https://community.designtaxi.com/topic/17988-is-chase-bank-down-october-4-2025/</guid>
+            <pubDate>Sun, 05 Oct 2025 04:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章讨论了2025年10月4日摩根大通银行可能出现的宕机情况。文章可能收集了用户反馈、系统状态报告和相关信息，反映了银行服务中断对客户的影响。这种情况可能是由技术故障、系统升级、网络攻击或高负载等多种原因造成的。文章可能提供了事件的时间线、受影响的地区和服务类型，以及银行的官方回应和解决方案。对于依赖网上银行服务的客户来说，了解银行系统的状态非常重要，这篇文章为受影响用户提供了一个交流和获取信息的平台。 [<a href="https://news.ycombinator.com/item?id=45478932" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
