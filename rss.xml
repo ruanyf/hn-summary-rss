@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 19:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 19:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[乔治·R·R·马丁为何打破了好莱坞的首要规则]]></title>
+            <title><![CDATA[如果你能忍受糟糕的 logo，Audacity 4 看起来相当不错]]></title>
+            <link>https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</link>
+            <guid isPermaLink="false">https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</guid>
+            <pubDate>Sun, 05 Oct 2025 19:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[Audacity 4 是一款流行的音频编辑软件最新版本。尽管其新 logo 设计受到用户批评，被认为丑陋且不专业，但软件本身的更新带来了许多新功能和改进。新版本增强了音频处理能力，改进了用户界面，修复了之前的漏洞，并提高了整体性能。尽管 logo 设计引发争议，但 Audacity 4 的实际功能表现获得了积极评价，被许多用户认为是一次成功的更新。对于那些重视软件功能而非视觉设计的用户来说，Audacity 4 值得升级尝试。 [<a href="https://news.ycombinator.com/item?id=45484565" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Impro：Palantir 最奇怪的图书推荐]]></title>
+            <link>https://www.generalist.com/p/impro</link>
+            <guid isPermaLink="false">https://www.generalist.com/p/impro</guid>
+            <pubDate>Sun, 05 Oct 2025 19:37:56 GMT</pubDate>
+            <content:encoded><![CDATA[Palantir 这家以数据分析著称的技术公司推荐了一本名为《Impro》的书，这本书看似与公司主营业务相去甚远。《Impro》是一本关于即兴表演艺术的书，由 Keith Johnstone 所著，主要教授如何通过即兴技巧提高创造力和思维能力。Palantir 推荐这本书的原因可能是，即兴表演中需要的快速决策、适应变化和创造性解决问题的能力，与数据分析和软件开发所需的核心技能有着共通之处。这种跨界的书单推荐反映了 Palantir 对员工综合素质的重视，以及对技术与人文艺术融合的独特见解。 [<a href="https://news.ycombinator.com/item?id=45484525" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cuevana【】免费在线观看电影和剧集 HD]]></title>
+            <link>https://wwv.cuevana.to/</link>
+            <guid isPermaLink="false">https://wwv.cuevana.to/</guid>
+            <pubDate>Sun, 05 Oct 2025 19:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[Cuevana 是一个提供免费在线电影和电视剧观看的平台，用户可以在该网站上观看各种高质量的内容无需付费。该网站汇集了大量来自世界各地的电影和电视节目，包括最新的好莱坞大片、经典老片以及不同语言的剧集。Cuevana 提供了高清画质选项，支持多种字幕选择，让全球观众能够轻松观看自己喜欢的内容。值得注意的是，这类免费流媒体平台通常存在版权问题，其内容可能未经版权所有者授权。用户在使用此类服务时应注意相关法律法规，尊重知识产权。 [<a href="https://news.ycombinator.com/item?id=45484523" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[基于发表和引用的影响]]></title>
+            <link>https://www.rosenberglab.net/impact.html</link>
+            <guid isPermaLink="false">https://www.rosenberglab.net/impact.html</guid>
+            <pubDate>Sun, 05 Oct 2025 19:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[这个网页探讨了学术发表和引用如何衡量研究影响力。它提出了超越传统期刊影响因子和论文引用次数的更全面评估方法。网页分析了如何结合发表质量、引用深度、社会影响力和实际应用等多维度来评估研究成果的真实价值。作者强调，单一指标无法全面反映研究贡献，应采用多元化的评价体系。该资源对研究人员、学术评价机构和资助机构都有重要参考价值，旨在推动更加公平、全面的学术评价体系改革，减少对量化指标的过度依赖。 [<a href="https://news.ycombinator.com/item?id=45484500" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[高质量的拉取请求描述]]></title>
+            <link>https://www.racecondition.software/blog/pr-descriptions/</link>
+            <guid isPermaLink="false">https://www.racecondition.software/blog/pr-descriptions/</guid>
+            <pubDate>Sun, 05 Oct 2025 19:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细介绍了如何撰写高质量的拉取请求描述，以提高代码审查效率和项目质量。作者提出了清晰的 PR 描述结构，包括变更概述、问题陈述、解决方案说明、测试验证方法等关键部分。文章强调良好的 PR 描述应简明扼要，突出重点，并提供足够的上下文信息，使审查人员能够快速理解变更目的和实现方式。此外，文章还讨论了如何使用代码标记、链接相关问题和文档等技巧增强 PR 的可读性。遵循这些最佳实践可以显著提高团队协作效率，减少代码审查中的沟通成本。 [<a href="https://news.ycombinator.com/item?id=45484434" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[我构建了一个工具，允许使用普通英语回测交易策略]]></title>
+            <link>https://news.ycombinator.com/item?id=45484384</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45484384</guid>
+            <pubDate>Sun, 05 Oct 2025 19:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[开发者创建了一个创新工具，使交易者能够使用自然语言而非复杂的编程代码来定义和回测交易策略。这个工具大大降低了量化交易的门槛，让没有编程背景的交易者也能轻松创建、测试和优化自己的交易策略。用户只需用日常英语描述买入卖出条件、止损点等规则，系统就能将其转化为可执行的代码并进行历史数据回测。该工具还提供了直观的回测结果展示，包括盈亏曲线、关键指标统计等，帮助用户评估策略表现。这个创新项目代表了金融科技领域的发展趋势，即通过技术民主化让更多人能够参与量化交易。 [<a href="https://news.ycombinator.com/item?id=45484384" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[为什么乔治·R·R·马丁打破了好莱坞的首要规则]]></title>
             <link>https://www.hollywoodreporter.com/movies/movie-features/george-r-r-martin-howard-waldrop-ugly-chickens-game-of-thrones-1236078329/</link>
             <guid isPermaLink="false">https://www.hollywoodreporter.com/movies/movie-features/george-r-r-martin-howard-waldrop-ugly-chickens-game-of-thrones-1236078329/</guid>
             <pubDate>Sun, 05 Oct 2025 19:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了《权力的游戏》作者乔治·R·R·马丁在好莱坞的独特运作方式。马丁坚持按照自己的节奏创作，不遵循好莱坞的快节奏制作模式，这违反了行业的基本规则。文章分析了马丁如何在不妥协于商业压力的情况下保持创作自主权，以及这种方式对他的作品和职业生涯的影响。 [<a href="https://news.ycombinator.com/item?id=45484355" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了《权力的游戏》原著作者乔治·R·R·马丁如何打破了好莱坞的一条重要规则：永远不要和钱作对。马丁拒绝了数十万美元的剧本改编费，坚持亲自参与剧本创作，以确保作品忠于原著精神。这种做法在好莱坞极为罕见，大多数作家会选择接受高额报酬而让出创作控制权。马丁的坚持最终证明是正确的，他的参与使《权力的游戏》成为全球现象级作品。文章还分析了马丁的创作理念和对故事完整性的坚持，以及这种态度如何影响了他的职业生涯和作品质量。 [<a href="https://news.ycombinator.com/item?id=45484355" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[他为达成数十亿美元交易而提及特朗普 Jr. 的名字]]></title>
+            <title><![CDATA[他为追求十亿美元交易而提及特朗普 Jr. 的名字]]></title>
             <link>https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825</link>
             <guid isPermaLink="false">https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825</guid>
             <pubDate>Sun, 05 Oct 2025 19:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了一位商人在寻求巨额商业交易过程中，如何利用与特朗普家族的关系，特别是提及小唐纳德·特朗普的名字来打开商业大门的故事。文章探讨了这种关系如何影响商业决策，以及权力和影响力在商业世界中的重要作用。 [<a href="https://news.ycombinator.com/item?id=45484338" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章讲述了一位商人如何在商业交易中频繁提及唐纳德·特朗普 Jr. 的名字，以获取商业优势。据报道，Gentry Beach 与特朗普 Jr. 是朋友关系，在寻求商业机会时多次利用这一关系。文章探讨了这种名人关系如何在商业世界中发挥影响力，以及如何影响交易谈判。这种行为反映了美国商界和政治权力交织的现象，以及名人关系在商业交易中的价值。文章还分析了这种做法的潜在风险，包括可能引发的伦理问题和法律风险。整体上，这篇文章揭示了现代商业环境中人际关系和政治联系的重要性。 [<a href="https://news.ycombinator.com/item?id=45484338" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[用于无乘法器的打印机器学习分类器的混合一元二元设计]]></title>
+            <title><![CDATA[无乘法器印刷机器学习分类器的混合一元-二元设计]]></title>
             <link>https://arxiv.org/abs/2509.15316</link>
             <guid isPermaLink="false">https://arxiv.org/abs/2509.15316</guid>
             <pubDate>Sun, 05 Oct 2025 19:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[这篇技术论文提出了一种创新的机器学习分类器设计方法，采用混合一元二元架构，避免了传统乘法运算的需求。这种方法特别适用于资源受限的边缘计算设备，能够显著降低计算复杂度和能耗。研究展示了这种设计在打印式电子设备上的应用潜力，为物联网和嵌入式系统中的机器学习应用提供了新思路。 [<a href="https://news.ycombinator.com/item?id=45484326" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇论文提出了一种创新的混合一元-二元设计方法，用于开发无需乘法器的印刷机器学习分类器。传统深度学习模型通常需要大量乘法运算，这在资源受限的边缘设备和印刷电子系统中难以实现。研究人员通过设计特殊的神经网络架构，将复杂的乘法运算转换为简单的加法和移位操作，显著降低了计算复杂度。这种方法特别适合低成本、低功耗的物联网设备和传感器应用。论文展示了如何将这种方法应用于图像识别和语音处理等任务，在保持较高精度的同时大幅减少了计算资源需求。这项研究为在资源受限环境下部署机器学习模型提供了新思路。 [<a href="https://news.ycombinator.com/item?id=45484326" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[两分钟英里问题]]></title>
             <link>https://hollisrobbinsanecdotal.substack.com/p/the-two-minute-mile-problem</link>
             <guid isPermaLink="false">https://hollisrobbinsanecdotal.substack.com/p/the-two-minute-mile-problem</guid>
             <pubDate>Sun, 05 Oct 2025 19:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了人类运动极限的挑战，特别是关于两分钟英里这一看似不可能的体育成就。文章分析了历史长河中运动员如何突破生理和心理障碍，逐渐接近这一目标。作者从科学、技术和训练方法的角度，探讨了人类身体极限的演变，以及社会和技术进步如何帮助运动员不断突破“不可能“的界限。 [<a href="https://news.ycombinator.com/item?id=45484322" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了“两分钟英里问题“，即人类长期以来被认为不可能在四分钟内跑完一英里的观念如何被打破。作者详细分析了这一“不可能“背后隐藏的社会和心理因素，包括专家预测、自我设限和文化观念如何影响人类潜能的发挥。文章指出，在罗杰·班尼斯特于1954年首次突破四分钟大关之前，尽管人类体能已经具备这一能力，但普遍的怀疑态度和心理障碍阻碍了这一突破。这一案例被用作隐喻，说明在科技、商业和其他领域，类似的“心理障碍“可能同样阻碍创新和突破。文章鼓励读者审视自己思维中的“不可能“边界，勇于挑战固有观念。 [<a href="https://news.ycombinator.com/item?id=45484322" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[哈佛法学院访问教授在犹太教堂附近发射弹丸枪后被停职]]></title>
-            <link>https://www.thecrimson.com/article/2025/10/5/hls-visiting-prof-arrested/</link>
-            <guid isPermaLink="false">https://www.thecrimson.com/article/2025/10/5/hls-visiting-prof-arrested/</guid>
-            <pubDate>Sun, 05 Oct 2025 19:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道讲述了哈佛大学法学院的一位访问教授因在犹太教堂附近发射弹丸枪而被停职的事件。文章详细描述了事件的经过，包括警方调查和学校的处理决定。这一事件引发了关于学术自由、安全责任以及大学对教职员工行为监管的广泛讨论，同时也反映了当前社会环境下宗教场所安全问题的敏感性。 [<a href="https://news.ycombinator.com/item?id=45484315" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[快速行动但不破坏任何东西]]></title>
+            <title><![CDATA[快速行动但不要破坏任何东西]]></title>
             <link>https://www.theatlantic.com/technology/2025/10/is-waymo-safe/684432/</link>
             <guid isPermaLink="false">https://www.theatlantic.com/technology/2025/10/is-waymo-safe/684432/</guid>
             <pubDate>Sun, 05 Oct 2025 19:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了科技公司在快速发展与创新过程中如何平衡速度与质量的问题。作者分析了Waymo等自动驾驶公司在追求技术创新的同时，如何确保产品的安全性和可靠性。文章提出了在快节奏开发环境中实施严格测试和验证策略的重要性，以及如何在加速创新的同时避免系统性故障，为科技行业的可持续发展提供了思考。 [<a href="https://news.ycombinator.com/item?id=45484303" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了自动驾驶技术公司 Waymo 如何在追求快速创新的同时确保安全。标题“Move Fast and Break Nothing“是对 Facebook 著名口号“Move Fast and Break Things“的巧妙改编，强调了安全在技术发展中的重要性。文章分析了 Waymo 采用的安全测试方法、冗余设计和严格的验证流程，这些使该公司能够在保持快速开发节奏的同时，确保其自动驾驶系统的可靠性。作者认为，随着自动驾驶技术日益成熟，行业需要重新平衡创新与安全的关系，不能为了速度而牺牲安全。这种对安全重视的态度可能成为未来科技发展的重要趋势。 [<a href="https://news.ycombinator.com/item?id=45484303" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[通过 CanonicalEquality:EqualValueType() 实现的 Google Chrome RCE（无沙盒）]]></title>
+            <title><![CDATA[通过 CanonicalEquality:EqualValueType() 实现的 Google Chrome 远程代码执行（无沙盒）]]></title>
             <link>https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/</link>
             <guid isPermaLink="false">https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/</guid>
             <pubDate>Sun, 05 Oct 2025 19:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[这篇技术文章披露了一个影响Google Chrome浏览器的严重安全漏洞，攻击者可通过CanonicalEquality:EqualValueType()函数实现远程代码执行，且绕过了浏览器的沙盒保护机制。文章详细描述了漏洞的原理、利用方式以及潜在影响，同时也提供了缓解措施和安全建议。这一漏洞提醒用户及时更新浏览器版本，并反映了即使是最主流的软件也可能存在安全风险。 [<a href="https://news.ycombinator.com/item?id=45484299" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章披露了一个影响 Google Chrome 浏览器的重要安全漏洞。该漏洞允许攻击者在无需突破沙盒限制的情况下执行远程代码攻击。漏洞位于 CanonicalEquality:EqualValueType() 函数中，攻击者可以通过构造恶意网页来触发此漏洞。一旦成功利用，攻击者可以在用户计算机上执行任意代码，窃取敏感信息或安装恶意软件。文章详细描述了漏洞的技术细节、潜在影响以及临时缓解措施。这个漏洞提醒用户保持浏览器及时更新，同时也反映了在复杂软件系统中安全漏洞的发现和修复是一个持续的过程。研究人员建议 Chrome 团队修复此漏洞，并加强相关函数的安全检查。 [<a href="https://news.ycombinator.com/item?id=45484299" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[询问HN：尽管有双因素认证，十年Reddit账户仍被黑客入侵]]></title>
+            <title><![CDATA[Ask HN：尽管有双因素认证，十年 Reddit 账户被黑]]></title>
             <link>https://news.ycombinator.com/item?id=45484294</link>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=45484294</guid>
             <pubDate>Sun, 05 Oct 2025 19:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[这篇帖子分享了Reddit上一个拥有十年历史的高级账户遭遇黑客入侵的经历，尽管账户启用了双因素认证（2FA）。文章详细描述了可能的入侵途径，包括SIM卡劫持、钓鱼攻击或第三方应用漏洞。作者分享了账户恢复的过程，并提醒用户即使有2FA保护，仍需保持警惕，定期审查账户安全设置，谨慎授予第三方应用访问权限。 [<a href="https://news.ycombinator.com/item?id=45484294" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章讲述了一个用户报告的事件：他的使用长达十年的 Reddit 账户尽管启用了双因素认证，仍然被黑客入侵。这引发了关于双因素认证有效性的讨论。用户描述了账户被黑的迹象，包括异常登录活动、内容修改和私信发送。这一事件表明，即使是强大的安全措施也可能存在漏洞。文章讨论了可能的安全风险，如 SIM 卡交换攻击、钓鱼攻击或 Reddit 系统本身可能存在的漏洞。许多评论者分享了类似的经历和建议，包括使用认证器应用而非短信验证、定期检查账户活动等。这一案例强调了在当今数字环境中保持警惕的重要性，以及即使启用了多重保护措施也需要采取额外安全措施。 [<a href="https://news.ycombinator.com/item?id=45484294" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[艾萨克·阿西莫夫的科幻短篇小说 – 标准电子书]]></title>
+            <title><![CDATA[艾萨克·阿西莫夫的短篇科幻小说 - 标准电子书]]></title>
             <link>https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</link>
             <guid isPermaLink="false">https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</guid>
             <pubDate>Sun, 05 Oct 2025 19:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[这是艾萨克·阿西莫夫经典科幻短篇小说集的电子版，由Standard Ebooks项目整理出版。收录了阿西莫夫多部脍炙人口的短篇科幻作品，展现了他对未来世界、人工智能和太空探索的独特想象。这些作品不仅具有高度的科学前瞻性，还蕴含深刻的人文思考，为读者提供了理解阿西莫夫科幻世界的绝佳窗口，适合科幻爱好者阅读收藏。 [<a href="https://news.ycombinator.com/item?id=45484293" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是阿西莫夫经典短篇科幻小说集的电子书版本，由 Standard Ebooks 项目制作。该收集了阿西莫夫创作的多篇标志性短篇科幻作品，包括著名的“我，机器人“系列故事。这些作品展现了阿西莫夫作为科幻三巨头之一的创造力，构建了许多后来成为科幻经典的概念和故事。Standard Ebooks 项目致力于制作高质量、格式统一且无数字限制的公共领域电子书。这个版本采用了精心设计的排版、封面和元数据，为读者提供优雅的阅读体验。阿西莫夫的这些短篇作品不仅在当时具有革命性，至今仍对科幻文学和流行文化产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45484293" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Toybox：一站式Linux命令行工具]]></title>
+            <title><![CDATA[Toybox：一站式 Linux 命令行工具]]></title>
             <link>https://github.com/landley/toybox</link>
             <guid isPermaLink="false">https://github.com/landley/toybox</guid>
             <pubDate>Sun, 05 Oct 2025 19:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[Toybox是一个集成了多种常用Linux命令行工具的开源项目，旨在提供轻量级、兼容POSIX标准的工具集。它占用资源少，适合嵌入式系统和资源受限环境使用。该项目维护一个包含数百个实用工具的代码库，这些工具可以单独使用或组合使用，大大简化了Linux环境下的系统管理和开发任务，为开发者提供了灵活高效的命令行解决方案。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Toybox 是一个开源项目，旨在提供一个单一的可执行文件，包含常用的 Linux 命令行工具。该项目由 Rob Landley 创建，目标是简化嵌入式 Linux 系统和 Android 设备中的工具集。Toybox 将数十个常用命令（如 ls、cp、cat、grep 等）合并到一个二进制文件中，减少了存储空间占用和内存使用，同时保持了与 GNU coreutils 工具的兼容性。这个项目特别适合资源受限的嵌入式系统，因为它提供了完整的命令行环境，同时大大减小了体积。Toybox 已被多个 Linux 发行版和 Android 系统采用，作为标准工具集的替代方案。该项目采用 MIT 许可证，代码质量高，文档完善，是系统管理员和开发者的实用工具。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[编程语言中的量纲分析（2018）]]></title>
             <link>https://www.gmpreussner.com/research/dimensional-analysis-in-programming-languages</link>
             <guid isPermaLink="false">https://www.gmpreussner.com/research/dimensional-analysis-in-programming-languages</guid>
             <pubDate>Sun, 05 Oct 2025 19:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇技术文章探讨了在编程语言中实现量纲分析的方法和意义。量纲分析是一种确保物理计算单位一致性的技术，可以防止因单位错误导致的计算失误。作者分析了如何在现代编程语言中集成量纲分析功能，探讨了类型系统、编译时检查与运行时验证等实现方式。这项研究对于科学计算、工程模拟和金融建模等领域的软件开发具有重要意义，可显著提高代码的可靠性和准确性。 [<a href="https://news.ycombinator.com/item?id=45484262" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇 2018 年的研究论文探讨了如何在编程语言中实现量纲分析。量纲分析是一种数学方法，用于检查物理方程的一致性，确保等式两边的物理单位匹配。作者讨论了如何在编译时或运行时检查程序中的物理量单位是否正确，从而减少计算错误。论文提出了几种实现方式，包括类型系统扩展、特殊库和语言特性。这种方法特别适用于科学计算、工程模拟和物理建模等领域，能够帮助开发者避免因单位换算错误导致的严重问题。研究还探讨了这种方法在不同编程语言中的实现挑战和优势，以及如何在不牺牲语言灵活性的前提下提供严格的类型检查。 [<a href="https://news.ycombinator.com/item?id=45484262" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：OpenScreen. 开放式视频评估筛选工具]]></title>
+            <title><![CDATA[Show HN：OpenScreen。开源视频评估筛选工具]]></title>
             <link>https://github.com/dylnbk/open-screen</link>
             <guid isPermaLink="false">https://github.com/dylnbk/open-screen</guid>
             <pubDate>Sun, 05 Oct 2025 19:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[OpenScreen是一个开源的视频内容评估和筛选工具，旨在帮助开发者和内容创作者高效管理和审核视频内容。该工具提供了自动化分析功能，包括内容分类、质量检测和潜在问题识别，同时支持自定义评估标准。项目设计简洁易用，可集成到现有工作流中，特别适合内容审核平台、教育机构或需要大量处理视频内容的组织使用，为视频内容的质量控制提供了开源解决方案。 [<a href="https://news.ycombinator.com/item?id=45484235" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[OpenScreen 是一个新发布的开源工具，专门设计用于视频内容的评估和筛选。该工具可以帮助内容审核团队、质量控制人员和视频编辑人员高效地检查视频内容。OpenScreen 提供了直观的界面，让用户能够记录时间戳、添加评论、标记问题区域，并与团队成员协作审核。作为一个开源项目，它可以根据用户需求进行定制，集成到现有的工作流程中。该工具支持多种视频格式，可以在本地或云端部署，确保数据安全和隐私。OpenScreen 旨在解决传统视频审核过程中效率低下、沟通困难的问题，为内容创作者和平台提供更高效的审核解决方案。 [<a href="https://news.ycombinator.com/item?id=45484235" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[肯尼斯·克拉克的文明 1969]]></title>
             <link>https://www.youtube.com/playlist?list=PL4wbshl89IWTHc94BhZI-C-v-neF40boG</link>
             <guid isPermaLink="false">https://www.youtube.com/playlist?list=PL4wbshl89IWTHc94BhZI-C-v-neF40boG</guid>
             <pubDate>Sun, 05 Oct 2025 19:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[这是英国艺术史学家肯尼斯·克拉克1969年制作的经典纪录片《文明》的完整剧集。这部13集的纪录片深入探讨了西方文明从古罗马到现代的发展历程，克拉克以其渊博的学识和优雅的解说，带领观众穿越历史长河，领略艺术、建筑和思想如何塑造了西方世界的面貌。这部作品至今仍是了解西方文明发展的必看纪录片，不仅在艺术史上有重要地位，也对电视纪录片制作产生了深远影响。 [<a href="https://news.ycombinator.com/item?id=45484217" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这是英国艺术史学家肯尼斯·克拉克 1969 年制作的经典纪录片《文明》的 YouTube 播放列表。这部 13 集的系列纪录片探讨了西方艺术和文化的发展历程，从中世纪到现代。克拉克亲自担任主持人和解说，带领观众穿越欧洲各地著名艺术和历史遗迹，深入分析艺术作品背后的历史背景和文化意义。这部纪录片以其精美的画面、克拉克的优雅解说和对艺术作品的深刻解读而闻名，被认为是电视艺术史上的里程碑作品。如今，这部经典纪录片在 YouTube 上免费提供，让新一代观众能够欣赏到这部文化瑰宝，了解西方文明的艺术成就。 [<a href="https://news.ycombinator.com/item?id=45484217" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[一年来提升Cloudflare Workers对Node.js兼容性的工作]]></title>
+            <title><![CDATA[一年来提高 Cloudflare Workers 中的 Node.js 兼容性]]></title>
             <link>https://blog.cloudflare.com/nodejs-workers-2025/</link>
             <guid isPermaLink="false">https://blog.cloudflare.com/nodejs-workers-2025/</guid>
             <pubDate>Sun, 05 Oct 2025 18:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细记录了Cloudflare团队在过去一年中为提高Workers平台对Node.js API兼容性所做的工作。项目团队通过逐步实现Node.js核心API、优化性能和改进开发工具，使开发者能够在边缘计算环境中更方便地使用熟悉的Node.js生态系统。文章展示了技术挑战、解决方案和成果，包括兼容性测试结果和开发者反馈，展示了如何在保持高性能的同时实现广泛的Node.js兼容性。 [<a href="https://news.ycombinator.com/item?id=45484180" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章总结了 Cloudflare 团队在过去一年中提高其 Workers 平台对 Node.js 兼容性的工作。Cloudflare Workers 是一种无服务器计算平台，原生的 JavaScript 运行环境与标准的 Node.js 有所不同。文章详细介绍了团队如何缩小这一差距，使开发者能够在 Workers 环境中运行更多 Node.js 兼容的代码。这些改进包括增加对 Node.js 核心模块的支持、改进事件循环模型、优化性能等。这些变化使开发者能够更容易地将现有的 Node.js 应用迁移到 Workers 平台，同时利用 Cloudflare 的全球网络优势。文章还分享了一些具体的兼容性改进案例和开发者反馈，展示了这些变化如何提升了开发体验。 [<a href="https://news.ycombinator.com/item?id=45484180" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[佛罗里达学生询问ChatGPT如何杀害朋友，最终入狱：警长称]]></title>
+            <title><![CDATA[佛罗里达学生询问 ChatGPT 如何杀害朋友，最终入狱：警长]]></title>
             <link>https://www.wfla.com/news/florida/florida-student-asks-chatgpt-how-to-kill-his-friend-ends-up-in-jail-deputies/</link>
             <guid isPermaLink="false">https://www.wfla.com/news/florida/florida-student-asks-chatgpt-how-to-kill-his-friend-ends-up-in-jail-deputies/</guid>
             <pubDate>Sun, 05 Oct 2025 18:54:29 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道讲述了一起引人深思的事件，一名佛罗里达学生向ChatGPT询问如何杀害自己的朋友，随后被警方逮捕。文章详细描述了事件经过，包括调查过程和指控内容。这一事件引发了对人工智能伦理和安全问题的讨论，特别是AI模型如何响应有害请求以及家长和教育工作者如何监督青少年使用AI技术的情况。案件凸显了科技发展和伦理监管之间的平衡挑战。 [<a href="https://news.ycombinator.com/item?id=45484165" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cariad：大众子公司大幅停止自有软件开发]]></title>
-            <link>https://www.heise.de/en/news/Cariad-VW-subsidiary-largely-discontinues-its-own-software-development-10712012.html</link>
-            <guid isPermaLink="false">https://www.heise.de/en/news/Cariad-VW-subsidiary-largely-discontinues-its-own-software-development-10712012.html</guid>
-            <pubDate>Sun, 05 Oct 2025 18:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道讲述了大众汽车旗下软件子公司Cariad的重大战略调整，计划大幅减少自有软件开发的投入。文章分析了这一决策的背景，包括行业竞争加剧和开发成本上升等因素。大众正转向更多依赖外部供应商和技术合作伙伴的策略，以加速数字化转型并降低风险。这一转变反映了汽车行业在软件和电气化转型过程中面临的挑战，以及传统车企如何调整其技术发展战略以适应快速变化的市场环境。 [<a href="https://news.ycombinator.com/item?id=45484162" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[我有一个伍德豪斯问题。问题是我无法停止阅读他的作品]]></title>
-            <link>https://thewalrus.ca/i-have-a-wodehouse-problem-the-problem-is-i-cant-stop-reading-him/</link>
-            <guid isPermaLink="false">https://thewalrus.ca/i-have-a-wodehouse-problem-the-problem-is-i-cant-stop-reading-him/</guid>
-            <pubDate>Sun, 05 Oct 2025 18:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[这篇散文探讨了作者对P.G.伍德豪斯作品的痴迷和喜爱。文章描述了伍德豪斯的独特文学风格如何俘获读者，他那幽默、机智的作品如何让人欲罢不能。作者分享了阅读伍德豪斯不同时期的体验，从初次接触到成为忠实粉丝的过程，以及这些作品如何影响自己的写作风格和生活态度。这篇文章是对伍德豪斯文学魅力的致敬，也展现了伟大文学作品如何能够持续吸引不同时代的读者。 [<a href="https://news.ycombinator.com/item?id=45484148" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GBoard 拨盘版本]]></title>
-            <link>https://www.youtube.com/watch?v=BgdWyD0cBx4</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=BgdWyD0cBx4</guid>
-            <pubDate>Sun, 05 Oct 2025 18:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[这段视频展示了谷歌键盘GBoard的一个创新版本，采用了拨盘式界面设计。视频中演示了这一版本如何通过圆形界面提供快速输入体验，特别适合单手操作和用户偏好传统输入方式的需求。设计师融合了现代触控技术与经典拨盘元素，创造出独特的输入体验。这一创新展示了在数字产品设计中重新思考传统物理界面元素的可能性，以及在保持功能性的同时提供新的交互方式。 [<a href="https://news.ycombinator.com/item?id=45484124" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[现有飞机后滑翔，Aerocart货运滑翔机]]></title>
-            <link>https://www.aerolane.com/</link>
-            <guid isPermaLink="false">https://www.aerolane.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 18:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[Aerocart是一种创新的货运滑翔系统，设计用于在现有大型飞机后部进行货物运输。这一概念利用空气动力学原理，通过将货物舱附加在飞机尾部，实现无需额外飞机即可运输更多货物的目标。系统提供了燃油效率高、成本低的解决方案，特别适合需要快速部署大量物资的情况。文章介绍了这一技术的原理、应用场景以及潜在的市场价值，展示了航空货运领域可能出现的创新解决方案。 [<a href="https://news.ycombinator.com/item?id=45484123" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[我终于如何让Firebase验证我的Squarespace域名]]></title>
-            <link>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</link>
-            <guid isPermaLink="false">https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</guid>
-            <pubDate>Sun, 05 Oct 2025 18:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[这篇技术教程分享了作者解决Firebase无法验证Squarespace域名的详细过程。作者遇到了域名验证的常见问题，并通过系统性的方法最终解决了这一挑战。文章提供了详细的步骤指南，包括DNS配置、文件验证和可能的错误排查方法。这一经验对于那些需要在Firebase和Squarespace平台之间建立连接的开发者特别有价值，展示了如何克服跨平台集成中的技术障碍，确保网站和云服务的无缝连接。 [<a href="https://news.ycombinator.com/item?id=45484089" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这则新闻报道了一起涉及人工智能技术的不当使用事件。一名佛罗里达州的学生向 ChatGPT 询问如何杀害他的朋友，随后被警方逮捕。据报道，学生最初可能是出于好奇或测试 AI 的反应而提出这个问题，但这一行为引起了执法部门的关注。警方表示，尽管没有证据显示该学生有实际的犯罪意图或采取了实际行动，但他的行为本身已经构成了威胁言论。这起事件引发了关于人工智能伦理和责任的讨论，以及如何防止 AI 技术被用于不当目的。专家指出，AI 系统应该能够识别并拒绝提供有害信息，同时用户也需要对使用 AI 的行为负责。 [<a href="https://news.ycombinator.com/item?id=45484165" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
