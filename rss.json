@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://netwars.pelicancrossing.net/2025/10/03/undue-process/",
+            "content_html": "这篇文章讨论了网络战争背景下的正当程序问题。作者探讨了在数字时代，传统的法律程序如何受到网络攻击、数据泄露和在线监控的挑战。文章分析了各国政府如何利用技术手段绕过传统法律程序，以及在网络安全事件中个人权利如何被忽视。作者呼吁建立更加透明和公正的数字法律框架，确保在网络空间中也能保障公民的基本权利。 [<a href=\"https://news.ycombinator.com/item?id=45493964\" target=\"_blank\">评论</a>]",
+            "url": "https://netwars.pelicancrossing.net/2025/10/03/undue-process/",
+            "title": "不当程序",
+            "date_modified": "2025-10-06T17:41:09.000Z"
+        },
+        {
+            "id": "https://www.bloomberg.com/news/articles/2025-10-06/fifa-s-world-cup-blockchain-based-ticketing-system-faces-preliminary-probe",
+            "content_html": "国际足联（FIFA）为世界杯推出的基于区块链的票务系统正面临监管机构的初步调查。该系统旨在通过区块链技术提高票务透明度和防止欺诈，但监管机构担心其可能存在数据隐私、消费者保护和反垄断问题。调查将重点关注系统的技术可靠性、用户数据保护措施以及是否违反了相关金融法规。FIFA表示将配合调查，并强调该系统是为了改善球迷体验而设计。 [<a href=\"https://news.ycombinator.com/item?id=45493962\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-06/fifa-s-world-cup-blockchain-based-ticketing-system-faces-preliminary-probe",
+            "title": "FIFA基于区块链的票务系统面临初步调查",
+            "date_modified": "2025-10-06T17:41:07.000Z"
+        },
+        {
+            "id": "https://www.wsj.com/tech/personal-tech/flip-phone-digital-camera-28a118dd",
+            "content_html": "越来越多的年轻人开始回归老式技术产品，如翻盖手机、数码相机和MP3播放器。这种趋势被称为&quot;数字排毒&quot;，年轻人寻求摆脱智能手机带来的持续连接压力。老式产品的简单功能、长续航时间和独特的美学设计吸引了新一代用户。这种复古科技热潮反映了人们对数字疲劳的反思，以及对更专注、更有意义的生活方式的追求。制造商也注意到这一趋势，开始重新推出经典型号或推出复古风格的新产品。 [<a href=\"https://news.ycombinator.com/item?id=45493943\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/tech/personal-tech/flip-phone-digital-camera-28a118dd",
+            "title": "年轻人爱上老技术",
+            "date_modified": "2025-10-06T17:39:56.000Z"
+        },
+        {
+            "id": "https://spectrum.ieee.org/engineering-scale",
+            "content_html": "这篇文章探讨了大规模工程系统的挑战和最佳实践。作者分析了从基础设施到软件系统的各种大型项目，强调了在扩大规模时需要考虑的关键因素：模块化设计、容错机制、性能监控和团队协作。文章提供了多个成功和失败案例，说明了在工程规模扩大时常见的问题，如技术债务累积、沟通效率下降和系统复杂性增加。作者建议采用渐进式扩展策略，重视文档和标准化，以及建立有效的跨团队协作机制。 [<a href=\"https://news.ycombinator.com/item?id=45493930\" target=\"_blank\">评论</a>]",
+            "url": "https://spectrum.ieee.org/engineering-scale",
+            "title": "大规模工程",
+            "date_modified": "2025-10-06T17:39:03.000Z"
+        },
+        {
+            "id": "https://github.com/Jan-Kur/HackCLI",
+            "content_html": "HackCLI是一个专为Hack Club社区成员开发的Slack终端客户端，提供命令行界面来访问Slack功能。该项目允许开发者通过终端与Slack进行交互，支持消息发送、频道浏览和基本聊天功能。它的设计理念是简化开发者的工作流程，减少在终端和网页应用之间的切换。项目采用开源方式，欢迎社区贡献，特别适合那些偏好命令行工具的开发者使用。 [<a href=\"https://news.ycombinator.com/item?id=45493899\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Jan-Kur/HackCLI",
+            "title": "Show HN: HackCLI – 专为Hack Club成员设计的Slack终端客户端",
+            "date_modified": "2025-10-06T17:37:01.000Z"
+        },
+        {
+            "id": "https://www.ynetnews.com/health_science/article/bjnw6l8bxx",
+            "content_html": "这篇文章介绍了如何通过虚拟现实和增强现实技术，让博物馆的展品走进普通家庭的客厅。随着技术的发展，许多博物馆开始提供数字化的展览体验，观众可以通过VR设备或手机应用，在家中就能参观世界各地的博物馆展览。文章详细描述了几种技术方案，包括360度全景拍摄、3D建模和交互式展示。这种趋势不仅让文化更加普及，也为疫情期间无法外出的人们提供了丰富的文化体验。博物馆也在探索如何将线上体验与实体参观相结合，创造更加完整的文化体验。 [<a href=\"https://news.ycombinator.com/item?id=45493883\" target=\"_blank\">评论</a>]",
+            "url": "https://www.ynetnews.com/health_science/article/bjnw6l8bxx",
+            "title": "将博物馆带入您的客厅",
+            "date_modified": "2025-10-06T17:36:13.000Z"
+        },
+        {
+            "id": "https://es-toolkit.dev/",
+            "content_html": "es-toolkit是一个现代化的JavaScript实用工具库，旨在提供高性能、类型安全的工具函数。该库专注于ES6+的现代JavaScript环境，提供了数组操作、对象处理、函数式编程等常用工具。相比传统的工具库，es-toolkit具有更小的包体积、更好的Tree-shaking支持和完整的TypeScript类型定义。库的设计理念是简洁、高效、易用，避免过度工程化。文档清晰，API设计直观，适合现代Web开发项目使用。 [<a href=\"https://news.ycombinator.com/item?id=45493854\" target=\"_blank\">评论</a>]",
+            "url": "https://es-toolkit.dev/",
+            "title": "es-toolkit: JavaScript实用工具库",
+            "date_modified": "2025-10-06T17:34:33.000Z"
+        },
+        {
+            "id": "https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals",
+            "content_html": "这篇文章分析了OpenAI在商业合作方面的策略和成功。作者指出，OpenAI不仅在AI技术方面领先，在商业谈判和合作方面也表现出色。从与微软的大规模合作，到与各行各业的战略联盟，OpenAI展现了强大的商业运作能力。文章讨论了OpenAI如何平衡技术开源与商业利益，如何通过合作伙伴关系扩大市场影响力，以及在面对监管挑战时的应对策略。作者认为，OpenAI的成功不仅在于技术突破，更在于其商业模式和合作策略的前瞻性。 [<a href=\"https://news.ycombinator.com/item?id=45493815\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals",
+            "title": "OpenAI擅长交易",
+            "date_modified": "2025-10-06T17:32:27.000Z"
+        },
+        {
+            "id": "https://wiki.tcl-lang.org/page/Write+in+C",
+            "content_html": "这是一个关于编程语言选择的幽默讨论，以披头士名曲《Let It Be》的歌词改编，表达对C语言的偏爱。文章用诗歌形式比较了不同编程语言的特点，最终推荐使用C语言。虽然是轻松的内容，但反映了编程社区中对语言选择的永恒讨论。C语言以其简洁、高效、接近硬件的特性，在某些领域仍然是不可替代的选择。文章暗示在选择编程语言时，应该考虑项目的具体需求，而不是盲目追随潮流。 [<a href=\"https://news.ycombinator.com/item?id=45493809\" target=\"_blank\">评论</a>]",
+            "url": "https://wiki.tcl-lang.org/page/Write+in+C",
+            "title": "用C语言编写——让它成为",
+            "date_modified": "2025-10-06T17:32:14.000Z"
+        },
+        {
+            "id": "https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/",
+            "content_html": "这篇文章探讨了在2024年是否还需要学习React框架的问题。作者分析了前端开发的现状，指出React生态系统变得越来越复杂，学习成本不断提高。文章讨论了现代Web开发的替代方案，包括原生JavaScript、其他框架如Vue和Svelte，以及Web Components。作者认为，对于许多项目来说，简单的原生JavaScript可能就足够了，不一定需要引入复杂的框架。文章鼓励开发者根据项目需求和个人情况来选择技术栈，而不是盲目跟随流行趋势。 [<a href=\"https://news.ycombinator.com/item?id=45493800\" target=\"_blank\">评论</a>]",
+            "url": "https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/",
+            "title": "没时间学React (2024)",
+            "date_modified": "2025-10-06T17:31:18.000Z"
+        },
+        {
+            "id": "https://tangled.org",
+            "content_html": "Tangled是一个创新的Git协作平台，基于AT协议（Authenticated Transfer Protocol）构建。该项目旨在提供去中心化的代码协作解决方案，让开发者能够在不受单一平台控制的情况下进行代码共享和协作。Tangled结合了Git的版本控制能力和AT协议的去中心化特性，提供了更加开放和抗审查的开发环境。项目支持分布式团队协作，代码所有权验证，以及透明的贡献记录。这种新型协作方式可能会改变传统的开源软件开发模式。 [<a href=\"https://news.ycombinator.com/item?id=45493772\" target=\"_blank\">评论</a>]",
+            "url": "https://tangled.org",
+            "title": "Show HN: Tangled – 基于AT协议的Git协作工具",
+            "date_modified": "2025-10-06T17:28:36.000Z"
+        },
+        {
+            "id": "https://vectifyai.notion.site/agentic-retrieval",
+            "content_html": "这篇文章探讨了AI智能检索技术的发展历程和未来趋势。作者从Claude Code开始，分析了AI如何逐步发展出更强大的信息检索和理解能力。文章详细介绍了PageIndex等新兴技术，展示了AI代理如何能够更精准地理解和回答复杂查询。讨论的重点包括：上下文理解、多模态检索、个性化推荐和实时学习。作者认为，智能检索正在从简单的关键词匹配转向深度语义理解，这将彻底改变我们与信息交互的方式。文章还展望了未来可能的应用场景和技术挑战。 [<a href=\"https://news.ycombinator.com/item?id=45493750\" target=\"_blank\">评论</a>]",
+            "url": "https://vectifyai.notion.site/agentic-retrieval",
+            "title": "从Claude Code到PageIndex：智能检索的崛起",
+            "date_modified": "2025-10-06T17:26:42.000Z"
+        },
+        {
+            "id": "https://dodocu.xyz",
+            "content_html": "Dodocu是一个AI驱动的文档分析工具，专门用于阅读、理解和总结法律合同及复杂文档。该工具使用先进的自然语言处理技术，能够快速分析长篇文档，提取关键条款，识别潜在风险，并提供易于理解的总结。Dodocu特别适合律师、商务人士和普通用户处理租赁协议、雇佣合同、服务条款等法律文书。工具支持多种文档格式，提供交互式问答功能，让用户能够深入了解文档内容。这大大降低了法律文档的理解门槛，帮助用户做出更明智的决策。 [<a href=\"https://news.ycombinator.com/item?id=45493740\" target=\"_blank\">评论</a>]",
+            "url": "https://dodocu.xyz",
+            "title": "Show HN: Dodocu – 阅读和总结任何合同或文档的AI工具",
+            "date_modified": "2025-10-06T17:25:32.000Z"
+        },
+        {
+            "id": "https://pirati.io/2025/10/chatcontrol-il-ministero-dellinterno-tedesco-cerca-di-forzare-lapprovazione-con-un-trucco-dellultimo-minuto-la-commissione-ue-inganna-i-difensori-dei-diritti-dei-minori-con-false-informazioni/",
+            "content_html": "这篇文章揭露了德国内政部试图通过不正当手段推动&quot;聊天控制&quot;法案的批准。该法案要求对所有数字通信进行监控，声称是为了保护儿童免受网络伤害。然而，作者指出德国政府使用了误导性信息和最后时刻的伎俩来绕过正常的立法程序。欧盟委员会也被指控向儿童权利保护组织提供虚假信息。文章强调，这种大规模监控措施严重侵犯隐私权，而且实际效果存疑。隐私倡导者和数字权利组织正在强烈反对这一提案，认为其违背了欧盟的基本价值观。 [<a href=\"https://news.ycombinator.com/item?id=45493725\" target=\"_blank\">评论</a>]",
+            "url": "https://pirati.io/2025/10/chatcontrol-il-ministero-dellinterno-tedesco-cerca-di-forzare-lapprovazione-con-un-trucco-dellultimo-minuto-la-commissione-ue-inganna-i-difensori-dei-diritti-dei-minori-con-false-informazioni/",
+            "title": "聊天控制：德国内政部试图用伎俩强迫批准",
+            "date_modified": "2025-10-06T17:24:09.000Z"
+        },
+        {
+            "id": "https://www.scientificamerican.com/podcast/episode/saturns-moon-enceladus-may-harbor-life-study-finds-complex-organic-molecules/",
+            "content_html": "这期科学播客讨论了多个令人兴奋的科学发现。主要话题是土卫二（Enceladus）可能存在生命的迹象，科学家在其海洋中发现了复杂的有机分子。播客还探讨了地球上古代真菌的进化历史，以及流感病毒的味道感知机制。专家们详细解释了这些发现的意义，特别是土卫二上复杂有机分子的存在如何增加了寻找地外生命的希望。节目还讨论了这些科学研究的方法学挑战，以及未来研究方向。整个播客以通俗易懂的方式呈现了前沿科学进展，让听众了解最新的科学动态。 [<a href=\"https://news.ycombinator.com/item?id=45493719\" target=\"_blank\">评论</a>]",
+            "url": "https://www.scientificamerican.com/podcast/episode/saturns-moon-enceladus-may-harbor-life-study-finds-complex-organic-molecules/",
+            "title": "土卫二的外星海洋、古代真菌和流感味道",
+            "date_modified": "2025-10-06T17:23:20.000Z"
+        },
+        {
+            "id": "https://github.com/openai/chatkit-js",
+            "content_html": "OpenAI ChatKit是OpenAI官方开发的JavaScript库，用于简化与OpenAI聊天API的集成。该库提供了类型安全的接口，支持流式响应、会话管理、错误处理等功能。ChatKit设计简洁，易于使用，适合在Web应用和Node.js环境中快速构建聊天功能。库包含了常用的聊天模式模板，支持自定义系统提示词，并提供了完善的文档和示例代码。作为官方解决方案，ChatKit与OpenAI的最新功能保持同步更新，是开发者集成OpenAI聊天功能的推荐选择。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/openai/chatkit-js",
+            "title": "OpenAI ChatKit",
+            "date_modified": "2025-10-06T17:23:20.000Z"
+        },
+        {
+            "id": "https://web.archive.org/web/20110220041407/http://www.classicrefusetrucks.com/albums/DE/DE01a.html",
+            "content_html": "这篇文章揭示了一个有趣的语言学事实：&quot;dumpster&quot;（垃圾箱）这个词最初是Dempster Dumpster公司的注册商标，后来逐渐演变成了通用术语。文章介绍了这个品牌的历史，以及它的产品如何普及到全美国。随着时间的推移，这个商标名称因为使用过于广泛而失去了商标保护，成为了普通词汇。这种现象在语言中很常见，其他例子包括&quot;aspirin&quot;、&quot;thermos&quot;等。文章通过这个例子说明了品牌名称如何在日常使用中泛化，成为描述某类产品的通用词汇。 [<a href=\"https://news.ycombinator.com/item?id=45493713\" target=\"_blank\">评论</a>]",
+            "url": "https://web.archive.org/web/20110220041407/http://www.classicrefusetrucks.com/albums/DE/DE01a.html",
+            "title": "&quot;dumpster&quot;一词最初是注册商标品牌名，而非通用术语",
+            "date_modified": "2025-10-06T17:22:48.000Z"
+        },
+        {
             "id": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
-            "content_html": "这个视频讨论了构建生产就绪的AI代理需要考虑的关键因素。演讲者强调了可靠性、可扩展性、监控和错误处理的重要性。视频深入探讨了如何设计能够在真实环境中稳定运行的AI系统，包括处理边缘情况、实现适当的回退机制，以及建立全面的测试框架。还讨论了团队协作、文档编写和版本控制在AI代理开发中的作用，为开发者提供了实用的工程化建议。 [<a href=\"https://news.ycombinator.com/item?id=45493697\" target=\"_blank\">评论</a>]",
+            "content_html": "这个技术演讲讨论了构建生产就绪AI代理系统需要考虑的关键工程因素。演讲者分享了从原型到生产环境的实践经验，包括系统架构设计、性能优化、错误处理、监控和可扩展性等主题。视频详细介绍了AI代理系统的技术栈选择、模型部署策略、数据管道构建以及安全考虑。演讲者强调，成功的AI代理不仅需要强大的算法，还需要健壮的工程实践。内容涵盖了从开发到部署的完整生命周期，为工程师提供了实用的指导和建议。 [<a href=\"https://news.ycombinator.com/item?id=45493697\" target=\"_blank\">评论</a>]",
             "url": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
-            "title": "工程化生产就绪AI代理的因素[视频]",
+            "title": "生产就绪AI代理的工程因素 [视频]",
             "date_modified": "2025-10-06T17:21:30.000Z"
         },
         {
             "id": "https://brooker.co.za/blog/2025/10/05/locality.html",
-            "content_html": "这篇文章探讨了局部性原理在计算和物理学中的重要性，以及时空假说如何解释信息处理的局限性。作者分析了局部性如何影响算法设计、分布式系统和量子计算，提出了一个统一的框架来理解不同领域中的局部性现象。文章还讨论了非局部效应的挑战，以及如何在保持局部性优势的同时处理全局优化问题，为理解复杂系统的本质提供了新的视角。 [<a href=\"https://news.ycombinator.com/item?id=45493681\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了分布式系统中的局部性原理和时空假说。作者分析了在地理分布的系统中，数据局部性对性能的影响，提出了新的时空一致性模型。文章讨论了如何平衡数据一致性和系统可用性，特别是在全球分布式应用中。作者引入了时空假说的概念，认为系统的设计应该考虑数据在时间和空间上的分布特征。文章提供了多个实际案例，展示了这些理论在云服务、CDN和边缘计算中的应用。作者预测，随着边缘计算的发展，局部性原理将变得更加重要。 [<a href=\"https://news.ycombinator.com/item?id=45493681\" target=\"_blank\">评论</a>]",
             "url": "https://brooker.co.za/blog/2025/10/05/locality.html",
-            "title": "局部性与时空假说",
+            "title": "局部性和时空假说",
             "date_modified": "2025-10-06T17:19:55.000Z"
         },
         {
             "id": "https://www.sciencedirect.com/science/article/abs/pii/S0166046225000742",
-            "content_html": "这篇学术论文研究了历史街区 designation 对房地产价值和经济发展的积极影响。研究通过数据分析表明，被认定为历史街区的区域通常能够保持更高的房产价值，吸引更多游客和投资，同时保护了文化遗产。文章还探讨了历史街区保护政策对社区认同感、文化传承和可持续城市发展的重要作用，为城市规划者和政策制定者提供了实证依据。 [<a href=\"https://news.ycombinator.com/item?id=45493679\" target=\"_blank\">评论</a>]",
+            "content_html": "这项学术研究探讨了历史街区认定对房地产价值和社会经济影响的量化分析。研究通过对比分析历史街区内外房价变化，发现历史街区地位通常会带来显著的价值提升。文章分析了多个因素：文化保护带来的吸引力、旅游业发展、社区稳定性改善以及投资环境优化。研究还讨论了历史街区保护的挑战，包括维护成本、开发限制和 gentrification 问题。作者建议政策制定者在保护历史价值的同时，需要平衡社区发展和居民利益。这项研究为城市规划和文化遗产保护政策提供了重要的实证依据。 [<a href=\"https://news.ycombinator.com/item?id=45493679\" target=\"_blank\">评论</a>]",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166046225000742",
             "title": "历史街区地位的价值",
             "date_modified": "2025-10-06T17:19:42.000Z"
-        },
-        {
-            "id": "https://www.honest-broker.com/p/hamlet-is-the-gen-z-story-we-need",
-            "content_html": "这篇文章分析了莎士比亚的《哈姆雷特》如何与当代Z世代的经历和价值观产生共鸣。作者认为，哈姆雷特面临的身份危机、代际冲突和对真实性的追求，反映了现代年轻人面临的挑战。文章探讨了经典文学在数字时代的现实意义，以及如何通过重新解读这些作品来帮助Z世代理解自己的处境，找到应对复杂世界的方式。 [<a href=\"https://news.ycombinator.com/item?id=45493673\" target=\"_blank\">评论</a>]",
-            "url": "https://www.honest-broker.com/p/hamlet-is-the-gen-z-story-we-need",
-            "title": "哈姆雷特是我们需要的Z世代故事",
-            "date_modified": "2025-10-06T17:18:57.000Z"
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=45493663",
-            "content_html": "这是Hacker News上的一个讨论串，探讨了AI热潮带来的经济影响。用户们讨论了AI创业公司、投资机会、技术变革对不同行业的影响，以及普通人在AI时代的机遇和挑战。讨论涵盖了从AI工具开发到AI伦理问题的广泛话题，反映了技术社区对AI发展现状和未来趋势的不同观点，展现了AI革命对经济和社会的深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45493663\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45493663",
-            "title": "似乎每个人都在通过AI致富",
-            "date_modified": "2025-10-06T17:18:02.000Z"
-        },
-        {
-            "id": "https://zed.dev/blog/jetbrains-on-acp",
-            "content_html": "Zed编辑器宣布与JetBrains建立合作，通过ACP（Astro Community Protocol）实现更好的集成。这次合作将使Zed用户能够利用JetBrains的强大功能，同时保持Zed的轻量级和速度优势。文章详细介绍了ACP协议的工作原理，以及这次合作如何改善开发者的编程体验，特别是在处理大型项目和复杂代码库时的性能提升。 [<a href=\"https://news.ycombinator.com/item?id=45493609\" target=\"_blank\">评论</a>]",
-            "url": "https://zed.dev/blog/jetbrains-on-acp",
-            "title": "ACP引入JetBrains合作",
-            "date_modified": "2025-10-06T17:13:46.000Z"
-        },
-        {
-            "id": "https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/",
-            "content_html": "JetBrains宣布与Zed编辑器合作，通过开放标准实现AI编码代理在不同IDE之间的互操作性。这次合作旨在打破工具壁垒，让开发者能够在自己喜欢的环境中使用AI助手。文章介绍了技术实现细节，包括如何通过标准化协议实现AI代理的无缝集成，以及这对开发者生态系统和AI工具发展的积极影响。 [<a href=\"https://news.ycombinator.com/item?id=45493593\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/",
-            "title": "JetBrains × Zed：为您的IDE中的AI编码代理实现开放互操作性",
-            "date_modified": "2025-10-06T17:12:12.000Z"
-        },
-        {
-            "id": "https://www.engadget.com/rabbit-plots-its-redemption-arc-120000271.html",
-            "content_html": "这篇文章讲述了AI硬件公司Rabbit在经历产品发布挫折后的转型计划。公司创始人承认了初代产品的问题，并详细介绍了改进策略，包括软件更新、硬件优化和用户体验提升。文章分析了Rabbit面临的挑战和机遇，以及AI硬件市场的竞争格局，探讨了公司如何在激烈的竞争中重新赢得用户信任和市场地位。 [<a href=\"https://news.ycombinator.com/item?id=45493586\" target=\"_blank\">评论</a>]",
-            "url": "https://www.engadget.com/rabbit-plots-its-redemption-arc-120000271.html",
-            "title": "Rabbit规划其救赎之路",
-            "date_modified": "2025-10-06T17:11:38.000Z"
-        },
-        {
-            "id": "https://embarcaderoplaza.com/tour",
-            "content_html": "这个项目为Embarcadero广场创建了一个沉浸式的虚拟游览体验，展示了这个有50年历史的公园。网站通过交互式地图、历史照片和视频，让用户能够在线探索公园的各个角落，了解其历史变迁和文化意义。项目不仅保存了珍贵的城市记忆，也为无法亲临现场的游客提供了便捷的参观方式，体现了数字技术在文化遗产保护中的应用。 [<a href=\"https://news.ycombinator.com/item?id=45493583\" target=\"_blank\">评论</a>]",
-            "url": "https://embarcaderoplaza.com/tour",
-            "title": "Show HN：一个50年历史公园的虚拟游览",
-            "date_modified": "2025-10-06T17:11:29.000Z"
-        },
-        {
-            "id": "https://github.com/palmy-investing/palmy-equity-research",
-            "content_html": "这是一个开源的GitHub项目，提供了解析SEC文件、Edgar数据和股票研究报告的工具集。项目包含了多种解析器，能够处理不同格式的金融文档，提取关键信息用于投资分析。开发者可以通过这些工具自动化股票研究流程，提高分析效率。项目文档详细，代码结构清晰，为金融科技开发者和量化分析师提供了实用的基础设施。 [<a href=\"https://news.ycombinator.com/item?id=45493571\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/palmy-investing/palmy-equity-research",
-            "title": "IDX、EFT、ENTs解析器(SEC/Edgar/股票研究)",
-            "date_modified": "2025-10-06T17:10:38.000Z"
-        },
-        {
-            "id": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
-            "content_html": "德勤同意向澳大利亚政府退款，因为其使用AI生成的报告包含大量错误信息。这起事件引发了关于AI在专业服务中应用的担忧，特别是在需要高度准确性的政府合同中。文章分析了AI幻觉问题的根源，讨论了企业在使用AI工具时应该采取的验证和质量控制措施，以及这一事件对AI在商业应用中信任度的影响。 [<a href=\"https://news.ycombinator.com/item?id=45493569\" target=\"_blank\">评论</a>]",
-            "url": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
-            "title": "德勤将就AI幻觉报告向澳大利亚政府退款",
-            "date_modified": "2025-10-06T17:10:30.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=zVZTX35KcL4",
-            "content_html": "这个自然纪录片视频展示了蜜蜂从卵到成虫的完整生命周期。通过微距摄影技术，观众可以近距离观察蜜蜂在蜂房中的发育过程，包括幼虫阶段、化蛹和最终羽化成蜂的过程。视频还介绍了蜂群的社会结构和不同角色，以及蜜蜂对生态系统的重要作用，为观众提供了深入了解这些神奇昆虫的机会。 [<a href=\"https://news.ycombinator.com/item?id=45493548\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=zVZTX35KcL4",
-            "title": "蜜蜂的诞生[视频]",
-            "date_modified": "2025-10-06T17:08:50.000Z"
-        },
-        {
-            "id": "https://camfer.dev/download/",
-            "content_html": "Camfer是一个AI驱动的CAD设计助手，旨在帮助工程师和设计师提高工作效率。这个工具能够理解自然语言指令，协助创建和修改CAD模型，提供设计建议，并自动化重复性任务。网站展示了产品的核心功能和使用场景，强调了AI在传统工程设计软件中的应用潜力，为CAD用户提供了智能化的辅助工具。 [<a href=\"https://news.ycombinator.com/item?id=45493543\" target=\"_blank\">评论</a>]",
-            "url": "https://camfer.dev/download/",
-            "title": "Show HN：Camfer – 一个AI CAD副驾驶",
-            "date_modified": "2025-10-06T17:08:23.000Z"
-        },
-        {
-            "id": "https://iaziz786.com/blog/keep-working-on-wrong-ideas/",
-            "content_html": "这篇博客文章探讨了坚持看似错误想法的价值。作者认为，很多创新都来自于最初被认为是错误的思路，通过持续改进和调整，这些想法可能最终产生突破性成果。文章通过历史案例和个人经历，说明了质疑传统 wisdom、保持开放思维的重要性，鼓励读者不要轻易放弃 unconventional 的想法，因为它们可能是通往创新的必经之路。 [<a href=\"https://news.ycombinator.com/item?id=45493530\" target=\"_blank\">评论</a>]",
-            "url": "https://iaziz786.com/blog/keep-working-on-wrong-ideas/",
-            "title": "坚持错误的想法",
-            "date_modified": "2025-10-06T17:07:39.000Z"
-        },
-        {
-            "id": "https://www.xharbour.org/",
-            "content_html": "XHarbour是一个开源的数据库编程语言，是经典Clipper语言的现代扩展。这个项目保持了Clipper的简洁性和高效性，同时添加了现代编程语言的特性，如面向对象编程、跨平台支持和更好的内存管理。网站提供了完整的文档、下载链接和社区资源，为需要维护Legacy系统或开发新数据库应用的开发者提供了一个强大的工具选择。 [<a href=\"https://news.ycombinator.com/item?id=45493529\" target=\"_blank\">评论</a>]",
-            "url": "https://www.xharbour.org/",
-            "title": "XHarbour – 开源扩展Clipper语言",
-            "date_modified": "2025-10-06T17:07:39.000Z"
-        },
-        {
-            "id": "https://www.nrel.gov/pv/interactive-cell-efficiency",
-            "content_html": "这是美国国家可再生能源实验室(NREL)提供的交互式图表，展示了各种太阳能电池技术的历史效率记录。用户可以通过这个工具探索不同光伏技术的发展历程，比较各种材料体系的效率表现，了解最新的技术突破。图表数据详实，更新及时，为太阳能研究人员、工程师和学生提供了权威的技术参考资源。 [<a href=\"https://news.ycombinator.com/item?id=45493523\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nrel.gov/pv/interactive-cell-efficiency",
-            "title": "交互式最佳研究电池效率图表",
-            "date_modified": "2025-10-06T17:07:17.000Z"
-        },
-        {
-            "id": "https://www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
-            "content_html": "这篇文章批评了OpenAI对其Sora视频生成模型用户的知识产权承诺。作者认为，OpenAI声称的保护用户IP的承诺在实际执行中存在诸多限制和漏洞，许多创作者发现他们的作品被用于训练而未得到适当补偿。文章分析了AI公司IP政策的复杂性，讨论了创作者权益保护在AI时代面临的挑战，呼吁更透明和公平的知识产权框架。 [<a href=\"https://news.ycombinator.com/item?id=45493514\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
-            "title": "OpenAI的IP承诺对Sora输家来说空洞无物",
-            "date_modified": "2025-10-06T17:06:42.000Z"
-        },
-        {
-            "id": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
-            "content_html": "这篇新闻报道了环保活动家格蕾塔·通贝里在以色列被拘留的事件，据称她被关押在卫生条件恶劣的牢房中。文章详细描述了事件的经过，包括通贝里参与的相关抗议活动、以色列当局的回应，以及瑞典政府和国际社会的反应。这一事件引发了关于人权、言论自由和国际政治争议的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45493498\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
-            "title": "以色列被指控在受感染的牢房中拘留格蕾塔·通贝里",
-            "date_modified": "2025-10-06T17:05:39.000Z"
-        },
-        {
-            "id": "https://www.blossom88.com",
-            "content_html": "Blossom是一个开源的部署平台，提供了类似Heroku的用户体验，但允许用户在自己的服务器上运行。这个平台旨在解决云服务vendor lock-in的问题，同时保持部署的简单性。网站介绍了如何通过Blossom实现一键部署、自动扩展和管理应用，强调了成本控制、数据主权和技术自由的优势，为寻找云服务替代方案的开发者提供了实用选择。 [<a href=\"https://news.ycombinator.com/item?id=45493480\" target=\"_blank\">评论</a>]",
-            "url": "https://www.blossom88.com",
-            "title": "Blossom – 在您的服务器上进行类似Heroku的部署；更便宜，无锁定",
-            "date_modified": "2025-10-06T17:03:41.000Z"
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Citizenship_in_a_Republic",
-            "content_html": "这个维基百科条目详细介绍了西奥多·罗斯福1910年在巴黎索邦大学发表的著名演讲《竞技场中的人》。文章提供了演讲的完整文本、历史背景和分析，解释了&quot;批评家并不重要&quot;这一著名论断的深层含义。条目还探讨了这一演讲对美国政治文化的影响，以及它在当代社会中的现实意义，展现了公共服务和公民责任的永恒价值。 [<a href=\"https://news.ycombinator.com/item?id=45493471\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Citizenship_in_a_Republic",
-            "title": "竞技场中的人",
-            "date_modified": "2025-10-06T17:03:05.000Z"
         }
     ]
 }
