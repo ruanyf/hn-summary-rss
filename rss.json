@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-            "content_html": "DeepMind 推出了 CodeMender，一个专用于代码安全的 AI 代理。它利用先进的 AI 技术，能够主动发现并修复代码中的安全漏洞，帮助开发者在开发流程中提升软件的安全性，防范潜在的网络攻击，从而增强开发效率和代码质量。 [<a href=\"https://news.ycombinator.com/item?id=45496533\" target=\"_blank\">评论</a>]",
-            "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-            "title": "DeepMind：CodeMender：一个用于代码安全的AI代理",
-            "date_modified": "2025-10-06T21:28:56.000Z"
+            "id": "https://nypost.com/2025/10/06/business/trump-urged-to-double-down-on-antitrust-crackdown-resist-pressures-to-settle-in-plea-from-business-groups/",
+            "content_html": "商业团体致信特朗普总统，敦促他继续对谷歌和Ticketmaster等科技巨头进行反垄断打击，不要屈服于和解压力。信中强调，这些公司的垄断行为损害了市场竞争和消费者利益，需要坚决执法。多个商业协会联合呼吁政府保持强硬立场，确保公平竞争环境，防止大型科技公司滥用市场支配地位。这封信反映了商界对科技垄断问题的持续关注和对政府监管行动的支持。 [<a href=\"https://news.ycombinator.com/item?id=45497585\" target=\"_blank\">评论</a>]",
+            "url": "https://nypost.com/2025/10/06/business/trump-urged-to-double-down-on-antitrust-crackdown-resist-pressures-to-settle-in-plea-from-business-groups/",
+            "title": "美国总统被敦促'抵制压力'，不要对谷歌和Ticketmaster手软",
+            "date_modified": "2025-10-06T23:42:03.000Z"
         },
         {
-            "id": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-            "content_html": "本文探讨了在 WebGPU 中编译 WGSL（WebGPU 着色语言）所带来的性能开销。文章分析了编译过程对应用启动时间和运行时性能的具体影响，并讨论了相关的诊断工具和可能的优化策略，旨在帮助开发者更好地理解和优化其 WebGPU 应用的性能表现。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
-            "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-            "title": "WebGPU 和编译 WGSL 的代价",
-            "date_modified": "2025-10-06T21:14:51.000Z"
+            "id": "https://stevesrantsnraves.blogspot.com/2024/09/why-you-probably-dont-need-vpn.html",
+            "content_html": "文章探讨了VPN服务的实际必要性，指出大多数普通用户在日常使用中并不真正需要VPN。作者分析了VPN的常见使用场景，如隐私保护、绕过地理限制等，认为现代浏览器和网站已经提供了足够的安全加密。文章还提到VPN可能带来的性能损失和成本问题，建议用户根据实际需求选择，而不是盲目跟风。对于一般浏览和购物，HTTPS已经提供了足够的保护。 [<a href=\"https://news.ycombinator.com/item?id=45497578\" target=\"_blank\">评论</a>]",
+            "url": "https://stevesrantsnraves.blogspot.com/2024/09/why-you-probably-dont-need-vpn.html",
+            "title": "你可能不需要VPN",
+            "date_modified": "2025-10-06T23:41:27.000Z"
         },
         {
-            "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-            "content_html": "Riot Games 详细阐述了《无畏契约》采用 128-tick 服务器的技术决策。文章解释了高 tick 率（服务器每秒更新游戏状态的次数）如何确保更精确、更频繁的游戏同步，从而减少延迟和不公，为竞技玩家提供更公平、更响应迅速的在线射击体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
-            "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-            "title": "《无畏契约》的 128-Tick 服务器（2020）",
-            "date_modified": "2025-10-06T20:47:25.000Z"
+            "id": "https://arxiv.org/abs/2509.09689",
+            "content_html": "这篇研究论文提出了一种使用低秩适配器（LoRA）技术来微调小型语言模型的新方法，旨在有效模拟特定用户的行为模式。研究者通过在预训练模型上添加低秩矩阵，实现了参数高效的个性化适配，大幅降低了计算成本。实验结果表明，该方法在用户行为预测任务中表现出色，能够捕捉用户的语言偏好和交互模式。这项技术为个性化AI助手和推荐系统提供了新的解决方案，在保持模型性能的同时显著减少了训练资源需求。 [<a href=\"https://news.ycombinator.com/item?id=45497568\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.09689",
+            "title": "使用低秩适配器微调小型语言模型以模拟用户行为",
+            "date_modified": "2025-10-06T23:40:50.000Z"
         },
         {
-            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "content_html": "这篇文章记录了首次尝试将 scikit-learn 库中的 Cython 代码翻译成 Mojo 语言的实践。作者以 DBSCAN 算法的核心内循环为例，分享了翻译过程中遇到的挑战、初步的性能对比结果，并探讨了 Mojo 作为 Python 高性能计算替代方案的潜力。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
-            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "title": "尝试将 Cython 翻译成 Mojo",
-            "date_modified": "2025-10-06T20:09:44.000Z"
+            "id": "https://github.com/LGUG2Z/komorebi",
+            "content_html": "Komorebi是一个专为Windows系统设计的平铺式窗口管理器，提供了类似Linux环境下i3或Sway的窗口管理体验。该工具支持键盘快捷键操作，可以自动排列和管理窗口，提高工作效率。Komorebi具有高度可配置性，用户可以自定义布局、快捷键和工作区设置。它支持多显示器环境，并提供API接口供其他应用程序集成。作为开源项目，Komorebi为Windows用户带来了强大的窗口管理功能，特别适合开发者和需要同时处理多个窗口的专业用户。 [<a href=\"https://news.ycombinator.com/item?id=45497551\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/LGUG2Z/komorebi",
+            "title": "Komorebi：Windows平铺式窗口管理器",
+            "date_modified": "2025-10-06T23:37:54.000Z"
         },
         {
-            "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "content_html": "这篇文章探讨了视错觉词的艺术形式，即词语或短语被设计成可以从不同视角（如旋转180度）解读成相同或不同的词。作者分享了自己与这种艺术的个人联系，并讨论了它如何巧妙地融合了语言学、设计和视觉感知，创造出独特的双重含义。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "title": "我在视错觉词（Ambigrammia）中的生活",
-            "date_modified": "2025-10-06T20:07:25.000Z"
+            "id": "https://boilingsteam.com/portable-gaming-take-away-from-tokyo-game-show-2025/",
+            "content_html": "2025年东京电玩展展示了便携式游戏设备的最新发展趋势。各大厂商纷纷推出新一代掌机，强调性能提升和续航优化。Steam Deck的竞争对手们带来了更轻薄的机身设计，同时保持了强大的游戏性能。展会还突出了云游戏在便携设备上的应用，以及跨平台游戏体验的改善。日本厂商特别注重本地化游戏内容和独特的游戏玩法创新。整体来看，便携式游戏市场正朝着更专业化、多样化的方向发展，为玩家提供更丰富的移动游戏选择。 [<a href=\"https://news.ycombinator.com/item?id=45497528\" target=\"_blank\">评论</a>]",
+            "url": "https://boilingsteam.com/portable-gaming-take-away-from-tokyo-game-show-2025/",
+            "title": "2025东京电玩展便携式游戏设备观察总结",
+            "date_modified": "2025-10-06T23:33:46.000Z"
         },
         {
-            "id": "https://developers.openai.com/apps-sdk/",
-            "content_html": "OpenAI 推出了 Apps SDK，这是一个软件开发工具包，旨在简化构建和集成 OpenAI 模型到应用程序中的过程。该 SDK 提供了统一的接口，用于管理 API 调用、处理状态和编排工作流，使开发者能更轻松地创建功能强大的 AI 驱动应用。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
-            "url": "https://developers.openai.com/apps-sdk/",
-            "title": "Apps SDK",
-            "date_modified": "2025-10-06T18:27:33.000Z"
+            "id": "https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/",
+            "content_html": "文章深入分析了甲骨文公司创始人拉里·埃里森在特朗普政府中的影响力。作为科技界的重要人物，埃里森通过其政治捐款和商业网络，在政策制定中发挥着重要作用。报道揭示了埃里森与政府官员的密切关系，特别是在科技政策和数据安全领域的决策影响。文章探讨了这种科技巨头与政治权力结合的现象，以及其对民主治理的潜在影响。埃里森被描述为在幕后施加影响的重要人物，其商业利益与政策制定之间的界限变得模糊。 [<a href=\"https://news.ycombinator.com/item?id=45497511\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/",
+            "title": "拉里·埃里森是特朗普美国中的'影子总统'",
+            "date_modified": "2025-10-06T23:31:39.000Z"
         },
         {
-            "id": "https://github.com/openai/chatkit-js",
-            "content_html": "OpenAI 在 GitHub 上开源了 ChatKit，一个用于构建聊天界面的 JavaScript 库。它提供了一系列预构建的 UI 组件、消息处理逻辑和与 OpenAI API 的便捷集成，旨在帮助开发者快速搭建功能完善、体验良好的聊天机器人或对话式 AI 应用。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/openai/chatkit-js",
-            "title": "OpenAI ChatKit",
-            "date_modified": "2025-10-06T17:23:20.000Z"
+            "id": "https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42",
+            "content_html": "OpenAI与AMD达成重要合作协议，标志着AI芯片市场格局的重大变化。根据协议，AMD将为OpenAI提供定制化的AI芯片解决方案，减少对NVIDIA的依赖。这一合作反映了AI行业对供应链多元化的迫切需求，以及降低计算成本的持续努力。AMD的加入将为AI训练和推理提供更多选择，促进市场竞争。分析师认为，这一交易将加速AI技术的普及，为更多企业提供可负担的AI计算能力。这也预示着AI硬件市场进入更加多元化的竞争阶段。 [<a href=\"https://news.ycombinator.com/item?id=45497497\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42",
+            "title": "OpenAI与AMD宣布计算合作，标志着AI繁荣新阶段",
+            "date_modified": "2025-10-06T23:30:20.000Z"
         },
         {
-            "id": "https://up.codes/careers?utm_source=HN",
-            "content_html": "UpCodes，一家 Y Combinator S17 孵化的公司，正在招聘位于美洲各地的远程工程师。该公司提供建筑规范合规管理软件，旨在吸引有才华的工程师加入团队，共同开发用于简化建筑业法规遵循流程的技术工具。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
-            "url": "https://up.codes/careers?utm_source=HN",
-            "title": "UpCodes (YC S17) 正在招聘美洲地区的远程工程师",
-            "date_modified": "2025-10-06T17:01:31.000Z"
+            "id": "https://www.telegraph.co.uk/world-news/2025/10/06/hamas-demand-release-oct-7-attackers-exchange-for-hostages/",
+            "content_html": "据报道，哈马斯在停火谈判中提出要求释放参与去年10月7日袭击事件的武装分子，作为交换人质的条件。这一要求引起了国际社会的强烈反应，多国政府表示难以接受。谈判陷入僵局，人道主义危机持续加剧。以色列方面坚决拒绝释放被认定为恐怖分子的袭击参与者。这一争议凸显了冲突各方在核心问题上的深刻分歧，也使和平进程面临新的挑战。国际调解方正努力寻找折中方案，但前景不容乐观。 [<a href=\"https://news.ycombinator.com/item?id=45497487\" target=\"_blank\">评论</a>]",
+            "url": "https://www.telegraph.co.uk/world-news/2025/10/06/hamas-demand-release-oct-7-attackers-exchange-for-hostages/",
+            "title": "哈马斯据报要求释放参与10月7日大屠杀的武装分子",
+            "date_modified": "2025-10-06T23:29:26.000Z"
         },
         {
-            "id": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "content_html": "Ladybird 浏览器项目在 web-platform-tests（网络平台测试）兼容性测试中，成功通过了 Apple 的 90% 支持度阈值。这标志着该开源浏览器在与 Safari 兼容的 Web 标准实现方面取得了重大进展，是其发展历程中的一个重要里程碑。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
-            "url": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "title": "Ladybird 在 web-platform-tests 上通过了 Apple 90% 的阈值",
-            "date_modified": "2025-10-06T16:52:58.000Z"
+            "id": "https://passt.top/passt/about/",
+            "content_html": "Passt是一个轻量级的网络传输工具，提供了简单的Socket传输解决方案。该项目旨在为容器和虚拟机环境提供高效的网络连接，同时保持最小的资源占用。Passt支持TCP和UDP协议，能够处理复杂的网络场景。它特别适合在无根容器环境中使用，提供了传统网络栈的替代方案。项目强调安全性和性能，通过优化的网络路径减少延迟。Passt的开源特性使其能够被广泛采用和定制，为现代云计算和容器化部署提供了灵活的网络解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45497474\" target=\"_blank\">评论</a>]",
+            "url": "https://passt.top/passt/about/",
+            "title": "Passt – 插入简单Socket传输",
+            "date_modified": "2025-10-06T23:27:01.000Z"
         },
         {
-            "id": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "content_html": "报告指出，平均每天有 1 到 2 颗星链卫星完成使命后脱离轨道并返回地球大气层。SpaceX 设计这些卫星时已考虑其寿命终结时的处理，确保它们在再入过程中能完全燃烧殆尽，以最大限度地减少太空碎片和对地面的风险。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
-            "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "title": "每天有一到两颗星链卫星坠回地球",
-            "date_modified": "2025-10-06T16:32:30.000Z"
+            "id": "https://zenodo.org/records/17282291",
+            "content_html": "这项研究探讨了在希尔伯特空间中应用随机梯度下降算法的理论基础和实际应用。研究者扩展了传统的欧几里得空间中的优化方法，将其推广到更一般的希尔伯特空间框架下。论文详细分析了算法的收敛性、稳定性和计算效率。这项工作对函数优化、机器学习和信号处理等领域具有重要意义，特别是在处理无限维问题时提供了新的理论工具。研究还包含了数值实验，验证了理论分析的正确性，并展示了在实际问题中的应用潜力。 [<a href=\"https://news.ycombinator.com/item?id=45497464\" target=\"_blank\">评论</a>]",
+            "url": "https://zenodo.org/records/17282291",
+            "title": "Show HN: 希尔伯特空间中的随机梯度",
+            "date_modified": "2025-10-06T23:25:43.000Z"
         },
         {
-            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "content_html": "Meta（Facebook）开源了 OpenZL，一个格式感知的压缩框架。与通用压缩算法不同，OpenZL 能够根据特定数据格式（如图像、视频、文本）的特性进行优化，从而实现更高的压缩率和更快的处理速度，为开发者提供了高效的压缩解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
-            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "title": "OpenZL：一个开源的格式感知压缩框架",
-            "date_modified": "2025-10-06T16:01:58.000Z"
+            "id": "https://www.sfgate.com/tech/article/openai-sora-video-copyright-wall-21087396.php",
+            "content_html": "OpenAI推出的新应用Sora引发了用户强烈不满，主要原因是版权保护措施过于严格。用户反映该视频生成工具设置了过多的使用限制，包括内容审核机制和版权检测墙，严重影响了创作自由。许多创作者表示，这些限制使得工具的实际应用价值大打折扣。OpenAI方面表示，这些措施是为了防止版权侵权和不当内容生成，但用户认为过于保守。这一事件引发了关于AI工具版权保护与创作自由平衡的广泛讨论，也反映了AI公司在法律风险控制方面的谨慎态度。 [<a href=\"https://news.ycombinator.com/item?id=45497453\" target=\"_blank\">评论</a>]",
+            "url": "https://www.sfgate.com/tech/article/openai-sora-video-copyright-wall-21087396.php",
+            "title": "OpenAI新应用惹怒用户",
+            "date_modified": "2025-10-06T23:24:21.000Z"
         },
         {
-            "id": "https://getgrapevine.ai/",
-            "content_html": "Grapevine，一家由 Y Combinator S19 孵化的公司，推出了一款旨在为企业提供高效、精准 AI 助手的公司级 GPT 平台。该产品专注于整合企业内部知识库，提供安全、可控的生成式 AI 服务，以自动化工作流程并提升员工生产力。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
-            "url": "https://getgrapevine.ai/",
-            "title": "Launch HN: Grapevine (YC S19) – 一个真正好用的公司级 GPT",
-            "date_modified": "2025-10-06T15:39:59.000Z"
+            "id": "https://juanpabloaj.com/2025/10/06/life-as-an-accelerator-of-caos/",
+            "content_html": "这篇博客文章以独特视角探讨了生活中混沌与秩序的关系。作者将人生比作混沌加速器，认为不确定性实际上是成长和创新的催化剂。文章分享了个人的经历，说明如何在不稳定的环境中找到机会和意义。作者强调，接受混沌并学会在其中导航，比追求完美的秩序更能带来真实的成长。文章还提供了实用的心理技巧，帮助读者在面对不确定性时保持平衡。这篇反思性文章为现代人在快速变化的世界中寻找立足点提供了新的思考框架。 [<a href=\"https://news.ycombinator.com/item?id=45497446\" target=\"_blank\">评论</a>]",
+            "url": "https://juanpabloaj.com/2025/10/06/life-as-an-accelerator-of-caos/",
+            "title": "Show HN: 混沌加速器的人生",
+            "date_modified": "2025-10-06T23:23:13.000Z"
         },
         {
-            "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "Mise（一个开发环境管理工具）正在讨论其关于 monorepo（单体仓库）任务管理的新功能。该功能旨在简化和统一在包含多个子项目的大型代码库中定义、执行和管理开发任务（如测试、构建、部署）的流程，提升开发效率。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo 任务管理",
-            "date_modified": "2025-10-06T14:07:46.000Z"
+            "id": "https://github.com/alasano/sora-2-playground",
+            "content_html": "Sora 2本地测试环境是一个开源项目，为开发者提供了在本地环境中测试和实验Sora 2视频生成模型的工具。该项目简化了模型部署流程，提供了友好的用户界面和API接口。开发者可以通过这个测试环境快速验证视频生成效果，调整参数，并进行性能测试。项目包含了详细的文档和示例代码，降低了使用门槛。这个本地测试环境特别适合研究人员和开发者进行原型开发和实验，避免了云端部署的复杂性和成本。项目持续更新，跟进Sora模型的最新功能。 [<a href=\"https://news.ycombinator.com/item?id=45497439\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/alasano/sora-2-playground",
+            "title": "Sora 2本地测试环境",
+            "date_modified": "2025-10-06T23:22:18.000Z"
         },
         {
-            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这个 GitHub Gist 展示了如何用大约 400 行 C 代码实现一个 R. Kent Dybvig 风格的 Scheme 虚拟机，并采用了堆内存模型。这是一个精巧的项目，旨在演示如何从底层构建一个功能完备的 Lisp 方言解释器，是学习编程语言实现的绝佳范例。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
-            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN: Kent Dybvig 的 Scheme 虚拟机，用 400 行 C 语言实现（堆内存模型）",
-            "date_modified": "2025-10-06T14:06:29.000Z"
+            "id": "https://www.sciencedirect.com/science/article/pii/S1665268124003491",
+            "content_html": "最新研究揭示了软饮料消费与非酒精性脂肪肝病（NAFLD）之间的强关联。研究发现，经常饮用含糖软饮料的人群患NAFLD的风险显著增加。研究分析了大量样本数据，考虑了年龄、性别、BMI等多种影响因素。结果表明，即使是适量饮用软饮料也可能增加肝脏脂肪积累的风险。研究者建议减少软饮料摄入，选择更健康的饮品替代。这项研究为公共健康政策提供了重要参考，强调了饮食干预在预防代谢性疾病中的重要性。研究还呼吁食品工业减少产品中的糖分含量。 [<a href=\"https://news.ycombinator.com/item?id=45497430\" target=\"_blank\">评论</a>]",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1665268124003491",
+            "title": "软饮料消费与非酒精性脂肪肝病风险增加相关",
+            "date_modified": "2025-10-06T23:20:53.000Z"
         },
         {
-            "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "content_html": "路透社报道，AMD 与 OpenAI 签署了一项 AI 芯片供应协议。作为交易的一部分，OpenAI 获得了一项期权，可以选择收购 AMD 公司高达 10% 的股份。此举旨在加强 OpenAI 的 AI 芯片供应链多样性，并可能减少对现有主要供应商的依赖。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
-            "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "title": "AMD 与 OpenAI 签署 AI 芯片供应协议，并获得收购其 10% 股份的期权",
-            "date_modified": "2025-10-06T12:17:59.000Z"
+            "id": "https://wxiaoyun.com/blog/rust-rewrite-case-study/",
+            "content_html": "这个案例研究详细介绍了使用Rust语言重写关键服务的成功经验。项目实现了性能翻倍，同时节省了30万美元的运营成本。文章对比了原系统（使用Python/Node.js）与Rust版本在内存使用、CPU利用率和响应时间等方面的差异。Rust的内存安全特性和零成本抽象带来了显著的性能提升。团队分享了迁移过程中的挑战和解决方案，包括并发处理、错误处理和生态系统选择。案例还讨论了Rust在团队中的学习曲线和长期维护优势。这个成功案例为其他考虑Rust迁移的团队提供了宝贵的实践经验。 [<a href=\"https://news.ycombinator.com/item?id=45497426\" target=\"_blank\">评论</a>]",
+            "url": "https://wxiaoyun.com/blog/rust-rewrite-case-study/",
+            "title": "2倍性能提升，节省30万美元：用Rust重写关键服务的案例研究",
+            "date_modified": "2025-10-06T23:19:59.000Z"
         },
         {
-            "id": "https://www.monsterwriter.com",
-            "content_html": "Monsterwriter 是一个专为撰写技术报告、学术论文和科学文档而设计的在线平台。它提供了强大的排版功能、参考文献管理、版本控制和协作工具，旨在为研究人员和工程师提供一个比传统文字处理器更高效、更专业的写作环境。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
-            "url": "https://www.monsterwriter.com",
-            "title": "Show HN: 我构建了一个用于撰写技术/科学文档的平台",
-            "date_modified": "2025-10-06T10:58:14.000Z"
+            "id": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+            "content_html": "在OpenAI开发者大会上，CEO奥特曼就演示合作伙伴公司的异常股价波动发表了评论。他称这些股价变动为&quot;奇怪&quot;，强调OpenAI不参与市场投机。大会展示了多项新技术和产品更新，包括改进的API和新的开发者工具。奥特曼还与前苹果设计师乔尼·艾维讨论了AI产品设计的未来。现场演示了多个实际应用案例，展示了OpenAI技术的最新进展。大会吸引了全球开发者的关注，讨论了AI伦理、安全和商业化等热门话题。奥特曼重申了OpenAI对负责任AI发展的承诺。 [<a href=\"https://news.ycombinator.com/item?id=45497394\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+            "title": "OpenAI DevDay直播：奥特曼评论演示公司'奇怪'的股价波动",
+            "date_modified": "2025-10-06T23:17:06.000Z"
         },
         {
-            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "content_html": "此页面为 2025 年诺贝尔生理学或医学奖的官方新闻发布会页面。根据诺贝尔奖的惯例，获奖名单及成就通常在每年 10 月初公布。该页面将在正式公布时更新，详细介绍获奖者及其对该领域的杰出贡献。目前，奖项信息尚未发布。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "title": "2025年诺贝尔生理学或医学奖",
-            "date_modified": "2025-10-06T09:41:16.000Z"
+            "id": "https://phys.org/news/2025-10-nanochips-physicists-redefine.html",
+            "content_html": "物理学家在热传导研究方面取得突破性进展，重新定义了从宏观引擎到纳米芯片尺度的热传递机制。研究团队发现了新的热传导定律，适用于不同尺度的系统。这一发现对纳米技术的发展具有重要意义，特别是在芯片散热和热管理方面。研究结合了理论分析和实验验证，揭示了量子效应在纳米尺度热传导中的关键作用。这项成果有望推动更高效的能源转换设备和更快的计算芯片设计。研究还预测了在极端条件下的热传导行为，为未来技术发展提供了理论基础。 [<a href=\"https://news.ycombinator.com/item?id=45497385\" target=\"_blank\">评论</a>]",
+            "url": "https://phys.org/news/2025-10-nanochips-physicists-redefine.html",
+            "title": "从引擎到纳米芯片：物理学家重新定义热传导方式",
+            "date_modified": "2025-10-06T23:15:49.000Z"
         },
         {
-            "id": "https://gem.coop/",
-            "content_html": "Gem.coop 是一个致力于支持和推广合作社模式的平台或组织。它可能为合作社提供相关的资源、教育、网络连接和技术工具，旨在倡导民主、公平和可持续的商业实践，帮助成员共同拥有和管理他们的企业，实现共同繁荣。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
-            "url": "https://gem.coop/",
-            "title": "Gem.coop",
-            "date_modified": "2025-10-06T04:59:39.000Z"
+            "id": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+            "content_html": "微软继续加强对Windows 11本地账户绕过方法的封堵，修复了多个允许用户跳过微软账户登录的漏洞。这些措施包括更新安装程序和改进账户验证流程。微软表示，这些改动是为了提高安全性和提供更好的用户体验。然而，一些用户对强制使用微软账户的做法表示不满，认为这限制了隐私和自主权。技术社区不断寻找新的绕过方法，形成了持续的猫鼠游戏。这一争议反映了软件厂商在安全控制和用户自主权之间的平衡难题。微软的做法也引发了关于数字主权和数据隐私的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45497384\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+            "title": "微软正在修补更多让你无需微软账户即可使用Windows 11的漏洞",
+            "date_modified": "2025-10-06T23:15:26.000Z"
         },
         {
-            "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-            "content_html": "这篇《纽约时报》的文章讲述了一个令人心碎的案例：一名患者在急诊室被诊断为“只是病毒”，几天后不幸离世。文章深入探讨了医疗体系中可能存在的诊断疏忽、沟通障碍以及对患者症状未能给予足够重视的系统性问题。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-            "title": "急诊室告诉他“只是个病毒”——几天后，他去世了",
-            "date_modified": "2025-10-06T03:57:26.000Z"
+            "id": "https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/",
+            "content_html": "Servo GTK项目宣布了重要进展，将Servo浏览器引擎与GTK工具包集成，为Linux桌面环境提供了新的渲染选项。这个集成利用了Servo的并行渲染架构和GTK的成熟界面框架，提供了高性能的网页浏览体验。项目重点优化了内存使用和渲染速度，特别适合资源受限的环境。开发者介绍了API设计和插件架构，便于应用集成。Servo GTK还支持现代Web标准，包括CSS Grid和WebAssembly。这个开源项目为浏览器多样性和Linux生态系统发展贡献力量，为用户提供了除主流浏览器外的更多选择。 [<a href=\"https://news.ycombinator.com/item?id=45497380\" target=\"_blank\">评论</a>]",
+            "url": "https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/",
+            "title": "Servo GTK",
+            "date_modified": "2025-10-06T23:14:34.000Z"
         },
         {
-            "id": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
-            "content_html": "《华尔街日报》报道，Sharpie（思笔乐）品牌通过优化其美国本土的生产流程，成功降低了著名马克笔的制造成本。文章探讨了其背后的供应链管理、生产自动化和策略调整，这一案例挑战了将制造业外包至海外总是更经济的传统观念。 [<a href=\"https://news.ycombinator.com/item?id=45480354\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
-            "title": "Sharpie 找到了通过在美国制造来降低笔支成本的方法",
-            "date_modified": "2025-10-05T10:01:00.000Z"
+            "id": "https://tmo.report/2025/10/exclusive-t-mobile-to-begin-lte-phase-out/",
+            "content_html": "T-Mobile宣布计划开始逐步淘汰LTE网络，为5G和未来技术腾出频谱资源。这一过渡将分阶段进行，首先从覆盖重叠的区域开始。运营商表示，LTE用户将需要升级到支持5G的设备，但会提供多种过渡方案和优惠措施。T Mobile强调，5G网络提供了更好的速度、延迟和容量优势。这一举措反映了行业向5G全面转型的趋势。分析师认为，这将加速5G普及和新技术应用的部署。T-Mobile承诺在过渡期间保持服务质量，并为受影响的客户提供支持。整个淘汰过程预计需要2-3年时间完成。 [<a href=\"https://news.ycombinator.com/item?id=45497379\" target=\"_blank\">评论</a>]",
+            "url": "https://tmo.report/2025/10/exclusive-t-mobile-to-begin-lte-phase-out/",
+            "title": "T-Mobile即将开始逐步淘汰LTE",
+            "date_modified": "2025-10-06T23:14:31.000Z"
         }
     ]
 }
