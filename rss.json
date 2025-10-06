@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence",
+            "content_html": "&quot;文章讨论了AI技术对经济可能带来的颠覆性影响，特别是那些次优AI系统可能导致的经济崩溃风险。作者警告说，未经充分测试的AI系统可能引发类似2008年金融危机的灾难性后果，强调了AI监管和安全性测试的紧迫性。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489951\" target=\"_blank\">评论</a>]",
+            "url": "https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence",
+            "title": "经济AI末日临近",
+            "date_modified": "2025-10-06T10:51:53.000Z"
+        },
+        {
+            "id": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+            "content_html": "&quot;文章分析了媒体报道的死亡原因与实际死亡统计数据之间的差距。研究发现，新闻倾向于报道罕见、引人注目的死亡事件，而忽略了最普遍的死亡原因如心脏病和癌症，导致公众对风险认知存在偏差。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489949\" target=\"_blank\">评论</a>]",
+            "url": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+            "title": "新闻报道反映我们的真实死因吗？",
+            "date_modified": "2025-10-06T10:51:51.000Z"
+        },
+        {
+            "id": "https://tech.marksblogg.com/icmm-mining-data.html",
+            "content_html": "&quot;文章介绍了一个全面的全球采矿数据集，该数据集整合了来自国际采矿和金属委员会(ICMM)的公开信息。该数据集涵盖了全球主要矿山的地理位置、所有者、运营规模、矿产类型和环境表现等多维度信息，为研究人员和政策制定者提供了宝贵的资源。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489925\" target=\"_blank\">评论</a>]",
+            "url": "https://tech.marksblogg.com/icmm-mining-data.html",
+            "title": "全球采矿数据集",
+            "date_modified": "2025-10-06T10:48:33.000Z"
+        },
+        {
+            "id": "https://aartaka.me/threading.html",
+            "content_html": "&quot;文章探讨了一种在函数式编程中实现代码组织和模块化的新方法，通过类似宏的线程模式，允许开发者以更直观的方式连接和组合函数。这种方法特别适用于需要处理复杂数据流和状态转换的场景，提高了代码的可读性和可维护性。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489913\" target=\"_blank\">评论</a>]",
+            "url": "https://aartaka.me/threading.html",
+            "title": "函数式线程&quot;宏&quot;",
+            "date_modified": "2025-10-06T10:46:23.000Z"
+        },
+        {
+            "id": "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch",
+            "content_html": "&quot;这是一个麻省理工学院的讲座视频，电气工程教授Gerald Sussman从工程学角度分析机械表的工作原理。他将机械表的各种复杂功能转化为电路和信号处理模型，展示了如何用工程思维理解和分析这一传统机械装置，为跨学科理解提供了独特视角。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489911\" target=\"_blank\">评论</a>]",
+            "url": "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch",
+            "title": "Gerald Sussman - 从电气工程视角看机械表",
+            "date_modified": "2025-10-06T10:46:12.000Z"
+        },
+        {
+            "id": "https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations",
+            "content_html": "&quot;文章报道了大量Disney+用户取消订阅的现象。这一趋势被认为与迪士尼最近的价格上调、内容库缩减以及竞争对手提供更优质内容有关。数据表明，迪士尼流媒体服务正面临严峻的挑战，可能需要重新审视其定价策略和内容战略以留住用户。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489904\" target=\"_blank\">评论</a>]",
+            "url": "https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations",
+            "title": "Disney+订阅者面临大规模取消浪潮",
+            "date_modified": "2025-10-06T10:44:38.000Z"
+        },
+        {
+            "id": "https://larr.net/p/cc.html",
+            "content_html": "&quot;文章批评了Git提交信息中广泛使用的Conventional Commits规范，认为这种格式虽然标准化了提交信息的结构，但实际上限制了开发者的表达自由，增加了不必要的复杂性，并可能掩盖了提交的真正意图。作者提出了更简洁灵活的提交信息编写方法。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489899\" target=\"_blank\">评论</a>]",
+            "url": "https://larr.net/p/cc.html",
+            "title": "传统提交信息被认为有害",
+            "date_modified": "2025-10-06T10:43:32.000Z"
+        },
+        {
+            "id": "https://discuss.python.org/t/pep-784-adding-zstandard-to-the-standard-library/87377",
+            "content_html": "&quot;讨论了Python官方已通过PEP 784提案，决定将Zstandard压缩库纳入Python标准库的3.14版本。Zstandard是一种由Facebook开发的高速压缩算法，具有优秀的压缩比和解压速度，被广泛应用于大数据场景。这一决定将使Python开发者能够更便捷地使用这一高效的压缩技术，无需额外安装依赖。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489891\" target=\"_blank\">评论</a>]",
+            "url": "https://discuss.python.org/t/pep-784-adding-zstandard-to-the-standard-library/87377",
+            "title": "Python将在3.14版本中将Zstandard加入标准库",
+            "date_modified": "2025-10-06T10:41:54.000Z"
+        },
+        {
+            "id": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+            "content_html": "&quot;文章探讨了如何利用多个AI编码代理并行开发应用程序的实践方法。作者描述了一种新的开发模式，通过同时部署多个专注于不同任务领域的AI代理，可以显著提高开发效率和质量，特别适合大型复杂项目的快速迭代开发。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489884\" target=\"_blank\">评论</a>]",
+            "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+            "title": "拥抱并行编码代理生活方式",
+            "date_modified": "2025-10-06T10:40:28.000Z"
+        },
+        {
+            "id": "https://github.com/scribeocr/scribeocr",
+            "content_html": "&quot;ScribeOCR是一个开源的Web应用程序，提供了简单易用的OCR(光学字符识别)功能，允许用户上传图像或PDF文件并从中提取文本。该工具支持多种语言，可以处理扫描文档、照片等多种格式，并可将结果导出为多种数字格式，为文档数字化提供了便捷解决方案。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489881\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/scribeocr/scribeocr",
+            "title": "ScribeOCR - 用于文本识别、OCR和创建数字化文档的Web界面",
+            "date_modified": "2025-10-06T10:39:50.000Z"
+        },
+        {
+            "id": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm",
+            "content_html": "&quot;这是一篇学术文章，探讨了赫尔曼·梅尔维尔经典小说《白鲸》中的数学元素和象征意义。作者分析了小说中反复出现的数字模式、几何形状和数学概念，揭示了这些元素如何增强了小说的主题深度和结构复杂性，展示了文学与数学之间的深刻联系。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489874\" target=\"_blank\">评论</a>]",
+            "url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm",
+            "title": "亚哈的算术：《白鲸》中的数学",
+            "date_modified": "2025-10-06T10:38:21.000Z"
+        },
+        {
+            "id": "https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens",
+            "content_html": "&quot;文章介绍了一种称为&quot;logit透镜&quot;的技术，用于深度理解大型语言模型(如GPT)的内部工作机制。该方法通过分析模型各层输出的logit(输入到激活函数前的值)，揭示了模型如何逐步构建和 refine 其输出，为AI模型的可解释性和透明度研究提供了新视角。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489867\" target=\"_blank\">评论</a>]",
+            "url": "https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens",
+            "title": "解读GPT：logit透镜",
+            "date_modified": "2025-10-06T10:37:47.000Z"
+        },
+        {
+            "id": "https://www.esa.int/Science_Exploration/Space_Science/Comet_Interceptor",
+            "content_html": "&quot;欧洲航天局(ESA)的&quot;彗星拦截器&quot;是一项创新的太空任务，旨在研究从未近距离观测过的&quot;全新&quot;彗星。该任务将发射三艘航天器组成编队，在彗星接近太阳但尚未被太阳强烈加热时进行探测，这将为我们提供关于太阳系早期状态和彗星形成过程的关键信息。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489849\" target=\"_blank\">评论</a>]",
+            "url": "https://www.esa.int/Science_Exploration/Space_Science/Comet_Interceptor",
+            "title": "&quot;彗星拦截器&quot;",
+            "date_modified": "2025-10-06T10:35:32.000Z"
+        },
+        {
+            "id": "https://www.theregister.com/2025/10/02/nz_itp_collapse/",
+            "content_html": "&quot;报道了新西兰IT专业协会(ITP)突然宣布破产的消息。该协会曾是国家IT行业的主要专业机构，提供认证、专业发展支持和行业联络服务。文章分析了破产原因，包括财务困难、会员流失和行业变化等因素，并探讨了这一事件对新西兰IT行业专业标准和认证体系的潜在影响。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489830\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/02/nz_itp_collapse/",
+            "title": "新西兰IT专业协会破产",
+            "date_modified": "2025-10-06T10:31:54.000Z"
+        },
+        {
             "id": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
-            "content_html": "一项新研究表明，探险家沙克尔顿的著名船只 endurance 沉没的真实原因并非之前认为的冰块挤压，而是船上使用的木材质量不合格。研究人员分析了船体残骸和当时的历史文档，发现船只在建造时就存在结构性缺陷，木材强度不足以应对南极的极端环境。这一发现重新评估了历史上著名的南极探险故事。 [<a href=\"https://news.ycombinator.com/item?id=45489813\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;文章详细分析了著名探险家沙克尔顿的&quot;坚忍号&quot;在南极沉没的科学原因。研究指出，除了已知的冰山碰撞外，木材缺陷和船体设计不足也是关键因素。这一发现挑战了传统认知，揭示了早期极地探险船只面临的工程挑战和风险。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489813\" target=\"_blank\">评论</a>]",
             "url": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
-            "title": "endurance 沉没的真实原因",
+            "title": "&quot;坚忍号&quot;沉没的真实原因",
             "date_modified": "2025-10-06T10:28:30.000Z"
         },
         {
             "id": "https://github.com/theotrama/vpn",
-            "content_html": "这个项目展示了一个用 Go 语言编写的最小化 VPN 实现。该实现简洁但功能完整，适合学习 VPN 工作原理和网络安全知识。代码采用模块化设计，包含基本的客户端和服务器端功能，支持自定义加密方式，适合作为学习或小型项目的起点。项目附带详细的文档和示例代码，帮助开发者理解 VPN 的核心概念。 [<a href=\"https://news.ycombinator.com/item?id=45489812\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;这是一个GitHub仓库，提供了一个用Go语言编写的简化版VPN实现。该项目旨在以最小化的代码展示VPN的核心功能，包括隧道建立、数据加密和路由等功能。作者表示这个项目主要是为了教育和学习目的，帮助开发者理解VPN的工作原理和实现方法，不推荐用于生产环境。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489812\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/theotrama/vpn",
-            "title": "HN 展示：用 Go 编写的一个最小化 VPN 实现",
+            "title": "&quot;展示HN：一个用Go语言编写的极简VPN实现&quot;",
             "date_modified": "2025-10-06T10:28:15.000Z"
         },
         {
             "id": "https://askrally.com/article/synthetic-personas-the-honest-pitch",
-            "content_html": "本文揭示了焦点小组研究的局限性，指出它们无法准确预测人们是否会购买产品。研究发现，焦点小组成员往往会提供他们认为研究人员希望听到的答案，而不是真实的购买意向。文章建议使用合成人物画像（synthetic personas）来替代传统的焦点小组，通过数据分析和市场研究创建更真实、更有代表性的用户模型。 [<a href=\"https://news.ycombinator.com/item?id=45489804\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;文章探讨了焦点小组调研的局限性，指出这些小组往往过度关注消费者是否会购买产品，而忽略了更重要的洞察。作者提出使用&quot;合成人物画像&quot;方法，通过数据分析创建更真实的用户画像，以获得关于用户行为和偏见的更深层次理解，从而制定更有效的产品策略。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489804\" target=\"_blank\">评论</a>]",
             "url": "https://askrally.com/article/synthetic-personas-the-honest-pitch",
-            "title": "焦点小组告诉你的事情（不是人们是否会购买）",
+            "title": "&quot;焦点小组告诉你的事情(与人们是否会购买无关)&quot;",
             "date_modified": "2025-10-06T10:26:36.000Z"
         },
         {
             "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "content_html": "德勤公司因在价值44万美元的政府报告中使用 AI 工具而被迫向澳大利亚政府退款。这份报告是关于澳大利亚国防军资源规划的，但德勤在未充分验证的情况下使用了 AI 生成的数据。政府强调，重要报告必须经过人工验证，不应过度依赖 AI。这一事件引发了对专业服务公司 AI 使用实践的质疑。 [<a href=\"https://news.ycombinator.com/item?id=45489794\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;报道了德勤会计师事务所因在向澳大利亚政府提交的一份价值44万澳元的研究报告中过度使用AI工具而被迫部分退款的事件。这一事件引发了对专业服务中使用AI工具的伦理和责任的广泛讨论，强调了在关键决策领域保持人类监督的重要性，以及对AI生成内容进行严格验证的必要性。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489794\" target=\"_blank\">评论</a>]",
             "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "title": "德勤因在44万美元报告中使用 AI 而向澳大利亚政府部分退款",
+            "title": "德勤因在44万澳元报告中使用AI而部分退款澳大利亚政府",
             "date_modified": "2025-10-06T10:24:45.000Z"
         },
         {
             "id": "https://phys.org/news/2025-10-real-sank-shackleton-knew-ship.html",
-            "content_html": "最新研究发现了 endurance 沉没的真实原因，并指出沙克尔顿船长实际上知道船只的结构缺陷。研究发现，沙克尔顿在航行中一直密切关注船体状况，并在日记中记录了对木材质量的担忧。这些发现挑战了以往对探险队的描述，显示沙克尔顿可能做出了一系列艰难决定来保护船员生命，而非简单地与自然力量抗争。 [<a href=\"https://news.ycombinator.com/item?id=45489793\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;科学研究表明，沙克尔顿可能早已知晓&quot;坚忍号&quot;存在的设计缺陷，但这些信息未被完整记录在历史档案中。最新研究通过分析船只构造材料、历史文献和现代模拟，揭示了船只在极端环境下可能面临的结构弱点，暗示探险队可能是在明知风险的情况下进行了这次历史性航行。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489793\" target=\"_blank\">评论</a>]",
             "url": "https://phys.org/news/2025-10-real-sank-shackleton-knew-ship.html",
-            "title": "Endurance 沉没的真实原因-研究发现沙克尔顿知道船只的缺陷",
+            "title": "&quot;坚忍号沉没的真正原因–研究发现沙克尔顿已知船只缺陷&quot;",
             "date_modified": "2025-10-06T10:24:42.000Z"
         },
         {
             "id": "https://www.theregister.com/2025/10/06/which_says_qualcomm_owes_uk/",
-            "content_html": "高通公司因在智能手机上收取高额&quot;专利税&quot;而面临英国监管机构的调查。竞争与市场管理局（CMA）指控高通滥用其在无线通信技术领域的市场主导地位，向设备制造商收取过高的专利许可费。这一调查可能对高通的商业模式产生重大影响，也可能导致手机价格下降。 [<a href=\"https://news.ycombinator.com/item?id=45489783\" target=\"_blank\">评论</a>]",
+            "content_html": "&quot;英国竞争与市场管理局(CMA)正在调查高通公司在智能手机芯片上的专利授权行为，指控其收取过高的专利费，限制了市场竞争。文章探讨了高通在无线通信技术专利市场的主导地位，以及这种市场力量如何影响整个智能手机行业的发展和创新，反映了专利授权领域持续存在的反垄断争议。&quot; [<a href=\"https://news.ycombinator.com/item?id=45489783\" target=\"_blank\">评论</a>]",
             "url": "https://www.theregister.com/2025/10/06/which_says_qualcomm_owes_uk/",
-            "title": "高通因智能手机上的&quot;专利税&quot;而受到指控",
+            "title": "&quot;高通因智能手机上的'专利税'而受到指控&quot;",
             "date_modified": "2025-10-06T10:23:06.000Z"
-        },
-        {
-            "id": "https://news.sky.com/story/apple-and-samsung-phone-users-could-get-compensation-13445789",
-            "content_html": "苹果和三星手机用户可能因不公平的定价行为而获得赔偿。一项集体诉讼指控这两家科技巨头在澳大利亚、英国和欧洲多个市场协调价格，避免竞争。如果诉讼成功，这些地区的智能手机购买者可能能够收回部分已支付的费用。该诉讼突显了大型科技公司面临日益增加的反垄断压力。 [<a href=\"https://news.ycombinator.com/item?id=45489766\" target=\"_blank\">评论</a>]",
-            "url": "https://news.sky.com/story/apple-and-samsung-phone-users-could-get-compensation-13445789",
-            "title": "苹果和三星手机用户可能获得赔偿",
-            "date_modified": "2025-10-06T10:19:54.000Z"
-        },
-        {
-            "id": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-            "content_html": "研究人员开发了一种新技术，可以为各种类型自动生成精益证明。这种方法结合了机器学习和形式化验证，大大减少了手动证明的需要，提高了形式化方法的实用性。这一突破可能对计算机科学基础研究、编程语言开发和软件安全验证等领域产生深远影响，使复杂的数学证明更加容易获取。 [<a href=\"https://news.ycombinator.com/item?id=45489761\" target=\"_blank\">评论</a>]",
-            "url": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-            "title": "每种类型的自动化精益证明",
-            "date_modified": "2025-10-06T10:19:04.000Z"
-        },
-        {
-            "id": "https://kevinlynagh.com/catalogs/",
-            "content_html": "作者分享了他2025年回归使用印刷目录购物的经验。在数字化和算法推荐主导的时代，他发现印刷目录提供了独特的好处：减少信息过载、增加发现意外产品的机会、以及更符合个人节奏的购物体验。这一反思挑战了数字技术必然优越的观点，提出在某些情况下，&quot;过时&quot;的解决方案可能更符合人类需求。 [<a href=\"https://news.ycombinator.com/item?id=45489759\" target=\"_blank\">评论</a>]",
-            "url": "https://kevinlynagh.com/catalogs/",
-            "title": "2025年我通过印刷目录购物",
-            "date_modified": "2025-10-06T10:18:55.000Z"
-        },
-        {
-            "id": "https://ohnotype.co/blog/ohno-type-school-a",
-            "content_html": "Ohno Type School 是一个专注于设计和开发高质量字体的教育项目。由著名字体设计师大野健一创立，学校结合了传统工艺和现代技术，教授学生如何创建既美观又功能强大的字体。该项目反映了数字设计中对高质量排版和字体艺术的持续重视。 [<a href=\"https://news.ycombinator.com/item?id=45489757\" target=\"_blank\">评论</a>]",
-            "url": "https://ohnotype.co/blog/ohno-type-school-a",
-            "title": "大野类型学校",
-            "date_modified": "2025-10-06T10:18:20.000Z"
-        },
-        {
-            "id": "https://www.thisiscolossal.com/2025/09/2025-nikon-small-world-in-motion-video-competition/",
-            "content_html": "尼康发布了2025年&quot;动态微观世界&quot;竞赛的获奖视频，这些作品展示了肉眼难以观察到的微观世界的运动之美。获奖作品包括各种生物、材料和自然现象的微观影像，采用先进显微技术捕捉。这些视频不仅具有艺术价值，也为科学研究提供了独特的视角，展示了科学探索与艺术表达的融合。 [<a href=\"https://news.ycombinator.com/item?id=45489752\" target=\"_blank\">评论</a>]",
-            "url": "https://www.thisiscolossal.com/2025/09/2025-nikon-small-world-in-motion-video-competition/",
-            "title": "尼康动态微观世界竞赛获奖视频",
-            "date_modified": "2025-10-06T10:17:32.000Z"
-        },
-        {
-            "id": "https://lumivapp.com/iphone-blue-light-filter",
-            "content_html": "本文详细介绍了如何在 iPhone 上关闭蓝光功能以改善睡眠质量和减轻眼睛疲劳。文章提供了多种方法，包括使用内置的&quot;夜览&quot;功能、安装第三方应用以及调整显示设置。作者解释了蓝光如何影响褪黑激素分泌和昼夜节律，并提供了不同场景下的最佳实践建议，帮助用户找到最适合自己使用习惯的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45489743\" target=\"_blank\">评论</a>]",
-            "url": "https://lumivapp.com/iphone-blue-light-filter",
-            "title": "如何关闭 iPhone 的蓝光",
-            "date_modified": "2025-10-06T10:15:32.000Z"
-        },
-        {
-            "id": "https://cointelegraph.com/news/defillama-delist-aster-perp-data-integrity",
-            "content_html": "加密数据平台 DefiLlama 因诚信问题将删除 Aster 永续交易量数据。该平台发现 Aster 提供的数据存在问题，可能影响市场分析的准确性。这一决定反映了加密货币行业对数据完整性的日益重视，表明数据透明度和可靠性成为评估 DeFi 项目的重要标准。用户应谨慎依赖单一数据源进行投资决策。 [<a href=\"https://news.ycombinator.com/item?id=45489731\" target=\"_blank\">评论</a>]",
-            "url": "https://cointelegraph.com/news/defillama-delist-aster-perp-data-integrity",
-            "title": "因诚信问题，DefiLlama 将删除 Aster 永续交易量数据",
-            "date_modified": "2025-10-06T10:14:20.000Z"
-        },
-        {
-            "id": "https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football",
-            "content_html": "这篇文章探讨了三进制逻辑、三辩证法和三边足球等基于&quot;三&quot;的概念的力量。作者认为，二进制思维限制了我们的可能性，而三元方法提供了更全面的理解框架。三边足球是一种替代性运动，不设守门员，强调团队合作和创新。这些概念挑战了传统的二元对立思维，鼓励更加灵活和多元的思考方式。 [<a href=\"https://news.ycombinator.com/item?id=45489727\" target=\"_blank\">评论</a>]",
-            "url": "https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football",
-            "title": "三的力量：三进制逻辑、三逻辑和三边足球",
-            "date_modified": "2025-10-06T10:14:02.000Z"
-        },
-        {
-            "id": "https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models",
-            "content_html": "本文是 Rails 开发者学习 Hanami 框架系列的第一部分，专注于模型层。Hanami 是一个轻量级 Ruby 框架，采用严格的 MVC 架构。文章对比了 Rails 和 Hanami 在模型定义、数据验证和数据库交互方面的差异，帮助开发者理解框架设计哲学的不同。对于希望探索替代 Rails 的开发者，这篇文章提供了实用的入门指南。 [<a href=\"https://news.ycombinator.com/item?id=45489703\" target=\"_blank\">评论</a>]",
-            "url": "https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models",
-            "title": "给 Rails 开发者的 Hanami 教程-第1部分",
-            "date_modified": "2025-10-06T10:11:00.000Z"
-        },
-        {
-            "id": "https://www.theregister.com/2025/10/06/infosec_in_brief/",
-            "content_html": "泄露文件显示美国政府可能在关于 FEMA 安全失败的问题上误导公众。这些文件表明，安全漏洞比官方承认的更为严重，且修复进展缓慢。这一事件引发了对政府透明度和数据安全实践的质疑，强调了公共部门信息系统安全的重大挑战。 [<a href=\"https://news.ycombinator.com/item?id=45489697\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/infosec_in_brief/",
-            "title": "泄露显示美国政府关于 FEMA 安全失败的谎言",
-            "date_modified": "2025-10-06T10:09:58.000Z"
-        },
-        {
-            "id": "https://www.debuggingbook.org/",
-            "content_html": "&lt;调试之书&gt;是一本全面介绍软件调试技术的在线书籍，涵盖从基础到高级的各种调试方法。作者提供了实用的调试策略、工具和案例分析，帮助开发者更有效地识别和修复软件缺陷。书中还包括自动化调试技术、调试原则和心理学方面的内容，适合各级软件开发者学习参考。 [<a href=\"https://news.ycombinator.com/item?id=45489625\" target=\"_blank\">评论</a>]",
-            "url": "https://www.debuggingbook.org/",
-            "title": "调试之书",
-            "date_modified": "2025-10-06T09:56:03.000Z"
-        },
-        {
-            "id": "https://www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/",
-            "content_html": "Clop 黑客团伙利用针对 Oracle E-Business Suite 的零日漏洞攻击了多家企业。这个漏洞允许攻击者执行远程代码并窃取敏感数据。Oracle 已发布安全公告和临时补丁，但建议用户尽快应用官方更新。这一事件再次强调了及时更新系统和监控安全警报的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45489614\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/",
-            "title": "Clop 黑客团伙用新的零日漏洞攻击 Oracle E-Business Suite 用户",
-            "date_modified": "2025-10-06T09:55:14.000Z"
-        },
-        {
-            "id": "https://iframetest.com/",
-            "content_html": "Iframetest.com 是一个简单的在线工具，帮助开发者测试和调试 iframe 相关问题。它可以显示 iframe 内页面的各种属性和加载信息，解决跨域通信等常见问题。工具直观易用，支持实时测试，是处理复杂 iframe 集成时的实用资源。 [<a href=\"https://news.ycombinator.com/item?id=45489613\" target=\"_blank\">评论</a>]",
-            "url": "https://iframetest.com/",
-            "title": "HN 展示：Iframetest.com",
-            "date_modified": "2025-10-06T09:55:06.000Z"
-        },
-        {
-            "id": "https://chromewebstore.google.com/detail/fast-masked-mail-creator/jgnkjcmgagjaabogldbabgbcncakpdbb",
-            "content_html": "快速掩码邮件创建者是 Fastmail 的 Chrome 扩展，让用户轻松创建和管理一次性或临时电子邮件地址。这对于需要注册网站但不希望收到垃圾邮件的用户特别有用。扩展简洁高效，与 Fastmail 服务无缝集成，提供了便捷的隐私保护和邮箱管理功能。 [<a href=\"https://news.ycombinator.com/item?id=45489609\" target=\"_blank\">评论</a>]",
-            "url": "https://chromewebstore.google.com/detail/fast-masked-mail-creator/jgnkjcmgagjaabogldbabgbcncakpdbb",
-            "title": "HN 展示：快速掩码邮件创建者- Fastmail 掩码邮件的 Chrome 扩展",
-            "date_modified": "2025-10-06T09:54:13.000Z"
         }
     ]
 }
