@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 05:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[庆祝存档一万亿网页]]></title>
-            <link>https://blog.archive.org/trillion/</link>
-            <guid isPermaLink="false">https://blog.archive.org/trillion/</guid>
-            <pubDate>Mon, 06 Oct 2025 03:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章庆祝互联网档案馆成功存档了一万亿个网页。互联网档案馆是一个非营利组织，致力于为人类提供一个永久性的数字图书馆。这一里程碑展示了人类知识被数字化保存的努力，同时也提醒我们保护数字文化的重要性。档案馆的爬虫技术不断进步，使得保存大规模网页成为可能。这一成就对于研究历史、文化和技术发展的学者和研究人员来说具有重要意义。 [<a href="https://news.ycombinator.com/item?id=45487476" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[陶哲轩关于众包努力的讨论]]></title>
+            <link>https://mathstodon.xyz/@tao/115325228243131134</link>
+            <guid isPermaLink="false">https://mathstodon.xyz/@tao/115325228243131134</guid>
+            <pubDate>Mon, 06 Oct 2025 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[陶哲轩在Mastodon上讨论了数学研究中的众包合作方式，提及像Polymath项目这样的集体解决问题平台，代表了数学研究模式的转变。这种合作方式特别适合需要多种视角和专门知识的复杂数学难题。 [<a href="https://news.ycombinator.com/item?id=45487971" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[查找附近的自动车牌识别器(ALPR)]]></title>
-            <link>https://deflock.me/</link>
-            <guid isPermaLink="false">https://deflock.me/</guid>
-            <pubDate>Mon, 06 Oct 2025 03:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站提供了一个工具，帮助用户查找附近的自动车牌识别器(ALPR)位置。ALPR系统广泛用于执法、商业和私人安全领域，能够自动读取和记录车牌信息。该工具旨在提高公众对这些监控技术的认识，帮助人们了解自己的隐私可能受到何种影响。通过可视化ALPR的位置分布，用户可以更好地规划路线，避开过度监控区域，或者了解所在区域的监控程度。 [<a href="https://news.ycombinator.com/item?id=45487452" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[关于C++竞技场的更多推测]]></title>
+            <link>https://nullprogram.com/blog/2025/09/30/</link>
+            <guid isPermaLink="false">https://nullprogram.com/blog/2025/09/30/</guid>
+            <pubDate>Mon, 06 Oct 2025 05:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[文章探讨了C++未来可能引入的'Arenas'内存管理概念，允许程序员更有效管理内存生命周期，减少内存碎片并提高性能，特别适用于实时系统和游戏开发，处理大量相似对象时尤为有效。 [<a href="https://news.ycombinator.com/item?id=45487956" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[构建高效的文本到3D人工智能代理：混合架构方法]]></title>
-            <link>https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture</link>
-            <guid isPermaLink="false">https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture</guid>
-            <pubDate>Mon, 06 Oct 2025 02:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[本文探讨了一种创新的方法，用于构建高效的文本到3D人工智能代理系统。作者提出了一个混合架构，结合了生成模型和优化技术的优点，能够将文本描述直接转化为三维模型。这种方法解决了传统3D生成中的几个关键挑战，如细节丢失、结构不合理和生成效率低下。通过这种混合架构，系统能够更好地理解文本描述，并生成更准确、更高质量的3D模型，为游戏开发、虚拟现实和产品设计等领域提供了强大的工具。 [<a href="https://news.ycombinator.com/item?id=45487247" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[一个Discord频道如何成为被动收入来源]]></title>
+            <link>https://news.ycombinator.com/item?id=45487940</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45487940</guid>
+            <pubDate>Mon, 06 Oct 2025 05:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[讲述了如何将Discord社区转变为被动收入来源，策略包括提供高质量独家内容、会员订阅、联盟营销、社区赞助和专业服务。建立有价值社区不仅带来收入，还能创造个人品牌影响力。 [<a href="https://news.ycombinator.com/item?id=45487940" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[为什么大型语言模型对海马emoji感到困惑？]]></title>
-            <link>https://vgel.me/posts/seahorse/</link>
-            <guid isPermaLink="false">https://vgel.me/posts/seahorse/</guid>
-            <pubDate>Mon, 06 Oct 2025 02:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了大型语言模型(LLM)对特定emoji(如海马emoji)的反应异常现象。作者通过实验发现，某些emoji会导致LLM生成奇怪、不相关甚至有害的内容。这种现象可能源于模型训练数据中的偏差、emoji的多义性或者模型处理符号表征时的机制缺陷。文章探讨了这些可能的原因，并提出了改进建议，包括改进训练数据质量和模型架构设计，以提高模型对符号的理解和处理能力。这一研究对AI安全性和可靠性具有重要启示。 [<a href="https://news.ycombinator.com/item?id=45487044" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AI生成的3D纹理工具]]></title>
+            <link>https://aitextured.com/</link>
+            <guid isPermaLink="false">https://aitextured.com/</guid>
+            <pubDate>Mon, 06 Oct 2025 05:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[为3D艺术家设计的AI纹理生成平台，用户通过输入描述或上传参考图像，AI可生成高质量3D纹理，支持各种材质类型，可直接导入主流3D软件使用，大幅降低3D制作技术门槛。 [<a href="https://news.ycombinator.com/item?id=45487936" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我应该在C/C++之外选择Ada、SPARK还是Rust？(2024)]]></title>
-            <link>https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</link>
-            <guid isPermaLink="false">https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</guid>
-            <pubDate>Mon, 06 Oct 2025 01:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章比较了Ada、SPARK和Rust这三种现代编程语言与传统的C/C++相比的优势和适用场景。Ada和SPARK以严格的安全性和可靠性著称，特别适合航空航天、国防和关键基础设施等高风险系统。Rust则凭借内存安全和并发性能优势，成为系统级应用的热门选择。文章根据项目需求、团队经验和性能要求提供了详细的决策指南，帮助开发者在不同场景下选择最适合的语言。作者认为，虽然C/C++仍然广泛使用，但在新项目中考虑这些替代语言可以提高系统质量和安全性。 [<a href="https://news.ycombinator.com/item?id=45486829" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA['人类智能问题'：工党参议员批评德勤的AI失误]]></title>
+            <link>https://www.afr.com/companies/professional-services/human-intelligence-problem-labor-senator-slams-deloitte-s-ai-bungle-20251006-p5n0ch</link>
+            <guid isPermaLink="false">https://www.afr.com/companies/professional-services/human-intelligence-problem-labor-senator-slams-deloitte-s-ai-bungle-20251006-p5n0ch</guid>
+            <pubDate>Mon, 06 Oct 2025 05:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[报道澳大利亚德勤AI失误事件，退休金咨询公司使用其AI工具处理福利申请导致老年人损失。工党参议员称此为'人类智能问题'，强调AI系统需要适当监督和专业判断，引发AI专业服务应用的伦理监管讨论。 [<a href="https://news.ycombinator.com/item?id=45487935" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mic-E-Mouse – Covert eavesdropping through computer mice]]></title>
-            <link>https://sites.google.com/view/mic-e-mouse</link>
-            <guid isPermaLink="false">https://sites.google.com/view/mic-e-mouse</guid>
-            <pubDate>Mon, 06 Oct 2025 01:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[Mic-E-Mouse是一个项目，展示了如何通过计算机鼠标进行 covert 监听。该项目利用鼠标中的麦克风和运动传感器，将鼠标转变为一个隐蔽的监听设备。当鼠标插入计算机时，它可以记录周围环境的声音和对话，并通过加密渠道传输数据。这种技术引发了关于计算机硬件安全性和隐私的重大担忧，因为普通用户可能不知道自己使用的设备已被改造为监控工具。文章讨论了这一技术的原理、潜在风险以及防御措施，提醒人们加强硬件安全意识。 [<a href="https://news.ycombinator.com/item?id=45486825" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[面向对象编程理解指南[开源书籍]]]></title>
+            <link>https://github.com/ma-px/Understanding-Object-Oriented-Programming</link>
+            <guid isPermaLink="false">https://github.com/ma-px/Understanding-Object-Oriented-Programming</guid>
+            <pubDate>Mon, 06 Oct 2025 05:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[一本深入理解OOP概念的开源书籍，涵盖封装、继承、多态等基础及设计模式、SOLID原则等进阶主题，通过丰富代码示例和实际应用场景帮助开发者掌握面向对象编程的核心思想和实践方法。 [<a href="https://news.ycombinator.com/item?id=45487890" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Rule-Based Expert Systems: The Mycin Experiments (1984)]]></title>
-            <link>https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</link>
-            <guid isPermaLink="false">https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</guid>
-            <pubDate>Sun, 05 Oct 2025 23:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了Mycin系统，这是早期基于规则的专家系统的经典案例。Mycin于1970年代在斯坦福大学开发，专门用于诊断和治疗血液感染疾病。系统通过医学专家知识建立规则库，能够进行诊断、推荐治疗方案并提供治疗建议。Mycin在当时的临床试验中表现出色，诊断准确性与人类专家相当。这项研究奠定了现代知识表示和推理系统的基础，对后来的专家系统开发和医疗人工智能产生了深远影响。Mycin系统还首次提出了“确定性因子“概念，用于处理医疗诊断中的不确定性。 [<a href="https://news.ycombinator.com/item?id=45486306" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Nvidia合作伙伴鸿海销售额增长11%，提振AI前景]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand</guid>
+            <pubDate>Mon, 06 Oct 2025 05:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[作为Nvidia重要合作伙伴，鸿海销售额增长11%，主要因AI硬件需求强劲。鸿海生产AI服务器和数据中心关键组件，包括Nvidia芯片封装测试服务。这一增长表明AI产业高速扩张，大型公司持续投资AI基础设施。 [<a href="https://news.ycombinator.com/item?id=45487876" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Estimating AI energy use]]></title>
-            <link>https://spectrum.ieee.org/ai-energy-use</link>
-            <guid isPermaLink="false">https://spectrum.ieee.org/ai-energy-use</guid>
-            <pubDate>Sun, 05 Oct 2025 23:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[本文探讨了人工智能系统的能源消耗问题及其环境影响。作者指出，大型AI模型训练和运行需要消耗大量电力，数据中心碳足迹日益增长。文章分析了AI能源使用的不同阶段和影响因素，包括算法效率、硬件选择和计算资源管理等。同时，介绍了一些降低AI能耗的创新方法，如模型优化、专用硬件设计和可再生能源利用。随着AI技术快速发展，能源效率将成为行业可持续发展的关键挑战，需要技术、政策和协作多方努力。 [<a href="https://news.ycombinator.com/item?id=45486031" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN：基于推理的RAG页面索引]]></title>
+            <link>https://vectifyai.notion.site/PageIndex-for-Reasoning-Based-RAG-1c17cc383c8580dcbb7df3c4c152d2e6</link>
+            <guid isPermaLink="false">https://vectifyai.notion.site/PageIndex-for-Reasoning-Based-RAG-1c17cc383c8580dcbb7df3c4c152d2e6</guid>
+            <pubDate>Mon, 06 Oct 2025 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[介绍'PageIndex'解决方案，改进基于推理的RAG系统，通过构建智能页面索引使AI更好理解文档结构和内容关联，特别适合技术文档分析和复杂问题解答，提高回答准确性和相关性，减少幻觉现象。 [<a href="https://news.ycombinator.com/item?id=45487867" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Germany outfitted half a million balconies with solar panels]]></title>
-            <link>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</link>
-            <guid isPermaLink="false">https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</guid>
-            <pubDate>Sun, 05 Oct 2025 22:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了德国在推广小型太阳能发电系统方面的成功经验。德国已经为约五十万个阳台安装了太阳能电池板，这种分布式能源系统大大提高了可再生能源的普及率。与传统屋顶太阳能相比，阳台太阳能系统成本更低、安装更简单，适合城市公寓居民使用。德国政府通过补贴政策和技术支持，推动了这一创新模式的快速发展。这些小型系统不仅减少了家庭电费支出，还增强了能源自给自足能力，为全球城市可再生能源利用提供了有价值的参考案例。 [<a href="https://news.ycombinator.com/item?id=45485806" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Gem.Coop - 社区运营的Rubygems.org替代品，由前维护者领导]]></title>
+            <link>https://socket.dev/blog/gem-cooperative-emerges-as-a-community-run-alternative-to-rubygems-org</link>
+            <guid isPermaLink="false">https://socket.dev/blog/gem-cooperative-emerges-as-a-community-run-alternative-to-rubygems-org</guid>
+            <pubDate>Mon, 06 Oct 2025 05:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[Gem.Coop是由前Rubygems.org维护者创建的合作社，作为Rubygem包管理器的社区替代方案，解决平台被私有化后的治理问题。采用开源模式，由社区共同决策，承诺保持透明和包容性。 [<a href="https://news.ycombinator.com/item?id=45487841" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ken Parker, famed luthier, has died]]></title>
-            <link>https://kenparkerarchtops.com</link>
-            <guid isPermaLink="false">https://kenparkerarchtops.com</guid>
-            <pubDate>Sun, 05 Oct 2025 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[著名制琴师肯·帕克(Ken Parker)去世，享年79岁。帕克是吉他制造业的创新者，以其独特的琴体设计和声学技术闻名。他开发的“Parkening“吉他颈设计大大提升了吉他的演奏舒适度和音色表现力。帕克的乐器深受众多专业音乐家喜爱，包括多位格莱美获奖者。他的工作室位于美国纽约，多年来培养了多位杰出的制琴师。帕克的逝世标志着吉他制造业失去了一位真正的先驱，他的创新精神和工艺传统将继续影响未来的乐器制造。 [<a href="https://news.ycombinator.com/item?id=45485736" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[宝石合作社]]></title>
+            <link>https://martinemde.com/2025/10/05/announcing-gem-coop.html</link>
+            <guid isPermaLink="false">https://martinemde.com/2025/10/05/announcing-gem-coop.html</guid>
+            <pubDate>Mon, 06 Oct 2025 05:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[宣布Gem Cooperative成立，由Ruby社区成员共同拥有的非营利组织，为Rubygem生态系统提供稳定包管理基础设施。旨在确保包生态系统健康发展，邀请社区参与这一重要项目，共同维护开源基础设施。 [<a href="https://news.ycombinator.com/item?id=45487833" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The death of industrial design and the era of dull electronics]]></title>
-            <link>https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/</link>
-            <guid isPermaLink="false">https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/</guid>
-            <pubDate>Sun, 05 Oct 2025 20:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章批评了现代电子产品工业设计的衰落，认为我们正进入一个电子产品外观单调、缺乏创新的时代。作者指出，当前许多电子制造商过度追求成本最小化和标准化，导致产品外观雷同、缺乏个性。与过去具有标志性设计和创新功能的电子产品相比，现代设备虽然功能强大，但在设计上缺乏突破性和独特性。文章呼吁设计师和制造商重新重视工业设计，平衡功能性和美学，创造既实用又具有美感的电子产品，以满足用户对产品美感和身份表达的需求。 [<a href="https://news.ycombinator.com/item?id=45485175" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[First Brands的后果暴露了私人借贷的风险]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-02/first-brands-fallout-exposes-risks-of-lending-private-credit</guid>
+            <pubDate>Mon, 06 Oct 2025 05:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[分析First Brands公司违约事件，揭示私人信贷市场新风险。依赖私人债务融资的公司因无法满足债务义务面临困境，引发投资者对私人信贷市场估值和风险评估的重新审视，监管机构关注市场透明度。 [<a href="https://news.ycombinator.com/item?id=45487831" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Toybox: All-in-one Linux command line]]></title>
-            <link>https://github.com/landley/toybox</link>
-            <guid isPermaLink="false">https://github.com/landley/toybox</guid>
-            <pubDate>Sun, 05 Oct 2025 19:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[Toybox是一个开源项目，旨在为Linux系统提供一组完整的标准命令行工具。该项目由Rob Landley创建，目标是创建一个轻量级、高效的命令行工具集合，替代GNU Coreutils。Toybox工具具有较小的二进制文件大小、更快的执行速度和更简单的依赖关系，非常适合嵌入式系统和资源受限环境。所有工具都遵循POSIX标准，保证与其他Linux发行版的兼容性。Toybox已被多个轻量级Linux发行版采用，包括Alpine Linux和一些Android变体。该项目展示了如何通过简化设计提高系统工具的性能和可靠性。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[晨星DBRS指出下半年私人信贷违约风险上升]]></title>
+            <link>https://pitchbook.com/news/articles/morningstar-dbrs-points-to-threat-of-rising-private-credit-defaults-in-h2</link>
+            <guid isPermaLink="false">https://pitchbook.com/news/articles/morningstar-dbrs-points-to-threat-of-rising-private-credit-defaults-in-h2</guid>
+            <pubDate>Mon, 06 Oct 2025 05:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[评级机构预测2025年下半年私人信贷市场违约率可能上升，基于经济不确定性、行业挑战和信贷标准放松等因素。特别指出私募股权支持的收购交易和杠杆贷款可能面临更高违约风险，建议投资者谨慎评估。 [<a href="https://news.ycombinator.com/item?id=45487824" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[What GPT-OSS leaks about OpenAI's training data]]></title>
-            <link>https://fi-le.net/oss/</link>
-            <guid isPermaLink="false">https://fi-le.net/oss/</guid>
-            <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了GPT-OSS项目泄露的信息，揭示了OpenAI训练大型语言模型时使用的开源软件代码库内容。GPT-OSS是一个试图从GPT模型中提取训练数据的项目，其结果显示OpenAI在训练过程中包含了大量开源软件代码。这一发现引发了关于AI训练数据透明度和版权问题的讨论。文章指出，虽然使用开源代码进行训练是常见做法，但完整的数据集选择标准和权重分配仍不明确。这一案例凸显了AI行业在数据使用规范和伦理标准方面的不足，需要制定更明确的数据使用指南和版权保护机制。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN：可探索、可分叉的主题学习空间]]></title>
+            <link>https://www.kerns.ai/community</link>
+            <guid isPermaLink="false">https://www.kerns.ai/community</guid>
+            <pubDate>Mon, 06 Oct 2025 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[教育技术项目提供可探索和可分叉的社区平台，包含预制学习空间，每个空间有结构化内容、互动练习和社区讨论。用户可'分叉'空间进行个性化定制，创建学习路径，适合知识分享和协作学习。 [<a href="https://news.ycombinator.com/item?id=45487810" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Callbacks in C++ using template functors (1994)]]></title>
-            <link>http://www.tutok.sk/fastgl/callback.html</link>
-            <guid isPermaLink="false">http://www.tutok.sk/fastgl/callback.html</guid>
-            <pubDate>Sun, 05 Oct 2025 17:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了1994年提出的一种在C++中使用模板函子实现回调机制的技术。作者提出了一种类型安全的回调实现方法，避免了传统函数指针和虚函数调用的局限性。这种方法利用C++模板系统，能够在编译时进行类型检查，减少运行时错误。文章详细解释了模板函子的设计原理、实现方式和性能优势，同时提供了实用的代码示例。这项技术对现代C++编程产生了深远影响，为后来的C++11标准中的std::function等特性奠定了基础，展示了模板元编程在解决实际编程问题中的强大能力。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[致Llms.txt的一封公开信]]></title>
+            <link>https://olshansky.info/posts/2025-10-05-an-open-letter-to-llms-txt</link>
+            <guid isPermaLink="false">https://olshansky.info/posts/2025-10-05-an-open-letter-to-llms-txt</guid>
+            <pubDate>Mon, 06 Oct 2025 05:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[针对'llms.txt'项目的公开信，支持提高LLM训练数据质量，但担忧过度关注'清洁'数据可能导致多样性缺失和代表性偏见。呼吁在提高数据质量同时保持多样性和包容性，建议社区合作制定更全面的数据标准。 [<a href="https://news.ycombinator.com/item?id=45487790" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: ut – Rust based CLI utilities for devs and IT]]></title>
-            <link>https://github.com/ksdme/ut</link>
-            <guid isPermaLink="false">https://github.com/ksdme/ut</guid>
-            <pubDate>Sun, 05 Oct 2025 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[ut是一个基于Rust编程语言构建的命令行工具集合，专为开发者和IT人员设计。该项目提供了多种实用功能，包括文件操作、系统信息查询、网络工具和文本处理等。ut的主要优势在于其跨平台兼容性、高性能和安全性，这些特性都得益于Rust语言的内存安全保证。所有工具都遵循一致的命令行接口设计，便于学习和使用。项目活跃维护，社区贡献积极，不断添加新功能和改进现有工具。ut的出现为开发者提供了一套轻量级但功能全面的工具替代方案，减少了在不同平台间切换工具的需求。 [<a href="https://news.ycombinator.com/item?id=45483531" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[tt-rss.org的终结]]></title>
+            <link>https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164</link>
+            <guid isPermaLink="false">https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164</guid>
+            <pubDate>Mon, 06 Oct 2025 05:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[通知自托管RSS阅读器tt-rss.org将于2025年12月31日关闭，原因是资源限制、开发者精力不足和托管成本上升。提醒用户需寻找替代方案，提供迁移指南，引发关于独立自托管服务可持续性讨论。 [<a href="https://news.ycombinator.com/item?id=45487782" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fire destroys S. Korean government's cloud storage system, no backups available]]></title>
-            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
-            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
-            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[据报道，一场火灾摧毁了韩国国家信息与通信系统(NIRS)的云存储系统，导致大量政府数据丢失。更令人担忧的是，该系统没有建立有效的备份机制，造成无法挽回的数据损失。这起事件影响了多个政府部门的服务，包括公共福利和税务系统。事故原因正在调查中，初步怀疑是电气故障引发。这一事件凸显了政府数据中心在灾难恢复和备份策略上的严重不足，促使韩国政府重新评估其IT基础设施的安全性和可靠性，并承诺加强数据保护措施。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[世界地铁网络连通性地图[PDF]]]></title>
+            <link>https://csun.uic.edu/wp-content/uploads/sites/1080/2023/12/pdf_7.pdf</link>
+            <guid isPermaLink="false">https://csun.uic.edu/wp-content/uploads/sites/1080/2023/12/pdf_7.pdf</guid>
+            <pubDate>Mon, 06 Oct 2025 05:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[PDF文件展示全球主要城市地铁网络连通性分析，研究人员通过图论方法量化分析地铁网络拓扑特性，包括连接性、效率和鲁棒性等指标，提供数百个城市的网络数据和可视化地图，对城市规划有参考价值。 [<a href="https://news.ycombinator.com/item?id=45487773" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BYD builds fastest car]]></title>
-            <link>https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</link>
-            <guid isPermaLink="false">https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</guid>
-            <pubDate>Sun, 05 Oct 2025 15:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[据报道，中国电动汽车制造商比亚迪推出了一款新型电动汽车，据称创造了新的速度记录，成为世界上最快的量产电动车。这款新车配备了先进的电池技术和高性能电机，能够在几秒内从零加速到每小时100公里。比亚迪的突破展示了电动汽车技术的快速发展，特别是在电池能量密度和电机效率方面。这一成就不仅巩固了比亚迪在全球电动汽车市场的地位，也向世界证明了中国汽车制造商的创新能力和技术实力。随着传统汽车巨头加速电动化转型，比亚迪的这次成功预计将引发行业新一轮的技术竞争。 [<a href="https://news.ycombinator.com/item?id=45482516" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[宝石合作社]]></title>
+            <link>https://gem.coop/</link>
+            <guid isPermaLink="false">https://gem.coop/</guid>
+            <pubDate>Mon, 06 Oct 2025 04:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[Gem Cooperative官方网站，介绍这个由Ruby社区共同拥有的非营利组织，旨在为Rubygem包生态系统提供稳定、透明和社区驱动的包管理基础设施。详细说明合作社使命、治理结构和参与指南，确保生态系统的长期健康发展。 [<a href="https://news.ycombinator.com/item?id=45487771" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NFS at 40 – Remembering the Sun Microsystems Network File System]]></title>
-            <link>https://nfs40.online/</link>
-            <guid isPermaLink="false">https://nfs40.online/</guid>
-            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章纪念网络文件系统(NFS)诞生40周年，回顾了Sun Microsystems开发的这一革命性技术的历程。NFS首次于1984年发布，使不同计算机能够像访问本地文件一样访问远程文件，极大地简化了网络存储和资源共享。文章介绍了NFS从最初的版本到最新版本的演进过程，以及它对企业计算和互联网发展的深远影响。NFS的出现奠定了现代分布式文件系统的基础，其设计理念和技术方案至今仍在各种文件系统和云存储服务中广泛应用。文章还讨论了NFS在安全性和性能方面的改进，以及未来发展方向。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AI投资者追逐大奖，潜在风险解析]]></title>
+            <link>https://www.wsj.com/tech/ai/ai-investors-are-chasing-a-big-prize-heres-what-can-go-wrong-9a6bf37d</link>
+            <guid isPermaLink="false">https://www.wsj.com/tech/ai/ai-investors-are-chasing-a-big-prize-heres-what-can-go-wrong-9a6bf37d</guid>
+            <pubDate>Mon, 06 Oct 2025 04:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[探讨AI投资热潮中的潜在风险：技术泡沫形成、估值过高、监管不确定性、伦理问题和人才竞争加剧。专家指出投资者对AI技术的实际应用和市场接受度可能过于乐观，建议采取更加平衡和长期的投资策略，关注实际商业价值。 [<a href="https://news.ycombinator.com/item?id=45487723" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: ASCII Drawing Board]]></title>
-            <link>https://www.delopsu.com/draw.html</link>
-            <guid isPermaLink="false">https://www.delopsu.com/draw.html</guid>
-            <pubDate>Sun, 05 Oct 2025 15:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[ASCII绘图板是一个基于网页的工具，允许用户创建使用ASCII字符的简单艺术作品。该工具提供了直观的界面，用户可以通过点击或拖动鼠标在网格上放置不同的ASCII字符，从而创建像素风格的艺术、标志或简单图形。生成的ASCII艺术可以直接复制使用，或保存为文本文件。这个工具特别适合程序员、系统管理员和终端爱好者，他们经常需要在纯文本环境中创建视觉内容。ASCII绘图板的出现让创作这种复古艺术变得简单有趣，同时也展示了限制性环境中的创造力。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[学费4万美元/年的学校：AI塑造每堂课，无需教师]]></title>
+            <link>https://www.cbsnews.com/news/alpha-school-artificial-intelligence/</link>
+            <guid isPermaLink="false">https://www.cbsnews.com/news/alpha-school-artificial-intelligence/</guid>
+            <pubDate>Mon, 06 Oct 2025 04:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[介绍名为Alpha的新型学校，完全依靠AI系统进行教学，年学费4万美元。使用先进AI提供个性化学习体验，由AI导师和人类辅导员辅助。引发关于AI在教育中角色的讨论，支持者视为教育未来，批评者担忧缺乏人际互动和社会化体验。 [<a href="https://news.ycombinator.com/item?id=45487713" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The QNX Operating System]]></title>
-            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
-            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
-            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了QNX操作系统，这是一个以微内核架构和高可靠性著称的实时操作系统(RTOS)。QNX最初于1980年代开发，广泛应用于汽车电子、工业自动化、医疗设备和航空航天等关键领域。文章详细解释了QNX的微内核设计如何确保系统的稳定性和安全性，即使在组件故障时也能维持基本功能。QNX的模块化架构允许开发者根据需求定制系统，同时保持高度的可预测性和确定性。文章还讨论了QNX在自动驾驶汽车等现代技术中的应用，以及它在安全关键系统中的优势。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AI个人助手，您使用哪些？]]></title>
+            <link>https://news.ycombinator.com/item?id=45487693</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45487693</guid>
+            <pubDate>Mon, 06 Oct 2025 04:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[技术讨论帖询问用户使用的AI个人助手及体验，提到了ChatGPT、Claude、Gemini等多种应用，涵盖日常助手、编程助手、研究助手等不同场景。用户分享选择理由，包括响应速度、专业知识、隐私考虑和多模态能力等，反映AI助手市场快速发展。 [<a href="https://news.ycombinator.com/item?id=45487693" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
