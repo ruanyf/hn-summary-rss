@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://structuredprocrastination.com",
+            "content_html": "这是一个关于如何利用拖延倾向提高生产力的概念。通过将真正重要但不愿做的任务放在次要位置，人们会倾向于完成这些次要任务，从而间接实现目标。这种方法将拖延转化为一种生产力工具，让人们在避免某些任务时仍然能够完成其他有价值的工作。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "url": "https://structuredprocrastination.com",
+            "title": "结构化拖延",
+            "date_modified": "2025-10-06T06:35:36.000Z"
+        },
+        {
+            "id": "https://lwn.net/Articles/1037974/",
+            "content_html": "这篇文章介绍了CHERI（Capability Hardware Enhanced RISC Instructions）架构在Linux环境中的应用。CHERI是一种扩展的RISC指令集，引入了能力（capability）概念，用于增强内存安全性。文章探讨了如何将这一架构与Linux操作系统结合，提供更好的内存隔离和安全性，同时保持与传统系统的兼容性。 [<a href=\"https://news.ycombinator.com/item?id=45487629\" target=\"_blank\">评论</a>]",
+            "url": "https://lwn.net/Articles/1037974/",
+            "title": "搭载Linux的CHERI架构",
+            "date_modified": "2025-10-06T04:25:31.000Z"
+        },
+        {
             "id": "https://blog.archive.org/trillion/",
-            "content_html": "Internet Archive的Wayback Machine已经成功存档了1万亿个网页，这是一个历史性里程碑。这个数字展示了数字信息保存的重要性和挑战性。Wayback Machine自1996年开始运作，目的是为互联网用户提供“时间旅行“的能力，查看过去版本的网页。这一成就强调了数字文化遗产保护的重要性，以及确保未来可以访问历史网页信息的关键工作。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
+            "content_html": "互联网档案馆成功保存了1万亿个网页的里程碑。这一成就展示了人类数字文化的巨大规模和多样性。互联网档案馆通过其“时光机“功能，允许用户回溯查看不同时期的网页内容，为历史研究、文化保存和数字考古提供了宝贵资源。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
             "url": "https://blog.archive.org/trillion/",
-            "title": "庆祝存档的1万亿网页",
+            "title": "一万亿个网页被存档",
             "date_modified": "2025-10-06T03:48:34.000Z"
         },
         {
             "id": "https://deflock.me/",
-            "content_html": "Deflock.me是一个帮助用户查找附近自动车牌识别器(ALPR)位置的工具。这类设备被警察部门、停车场管理和私人安保广泛使用，能够自动扫描和记录车牌信息。该网站通过众包方式收集这些设备的定位信息，提高公众对这些可能侵犯隐私的技术的认识。随着监控技术的发展，了解这些设备的分布位置对保护个人隐私变得越来越重要。 [<a href=\"https://news.ycombinator.com/item?id=45487452\" target=\"_blank\">评论</a>]",
+            "content_html": "这是一个交互式地图工具，帮助用户找到附近的自动车牌识别器(ALPR)安装位置。ALPR技术广泛用于执法机构、商业场所和交通监控。该平台通过众包方式收集和展示这些设备的位置信息，提高公众对此类监控技术的认识，促进关于隐私和安全的讨论。 [<a href=\"https://news.ycombinator.com/item?id=45487452\" target=\"_blank\">评论</a>]",
             "url": "https://deflock.me/",
-            "title": "查找附近的自动车牌识别器(ALPR)",
+            "title": "查找附近的自动车牌识别器",
             "date_modified": "2025-10-06T03:42:15.000Z"
         },
         {
             "id": "https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture",
-            "content_html": "这篇文章探讨了一种混合架构方法，用于创建更有效的文本到3D AI代理。作者提出将大型语言模型(LLM)与3D生成模型相结合的架构，通过自然语言描述直接生成3D模型。这种方法有望简化3D内容创建过程，使非专业用户能够通过简单文本描述创建复杂3D模型。研究还讨论了如何提高生成质量、减少计算资源消耗以及解决多视图一致性等挑战。 [<a href=\"https://news.ycombinator.com/item?id=45487247\" target=\"_blank\">评论</a>]",
+            "content_html": "本文提出了一种混合架构方法，用于创建从文本描述生成3D模型的AI代理。该方法结合了生成模型与规则引擎，提高了3D生成的质量和效率。文章详细介绍了架构设计、训练方法和性能优化，展示了如何平衡创造性和可控性，使AI系统能够更准确地根据文本描述生成复杂的3D模型。 [<a href=\"https://news.ycombinator.com/item?id=45487247\" target=\"_blank\">评论</a>]",
             "url": "https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture",
             "title": "构建有效的文本到3D AI代理：混合架构方法",
             "date_modified": "2025-10-06T02:57:21.000Z"
         },
         {
             "id": "https://vgel.me/posts/seahorse/",
-            "content_html": "这篇文章研究了大型语言模型(LLM)对海马表情符号的异常反应。作者发现许多LLM在遇到海马emoji时会表现出不稳定行为，包括生成无关内容或拒绝回应。这种现象可能源于训练数据中emoji与特定文本模式的关联，或者模型对某些符号的处理机制存在缺陷。研究探讨了这种行为的技术原因，并提出可能的解决方案，如改进tokenization算法或增加对特殊符号的专门训练。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章探讨了大型语言模型(LLM)对特定emoji（如海马emoji）表现出的异常行为。研究发现，某些emoji会触发模型的不稳定输出，这可能是因为这些符号在训练数据中罕见或有特殊含义。作者通过实验展示了这种现象，并分析了可能的技术原因，包括模型对非常见符号的处理机制和潜在的数据偏差。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
             "url": "https://vgel.me/posts/seahorse/",
-            "title": "为什么LLM对海马表情符号反应异常？",
+            "title": "为什么大型语言模型会对海马emoji反应异常？",
             "date_modified": "2025-10-06T02:20:05.000Z"
         },
         {
             "id": "https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c",
-            "content_html": "这篇文章比较了Ada、SPARK和Rust与传统的C/C++编程语言，探讨了在2024年选择哪种语言更合适。Ada和SPARK以其安全性和可靠性著称，特别适合航空航天、医疗等关键系统。Rust则通过所有权系统提供了内存安全保证，同时保持高性能。文章分析了每种语言的优缺点，包括安全性、开发效率、性能和生态系统，帮助开发者在不同场景下做出明智选择。 [<a href=\"https://news.ycombinator.com/item?id=45486829\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章比较了三种现代编程语言（Ada、SPARK和Rust）与传统的C/C++语言在关键领域的优缺点。作者从安全性、可靠性、性能和生态系统等方面分析了各语言的适用场景，帮助开发者根据项目需求做出选择。文章强调，对于高安全性要求的系统，如航空航天、医疗设备和关键基础设施，Ada和SPARK可能更具优势，而Rust则在系统编程领域提供了良好的安全性和性能平衡。 [<a href=\"https://news.ycombinator.com/item?id=45486829\" target=\"_blank\">评论</a>]",
             "url": "https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c",
-            "title": "我应该在2024年选择Ada、SPARK或Rust而不是C/C++吗？",
+            "title": "我应该选择Ada、SPARK还是Rust来替代C/C++？(2024)",
             "date_modified": "2025-10-06T01:35:03.000Z"
         },
         {
-            "id": "https://sites.google.com/view/mic-e-mouse",
-            "content_html": "Mic-E-Mouse是一个概念性项目，展示了如何通过修改计算机鼠标硬件进行隐蔽窃听。该项目通过在鼠标中添加麦克风，将计算机转变为窃听设备，即使系统被锁定或休眠也能继续收集音频。这种攻击方式特别危险，因为它利用了用户信任的输入设备，且难以被常规安全软件检测。该项目旨在提高人们对硬件安全漏洞的认识，强调了供应链安全和固件验证的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45486825\" target=\"_blank\">评论</a>]",
-            "url": "https://sites.google.com/view/mic-e-mouse",
-            "title": "Mic-E-Mouse – 通过计算机鼠标进行窃听",
-            "date_modified": "2025-10-06T01:34:31.000Z"
-        },
-        {
             "id": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
-            "content_html": "这篇文章回顾了1984年的Mycin实验，这是早期基于规则的专家系统的里程碑式项目。Mycin是一个医疗诊断系统，能够通过分析患者症状和实验室结果来识别和治疗血液感染。该项目引入了不确定性推理机制，使用确定性因子处理不完整信息。Mycin不仅展示了专家系统的潜力，还引发了关于医疗AI伦理、责任归属和专业知识表示的深入讨论，为现代AI系统的发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45486306\" target=\"_blank\">评论</a>]",
+            "content_html": "这本书介绍了Mycin系统，这是医疗领域最早的专家系统之一。Mycin用于诊断血液感染并推荐抗生素治疗方案，通过基于规则的推理实现专业知识传递。该书详细描述了系统的设计原理、知识表示方法、推理机制以及在医学实践中的应用和限制，为后来的专家系统发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45486306\" target=\"_blank\">评论</a>]",
             "url": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
             "title": "基于规则的专家系统：Mycin实验(1984)",
             "date_modified": "2025-10-05T23:51:47.000Z"
         },
         {
             "id": "https://spectrum.ieee.org/ai-energy-use",
-            "content_html": "这篇文章探讨了人工智能系统的能源消耗估算方法。随着大型语言模型和深度学习系统的规模不断扩大，其能源使用成为关注焦点。作者提出了多种估算AI训练和推理能耗的方法，包括基于硬件规格、计算操作数量和实际测量数据。研究显示，大型AI模型的训练可能消耗数百兆瓦时电力，相当于数百个家庭一年的用电量。文章还讨论了提高AI能效的技术和策略，如模型压缩、硬件优化和绿色计算。 [<a href=\"https://news.ycombinator.com/item?id=45486031\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章分析了人工智能技术，特别是大型语言模型的能源消耗问题。作者探讨了训练和运行AI模型所需的能源成本，以及这些成本对环境的影响。文章提出了多种估算AI能源使用的方法，并讨论了提高AI效率的技术创新，包括模型优化、硬件加速和绿色计算等，同时呼吁行业关注AI的可持续发展和环境影响。 [<a href=\"https://news.ycombinator.com/item?id=45486031\" target=\"_blank\">评论</a>]",
             "url": "https://spectrum.ieee.org/ai-energy-use",
             "title": "估算AI能源使用",
             "date_modified": "2025-10-05T23:00:23.000Z"
         },
         {
             "id": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
-            "content_html": "德国实施了一项创新计划，已为50万个住宅阳台安装了小型太阳能电池板。这项举措充分利用城市空间资源，使普通居民也能参与可再生能源生产。这些微型太阳能系统虽然单个产能有限，但集体贡献巨大，显著增加了德国的可再生能源总量。该项目展示了城市环境中分布式能源系统的潜力，降低了能源成本，减少了碳排放，并增强了能源自主性。这种模式可被其他国家借鉴，特别是在城市密度高的地区。 [<a href=\"https://news.ycombinator.com/item?id=45485806\" target=\"_blank\">评论</a>]",
+            "content_html": "德国实施了一项创新计划，为五十万个住宅阳台安装小型太阳能电池板。这些微型光伏系统即使在小面积条件下也能产生可观的清洁能源，提高了城市地区的可再生能源利用率。该项目展示了如何在有限空间内实施可再生能源解决方案，为城市能源转型提供了成功案例。 [<a href=\"https://news.ycombinator.com/item?id=45485806\" target=\"_blank\">评论</a>]",
             "url": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
-            "title": "德国为50万个阳台安装了太阳能电池板",
+            "title": "德国为五十万个阳台安装太阳能电池板",
             "date_modified": "2025-10-05T22:18:31.000Z"
         },
         {
             "id": "https://kenparkerarchtops.com",
-            "content_html": "著名吉他制作师Ken Parker去世，享年77岁。Parker以其创新的吉他设计和制造工艺闻名，特别是他开发的Parker Fly系列吉他，融合了传统木工与现代复合材料技术。他的乐器以卓越的音质、人体工程学设计和独特外观受到全球音乐家和收藏家的推崇。Parker对乐器设计的革新影响深远，推动了整个行业的发展。他的离世是音乐界的一大损失，但他的创新精神和设计遗产将继续影响未来的乐器制造。 [<a href=\"https://news.ycombinator.com/item?id=45485736\" target=\"_blank\">评论</a>]",
+            "content_html": "Ken Parker是享誉世界的制琴大师，以其创新的Parker Fly吉他设计而闻名。他的工作彻底改变了现代电吉他的设计理念，融合了先进材料和人体工程学。Parker的逝世标志着乐器制造界一个时代的结束，他的创新精神和精湛工艺将继续影响未来的乐器设计。 [<a href=\"https://news.ycombinator.com/item?id=45485736\" target=\"_blank\">评论</a>]",
             "url": "https://kenparkerarchtops.com",
             "title": "著名制琴师Ken Parker去世",
             "date_modified": "2025-10-05T22:10:15.000Z"
         },
         {
             "id": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
-            "content_html": "这篇文章讨论了现代电子产品设计中创新和美学的衰退。作者认为，许多科技公司过度关注功能和成本，忽视了工业设计的重要性，导致市场上充斥着外观相似、缺乏特色的电子产品。文章比较了过去和现在的产品设计，指出曾经的创新设计现在被“足够好“但平庸的产品所取代。这种趋势不仅降低了用户体验，也抑制了设计创新和文化表达，呼吁行业重新重视设计的艺术性和独特性。 [<a href=\"https://news.ycombinator.com/item?id=45485175\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章反思了现代电子产品设计的趋势，认为过度注重成本削减和标准化导致工业设计创新减少。作者指出，许多现代电子产品缺乏美感和独特性，趋于同质化，失去了过去产品的个性和创新精神。这种变化不仅影响用户体验，也可能导致用户对科技产品的整体热情下降。 [<a href=\"https://news.ycombinator.com/item?id=45485175\" target=\"_blank\">评论</a>]",
             "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
-            "title": "工业设计的消亡与平庸电子产品的时代",
+            "title": "工业设计的终结与平庸电子产品的时代",
             "date_modified": "2025-10-05T20:55:26.000Z"
         },
         {
             "id": "https://github.com/landley/toybox",
-            "content_html": "Toybox是一个开源项目，旨在为Linux系统提供一套完整的单文件命令行工具集。与传统工具需要多个二进制文件不同，Toybox将所有命令集成到一个可执行文件中，显著减少了存储空间需求。这种设计特别适合资源受限的嵌入式系统和Linux发行版。每个工具功能与标准Linux命令兼容，但代码更精简，维护更容易。Toybox项目体现了开源软件的高效实用主义，为轻量级Linux环境提供了理想解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45484284\" target=\"_blank\">评论</a>]",
+            "content_html": "Toybox是一个小型的、符合标准的UNIX命令行工具集合，旨在替代BusyBox。它提供了常见的Linux/Unix命令，如ls、cp、mv等，但代码质量更高，设计更简洁。该工具集适合资源受限的环境，如嵌入式系统，可作为Android系统命令行工具的基础，同时完全遵循开源许可证。 [<a href=\"https://news.ycombinator.com/item?id=45484284\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/landley/toybox",
-            "title": "Toybox：一站式Linux命令行工具",
+            "title": "Toybox：一体式Linux命令行工具集",
             "date_modified": "2025-10-05T19:09:35.000Z"
         },
         {
             "id": "https://fi-le.net/oss/",
-            "content_html": "GPT-OSS是一个分析OpenAI模型训练数据来源的项目。通过技术手段，研究者能够从GPT模型中识别出其训练数据中包含的开源软件许可证和代码片段。这种分析揭示了OpenAI可能使用了大量开源项目进行训练，但某些情况下可能未能遵守相应的许可证要求。研究发现某些训练数据包含受版权保护的内容，引发了关于AI训练数据合法性和伦理的讨论。这些发现对AI训练数据的获取和使用提出了重要问题。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章分析了GPT-OSS（OpenAI发布的开源模型）所透露的训练数据相关信息。通过研究模型的输出和行为，作者推测出可能影响其训练的数据来源、质量和多样性。文章探讨了这些发现对理解AI系统行为偏见、数据隐私和模型透明度的意义，以及这对AI开发和监管的启示。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
             "url": "https://fi-le.net/oss/",
             "title": "GPT-OSS泄露了关于OpenAI训练数据的什么信息",
             "date_modified": "2025-10-05T18:28:16.000Z"
         },
         {
-            "id": "http://www.tutok.sk/fastgl/callback.html",
-            "content_html": "这是一篇1994年的技术文章，介绍了在C++中使用模板函子实现回调函数的方法。当时C++还没有标准库或语言特性支持现代回调模式，如std::function或lambda表达式。作者展示了如何利用C++模板创建类型安全的回调机制，避免了传统函数指针的限制和类型不安全问题。这种方法虽然现在看来基础，但在当时代表了C++泛型编程的前沿实践，为后来的C++标准库功能奠定了基础，展现了C++模板的强大潜力。 [<a href=\"https://news.ycombinator.com/item?id=45483651\" target=\"_blank\">评论</a>]",
-            "url": "http://www.tutok.sk/fastgl/callback.html",
-            "title": "使用模板函子的C++回调函数(1994)",
-            "date_modified": "2025-10-05T17:50:17.000Z"
-        },
-        {
-            "id": "https://github.com/ksdme/ut",
-            "content_html": "ut是一个用Rust编写的命令行工具集合，专为开发者和IT人员设计。该项目提供了多个实用工具，旨在替代常见的Unix命令行工具，同时提供更好的性能、安全性和跨平台支持。ut工具包括文件操作、文本处理、网络工具等多种实用功能，所有工具共享一致的接口和设计理念。使用Rust编写确保了内存安全和并发安全，使这些工具在处理敏感任务时更加可靠。该项目体现了Rust生态系统在系统工具开发中的优势。 [<a href=\"https://news.ycombinator.com/item?id=45483531\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/ksdme/ut",
-            "title": "分享：ut - 基于Rust的CLI工具，面向开发者和IT人员",
-            "date_modified": "2025-10-05T17:36:20.000Z"
-        },
-        {
             "id": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "content_html": "韩国政府的一个主要云存储系统遭遇火灾，导致大量数据丢失，且系统没有可用的备份。这一事件对政府服务造成严重影响，凸显了数据备份和灾难恢复策略的重要性。火灾显示了即使在现代云计算环境中，物理基础设施的风险依然存在。该事件促使韩国政府重新评估其数据管理政策，加强备份措施和分布式存储策略。同时，这也提醒所有组织重视灾难恢复计划和冗余备份系统，避免类似损失。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
+            "content_html": "一场大火摧毁了韩国国家研究信息系统(NIRS)的云存储设施，造成政府数据的大量损失。更严重的是，系统没有有效的备份机制，导致研究数据、行政记录和其他重要信息永久丢失。这一事件突显了政府和机构在数据保护、灾难恢复计划和备份策略方面的重大漏洞。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
             "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "title": "大火摧毁韩国政府云存储系统，无可用备份",
+            "title": "大火摧毁韩国政府云存储系统，无备份可用",
             "date_modified": "2025-10-05T17:20:39.000Z"
         },
         {
             "id": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
-            "content_html": "比亚迪宣布推出了一款新型电动汽车，声称其创造了汽车速度的新纪录。这款电动车采用了先进的电池技术和电动驱动系统，实现了惊人的加速性能和最高时速。这一成就展示了比亚迪在电动汽车技术领域的领先地位，以及中国汽车制造商在全球市场的竞争力。随着电动汽车技术的发展，速度不再是内燃机汽车的专属领域，电动驱动系统以其即时扭矩特性正在重新定义汽车性能的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45482516\" target=\"_blank\">评论</a>]",
+            "content_html": "比亚迪推出了全球最快的量产电动车型，该车型采用了创新的电池技术和先进的动力系统，实现了惊人的加速性能和最高速度。这一成就展示了中国在电动汽车技术领域的领先地位，以及传统汽车制造商向电动化转型的高潜力。该车型不仅性能卓越，还体现了可持续交通的发展方向。 [<a href=\"https://news.ycombinator.com/item?id=45482516\" target=\"_blank\">评论</a>]",
             "url": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
-            "title": "比亚迪建造了世界上最快的汽车",
+            "title": "比亚迪制造全球最快汽车",
             "date_modified": "2025-10-05T15:54:01.000Z"
         },
         {
             "id": "https://nfs40.online/",
-            "content_html": "网络文件系统(NFS)迎来了其40周年纪念，这一由Sun Microsystems开发的分布式文件系统彻底改变了数据共享方式。NFS允许用户在网络上访问远程文件系统，就像使用本地存储一样，极大地简化了文件共享和协作。经过四十年发展，NFS已成为Unix/Linux系统中的标准文件系统之一，不断改进以适应新的网络环境和工作负载。NFS的历史展示了开放标准和持续创新如何塑造现代计算基础设施，其影响至今仍在持续。 [<a href=\"https://news.ycombinator.com/item?id=45482467\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章庆祝网络文件系统(NFS)诞生40周年，回顾了这一改变计算基础设施的重要技术。NFS首次实现了不同系统间的文件共享，为分布式计算奠定了基础。文章回顾了NFS的发展历程、技术特点及其对现代网络存储的影响，展示了这项持久技术的创新价值和持续影响力。 [<a href=\"https://news.ycombinator.com/item?id=45482467\" target=\"_blank\">评论</a>]",
             "url": "https://nfs40.online/",
-            "title": "NFS 40周年 - 回顾Sun Microsystems网络文件系统",
+            "title": "NFS四十周年——回顾Sun Microsystems网络文件系统",
             "date_modified": "2025-10-05T15:49:58.000Z"
         },
         {
             "id": "https://www.delopsu.com/draw.html",
-            "content_html": "ASCII绘图板是一个基于Web的工具，允许用户使用ASCII字符创建像素艺术和简单图形。该工具提供直观的界面，用户可以点击网格放置不同ASCII字符，创建从简单图案到复杂艺术的图像。这类工具不仅具有艺术价值，还在编程教学、代码艺术和复古游戏设计中发挥作用。ASCII绘图板展示了如何通过最简单的字符集创造视觉表达，是数字艺术中的一种独特形式，也体现了早期计算机时代的创意表达方式。 [<a href=\"https://news.ycombinator.com/item?id=45482333\" target=\"_blank\">评论</a>]",
+            "content_html": "这是一个基于ASCII字符的在线绘图工具，允许用户使用简单的文本字符创建艺术作品。该工具提供了直观的界面，用户可以通过键盘输入各种ASCII字符来绘制图形、图案或文字。这个项目展示了创意技术与极简主义的结合，为那些怀念早期计算机艺术时代的用户提供了一个怀旧的创作平台。 [<a href=\"https://news.ycombinator.com/item?id=45482333\" target=\"_blank\">评论</a>]",
             "url": "https://www.delopsu.com/draw.html",
-            "title": "分享：ASCII绘图板",
+            "title": "展示HN：ASCII绘图板",
             "date_modified": "2025-10-05T15:36:21.000Z"
         },
         {
             "id": "https://www.abortretry.fail/p/the-qnx-operating-system",
-            "content_html": "QNX是一种实时操作系统(RTOS)，以其微内核架构和极高的可靠性著称。该系统最初由加拿大公司开发，现属黑莓所有，广泛应用于汽车电子、工业控制和关键任务系统中。QNX的微内核设计将系统服务作为独立进程运行，提高了稳定性和安全性，一个组件的故障不会导致整个系统崩溃。其确定性实时性能使其成为安全关键应用的理想选择，如汽车信息娱乐系统、医疗设备和航天控制系统。QNX代表了操作系统设计中的不同哲学，强调安全性和可靠性超过其他特性。 [<a href=\"https://news.ycombinator.com/item?id=45481892\" target=\"_blank\">评论</a>]",
+            "content_html": "QNX是一个微内核实时操作系统，以其稳定性和可靠性著称。它采用微内核架构，核心功能极小，大部分服务在用户空间运行。这种设计使系统具有高安全性和可靠性，广泛应用于汽车、工业控制、医疗设备等关键领域。QNX的实时响应能力和强大的安全性使其成为高可靠性计算环境的首选。 [<a href=\"https://news.ycombinator.com/item?id=45481892\" target=\"_blank\">评论</a>]",
             "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
             "title": "QNX操作系统",
             "date_modified": "2025-10-05T14:47:13.000Z"
+        },
+        {
+            "id": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "content_html": "这个项目展示了一种优化的位压缩算法，利用ARM SIMD指令集实现了惊人的86 GB/s处理速度。代码实现了高效的位打包技术，适用于数据压缩和序列化场景。该实现充分利用了现代ARM处理器的并行处理能力，通过精心的算法设计和指令级优化，达到了接近理论极限的性能水平。 [<a href=\"https://news.ycombinator.com/item?id=45481008\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+            "title": "使用ARM SIMD实现86 GB/s的位压缩（单线程）",
+            "date_modified": "2025-10-05T12:27:11.000Z"
         }
     ]
 }
