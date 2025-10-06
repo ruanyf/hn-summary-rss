@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
-            "content_html": "文章探讨了在当今市场环境下，&quot;与众不同&quot;已不再是构建产品的有效策略。作者认为，仅仅为了差异化而差异化，往往会导致产品脱离用户实际需求。相反，更有效的方法是专注于&quot;做得更好&quot;，即深入理解用户痛点，并提供比现有解决方案更优的体验。文章强调，成功的产品源于对问题的深刻洞察和卓越的执行力，而非表面的新奇。这种从追求不同到追求卓越的转变，是产品成功的关键。 [<a href=\"https://news.ycombinator.com/item?id=45492888\" target=\"_blank\">评论</a>]",
-            "url": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
-            "title": "“与众不同”已不再适用于产品构建",
-            "date_modified": "2025-10-06T16:09:22.000Z"
+            "id": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
+            "content_html": "这个视频讨论了构建生产就绪的AI代理需要考虑的关键因素。演讲者强调了可靠性、可扩展性、监控和错误处理的重要性。视频深入探讨了如何设计能够在真实环境中稳定运行的AI系统，包括处理边缘情况、实现适当的回退机制，以及建立全面的测试框架。还讨论了团队协作、文档编写和版本控制在AI代理开发中的作用，为开发者提供了实用的工程化建议。 [<a href=\"https://news.ycombinator.com/item?id=45493697\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
+            "title": "工程化生产就绪AI代理的因素[视频]",
+            "date_modified": "2025-10-06T17:21:30.000Z"
         },
         {
-            "id": "https://getgrapevine.ai/",
-            "content_html": "Grapevine 是一款专为企业设计的公司级 GPT 工具。它能够安全地连接到公司的内部数据源，如 Google Drive、Slack 和 Confluence，从而为员工提供准确、可验证的答案。该平台强调数据隐私和安全，确保敏感信息不会泄露。Grapevine 旨在成为团队的智能助手，帮助员工快速查找信息、提高工作效率，并减少在不同应用间切换的时间。其核心优势在于能够深入理解公司特定知识，并提供可靠的、基于上下文的回答。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
-            "url": "https://getgrapevine.ai/",
-            "title": "Launch HN: Grapevine (YC S19) – 一款真正有效的公司级 GPT",
-            "date_modified": "2025-10-06T15:39:59.000Z"
+            "id": "https://brooker.co.za/blog/2025/10/05/locality.html",
+            "content_html": "这篇文章探讨了局部性原理在计算和物理学中的重要性，以及时空假说如何解释信息处理的局限性。作者分析了局部性如何影响算法设计、分布式系统和量子计算，提出了一个统一的框架来理解不同领域中的局部性现象。文章还讨论了非局部效应的挑战，以及如何在保持局部性优势的同时处理全局优化问题，为理解复杂系统的本质提供了新的视角。 [<a href=\"https://news.ycombinator.com/item?id=45493681\" target=\"_blank\">评论</a>]",
+            "url": "https://brooker.co.za/blog/2025/10/05/locality.html",
+            "title": "局部性与时空假说",
+            "date_modified": "2025-10-06T17:19:55.000Z"
         },
         {
-            "id": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
-            "content_html": "据报道，微软正计划推出一个全新的、由广告支持的免费 Xbox 云游戏服务层级。此举旨在吸引那些不愿订阅 Xbox Game Pass Ultimate 的玩家，从而扩大其云游戏用户基础。该免费层级可能会提供有限的游戏库，并在游戏开始前、游戏中或游戏结束后播放广告。这标志着微软在云游戏市场采取更激进的策略，与竞争对手争夺更广泛的受众，特别是那些对价格敏感的休闲玩家。 [<a href=\"https://news.ycombinator.com/item?id=45492086\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
-            "title": "微软将推出带广告的免费 Xbox 云游戏服务",
-            "date_modified": "2025-10-06T14:53:46.000Z"
+            "id": "https://www.sciencedirect.com/science/article/abs/pii/S0166046225000742",
+            "content_html": "这篇学术论文研究了历史街区 designation 对房地产价值和经济发展的积极影响。研究通过数据分析表明，被认定为历史街区的区域通常能够保持更高的房产价值，吸引更多游客和投资，同时保护了文化遗产。文章还探讨了历史街区保护政策对社区认同感、文化传承和可持续城市发展的重要作用，为城市规划者和政策制定者提供了实证依据。 [<a href=\"https://news.ycombinator.com/item?id=45493679\" target=\"_blank\">评论</a>]",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166046225000742",
+            "title": "历史街区地位的价值",
+            "date_modified": "2025-10-06T17:19:42.000Z"
         },
         {
-            "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "这篇 GitHub 讨论介绍了开发工具 Mise 的 Monorepo Tasks 功能。该功能旨在简化在包含多个相关项目的大型代码库中的任务管理。通过 Mise，开发者可以定义和运行跨多个包或项目的任务，而无需在每个子项目中单独配置。它支持任务依赖、并行执行以及工作区感知，使得在复杂的 monorepo 环境中进行构建、测试和部署等操作变得更加高效和统一。这为管理大型前端或后端项目提供了强大的自动化能力。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise: Monorepo 任务",
-            "date_modified": "2025-10-06T14:07:46.000Z"
+            "id": "https://www.honest-broker.com/p/hamlet-is-the-gen-z-story-we-need",
+            "content_html": "这篇文章分析了莎士比亚的《哈姆雷特》如何与当代Z世代的经历和价值观产生共鸣。作者认为，哈姆雷特面临的身份危机、代际冲突和对真实性的追求，反映了现代年轻人面临的挑战。文章探讨了经典文学在数字时代的现实意义，以及如何通过重新解读这些作品来帮助Z世代理解自己的处境，找到应对复杂世界的方式。 [<a href=\"https://news.ycombinator.com/item?id=45493673\" target=\"_blank\">评论</a>]",
+            "url": "https://www.honest-broker.com/p/hamlet-is-the-gen-z-story-we-need",
+            "title": "哈姆雷特是我们需要的Z世代故事",
+            "date_modified": "2025-10-06T17:18:57.000Z"
         },
         {
-            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这是一个代码片段，展示了用大约 400 行 C 语言实现的 Kent Dybvig 的 Scheme 虚拟机。该实现特别关注于堆内存模型，而非传统的基于寄存器的模型。代码简洁而高效，能够执行基本的 Scheme 程序。它为学习虚拟机设计、内存管理以及 Scheme 语言的实现原理提供了一个极佳的参考。这个项目对于那些想要深入理解编程语言底层工作原理的开发者来说，是一个宝贵的教育资源。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
-            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN: Kent Dybvig 的 Scheme 机（400行C语言实现，基于堆内存模型）",
-            "date_modified": "2025-10-06T14:06:29.000Z"
+            "id": "https://news.ycombinator.com/item?id=45493663",
+            "content_html": "这是Hacker News上的一个讨论串，探讨了AI热潮带来的经济影响。用户们讨论了AI创业公司、投资机会、技术变革对不同行业的影响，以及普通人在AI时代的机遇和挑战。讨论涵盖了从AI工具开发到AI伦理问题的广泛话题，反映了技术社区对AI发展现状和未来趋势的不同观点，展现了AI革命对经济和社会的深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45493663\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45493663",
+            "title": "似乎每个人都在通过AI致富",
+            "date_modified": "2025-10-06T17:18:02.000Z"
         },
         {
-            "id": "https://write-it-down.com",
-            "content_html": "Write It Down 是一个简洁的个人财务追踪工具。它旨在帮助用户轻松记录和管理他们的日常收支、账户余额和预算。该应用强调简单性和用户隐私，通常不涉及复杂的投资分析或股票市场功能，而是专注于核心的个人记账需求。用户可以通过直观的界面快速输入交易，查看财务报告，并了解自己的消费习惯。对于希望获得清晰财务状况概览而又不想使用过于复杂软件的用户来说，这是一个理想的选择。 [<a href=\"https://news.ycombinator.com/item?id=45490578\" target=\"_blank\">评论</a>]",
-            "url": "https://write-it-down.com",
-            "title": "Show HN: Write It Down – 个人财务追踪器",
-            "date_modified": "2025-10-06T12:23:40.000Z"
+            "id": "https://zed.dev/blog/jetbrains-on-acp",
+            "content_html": "Zed编辑器宣布与JetBrains建立合作，通过ACP（Astro Community Protocol）实现更好的集成。这次合作将使Zed用户能够利用JetBrains的强大功能，同时保持Zed的轻量级和速度优势。文章详细介绍了ACP协议的工作原理，以及这次合作如何改善开发者的编程体验，特别是在处理大型项目和复杂代码库时的性能提升。 [<a href=\"https://news.ycombinator.com/item?id=45493609\" target=\"_blank\">评论</a>]",
+            "url": "https://zed.dev/blog/jetbrains-on-acp",
+            "title": "ACP引入JetBrains合作",
+            "date_modified": "2025-10-06T17:13:46.000Z"
         },
         {
-            "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "content_html": "根据路透社报道，AMD 与 OpenAI 签署了一项协议，将为 OpenAI 提供 AI 芯片。作为交易的一部分，AMD 获得了购买 OpenAI 最高 10% 股权的期权。此举标志着 AMD 在与英伟达竞争 AI 芯片市场的战略中取得了重要进展，同时也表明 OpenAI 正在寻求芯片供应链的多元化。这笔交易不仅为 AMD 带来了重要的订单，还可能通过股权投资深度绑定与这家领先 AI 公司的关系，共同推动 AI 硬件的发展。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
-            "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "title": "AMD 与 OpenAI 签署 AI 芯片供应协议，并获得其 10% 股权的认购权",
-            "date_modified": "2025-10-06T12:17:59.000Z"
+            "id": "https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/",
+            "content_html": "JetBrains宣布与Zed编辑器合作，通过开放标准实现AI编码代理在不同IDE之间的互操作性。这次合作旨在打破工具壁垒，让开发者能够在自己喜欢的环境中使用AI助手。文章介绍了技术实现细节，包括如何通过标准化协议实现AI代理的无缝集成，以及这对开发者生态系统和AI工具发展的积极影响。 [<a href=\"https://news.ycombinator.com/item?id=45493593\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/",
+            "title": "JetBrains × Zed：为您的IDE中的AI编码代理实现开放互操作性",
+            "date_modified": "2025-10-06T17:12:12.000Z"
         },
         {
-            "id": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "content_html": "这篇文章是一份详细的指南，指导读者如何搭建和运行自己的 XMPP（可扩展通讯和表示协议）服务器。文章强调了自托管消息传递服务的优势，如数据隐私、控制权和免受商业服务政策变更的影响。它以 Prosody 为例，逐步讲解了服务器的安装、配置、域名设置、使用 TLS 加密以及管理用户等关键步骤。这篇文章为希望摆脱中心化聊天应用、建立私密通信渠道的技术爱好者提供了实用的入门教程。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
-            "url": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "title": "现代消息传递：运行你自己的 XMPP 服务器",
-            "date_modified": "2025-10-06T12:02:45.000Z"
+            "id": "https://www.engadget.com/rabbit-plots-its-redemption-arc-120000271.html",
+            "content_html": "这篇文章讲述了AI硬件公司Rabbit在经历产品发布挫折后的转型计划。公司创始人承认了初代产品的问题，并详细介绍了改进策略，包括软件更新、硬件优化和用户体验提升。文章分析了Rabbit面临的挑战和机遇，以及AI硬件市场的竞争格局，探讨了公司如何在激烈的竞争中重新赢得用户信任和市场地位。 [<a href=\"https://news.ycombinator.com/item?id=45493586\" target=\"_blank\">评论</a>]",
+            "url": "https://www.engadget.com/rabbit-plots-its-redemption-arc-120000271.html",
+            "title": "Rabbit规划其救赎之路",
+            "date_modified": "2025-10-06T17:11:38.000Z"
         },
         {
-            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "content_html": "2025年诺贝尔生理学或医学奖授予了 Victor Ambros 和 Gary Ruvkun，以表彰他们发现 microRNAs 的开创性贡献。他们的研究揭示了一种全新的基因调控机制，即 microRNAs 这种微小 RNA 分子如何在基因表达中发挥关键作用。这一发现彻底改变了我们对细胞如何分化以及身体如何运作的理解，并为癌症、病毒感染及其他多种疾病的研究开辟了新道路。他们的工作证明了基础科学研究对于理解生命和开发新疗法的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "title": "2025年诺贝尔生理学或医学奖",
-            "date_modified": "2025-10-06T09:41:16.000Z"
+            "id": "https://embarcaderoplaza.com/tour",
+            "content_html": "这个项目为Embarcadero广场创建了一个沉浸式的虚拟游览体验，展示了这个有50年历史的公园。网站通过交互式地图、历史照片和视频，让用户能够在线探索公园的各个角落，了解其历史变迁和文化意义。项目不仅保存了珍贵的城市记忆，也为无法亲临现场的游客提供了便捷的参观方式，体现了数字技术在文化遗产保护中的应用。 [<a href=\"https://news.ycombinator.com/item?id=45493583\" target=\"_blank\">评论</a>]",
+            "url": "https://embarcaderoplaza.com/tour",
+            "title": "Show HN：一个50年历史公园的虚拟游览",
+            "date_modified": "2025-10-06T17:11:29.000Z"
         },
         {
-            "id": "https://demodesk.com/careers",
-            "content_html": "Demodesk，一家 Y Combinator W19 孵化的公司，正在招聘一名 Ruby on Rails 工程师。Demodesk 提供一个智能销售会议平台，能够自动进行议程规划、实时记录和更新 CRM 系统。该职位要求候选人具备强大的 Ruby on Rails 开发经验，熟悉后端架构、API 设计和数据库管理。成功的候选人将加入一个致力于改变销售方式的团队，负责开发和维护平台的核心功能，以提升销售团队的效率和业绩。 [<a href=\"https://news.ycombinator.com/item?id=45489174\" target=\"_blank\">评论</a>]",
-            "url": "https://demodesk.com/careers",
-            "title": "Demodesk (YC W19) 招聘 Ruby on Rails 工程师",
-            "date_modified": "2025-10-06T08:49:30.000Z"
+            "id": "https://github.com/palmy-investing/palmy-equity-research",
+            "content_html": "这是一个开源的GitHub项目，提供了解析SEC文件、Edgar数据和股票研究报告的工具集。项目包含了多种解析器，能够处理不同格式的金融文档，提取关键信息用于投资分析。开发者可以通过这些工具自动化股票研究流程，提高分析效率。项目文档详细，代码结构清晰，为金融科技开发者和量化分析师提供了实用的基础设施。 [<a href=\"https://news.ycombinator.com/item?id=45493571\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/palmy-investing/palmy-equity-research",
+            "title": "IDX、EFT、ENTs解析器(SEC/Edgar/股票研究)",
+            "date_modified": "2025-10-06T17:10:38.000Z"
         },
         {
-            "id": "https://batteringram.eu/",
-            "content_html": "&quot;Battering RAM&quot; 是一项安全研究，揭示了一种针对机密计算环境的新型低成本攻击方法。研究者通过一种名为中介体攻击的技术，能够绕过基于硬件的安全隔离（如 Intel SGX），从被认为是安全的内存区域中窃取敏感数据。该攻击利用了硬件层面上的侧信道漏洞，成本相对低廉，但威胁巨大。这项研究挑战了人们对机密计算安全性的传统认知，并促使芯片制造商和软件开发者重新评估和加强其安全防护措施。 [<a href=\"https://news.ycombinator.com/item?id=45488713\" target=\"_blank\">评论</a>]",
-            "url": "https://batteringram.eu/",
-            "title": "Battering RAM – 针对机密计算的低成本中介体攻击",
-            "date_modified": "2025-10-06T07:47:17.000Z"
+            "id": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
+            "content_html": "德勤同意向澳大利亚政府退款，因为其使用AI生成的报告包含大量错误信息。这起事件引发了关于AI在专业服务中应用的担忧，特别是在需要高度准确性的政府合同中。文章分析了AI幻觉问题的根源，讨论了企业在使用AI工具时应该采取的验证和质量控制措施，以及这一事件对AI在商业应用中信任度的影响。 [<a href=\"https://news.ycombinator.com/item?id=45493569\" target=\"_blank\">评论</a>]",
+            "url": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
+            "title": "德勤将就AI幻觉报告向澳大利亚政府退款",
+            "date_modified": "2025-10-06T17:10:30.000Z"
         },
         {
-            "id": "https://www.flightcontrol.dev/",
-            "content_html": "Flightcontrol 是一个平台即服务，它允许开发者将 web 应用程序、数据库和后台作业直接部署到他们自己的 AWS 账户中。它结合了 PaaS 的易用性和云基础设施的灵活性与控制权。用户只需连接他们的 GitHub 仓库和 AWS 账户，Flightcontrol 就会自动处理构建、发布、容器化和基础设施配置等复杂工作。这使团队能够专注于编写代码，同时保留对其云环境、数据和成本的全部所有权，无需成为 DevOps 专家。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
-            "url": "https://www.flightcontrol.dev/",
-            "title": "Flightcontrol: 一个部署到你的 AWS 账户的 PaaS 平台",
-            "date_modified": "2025-10-06T07:07:11.000Z"
+            "id": "https://www.youtube.com/watch?v=zVZTX35KcL4",
+            "content_html": "这个自然纪录片视频展示了蜜蜂从卵到成虫的完整生命周期。通过微距摄影技术，观众可以近距离观察蜜蜂在蜂房中的发育过程，包括幼虫阶段、化蛹和最终羽化成蜂的过程。视频还介绍了蜂群的社会结构和不同角色，以及蜜蜂对生态系统的重要作用，为观众提供了深入了解这些神奇昆虫的机会。 [<a href=\"https://news.ycombinator.com/item?id=45493548\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=zVZTX35KcL4",
+            "title": "蜜蜂的诞生[视频]",
+            "date_modified": "2025-10-06T17:08:50.000Z"
         },
         {
-            "id": "https://structuredprocrastination.com",
-            "content_html": "&quot;结构化拖延法&quot;是斯坦福大学哲学教授 John Perry 提出的一种幽默而高效的拖延管理策略。其核心思想是，拖延者为了避免做最重要、最困难的任务，会转而完成其他次重要但同样具有价值的事情。因此，通过巧妙地调整待办事项列表的优先级，将看起来最重要但实际上不那么紧急的任务放在顶端，就可以利用拖延的倾向来推动其他有建设性工作的完成。这种方法承认拖延是人性的一部分，并将其转化为一种生产力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
-            "url": "https://structuredprocrastination.com",
-            "title": "结构化拖延法 (1995)",
-            "date_modified": "2025-10-06T06:35:36.000Z"
+            "id": "https://camfer.dev/download/",
+            "content_html": "Camfer是一个AI驱动的CAD设计助手，旨在帮助工程师和设计师提高工作效率。这个工具能够理解自然语言指令，协助创建和修改CAD模型，提供设计建议，并自动化重复性任务。网站展示了产品的核心功能和使用场景，强调了AI在传统工程设计软件中的应用潜力，为CAD用户提供了智能化的辅助工具。 [<a href=\"https://news.ycombinator.com/item?id=45493543\" target=\"_blank\">评论</a>]",
+            "url": "https://camfer.dev/download/",
+            "title": "Show HN：Camfer – 一个AI CAD副驾驶",
+            "date_modified": "2025-10-06T17:08:23.000Z"
         },
         {
-            "id": "https://gem.coop/",
-            "content_html": "Gem.coop 是一个基于合作模式（co-op）的数字平台或项目。虽然具体细节可能随时间变化，但此类平台通常旨在通过成员共同拥有的模式，提供比传统企业更公平、更透明或更具社群导向的服务。它可能涉及内容创作、软件开发、资源共享或金融服务等领域。核心理念是赋予成员决策权和收益权，强调社区福祉和协作而非利润最大化，旨在构建一个更加民主和去中心化的数字生态系统。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
-            "url": "https://gem.coop/",
-            "title": "Gem.coop",
-            "date_modified": "2025-10-06T04:59:39.000Z"
+            "id": "https://iaziz786.com/blog/keep-working-on-wrong-ideas/",
+            "content_html": "这篇博客文章探讨了坚持看似错误想法的价值。作者认为，很多创新都来自于最初被认为是错误的思路，通过持续改进和调整，这些想法可能最终产生突破性成果。文章通过历史案例和个人经历，说明了质疑传统 wisdom、保持开放思维的重要性，鼓励读者不要轻易放弃 unconventional 的想法，因为它们可能是通往创新的必经之路。 [<a href=\"https://news.ycombinator.com/item?id=45493530\" target=\"_blank\">评论</a>]",
+            "url": "https://iaziz786.com/blog/keep-working-on-wrong-ideas/",
+            "title": "坚持错误的想法",
+            "date_modified": "2025-10-06T17:07:39.000Z"
         },
         {
-            "id": "https://blog.archive.org/trillion/",
-            "content_html": "互联网档案馆宣布其网页存档量已突破一万亿个大关。这是一个里程碑式的成就，标志着人类数字遗产得到了前所未有的广泛保存。自 1996 年以来，通过其 Wayback Machine 服务，档案馆持续抓取和存储网页，为研究人员、历史学家和公众提供了一个宝贵的数字时间胶囊。这个庞大的数据库记录了互联网的演化、文化变迁以及无数事件的原始记录，确保了这些信息能够被后代访问和学习，对抗了数字信息的易逝性。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.archive.org/trillion/",
-            "title": "存档了一万亿个网页",
-            "date_modified": "2025-10-06T03:48:34.000Z"
+            "id": "https://www.xharbour.org/",
+            "content_html": "XHarbour是一个开源的数据库编程语言，是经典Clipper语言的现代扩展。这个项目保持了Clipper的简洁性和高效性，同时添加了现代编程语言的特性，如面向对象编程、跨平台支持和更好的内存管理。网站提供了完整的文档、下载链接和社区资源，为需要维护Legacy系统或开发新数据库应用的开发者提供了一个强大的工具选择。 [<a href=\"https://news.ycombinator.com/item?id=45493529\" target=\"_blank\">评论</a>]",
+            "url": "https://www.xharbour.org/",
+            "title": "XHarbour – 开源扩展Clipper语言",
+            "date_modified": "2025-10-06T17:07:39.000Z"
         },
         {
-            "id": "https://vgel.me/posts/seahorse/",
-            "content_html": "这篇文章深入探讨了一个有趣的现象：当输入海马（🦓）表情符号时，一些大型语言模型会产生异常或重复的文本输出。作者通过一系列实验和模型分析，推测这可能是由于海马表情符号在模型的训练数据中具有某些独特的上下文关联或频率特征，或者与模型的分词器处理方式有关。这一现象揭示了 LLM 内部工作机制的复杂性和不可预测性，即使是看似简单的输入也可能触发模型行为的异常，为理解模型的潜在偏见和缺陷提供了独特视角。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
-            "url": "https://vgel.me/posts/seahorse/",
-            "title": "为什么大语言模型会对海马表情符号失控？",
-            "date_modified": "2025-10-06T02:20:05.000Z"
+            "id": "https://www.nrel.gov/pv/interactive-cell-efficiency",
+            "content_html": "这是美国国家可再生能源实验室(NREL)提供的交互式图表，展示了各种太阳能电池技术的历史效率记录。用户可以通过这个工具探索不同光伏技术的发展历程，比较各种材料体系的效率表现，了解最新的技术突破。图表数据详实，更新及时，为太阳能研究人员、工程师和学生提供了权威的技术参考资源。 [<a href=\"https://news.ycombinator.com/item?id=45493523\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nrel.gov/pv/interactive-cell-efficiency",
+            "title": "交互式最佳研究电池效率图表",
+            "date_modified": "2025-10-06T17:07:17.000Z"
         },
         {
-            "id": "https://joinreboot.org/p/lighthouses-in-the-sky",
-            "content_html": "这篇文章探讨了持续在线位置共享应用所带来的隐私和伦理风险。作者认为，虽然这类应用（如分享实时位置给朋友或家人）提供了一种安全感和便利，但它们也创造了一种前所未有的、持续的亲密监控关系。这种监控可能被滥用，导致情感操控、控制和追踪，模糊了关爱与监视的界限。文章呼吁人们反思这种技术对人际关系和个人自主性的影响，并强调在享受便利的同时，必须警惕其背后潜藏的控制与危险。 [<a href=\"https://news.ycombinator.com/item?id=45485546\" target=\"_blank\">评论</a>]",
-            "url": "https://joinreboot.org/p/lighthouses-in-the-sky",
-            "title": "社交位置共享的危险亲密关系",
-            "date_modified": "2025-10-05T21:44:01.000Z"
+            "id": "https://www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
+            "content_html": "这篇文章批评了OpenAI对其Sora视频生成模型用户的知识产权承诺。作者认为，OpenAI声称的保护用户IP的承诺在实际执行中存在诸多限制和漏洞，许多创作者发现他们的作品被用于训练而未得到适当补偿。文章分析了AI公司IP政策的复杂性，讨论了创作者权益保护在AI时代面临的挑战，呼吁更透明和公平的知识产权框架。 [<a href=\"https://news.ycombinator.com/item?id=45493514\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/06/openai_makes_empty_promises_to/",
+            "title": "OpenAI的IP承诺对Sora输家来说空洞无物",
+            "date_modified": "2025-10-06T17:06:42.000Z"
         },
         {
-            "id": "https://fi-le.net/oss/",
-            "content_html": "这篇技术分析文章声称从一个名为 GPT-OSS 的开源模型中发现了关于 OpenAI 训练数据的线索。作者通过特定的提示词诱导模型输出了似乎是内部使用的文件名、路径和开发者标识符等敏感信息。文章推测，这个开源模型可能是基于 OpenAI 的某个未公开模型进行微调或蒸馏的，从而保留了部分原始训练数据的&quot;记忆&quot;。这一发现引发了关于 AI 模型数据泄露、知识产权以及开源模型安全性的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
-            "url": "https://fi-le.net/oss/",
-            "title": "GPT-OSS 泄露了关于 OpenAI 训练数据的哪些信息",
-            "date_modified": "2025-10-05T18:28:16.000Z"
+            "id": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
+            "content_html": "这篇新闻报道了环保活动家格蕾塔·通贝里在以色列被拘留的事件，据称她被关押在卫生条件恶劣的牢房中。文章详细描述了事件的经过，包括通贝里参与的相关抗议活动、以色列当局的回应，以及瑞典政府和国际社会的反应。这一事件引发了关于人权、言论自由和国际政治争议的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45493498\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
+            "title": "以色列被指控在受感染的牢房中拘留格蕾塔·通贝里",
+            "date_modified": "2025-10-06T17:05:39.000Z"
         },
         {
-            "id": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "content_html": "韩国政府国家养老金服务（NPS）的数据中心发生火灾，导致其云存储系统被完全摧毁。最严重的是，报告显示该系统没有任何可用的备份，意味着大量公民的养老金数据和敏感信息可能永久丢失。这起事件被形容为一场国家级的 IT 灾难，暴露了政府在关键基础设施管理和数据备份策略上的严重漏洞。事件引发了公众的强烈担忧和对政府数据处理能力的质疑，并促使当局对全国范围内的公共数据安全进行紧急审查。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
-            "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "title": "大火烧毁韩国政府云存储系统，无备份可用",
-            "date_modified": "2025-10-05T17:20:39.000Z"
+            "id": "https://www.blossom88.com",
+            "content_html": "Blossom是一个开源的部署平台，提供了类似Heroku的用户体验，但允许用户在自己的服务器上运行。这个平台旨在解决云服务vendor lock-in的问题，同时保持部署的简单性。网站介绍了如何通过Blossom实现一键部署、自动扩展和管理应用，强调了成本控制、数据主权和技术自由的优势，为寻找云服务替代方案的开发者提供了实用选择。 [<a href=\"https://news.ycombinator.com/item?id=45493480\" target=\"_blank\">评论</a>]",
+            "url": "https://www.blossom88.com",
+            "title": "Blossom – 在您的服务器上进行类似Heroku的部署；更便宜，无锁定",
+            "date_modified": "2025-10-06T17:03:41.000Z"
         },
         {
-            "id": "https://www.abortretry.fail/p/the-qnx-operating-system",
-            "content_html": "这篇文章详细介绍了 QNX 操作系统的历史、架构和特点。QNX 是一款微内核架构的实时操作系统（RTOS），以其高可靠性、稳定性和安全性而闻名。文章解释了其微内核设计如何将大多数服务运行在用户空间，从而提高了系统的容错性和模块化。QNX 广泛应用于汽车信息娱乐系统、工业控制、医疗设备等对可靠性要求极高的领域。文章还探讨了它的发展历程，从一个小型项目成长为嵌入式系统中关键软件的历程。 [<a href=\"https://news.ycombinator.com/item?id=45481892\" target=\"_blank\">评论</a>]",
-            "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
-            "title": "QNX 操作系统",
-            "date_modified": "2025-10-05T14:47:13.000Z"
+            "id": "https://en.wikipedia.org/wiki/Citizenship_in_a_Republic",
+            "content_html": "这个维基百科条目详细介绍了西奥多·罗斯福1910年在巴黎索邦大学发表的著名演讲《竞技场中的人》。文章提供了演讲的完整文本、历史背景和分析，解释了&quot;批评家并不重要&quot;这一著名论断的深层含义。条目还探讨了这一演讲对美国政治文化的影响，以及它在当代社会中的现实意义，展现了公共服务和公民责任的永恒价值。 [<a href=\"https://news.ycombinator.com/item?id=45493471\" target=\"_blank\">评论</a>]",
+            "url": "https://en.wikipedia.org/wiki/Citizenship_in_a_Republic",
+            "title": "竞技场中的人",
+            "date_modified": "2025-10-06T17:03:05.000Z"
         }
     ]
 }
