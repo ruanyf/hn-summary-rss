@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1582906-rust-written-redox-os-enables-multi-threading-by-default",
-            "content_html": "Redox操作系统，一个完全用Rust语言编写的开源操作系统，已经实现了默认启用多线程的功能。这一里程碑式的进展标志着Redox OS在系统架构上的重要改进，使其能够更好地利用现代多核处理器的性能。开发者通过在内核级别实现线程调度和管理，让系统默认支持并发执行，提高了整体系统响应性和吞吐量。这一改进对Redox OS的生态系统发展具有重要意义，为运行更复杂的应用程序奠定了基础。该项目团队表示，多线程支持是Redox迈向生产就绪操作系统的关键一步。 [<a href=\"https://news.ycombinator.com/item?id=45496446\" target=\"_blank\">评论</a>]",
-            "url": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1582906-rust-written-redox-os-enables-multi-threading-by-default",
-            "title": "用Rust编写的Redox OS默认启用多线程",
-            "date_modified": "2025-10-06T21:17:45.000Z"
-        },
-        {
             "id": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-            "content_html": "这篇文章深入探讨了WebGPU技术以及WGSL（WebGPU着色语言）编译过程中的性能开销。作者详细分析了WebGPU在现代浏览器中的实现，特别关注了着色器编译对应用性能的影响。文章指出，WGSL编译可能成为WebGPU应用的瓶颈，特别是在复杂图形场景中。作者提供了一些优化建议，包括预编译着色器、缓存编译结果以及减少动态编译需求。文章还讨论了WebGPU与OpenGL和WebGL的对比，强调了新一代图形API的优势和挑战。对于Web开发者来说，理解这些编译代价对于构建高性能的图形应用至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
+            "content_html": "本文探讨了WebGPU中WGSL（WebGPU着色语言）编译的性能开销问题。作者详细分析了WGSL编译过程对应用程序性能的影响，特别是在实时渲染场景中。文章指出，WGSL编译可能成为性能瓶颈，并提出了几种优化策略，包括预编译、缓存和延迟编译等技术。通过实际测试数据，作者展示了不同优化方法的效果，为WebGPU开发者提供了实用的性能优化建议。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
             "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
             "title": "WebGPU和编译WGSL的代价",
             "date_modified": "2025-10-06T21:14:51.000Z"
         },
         {
-            "id": "https://arxiv.org/abs/2509.25149",
-            "content_html": "这篇研究论文探讨了使用NVIDIA的NVFP4浮点格式来预训练大型语言模型的方法。NVFP4是一种4位浮点数格式，能够在保持模型性能的同时显著减少内存占用和计算开销。研究团队通过实验证明，使用NVFP4进行预训练可以实现与更高精度格式相当的模型质量，同时节省大量计算资源。这项技术对于降低大模型训练成本具有重要意义，可能使得更多研究机构和企业能够承担大模型训练的费用。论文详细介绍了量化策略、训练技巧以及性能评估结果，为低精度大模型训练提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45496359\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2509.25149",
-            "title": "使用NVFP4预训练大型语言模型",
-            "date_modified": "2025-10-06T21:09:25.000Z"
-        },
-        {
-            "id": "https://macleans.ca/longforms/my-misadventures-in-gentle-parenting/",
-            "content_html": "这篇文章是一位家长对温和育儿理念的个人反思和经历分享。作者坦诚地讲述了在实践温和育儿过程中遇到的挑战和困惑，包括如何在保持温和的同时设定界限，以及如何应对孩子的不当行为。文章探讨了对温和育儿的误解，指出温和不等于纵容，而是需要坚定而友善的引导。作者分享了从理论到实践的心路历程，以及如何在挫折中找到平衡点。这篇文章为正在探索育儿方式的家长提供了真实的视角，提醒人们育儿没有标准答案，需要根据家庭情况和孩子个性灵活调整。 [<a href=\"https://news.ycombinator.com/item?id=45496354\" target=\"_blank\">评论</a>]",
-            "url": "https://macleans.ca/longforms/my-misadventures-in-gentle-parenting/",
-            "title": "我在温和育儿中的不幸遭遇",
-            "date_modified": "2025-10-06T21:08:43.000Z"
-        },
-        {
-            "id": "https://cdm.link/audacity-4-in-ui-preview/",
-            "content_html": "Audacity 4.0版本带来了全新的用户界面设计，标志着这款经典免费音频编辑软件向现代化迈出重要一步。新UI采用了更清晰的设计语言，包括深色模式支持、重新组织的工具栏、改进的轨道管理以及更直观的效果面板。开发团队专注于提升用户体验，让音频编辑工作流程更加流畅高效。除了视觉更新，新版本还优化了性能，增加了实时效果预览功能，并改进了音频处理引擎。这些改进使得Audacity在保持免费开源特性的同时，能够与商业音频软件竞争。文章展示了多个界面截图，让用户提前了解即将到来的变化。 [<a href=\"https://news.ycombinator.com/item?id=45496309\" target=\"_blank\">评论</a>]",
-            "url": "https://cdm.link/audacity-4-in-ui-preview/",
-            "title": "Audacity 4：免费音频编辑器的新现代UI预览",
-            "date_modified": "2025-10-06T21:04:07.000Z"
-        },
-        {
-            "id": "https://www.vloex.com",
-            "content_html": "VLOEX是一个创新项目，旨在将视频处理能力提升为软件的基础原语，类似于文本和图像在现有计算系统中的地位。该项目从视频生成作为切入点，探索如何让视频内容的创建、编辑和处理变得更加程序化和可组合。平台提供了一套API和工具，让开发者能够以代码方式生成和操作视频内容，而不仅仅是作为文件处理。这种方法可能彻底改变视频内容的创作方式，使其更容易集成到各种应用中。项目展示了视频作为数据类型的潜力，为下一代多媒体应用开发开辟了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45496299\" target=\"_blank\">评论</a>]",
-            "url": "https://www.vloex.com",
-            "title": "Show HN: 让视频成为软件原语（从生成开始）",
-            "date_modified": "2025-10-06T21:02:59.000Z"
-        },
-        {
-            "id": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
-            "content_html": "这篇文章探讨了计算架构的重大变革：将处理单元直接集成到内存芯片中，打破传统的冯·诺依曼架构限制。这种&quot;内存计算&quot;（Processing-in-Memory）技术能够显著减少数据移动带来的延迟和能耗，解决现代计算系统中的内存墙问题。文章详细介绍了这一技术的原理、优势以及面临的挑战。通过在内存内部执行计算操作，可以大幅提升数据密集型应用的性能，特别是在AI训练、大数据分析等领域。多家研究机构和公司正在推进相关技术，预计这一变革将在未来几年内重塑计算硬件设计，带来性能和能效的显著提升。 [<a href=\"https://news.ycombinator.com/item?id=45496282\" target=\"_blank\">评论</a>]",
-            "url": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
-            "title": "下一次计算革命：将处理带入内存内部",
-            "date_modified": "2025-10-06T21:01:00.000Z"
-        },
-        {
-            "id": "https://www.bbc.com/culture/article/20251002-the-century-long-search-for-the-loch-ness-monster",
-            "content_html": "这篇文章回顾了人类寻找尼斯湖水怪长达一个世纪的历程。从1934年著名的&quot;外科医生照片&quot;开始，尼斯湖水怪就成为了全球最著名的神秘生物之一。文章详细记录了各个时代的探索尝试，包括早期的目击报告、潜水器探测、声纳扫描以及现代的DNA分析技术。科学家们通过严谨的科学方法调查湖水生态系统，但至今没有发现确凿证据证明水怪存在。文章探讨了这一现象背后的文化意义，以及人类对未知事物的持续好奇。尼斯湖水怪的传说已经超越了科学探索本身，成为流行文化的重要组成部分，吸引着无数游客和研究者前往苏格兰高地。 [<a href=\"https://news.ycombinator.com/item?id=45496271\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bbc.com/culture/article/20251002-the-century-long-search-for-the-loch-ness-monster",
-            "title": "寻找尼斯湖水怪的百年历程",
-            "date_modified": "2025-10-06T21:00:02.000Z"
-        },
-        {
-            "id": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
-            "content_html": "据彭博社报道，苹果公司硬件工程高级副总裁John Ternus正在成为接替Tim Cook担任CEO的热门人选。Ternus在苹果工作多年，负责Mac、iPhone、iPad等核心产品的硬件开发，深受公司信任。文章分析了苹果的继任计划，指出Ternus在产品创新和供应链管理方面的经验使他成为理想候选人。同时，苹果近期搁置了一些项目，包括Vision Air眼镜和M5 iPad，这可能反映了公司战略调整。文章还讨论了苹果面临的挑战，包括在中国市场的竞争压力以及AI技术的发展机遇。Ternus的崛起标志着苹果可能延续其以硬件创新为核心的发展路线。 [<a href=\"https://news.ycombinator.com/item?id=45496268\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
-            "title": "苹果将硬件主管John Ternus置于CEO继任聚光灯下",
-            "date_modified": "2025-10-06T20:59:38.000Z"
-        },
-        {
-            "id": "https://idiallo.com/blog/ai-video-overview",
-            "content_html": "这篇文章全面介绍了当前AI视频生成技术的发展现状。作者详细分析了各大AI视频生成工具的特点、能力以及使用场景，包括Runway、Pika、Sora等领先平台。文章涵盖了从文本到视频、图像到视频、视频风格转换等多种生成模式，并比较了不同工具在视频质量、连贯性和可控性方面的表现。作者还讨论了AI视频技术面临的挑战，如长视频连贯性、物理规律理解以及计算资源需求等。文章为内容创作者、开发者和企业用户提供了选择合适工具的指导，并预测了AI视频技术的未来发展趋势，包括实时生成、3D视频支持和更精细的控制选项。 [<a href=\"https://news.ycombinator.com/item?id=45496246\" target=\"_blank\">评论</a>]",
-            "url": "https://idiallo.com/blog/ai-video-overview",
-            "title": "AI视频概览",
-            "date_modified": "2025-10-06T20:57:21.000Z"
-        },
-        {
-            "id": "https://spikepuppet.io/posts/a-rubber-duck-on-acid-wont-take-jobs/",
-            "content_html": "这篇文章以幽默的方式探讨了AI对就业市场的影响，反驳了AI将大规模取代人类工作的悲观预测。作者用&quot;迷幻的橡皮鸭&quot;这个比喻来强调当前AI技术的局限性，指出AI虽然在某些任务上表现出色，但缺乏真正的理解力和创造力。文章分析了不同职业被AI取代的可能性，强调了许多需要人类情感、创造力和复杂决策的工作短期内难以被自动化。作者建议人们应该将AI视为工具而非威胁，学会与AI协作以提高工作效率。文章呼吁理性看待AI发展，避免过度炒作或恐惧，专注于培养AI难以替代的人类技能。 [<a href=\"https://news.ycombinator.com/item?id=45496240\" target=\"_blank\">评论</a>]",
-            "url": "https://spikepuppet.io/posts/a-rubber-duck-on-acid-wont-take-jobs/",
-            "title": "橡皮鸭，即使在迷幻状态下，也不会夺走你的工作",
-            "date_modified": "2025-10-06T20:56:37.000Z"
-        },
-        {
-            "id": "https://www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
-            "content_html": "OpenAI宣布推出ChatGPT新的推荐功能，让开发者可以将ChatGPT作为应用和服务的入口把关人。这一功能允许ChatGPT将用户推荐给第三方应用和服务，为开发者提供新的用户获取渠道。OpenAI详细介绍了推荐机制的运作方式，包括如何确保推荐质量、保护用户隐私以及防止滥用。这一举措标志着ChatGPT从单纯的对话工具向平台化服务转变，可能重塑应用分发和用户获取模式。文章分析了这一变化对开发者和用户的影响，以及OpenAI在构建生态系统方面的战略意图。推荐功能的推出也可能改变用户发现和使用应用的方式，为AI驱动的应用商店模式奠定基础。 [<a href=\"https://news.ycombinator.com/item?id=45496225\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
-            "title": "OpenAI告诉开发者ChatGPT已准备好成为他们的把关人",
-            "date_modified": "2025-10-06T20:55:34.000Z"
-        },
-        {
-            "id": "https://github.com/tommyip/max-gpt-2",
-            "content_html": "这个GitHub项目展示了如何在Modular的MAX编程框架中实现GPT-2语言模型。项目提供了完整的代码实现，包括模型架构定义、权重加载和推理功能。Modular MAX是一个新兴的AI计算框架，旨在提供高性能的机器学习推理能力。作者通过这个项目演示了MAX框架的易用性和性能优势，证明了在新的硬件和软件栈上运行经典模型的可行性。项目包含了详细的文档和使用说明，让开发者可以快速上手。这个实现不仅展示了MAX框架的潜力，也为社区提供了在替代平台上部署大模型的参考案例，促进了AI基础设施的多样化和创新。 [<a href=\"https://news.ycombinator.com/item?id=45496208\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/tommyip/max-gpt-2",
-            "title": "在Modular MAX中实现GPT-2",
-            "date_modified": "2025-10-06T20:54:17.000Z"
-        },
-        {
-            "id": "https://github.com/Jason2Brownlee/QuakeBotArchive",
-            "content_html": "这个GitHub仓库收集和保存了经典游戏《雷神之锤》的各种机器人（Bot）代码和实现。项目汇集了从游戏早期到现代的多种AI对手实现，展示了游戏AI技术的发展历程。仓库包含了不同难度级别和行为模式的Bot代码，以及相关的算法和技术文档。这些Bot使用了从简单的规则系统到复杂的机器学习算法等多种AI技术。项目不仅具有历史价值，还为游戏开发者和AI研究者提供了宝贵的参考资料。通过分析这些经典Bot的实现，可以了解游戏AI设计的演进，以及如何在不影响游戏平衡的前提下创建具有挑战性的AI对手。 [<a href=\"https://news.ycombinator.com/item?id=45496206\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
-            "title": "Quake Bot Archive",
-            "date_modified": "2025-10-06T20:54:08.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=FmYXyWbis9w",
-            "content_html": "这个YouTube视频探讨了人工智能快速发展对人类社会的深远影响。视频通过专家访谈、历史案例分析和未来预测，深入讨论了AI技术可能带来的机遇和风险。内容涵盖了AI在各个领域的应用进展，包括自主系统、决策制定和创造性工作等。视频提出了一个关键问题：面对日益强大的AI，人类社会是否能够及时团结起来，制定合理的治理框架和伦理准则。专家们分享了关于AI安全、技术治理和国际合作的不同观点，呼吁全球协作应对AI带来的挑战。视频旨在引发观众对AI未来的思考，促进关于技术与社会关系的深入讨论。 [<a href=\"https://news.ycombinator.com/item?id=45496184\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=FmYXyWbis9w",
-            "title": "机器赢了。人类能在为时已晚之前团结起来吗？[视频]",
-            "date_modified": "2025-10-06T20:51:21.000Z"
-        },
-        {
-            "id": "https://fleuret.org/francois/lbdl.html",
-            "content_html": "《深度学习小书》是Francois Fleuret撰写的2024年版深度学习入门教材。这本书以简洁明了的方式介绍了深度学习的核心概念、原理和实践技巧。内容涵盖了神经网络基础、反向传播算法、卷积网络、循环网络以及Transformer架构等关键主题。作者采用循序渐进的教学方法，通过直观的解释和实例帮助读者理解复杂的技术概念。书中的数学推导被简化到最小程度，更注重概念的直观理解。这本书适合初学者和有一定基础的读者，是学习深度学习的优秀资源。网站提供了免费在线阅读版本，让更多人能够接触和学习深度学习知识。 [<a href=\"https://news.ycombinator.com/item?id=45496179\" target=\"_blank\">评论</a>]",
-            "url": "https://fleuret.org/francois/lbdl.html",
-            "title": "深度学习小书（2024）",
-            "date_modified": "2025-10-06T20:50:38.000Z"
-        },
-        {
-            "id": "https://coaching.chughes.uk/blog/leading-without-authority/",
-            "content_html": "这篇文章探讨了在领导力和管理中通过共情建立信任的重要性。作者强调了理解他人情感和观点的能力是建立有效关系的关键。文章提供了实用的共情技巧，包括积极倾听、观察非语言信号、避免判断以及验证他人感受等。作者指出，共情不是软弱的表现，而是建立强大团队和组织文化的基石。文章还讨论了在远程工作环境下如何保持共情连接，以及如何将共情融入日常管理实践。通过真实案例，作者展示了共情如何帮助解决冲突、提高团队凝聚力和促进创新。这篇文章为管理者、团队领导者和任何希望改善人际关系的读者提供了有价值的见解。 [<a href=\"https://news.ycombinator.com/item?id=45496172\" target=\"_blank\">评论</a>]",
-            "url": "https://coaching.chughes.uk/blog/leading-without-authority/",
-            "title": "通过共情建立信任",
-            "date_modified": "2025-10-06T20:50:05.000Z"
-        },
-        {
-            "id": "https://www.theguardian.com/science/2025/sep/22/fresh-approaches-needed-to-tackle-political-age-of-rage-us-study-suggests",
-            "content_html": "这篇来自《卫报》的文章报道了一项关于当代政治极化和愤怒现象的美国研究。研究发现，社交媒体的回音室效应、错误信息的传播以及经济不平等加剧了政治对立。研究指出，传统的政治沟通方式已经失效，需要新的策略来缓解社会紧张。研究建议采取跨党派对话、媒体素养教育以及社区建设等措施来促进理解。文章还探讨了心理学因素在政治极化中的作用，包括确认偏误和群体认同等。专家呼吁政治家、媒体和公民社会共同努力，重建理性对话的空间，防止社会分裂进一步恶化。这项研究为理解和应对当代政治挑战提供了重要的科学依据。 [<a href=\"https://news.ycombinator.com/item?id=45496166\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/science/2025/sep/22/fresh-approaches-needed-to-tackle-political-age-of-rage-us-study-suggests",
-            "title": "美国研究建议需要新方法来解决政治&quot;愤怒时代&quot;",
-            "date_modified": "2025-10-06T20:49:19.000Z"
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Mutation_testing",
-            "content_html": "变异测试是一种软件测试技术，用于评估测试套件的质量和完整性。这种方法通过对源代码进行小的、语义保持的修改（称为变异），然后运行现有的测试用例来检查是否能发现这些引入的错误。如果测试套件未能检测到某个变异，说明测试覆盖不足。维基百科页面详细介绍了变异测试的原理、历史发展、工具实现以及优缺点。文章解释了变异操作符的类型、等价变异问题以及如何优化变异测试的性能。变异测试能够帮助开发者识别测试盲点，提高代码质量，但计算成本较高。页面还提供了变异测试在不同编程语言和开发环境中的应用实例，是了解这一重要软件质量保证技术的权威资源。 [<a href=\"https://news.ycombinator.com/item?id=45496151\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Mutation_testing",
-            "title": "变异测试",
-            "date_modified": "2025-10-06T20:48:12.000Z"
-        },
-        {
             "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-            "content_html": "Riot Games详细介绍了Valorant游戏采用的128-tick服务器技术及其对游戏体验的影响。文章解释了tick rate的概念，即服务器每秒更新游戏状态的速度，以及128-tick相比64-tick服务器的优势。更高的tick率意味着更精确的命中检测、更流畅的角色移动和更公平的竞技环境。Riot Games的技术团队分享了实现128-tick服务器的挑战，包括网络优化、服务器架构设计和性能调优。文章还讨论了这一技术如何减少网络延迟对游戏的影响，提升职业选手和普通玩家的体验。通过技术细节和性能数据，文章展示了Riot Games在竞技游戏网络技术方面的投入和创新，为玩家提供了更优质的在线射击游戏体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
+            "content_html": "Riot Games详细介绍了《Valorant》采用的128-tick服务器技术。文章解释了tick rate对竞技游戏体验的重要性，128-tick意味着服务器每秒更新128次游戏状态，相比传统的64-tick服务器能提供更精准的命中检测和更流畅的游戏体验。技术团队分享了实现128-tick的技术挑战，包括服务器架构优化、网络协议改进和客户端预测算法的调整，确保全球玩家都能享受到低延迟、高精度的竞技体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
             "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
             "title": "Valorant的128-Tick服务器",
             "date_modified": "2025-10-06T20:47:25.000Z"
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+            "content_html": "这是一篇关于双关语艺术（Ambigrams）的个人感悟文章。作者分享了自己与这种文字艺术的深厚情感，探讨了如何将词语设计成可以从不同角度阅读、具有多重含义的艺术形式。文章深入分析了双关语艺术背后的哲学思考，探讨了语言、视觉和认知之间的奇妙关系。作者认为，双关语不仅是艺术创作，更是一种思维训练，帮助人们从多角度理解世界，发现事物背后的隐藏意义。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+            "title": "我在双关语艺术中的生活",
+            "date_modified": "2025-10-06T20:07:25.000Z"
+        },
+        {
+            "id": "https://developers.openai.com/apps-sdk/",
+            "content_html": "OpenAI推出的Apps SDK是一个专门为开发者设计的工具包，用于快速构建和部署基于OpenAI技术的应用程序。该SDK提供了丰富的API接口和预构建组件，支持多种编程语言和框架。开发者可以轻松集成GPT模型、DALL-E图像生成等功能，实现聊天机器人、内容创作工具、智能助手等多种应用场景。SDK还包含了详细的文档、示例代码和最佳实践指南，大大降低了AI应用开发的门槛。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "url": "https://developers.openai.com/apps-sdk/",
+            "title": "Apps SDK",
+            "date_modified": "2025-10-06T18:27:33.000Z"
+        },
+        {
+            "id": "https://github.com/openai/chatkit-js",
+            "content_html": "OpenAI ChatKit是一个开源的JavaScript库，专门用于构建聊天界面和对话系统。该库提供了丰富的UI组件和交互功能，包括消息气泡、输入框、用户状态显示等。ChatKit支持实时通信、消息历史管理、多用户对话等功能，并可以轻松与OpenAI的GPT模型集成。项目采用模块化设计，开发者可以根据需求自定义组件和样式。GitHub仓库提供了完整的文档、示例项目和API参考，帮助开发者快速上手。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/openai/chatkit-js",
+            "title": "OpenAI ChatKit",
+            "date_modified": "2025-10-06T17:23:20.000Z"
+        },
+        {
+            "id": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
+            "content_html": "这篇文章介绍了邓普斯特垃圾车的历史起源和发展。作为现代垃圾收集车的先驱，邓普斯特系统在20世纪初彻底改变了城市垃圾处理方式。文章详细描述了第一代邓普斯特垃圾车的设计理念、机械结构和工作原理，以及它如何解决了当时城市卫生面临的挑战。通过珍贵的历史照片和技术图纸，读者可以了解到这种创新设备如何提高了垃圾收集效率，为现代城市环卫系统奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45493713\" target=\"_blank\">评论</a>]",
+            "url": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
+            "title": "开端：邓普斯特垃圾车",
+            "date_modified": "2025-10-06T17:22:48.000Z"
+        },
+        {
+            "id": "https://up.codes/careers?utm_source=HN",
+            "content_html": "UpCodes是一家YC S17孵化的建筑科技公司，目前正在美洲地区招聘远程工程师。公司专注于为建筑行业提供数字化解决方案，帮助建筑师和工程师更好地理解和应用建筑规范。招聘职位包括前端、后端、全栈开发工程师，要求候选人具有相关技术栈经验。公司提供灵活的远程工作环境、有竞争力的薪酬待遇和成长机会。UpCodes致力于通过技术创新改善建筑行业的工作流程，让复杂的建筑规范变得更加易于理解和使用。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
+            "url": "https://up.codes/careers?utm_source=HN",
+            "title": "UpCodes (YC S17) 在美洲招聘远程工程师",
+            "date_modified": "2025-10-06T17:01:31.000Z"
+        },
+        {
+            "id": "https://www.youtube.com/watch?v=hS1YqcewH0c",
+            "content_html": "OpenAI DevDay 2025开幕主题演讲视频，展示了OpenAI最新的技术进展和产品发布。演讲中介绍了新一代GPT模型的改进、多模态能力的提升，以及新的开发者工具和平台功能。重点包括更高效的推理速度、更低的API成本、增强的代码生成能力等。OpenAI还宣布了针对企业的定制化解决方案和新的安全措施。整个演讲通过实际演示和案例研究，向开发者社区展示了如何利用这些新技术构建更强大的AI应用。 [<a href=\"https://news.ycombinator.com/item?id=45493432\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=hS1YqcewH0c",
+            "title": "OpenAI DevDay 2025: 开幕主题演讲 [视频]",
+            "date_modified": "2025-10-06T17:00:05.000Z"
+        },
+        {
+            "id": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "content_html": "Ladybird浏览器项目宣布在Web平台测试中达到了Apple 90%的通过率，这是一个重要的里程碑。Web平台测试是衡量浏览器兼容性和标准实现程度的重要指标。Ladybird作为一个开源浏览器项目，能够达到如此高的通过率说明了其在Web标准实现方面的成熟度。项目团队表示将继续努力提高通过率，最终目标是达到100%的兼容性。这一成就也吸引了更多开发者和用户关注这个新兴的浏览器项目。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
+            "url": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "title": "Ladybird浏览器通过Apple 90%的web-platform-tests阈值",
+            "date_modified": "2025-10-06T16:52:58.000Z"
+        },
+        {
+            "id": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
+            "content_html": "SpaceX的星链卫星系统每天都有1-2颗卫星完成任务后坠落回地球。文章解释了这是正常的卫星生命周期管理过程，当卫星燃料耗尽或出现故障时，会主动控制其再入大气层。大部分卫星部件会在再入过程中完全燃烧，不会对地面造成威胁。SpaceX设计了&quo;离轨&quo;程序确保卫星安全坠落。目前星链星座已有数千颗卫星在轨运行，这种定期的卫星更新和维护是保持系统正常运行的重要组成部分。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
+            "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
+            "title": "每天有一到两颗星链卫星坠落回地球",
+            "date_modified": "2025-10-06T16:32:30.000Z"
+        },
+        {
+            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "content_html": "Meta开源了OpenZL，这是一个创新的格式感知压缩框架。与传统压缩工具不同，OpenZL能够识别和理解不同数据格式的特点，从而实现更高效的压缩。该框架支持多种数据类型，包括文本、图像、音频和视频等，通过分析数据的内在结构和模式来优化压缩算法。OpenZL采用模块化设计，开发者可以轻松添加新的格式支持。开源社区可以共同参与改进压缩算法，推动数据压缩技术的发展。该工具特别适用于需要处理大量异构数据的企业应用场景。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "title": "OpenZL：开源格式感知压缩框架",
+            "date_modified": "2025-10-06T16:01:58.000Z"
+        },
+        {
+            "id": "https://getgrapevine.ai/",
+            "content_html": "Grapevine是YC S19孵化的企业级GPT解决方案，专门为公司内部知识管理和服务设计。与通用GPT不同，Grapevine能够深度集成公司的内部文档、流程和文化，提供更精准的企业专属回答。系统支持多部门协作，可以处理销售、客服、HR等各种业务场景。Grapevine注重数据安全和隐私保护，所有企业数据都经过加密处理。该平台通过持续学习公司特有的业务知识，逐渐成为企业的&quo;数字大脑&quo;，帮助员工快速获取准确信息，提高工作效率。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "url": "https://getgrapevine.ai/",
+            "title": "Launch HN: Grapevine (YC S19) – 真正有效的公司GPT",
+            "date_modified": "2025-10-06T15:39:59.000Z"
+        },
+        {
+            "id": "https://github.com/jdx/mise/discussions/6564",
+            "content_html": "Mise项目讨论了在Monorepo（单一仓库）环境中管理任务的挑战和解决方案。Monorepo是现代软件开发中流行的代码组织方式，但也带来了任务管理复杂性。文章介绍了Mise如何提供统一的任务运行界面，支持不同编程语言和工具链的任务定义。通过配置文件，开发者可以定义项目间的依赖关系、并行执行策略和环境变量管理。Mise还支持任务缓存、增量执行等优化功能，大大提高了大型项目的构建和测试效率。该讨论吸引了众多开发者的参与和贡献。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/jdx/mise/discussions/6564",
+            "title": "Mise：Monorepo任务管理",
+            "date_modified": "2025-10-06T14:07:46.000Z"
+        },
+        {
+            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "content_html": "这个GitHub Gist展示了一个令人印象深刻的实现：用仅400行C代码实现了Kent Dybvig的Scheme虚拟机。该实现采用了堆内存模型，完整支持Scheme语言的核心特性，包括闭包、continuation和垃圾回收。代码简洁优雅，每个函数都有详细注释，是学习虚拟机设计和函数式编程实现的绝佳材料。作者通过这个项目展示了如何用最少的代码实现一个功能完整的编程语言运行时，对于理解编程语言底层原理非常有价值。该实现已经在多个平台上测试通过。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "title": "Show HN: Kent Dybvig的Scheme机器（400行C代码实现）",
+            "date_modified": "2025-10-06T14:06:29.000Z"
+        },
+        {
+            "id": "https://www.monsterwriter.com",
+            "content_html": "MonsterWriter是一个专门为技术和科学文档写作设计的在线平台。该平台提供了丰富的写作工具，包括公式编辑器、代码高亮、图表插入、参考文献管理等。支持LaTeX语法，同时提供可视化编辑界面，让技术写作变得更加直观。平台还支持团队协作、版本控制和实时同步，特别适合研究论文、技术文档和学术报告的撰写。MonsterWriter注重文档的专业性和可读性，输出格式支持PDF、HTML等多种格式，满足不同出版需求。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
+            "url": "https://www.monsterwriter.com",
+            "title": "Show HN: 我构建了一个技术/科学文档写作平台",
+            "date_modified": "2025-10-06T10:58:14.000Z"
+        },
+        {
+            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "content_html": "2025年诺贝尔生理学或医学奖授予了在基因编辑技术领域做出突破性贡献的科学家。获奖者开发了新一代CRISPR技术，实现了更精准、更安全的基因组编辑。这一技术在治疗遗传疾病、癌症免疫疗法和农业改良等方面展现出巨大潜力。评委会特别强调了该技术的临床应用前景，以及它如何为人类疾病治疗开辟了新的途径。获奖研究不仅推动了基础科学发展，更重要的是为患者带来了实际的治疗希望，体现了诺贝尔奖造福人类的宗旨。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "title": "2025年诺贝尔生理学或医学奖",
+            "date_modified": "2025-10-06T09:41:16.000Z"
+        },
+        {
+            "id": "https://structuredprocrastination.com",
+            "content_html": "这是斯坦福大学教授John Perry提出的&quo;结构化拖延&quo;理论的经典文章。作者认为，拖延不完全是坏事，如果能够合理利用，反而可以提高生产力。核心思想是将任务按优先级排序，通过完成相对不重要但仍然有价值的任务来避免最重要的事情，从而保持 productive。这种方法的关键在于任务列表的精心设计，确保即使拖延也是在做一些有用的事情。文章以幽默的笔调探讨了人性中的拖延倾向，并提供了一个实用的自我管理框架，帮助人们将拖延转化为动力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "url": "https://structuredprocrastination.com",
+            "title": "结构化拖延（1995）",
+            "date_modified": "2025-10-06T06:35:36.000Z"
+        },
+        {
+            "id": "https://gem.coop/",
+            "content_html": "Gem.coop是一个创新的合作社平台，致力于推动数字经济时代的合作经济模式。该平台为创作者、开发者和小型企业提供了一个去中心化的协作环境，成员可以共享资源、技能和收益。Gem.coop采用区块链技术确保透明度和公平性，所有决策都通过社区投票决定。平台支持多种合作模式，包括项目合作、资源共享和联合营销等。通过降低协作成本和提高效率，Gem.coop希望让更多人能够参与到数字经济中，实现更加公平和可持续的商业模式。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "url": "https://gem.coop/",
+            "title": "Gem.coop",
+            "date_modified": "2025-10-06T04:59:39.000Z"
+        },
+        {
+            "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "content_html": "这篇文章讲述了一个令人心痛的医疗误诊案例。Sam Terblanche因身体不适前往急诊室，医生诊断为普通病毒感染并让其回家休息。然而几天后，Sam的病情急剧恶化，最终不幸去世。事后调查发现，他实际上患有一种罕见但可治疗的细菌感染。文章通过这个案例探讨了现代医疗系统中的诊断挑战，包括医生过度疲劳、检查不足和沟通问题等。同时呼吁患者和家属要更加主动地参与医疗决策，当感觉诊断不正确时要勇于寻求第二意见。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "title": "急诊室告诉他只是病毒感染——几天后他去世了",
+            "date_modified": "2025-10-06T03:57:26.000Z"
+        },
+        {
+            "id": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
+            "content_html": "Sharpie标志性的马克笔品牌成功实现了在美国本土的生产，并找到了降低制造成本的创新方法。文章详细介绍了Sharpie如何通过自动化生产线、本地化供应链和精益制造来控制成本。与传统的海外生产模式相比，美国本土生产虽然人工成本更高，但通过减少运输费用、降低库存和提高响应速度，总体成本反而下降。Sharpie的成功案例为其他考虑回迁美国的企业提供了借鉴，展示了在智能制造时代，本土生产同样可以具有竞争力。公司还强调了美国制造对品牌价值和消费者信任的积极影响。 [<a href=\"https://news.ycombinator.com/item?id=45480354\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
+            "title": "Sharpie找到了在美国本土生产以降低成本的方法",
+            "date_modified": "2025-10-05T10:01:00.000Z"
         }
     ]
 }
