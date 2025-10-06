@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 08:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 08:55:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[展示HN：包含200多个投资工具的开源GitHub仓库]]></title>
-            <link>https://github.com/Jera-Value/awesome-investing-tools-and-software-directory</link>
-            <guid isPermaLink="false">https://github.com/Jera-Value/awesome-investing-tools-and-software-directory</guid>
-            <pubDate>Mon, 06 Oct 2025 08:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这个GitHub仓库是一个开源的投资工具和软件目录集合，收录了超过200个投资相关的工具资源。该仓库旨在为投资者提供各种实用工具，包括市场分析、数据追踪、投资组合管理等方面。作为开源项目，用户可以免费访问并贡献这些工具，有助于个人投资者和专业人士提升投资效率和决策质量。&quot; [<a href="https://news.ycombinator.com/item?id=45489020" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[代币经济学是严肃的AI业务；API成本失控]]></title>
-            <link>https://theservitor.com/token-economics-are-serious-ai-business-api-costs-are-out-of-control/</link>
-            <guid isPermaLink="false">https://theservitor.com/token-economics-are-serious-ai-business-api-costs-are-out-of-control/</guid>
-            <pubDate>Mon, 06 Oct 2025 08:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;该文章探讨了人工智能领域中的代币经济学问题，指出当前AI服务提供商的API成本已达到失控状态。文章分析了代币定价机制对AI应用开发的重大影响，以及这种成本结构如何限制了中小型开发者和企业采用AI技术。作者认为，代币经济学模型需要重新设计，才能使AI技术更加普及和可持续发展。这反映了AI行业在快速扩张过程中面临的一个重要经济挑战。&quot; [<a href="https://news.ycombinator.com/item?id=45489013" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[瑞典寻求保护核能投资者免受政策反复无常的影响]]></title>
-            <link>https://world-nuclear-news.org/articles/sweden-moves-to-raise-investor-confidence-in-nuclear-new-build</link>
-            <guid isPermaLink="false">https://world-nuclear-news.org/articles/sweden-moves-to-raise-investor-confidence-in-nuclear-new-build</guid>
-            <pubDate>Mon, 06 Oct 2025 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;瑞典政府正采取措施提高投资者对新建核电站项目的信心，旨在保护投资者免受政策变动带来的风险。这些措施可能包括法律保障、长期政策承诺或经济激励等，以解决政治不确定性对核能投资的阻碍。此举反映了瑞典在能源转型过程中认识到核能在减少碳排放方面的关键作用，并希望通过稳定投资环境来促进核能基础设施的发展。这表明即使在能源转型背景下，核能仍然被视为重要的低碳能源选项。&quot; [<a href="https://news.ycombinator.com/item?id=45488993" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[展示HN：Toolbit——面向开发者的统一、注重隐私的工具箱]]></title>
-            <link>https://toolbit.pages.dev/</link>
-            <guid isPermaLink="false">https://toolbit.pages.dev/</guid>
-            <pubDate>Mon, 06 Oct 2025 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Toolbit是一个为开发者设计的统一隐私友好工具平台，集成了多种实用功能以提升开发效率。该工具注重用户隐私保护，不追踪或收集用户数据，符合现代隐私保护标准。它可能包含代码编辑、API测试、版本控制、项目管理等功能，旨在简化开发流程。通过将常用开发工具整合在一个平台中，Toolbit减少了开发者在多个应用间切换的需要，提高了工作效率。其隐私友好的设计理念也呼应了当前软件开发中对数据安全和个人隐私日益增长的关注。&quot; [<a href="https://news.ycombinator.com/item?id=45488946" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Arch用户仓库(AUR)离线]]></title>
-            <link>https://aur.archlinux.org/</link>
-            <guid isPermaLink="false">https://aur.archlinux.org/</guid>
-            <pubDate>Mon, 06 Oct 2025 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Arch Linux的用户软件仓库(AUR)目前处于离线状态，这影响了Arch Linux用户访问和安装社区贡献的软件包。AUR是Arch Linux生态系统的关键组成部分，包含了官方仓库中没有的大量第三方软件。此次离线事件可能影响了依赖AUR获取特定软件的用户和开发者的日常工作。技术人员正在积极解决问题以恢复服务。对于Arch Linux用户来说，这意味着暂时无法通过常规方式安装或更新来自AUR的软件包，直到问题得到解决。&quot; [<a href="https://news.ycombinator.com/item?id=45488941" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[展示HN：Normy——为任何API带来自动数据标准化（和数组操作）功能]]></title>
-            <link>https://github.com/klis87/normy</link>
-            <guid isPermaLink="false">https://github.com/klis87/normy</guid>
-            <pubDate>Mon, 06 Oct 2025 08:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Normy是一个开源工具库，旨在为任何API添加自动数据标准化和数组操作功能。该工具解决了不同API返回数据格式不一致的问题，通过自动规范化处理使数据保持统一格式，便于开发者处理。Normy可能支持各种数据类型转换、数据清洗、数组操作等常见数据处理任务。作为开源项目，它可以轻松集成到现有系统中，减少开发者手动处理数据的负担。这个工具特别适用于需要与多个不同API交互的项目，可以显著提高数据处理效率和代码质量。&quot; [<a href="https://news.ycombinator.com/item?id=45488925" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[无需穿戴设备：Wi-Fi信号可追踪心跳]]></title>
-            <link>https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection</link>
-            <guid isPermaLink="false">https://spectrum.ieee.org/wi-fi-signal-heartbeat-detection</guid>
-            <pubDate>Mon, 06 Oct 2025 08:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;研究人员开发了一项创新技术，能够通过普通Wi-Fi信号检测人体心跳，无需穿戴任何设备。该技术利用Wi-Fi信号在传播过程中遇到人体微小运动时产生的变化，通过先进算法分析这些变化来提取心跳数据。这种非侵入式监测方法具有广阔应用前景，可用于家庭健康监测、老年护理、婴儿监护等场景。与可穿戴设备相比，这种方法更加便捷、舒适，且不会影响日常生活。该技术展示了无线通信技术在医疗健康领域的创新应用，可能为未来远程健康监测系统的发展开辟新途径。&quot; [<a href="https://news.ycombinator.com/item?id=45488908" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[大型语言模型的历史]]></title>
-            <link>https://gregorygundersen.com/blog/2025/10/01/large-language-models/</link>
-            <guid isPermaLink="false">https://gregorygundersen.com/blog/2025/10/01/large-language-models/</guid>
-            <pubDate>Mon, 06 Oct 2025 08:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这篇文章详细回顾了大型语言模型的发展历程，从早期的统计语言模型到现代深度学习驱动的系统。作者梳理了关键技术突破，包括Transformer架构的引入、预训练-微调范式的确立，以及参数规模不断扩大的演进过程。文章分析了这些模型如何从辅助工具逐步演变为能够理解和生成人类语言的主要系统，并探讨了它们在各个领域的应用。同时，文章也讨论了该领域面临的挑战，如偏见、可解释性和资源消耗等问题，以及对未来发展趋势的思考。这篇历史回顾为理解当前AI语言技术的现状提供了重要背景。&quot; [<a href="https://news.ycombinator.com/item?id=45488892" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Linus Torvalds对&quot;完全疯狂的Rust格式检查&quot;表示不满]]></title>
-            <link>https://www.phoronix.com/news/Linus-Torvalds-Rust-Formatting</link>
-            <guid isPermaLink="false">https://www.phoronix.com/news/Linus-Torvalds-Rust-Formatting</guid>
-            <pubDate>Mon, 06 Oct 2025 08:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Linux内核创建者Linus Torvalds公开表达了对Rust编程语言中格式检查功能的不满。他认为这些检查规则'完全疯狂'，并质疑其必要性。Torvalds的言论反映了技术社区中关于代码格式规范与开发者自由之间持续存在的争论。尽管Rust被引入Linux内核开发作为一种更安全的替代语言，但其严格的代码规范和格式检查似乎引发了一些资深开发者的抵触。这一事件也突显了开源项目中技术决策和代码风格规范制定的复杂性，以及如何在保证代码质量的同时不过度限制开发者的创作自由。&quot; [<a href="https://news.ycombinator.com/item?id=45488882" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI编程领域的探索之旅]]></title>
-            <link>https://medium.com/@xcf.seetan/adventures-on-the-ai-coding-side-of-things-6fb61b43cb45</link>
-            <guid isPermaLink="false">https://medium.com/@xcf.seetan/adventures-on-the-ai-coding-side-of-things-6fb61b43cb45</guid>
-            <pubDate>Mon, 06 Oct 2025 08:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这篇文章分享了作者探索AI编程工具的亲身经历和思考。作者详细描述了如何将AI助手融入日常开发流程，包括代码生成、调试、优化等环节。文章讨论了AI工具如何改变传统编程模式，提高了开发效率，同时也指出了当前AI辅助编程的局限性和挑战，如代码质量不稳定、理解复杂业务逻辑困难等。作者还分享了使用AI工具的最佳实践，如何有效利用AI优势同时规避其缺点。这篇文章为开发者提供了实用的AI编程经验，有助于更好地理解和应用这些新兴技术。&quot; [<a href="https://news.ycombinator.com/item?id=45488861" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[思科网络与认证书籍套装]]></title>
-            <link>https://www.humblebundle.com/books/cisco-networking-and-certification-cisco-presspearson-books</link>
-            <guid isPermaLink="false">https://www.humblebundle.com/books/cisco-networking-and-certification-cisco-presspearson-books</guid>
-            <pubDate>Mon, 06 Oct 2025 08:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这是Humble Bundle平台推出的思科网络技术与认证电子书合集。该套装包含多本由思科出版社和Pearson出版的权威书籍，涵盖网络基础知识、路由交换、网络安全、网络自动化等主题，以及思科认证考试指南。这种打包销售方式让学习网络技术的用户能以较低价格获取专业资源。特别适合IT专业人士、网络工程师或准备思科认证考试的人员。该套装采用'自己定价，支持慈善'的模式，用户可根据意愿支付价格，部分收入还将捐赠给指定慈善机构，实现了知识分享与社会公益的结合。&quot; [<a href="https://news.ycombinator.com/item?id=45488836" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[教会模型决定何时检索：自适应RAG，第4部分]]></title>
-            <link>https://blog.reachsumit.com/posts/2025/10/learning-to-retrieve/</link>
-            <guid isPermaLink="false">https://blog.reachsumit.com/posts/2025/10/learning-to-retrieve/</guid>
-            <pubDate>Mon, 06 Oct 2025 08:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这是关于自适应检索增强生成(RAG)技术系列的第四部分，专注于教会模型自主决定何时需要检索外部信息。文章探讨了如何训练模型识别哪些问题需要外部知识支持，哪些可以基于已有参数回答。这种方法提高了AI系统的效率和准确性，减少了不必要的检索操作。作者可能介绍了新的训练方法、架构设计或评估指标，用于衡量模型判断何时检索的能力。这种自适应检索技术有望使大型语言模型在保持高效的同时，能够获取必要的外部知识，提高回答的准确性和时效性。&quot; [<a href="https://news.ycombinator.com/item?id=45488802" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[美国民主可能再也无法持续一年——欧洲为此做好准备了吗？]]></title>
-            <link>https://www.theguardian.com/commentisfree/2025/oct/02/american-democracy-trump-putin-europe-dangers</link>
-            <guid isPermaLink="false">https://www.theguardian.com/commentisfree/2025/oct/02/american-democracy-trump-putin-europe-dangers</guid>
-            <pubDate>Mon, 06 Oct 2025 07:51:56 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这篇评论文章探讨了美国民主制度面临的严峻挑战，质疑其是否能够持续稳定。作者分析了政治极化、制度脆弱性以及选举争议等因素对美国民主的威胁，并思考若美国民主进一步弱化，欧洲将如何应对可能的地缘政治影响。文章讨论了欧洲国家在安全、外交和经济方面可能面临的调整，以及欧洲联盟如何在这一变化的世界格局中定位自己。作者呼吁欧洲国家未雨绸缪，加强对跨大西洋关系的思考，为可能的政治变局做准备，同时强调民主价值观和维护多边主义的重要性。&quot; [<a href="https://news.ycombinator.com/item?id=45488746" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[电网领域精选资源列表]]></title>
-            <link>https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping</link>
-            <guid isPermaLink="false">https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping</guid>
-            <pubDate>Mon, 06 Oct 2025 07:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这是一个GitHub上的精选资源列表，专注于电网绘制和建模领域。该仓库汇集了各种工具、数据集、研究论文和软件项目，旨在帮助研究人员、工程师和政策制定者更好地理解和分析电力网络。资源内容包括电网数据格式、可视化工具、网络分析方法、机器学习在电网中的应用等。作为开源项目，它促进了电网知识的共享和协作，支持能源转型研究。这个资源列表特别关注可再生能源整合、智能电网和电网韧性等现代电力系统面临的关键挑战，为相关领域的研究和实践提供了宝贵的参考资料。&quot; [<a href="https://news.ycombinator.com/item?id=45488740" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MindAI——一个旨在帮助你在AI领域节省金钱和时间的人工智能平台]]></title>
-            <link>https://officialmindai.com</link>
-            <guid isPermaLink="false">https://officialmindai.com</guid>
-            <pubDate>Mon, 06 Oct 2025 07:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;MindAI是一个专门设计用于帮助用户在人工智能应用中节省成本和时间的一站式平台。该平台可能提供AI工具比较、价格优化、资源管理等功能，帮助个人和企业以更低的成本获取AI服务。它通过分析不同AI服务的性价比、优化工作流程、减少资源浪费等方式，提高AI技术的可及性和使用效率。随着AI服务成本日益高昂，MindAI这样的平台为用户提供了实用的解决方案，使他们能够在不牺牲质量的前提下，更经济有效地利用AI技术来提升生产力和创新能力。&quot; [<a href="https://news.ycombinator.com/item?id=45488730" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[苏黎世选民禁止使用 noisy leaf blowers]]></title>
+            <title><![CDATA[苏黎世选民禁止使用噪音吹叶机]]></title>
             <link>https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192</link>
             <guid isPermaLink="false">https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192</guid>
             <pubDate>Mon, 06 Oct 2025 07:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;瑞士苏黎世的选民在最近的公投中投票决定禁止使用燃油动力的叶鼓风机，以减少噪音污染和环境影响。这一决定反映了公众对噪音污染和环境保护的关注日益增强。苏黎世成为瑞士最新采取此类措施的城市，旨在改善居民生活质量和保护环境。禁令可能分阶段实施，给居民和企业适应的时间。这一公投结果展示了直接民主在瑞士生活中的作用，以及公民参与环境政策制定的机会。此举也可能影响其他瑞士城市和国家的类似政策，推动更安静、更环保的城市维护方式的发展。&quot; [<a href="https://news.ycombinator.com/item?id=45488729" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[苏黎世选民投票禁止使用汽油动力吹叶机，该措施旨在减少噪音和空气污染。这是瑞士城市中限制这类园艺工具的最新举措。环保人士称赞这一决定，而园艺行业则担忧这可能增加工作成本和时间。 [<a href="https://news.ycombinator.com/item?id=45488729" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：Envirobly——高效的应用托管服务]]></title>
-            <link>https://envirobly.com/</link>
-            <guid isPermaLink="false">https://envirobly.com/</guid>
-            <pubDate>Mon, 06 Oct 2025 07:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Envirobly是一款专注于高效环保的应用托管平台。该服务旨在帮助开发者和企业以更低的资源消耗和能源成本部署其网络应用。Envirobly可能采用了一系列优化技术，如服务器资源智能分配、代码优化、绿色数据中心等，以提高应用程序的运行效率并减少碳足迹。这个平台特别适合那些既关注应用性能，又重视环境可持续性的开发者和组织。通过提供高效托管服务，Envirobly响应了科技行业日益增长的环保需求，同时帮助企业降低运营成本。该平台的目标是在保证应用可靠性的前提下，最大限度地减少能源使用和环境影响。&quot; [<a href="https://news.ycombinator.com/item?id=45488727" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[攻城锤——针对机密计算的低成本插入器攻击]]></title>
+            <title><![CDATA[撞锤RAM - 机密计算的低成本插卡攻击]]></title>
             <link>https://batteringram.eu/</link>
             <guid isPermaLink="false">https://batteringram.eu/</guid>
             <pubDate>Mon, 06 Oct 2025 07:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;Battering RAM是一项安全研究项目，揭示了针对机密计算环境的新型低成本攻击方法。研究团队发现了一种称为'插入器攻击'(Interposer Attacks)的威胁向量，能够绕过现有的安全机制，获取受保护的数据。这种攻击利用硬件层面的漏洞，通过物理或逻辑插入器篡改计算环境，成本相对较低但效果显著。这项研究强调了即使是最先进的安全技术也可能面临未知的威胁。项目网站提供了详细的技术细节、防御建议和最新的研究成果，旨在提高安全社区对这类威胁的认识，推动更强安全措施的开发和部署。&quot; [<a href="https://news.ycombinator.com/item?id=45488713" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[撞锤RAM研究揭示了针对机密计算的新型低成本插卡攻击方法。该技术允许攻击者通过物理插卡拦截和修改处理中的数据，从而绕过现有的安全机制。研究团队提出了一系列防御措施，并呼吁业界加强硬件安全防护。 [<a href="https://news.ycombinator.com/item?id=45488713" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI Sora 2能够生成受欢迎的版权角色视频]]></title>
-            <link>https://www.theguardian.com/technology/2025/oct/06/open-ai-promises-more-granular-control-copyright-owners-sora-2-generates-videos-popular-characters</link>
-            <guid isPermaLink="false">https://www.theguardian.com/technology/2025/oct/06/open-ai-promises-more-granular-control-copyright-owners-sora-2-generates-videos-popular-characters</guid>
-            <pubDate>Mon, 06 Oct 2025 07:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;OpenAI的Sora 2视频生成模型展示了能够创造受版权保护角色视频的能力，引发了关于AI内容创作与知识产权界限的新讨论。报道指出，OpenAI承诺将提供更精细的控制机制，帮助版权所有者管理其内容的使用。这一技术进步同时带来了创意可能性和法律挑战，AI生成的角色可能与原始版权作品高度相似，模糊了原创与模仿的界限。这反映了AI技术在内容创作领域快速发展带来的复杂法律和伦理问题，监管机构和科技企业正在寻求平衡创新保护与知识产权维护的解决方案。该事件可能对未来内容创作和版权法律产生深远影响。&quot; [<a href="https://news.ycombinator.com/item?id=45488712" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[FSF四十周年：推出开创性新项目并选举新主席]]></title>
+            <link>https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign</link>
+            <guid isPermaLink="false">https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign</guid>
+            <pubDate>Mon, 06 Oct 2025 07:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[自由软件基金会(FSF)庆祝成立四十周年，同时宣布了新主席和新项目。该基金会致力于推动自由软件运动，强调用户自由和软件透明度。新总统承诺将继续倡导开放源代码和数字自由，同时启动了一项针对软件自由的新的全球运动。 [<a href="https://news.ycombinator.com/item?id=45488605" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HN提问：Move智能合约开发的常见错误有哪些？]]></title>
-            <link>https://news.ycombinator.com/item?id=45488711</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45488711</guid>
-            <pubDate>Mon, 06 Oct 2025 07:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[&quot;这是Hacker News上的一个讨论帖，询问关于Move智能合约开发中常见错误的问题。作为新兴的智能合约编程语言，Move专为区块链系统设计，特别是在Diem(原Libra)项目中使用。讨论中可能涉及类型系统理解不深、资源管理不当、并发处理错误、性能优化忽略、安全性考虑不足等常见问题。经验丰富的开发者分享了他们在Move开发过程中遇到的陷阱和教训，提供了最佳实践和避免这些错误的建议。这些经验对于刚接触Move语言或计划在其上构建智能合约的开发者尤其有价值，有助于提高代码质量和减少潜在漏洞。&quot; [<a href="https://news.ycombinator.com/item?id=45488711" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Flightcontrol：AWS平台即服务]]></title>
+            <link>https://www.flightcontrol.dev/</link>
+            <guid isPermaLink="false">https://www.flightcontrol.dev/</guid>
+            <pubDate>Mon, 06 Oct 2025 07:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Flightcontrol是一个AWS平台即服务(PaaS)解决方案，旨在简化云应用部署。它提供自动化部署、监控和扩展功能，让开发者专注于代码而非基础设施。该平台与现有AWS服务无缝集成，支持多种编程语言和框架。 [<a href="https://news.ycombinator.com/item?id=45488441" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[结构性拖延]]></title>
+            <link>https://structuredprocrastination.com</link>
+            <guid isPermaLink="false">https://structuredprocrastination.com</guid>
+            <pubDate>Mon, 06 Oct 2025 06:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[结构性拖延是一种心理策略，建议人们通过完成高价值任务来避免处理不重要的任务。该方法基于观察人们倾向于完成重要任务以避免被视为不够负责。网站提供关于如何利用人类拖延倾向提高生产力的一系列见解和技巧。 [<a href="https://news.ycombinator.com/item?id=45488261" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Gem.coop]]></title>
+            <link>https://gem.coop/</link>
+            <guid isPermaLink="false">https://gem.coop/</guid>
+            <pubDate>Mon, 06 Oct 2025 04:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[Gem.coop是一个全球能源合作社联盟，致力于为会员提供可持续和可负担的能源解决方案。该平台结合了可再生能源技术、区块链金融和社区所有权模式，创造了一个全新的能源生态系统，使普通消费者能够成为能源生产者和销售者。 [<a href="https://news.ycombinator.com/item?id=45487771" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[在Linux上运行的CHERI]]></title>
+            <link>https://lwn.net/Articles/1037974/</link>
+            <guid isPermaLink="false">https://lwn.net/Articles/1037974/</guid>
+            <pubDate>Mon, 06 Oct 2025 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[CHERI(Capability Hardware Enhanced RISC Instructions)是一种新型处理器扩展，为Linux系统提供内存安全功能。该技术通过 capabilities 和 bounds 实现细粒度的内存控制，有效防止常见的内存漏洞攻击。文章探讨了这种技术与Linux集成的技术细节和潜在影响。 [<a href="https://news.ycombinator.com/item?id=45487629" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[急诊科告诉他只是病毒。几天后，他死了]]></title>
+            <link>https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</link>
+            <guid isPermaLink="false">https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</guid>
+            <pubDate>Mon, 06 Oct 2025 03:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[萨姆·特布兰奇因类似流感的症状前往急诊室，医生最初诊断为普通病毒感染并让他回家。几天后，他的病情急剧恶化，最终因严重并发症去世。该案例引发了人们对医疗系统中潜在失误和病毒症状评估不足的关注，强调了对轻微症状也应保持警惕的重要性。 [<a href="https://news.ycombinator.com/item?id=45487519" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[已存档1万亿个网页]]></title>
+            <link>https://blog.archive.org/trillion/</link>
+            <guid isPermaLink="false">https://blog.archive.org/trillion/</guid>
+            <pubDate>Mon, 06 Oct 2025 03:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[互联网档案馆宣布已存档1万亿个网页，这是数字保存史上的一个重要里程碑。这一成就归功于其网页抓取技术、存储基础设施和全球合作伙伴网络。存档不仅保存了历史，也为研究人员、历史学家和公众提供了宝贵的数字遗产，同时面临着数据增长和保存长期可持续性的挑战。 [<a href="https://news.ycombinator.com/item?id=45487476" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[查找附近的自动车牌阅读器(ALPR)]]></title>
+            <link>https://deflock.me/</link>
+            <guid isPermaLink="false">https://deflock.me/</guid>
+            <pubDate>Mon, 06 Oct 2025 03:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[Deflock.me是一个地图服务，帮助用户查找附近的自动车牌阅读器(ALPR)位置。该平台基于用户提交的数据构建，提供实时可视化显示政府机构和私人公司部署的监控摄像头网络。该服务旨在提高公众对这些监控技术的认识，促进关于隐私权和公共安全之间平衡的讨论。 [<a href="https://news.ycombinator.com/item?id=45487452" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[为什么大型语言模型对海马emoji感到恐慌？]]></title>
+            <link>https://vgel.me/posts/seahorse/</link>
+            <guid isPermaLink="false">https://vgel.me/posts/seahorse/</guid>
+            <pubDate>Mon, 06 Oct 2025 02:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[研究人员发现大型语言模型(LLMs)对海马emoji(🐎)表现出异常反应，经常在文本中不恰当地插入或修改该符号。这种现象可能与训练数据中的特定偏见或关联有关，揭示了AI系统中的潜在盲点和异常行为。该研究强调了LLMs并非完美理解符号和语境，仍存在不可预测的怪异行为。 [<a href="https://news.ycombinator.com/item?id=45487044" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[我应该选择Ada、SPARK或Rust而不是C/C++吗？(2024)]]></title>
+            <link>https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</link>
+            <guid isPermaLink="false">https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</guid>
+            <pubDate>Mon, 06 Oct 2025 01:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章比较了Ada、SPARK和Rust作为C/C++替代品的优缺点。Ada/SPARK在关键安全领域表现卓越，提供强大的静态分析和形式化验证能力。Rust则通过其所有权系统提供内存安全，同时保持高性能。文章根据项目类型、安全需求和团队背景提供了选择这些语言的具体建议。 [<a href="https://news.ycombinator.com/item?id=45486829" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[基于规则的专家系统：Mycin实验(1984)]]></title>
+            <link>https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</link>
+            <guid isPermaLink="false">https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</guid>
+            <pubDate>Sun, 05 Oct 2025 23:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[MYCIN是1980年代开发的基于规则的专家系统，专门用于诊断血液感染和推荐抗生素治疗。该系统通过医学专家知识库推理，准确率甚至超过初级医生。MYCIN项目不仅是人工智能的重要里程碑，还开创了知识表示和不确定性推理的新方法，影响了后来的专家系统发展。 [<a href="https://news.ycombinator.com/item?id=45486306" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[德国为50万个阳台安装太阳能电池板]]></title>
+            <link>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</link>
+            <guid isPermaLink="false">https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</guid>
+            <pubDate>Sun, 05 Oct 2025 22:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[德国实施了创新的太阳能推广计划，已为约50万个阳台安装小型太阳能电池板。这种分布式能源解决方案降低了安装门槛，允许租户和公寓住户参与能源转型。该项目结合了政府补贴、技术创新和社区参与，为城市可再生能源利用提供了成功范例。 [<a href="https://news.ycombinator.com/item?id=45485806" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[著名制琴师肯·帕克去世]]></title>
+            <link>https://kenparkerarchtops.com</link>
+            <guid isPermaLink="false">https://kenparkerarchtops.com</guid>
+            <pubDate>Sun, 05 Oct 2025 22:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[著名制琴师肯·帕克(Ken Parker)去世，他是乐器设计领域的创新者，以其革命性的弓形吉他设计而闻名。帕克的乐器融合了艺术美学和技术创新，影响了现代乐器制造。他的独特设计理念和手工工艺为吉他界留下了持久遗产，音乐界和制琴师纷纷表示哀悼。 [<a href="https://news.ycombinator.com/item?id=45485736" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Toybox：一站式Linux命令行]]></title>
+            <link>https://github.com/landley/toybox</link>
+            <guid isPermaLink="false">https://github.com/landley/toybox</guid>
+            <pubDate>Sun, 05 Oct 2025 19:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[Toybox是一个开源的一站式Linux命令行工具集合，旨在替代传统的GNU核心工具。它用C语言编写，代码简洁高效，适合嵌入式系统和资源受限环境。该项目提供了超过300个标准Unix工具的实现，强调小体积、高性能和与POSIX标准的兼容性。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GPT-OSS泄露了关于OpenAI训练数据的哪些信息]]></title>
+            <link>https://fi-le.net/oss/</link>
+            <guid isPermaLink="false">https://fi-le.net/oss/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[研究人员分析了GPT-OSS数据集，发现其中可能包含OpenAI训练数据中的专有代码和受版权保护的文本。这些泄露的见解暴露了AI训练过程中对知识产权处理的问题，以及大规模数据集隐私保护措施的不足。该研究引发了关于AI训练数据来源和道德使用的辩论。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[大火摧毁韩国政府云存储系统，无可用备份]]></title>
+            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
+            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
+            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[韩国政府国家情报和研究服务(NIRS)的云存储系统发生火灾，导致关键数据完全丢失，且没有可用备份。这一事件引发了人们对公共部门数据管理实践的严重担忧。调查显示，该系统缺乏适当的数据备份策略和灾难恢复计划，导致政府机构面临重大服务中断和数据丢失风险。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFS四十周年 - 回顾太阳微系统网络文件系统]]></title>
+            <link>https://nfs40.online/</link>
+            <guid isPermaLink="false">https://nfs40.online/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[网络文件系统(NFS)迎来四十周年纪念，回顾了由太阳微系统开发的这一重要网络协议的发展历程。NFS彻底改变了分布式计算和文件共享，使不同计算机系统能够无缝访问远程文件。随着云存储和分布式技术的发展，NFS仍在继续演变，为现代数据基础设施提供基础支持。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[QNX操作系统]]></title>
+            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
+            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
+            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[QNX是一个实时操作系统(RTOS)，以其微内核架构和高可靠性而闻名。它广泛应用于汽车电子、工业控制和关键基础设施领域。QNX的模块化设计和严格内存管理使其成为需要高可用性和确定性的系统的理想选择，尽管其商业许可模式限制了某些开源应用场景。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
