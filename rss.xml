@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 19:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 19:52:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Java中的无符号整数：一个不成问题的问题]]></title>
-            <link>http://bitmath.blogspot.com/2025/10/the-non-problem-of-unsigned-integers-in.html</link>
-            <guid isPermaLink="false">http://bitmath.blogspot.com/2025/10/the-non-problem-of-unsigned-integers-in.html</guid>
-            <pubDate>Mon, 06 Oct 2025 19:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[本文探讨了Java中缺乏原生无符号整数类型的问题。作者认为，这并非一个真正的障碍，因为开发者可以通过使用更大的数据类型（如long）来存储无符号值，或者利用Java提供的类库来处理。文章解释了这些变通方法的实际应用和性能考量，并得出结论：虽然原生支持会更方便，但现有方案足以解决绝大多数问题，因此这只是一个设计选择，而非致命缺陷。 [<a href="https://news.ycombinator.com/item?id=45495208" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[近半数在（俄亥俄州）车祸中丧生的司机血液中检测出THC]]></title>
+            <link>https://www.sciencedaily.com/releases/2025/10/251005085621.htm</link>
+            <guid isPermaLink="false">https://www.sciencedaily.com/releases/2025/10/251005085621.htm</guid>
+            <pubDate>Mon, 06 Oct 2025 18:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[一项研究显示，在俄亥俄县发生的致命车祸中，近半数遇难司机的血液中检测出大麻活性成分THC。该数据揭示了毒驾问题的严重性，并强调了加强相关检测和公众教育的必要性。研究结果引发了关于如何应对毒驾以及制定更安全交通政策的讨论。 [<a href="https://news.ycombinator.com/item?id=45494730" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Lockbridge-支持多云和审计日志的安全文件传输工具]]></title>
-            <link>https://lockbridge.com/</link>
-            <guid isPermaLink="false">https://lockbridge.com/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[Lockbridge 是一个专注于安全性的文件传输平台。它支持多云存储，意味着用户可以无缝地连接和使用不同的云服务提供商来存储和传输文件。该平台的核心功能包括端到端加密以确保数据在传输和静态时的安全，以及详细的审计日志功能，用于追踪所有文件操作，满足企业级的合规性和安全需求。它旨在为需要高安全性和可追溯性的文件共享场景提供一个可靠的解决方案。 [<a href="https://news.ycombinator.com/item?id=45495187" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[OpenZL：一种新颖的数据压缩框架]]></title>
+            <link>https://github.com/facebook/openzl</link>
+            <guid isPermaLink="false">https://github.com/facebook/openzl</guid>
+            <pubDate>Mon, 06 Oct 2025 18:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[OpenZL 是由 Meta（Facebook）开源的一个新型数据压缩框架。该框架旨在提供高性能、模块化和可扩展的压缩解决方案，以适应不同的应用场景。它集成了多种压缩算法，致力于在压缩率和速度之间达到最佳平衡，为开发者和研究人员提供一个强大的工具。 [<a href="https://news.ycombinator.com/item?id=45494592" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[一篇关于网红的坦率文章]]></title>
-            <link>https://blog.avas.space/influencers/</link>
-            <guid isPermaLink="false">https://blog.avas.space/influencers/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇对网红现象进行坦率评论的博客文章。作者讨论了网红文化的利与弊，探讨了其对个人价值观、消费习惯和社会审美的影响。文章剖析了网红经济的运作模式，以及其背后可能存在的真实性、过度商业化等问题。它提供了一个并非盲目追捧或一味批判的、而是更为平衡和深入的视角，引人思考在社交媒体时代如何理性看待网红及其内容。 [<a href="https://news.ycombinator.com/item?id=45495182" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[应用 SDK]]></title>
+            <link>https://developers.openai.com/apps-sdk/</link>
+            <guid isPermaLink="false">https://developers.openai.com/apps-sdk/</guid>
+            <pubDate>Mon, 06 Oct 2025 18:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[这是 OpenAI 推出的应用软件开发工具包（SDK）。该 SDK 旨在为开发者提供一套完整的工具、库和接口，以便更轻松地将 OpenAI 的强大模型（如 GPT 系列）集成到自己的应用程序中，从而简化了构建自定义 AI 驱动应用的流程，加速了开发周期。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Vim 命令排行榜]]></title>
-            <link>https://vimgod.com/</link>
-            <guid isPermaLink="false">https://vimgod.com/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[Vimgod.com 是一个交互式网站，旨在帮助 Vim 用户学习和记忆各种移动命令。它将 Vim 的常用及不常用命令按照使用频率或效率进行排名展示。用户可以通过这个排行榜，优先掌握最重要、最高效的命令，从而提升编辑效率。网站还提供了练习和测试功能，让用户在实践中巩固对这些命令的记忆，是 Vim 新手和希望进阶的用户一个有用的学习工具。 [<a href="https://news.ycombinator.com/item?id=45495181" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[美国如何在电动汽车竞赛中落后]]></title>
+            <link>https://www.bbc.com/news/articles/c8ex2l58en4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8ex2l58en4o</guid>
+            <pubDate>Mon, 06 Oct 2025 17:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章分析了美国在电动汽车发展浪潮中逐渐落后的原因。文章指出，尽管美国拥有特斯拉这样的先驱企业，但在政策支持、充电基础设施建设、电池供应链以及市场普及速度等方面，已落后于中国和欧洲。这对其未来的汽车工业竞争力和能源转型目标构成了挑战。 [<a href="https://news.ycombinator.com/item?id=45494126" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新型 MatrixPDF 工具包将 PDF 变成钓鱼和恶意软件诱饵]]></title>
-            <link>https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[BleepingComputer 报道了一款名为 MatrixPDF 的新型恶意工具包。该工具包允许攻击者创建看似无害的 PDF 文件，但实际上这些文件被用作网络钓鱼和恶意软件分发的诱饵。它利用 PDF 的功能来诱导用户执行危险操作，例如泄露凭证或下载恶意载荷。该工具的出现降低了发动此类攻击的技术门槛，使得 PDF 这种通常被认为相对安全的文件格式，也成为了网络攻击的新载体。 [<a href="https://news.ycombinator.com/item?id=45495178" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[开端：邓普斯特垃圾车]]></title>
+            <link>https://www.classicrefusetrucks.com/albums/DE/DE01.html</link>
+            <guid isPermaLink="false">https://www.classicrefusetrucks.com/albums/DE/DE01.html</guid>
+            <pubDate>Mon, 06 Oct 2025 17:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章回顾了邓普斯特垃圾车的起源，它是现代大型垃圾收集车的雏形。文章介绍了其发明背景、设计理念以及它如何革命性地改变了城市垃圾处理方式，为后来的环卫车辆发展奠定了基础，是废物管理行业的一个重要里程碑。 [<a href="https://news.ycombinator.com/item?id=45493713" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Spotty: 波士顿动力 Spot 机器人的语音接口]]></title>
-            <link>https://github.com/vocdex/SpottyAI</link>
-            <guid isPermaLink="false">https://github.com/vocdex/SpottyAI</guid>
-            <pubDate>Mon, 06 Oct 2025 19:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[SpottyAI 是一个开源项目，旨在为波士顿动力的 Spot 机器人创建一个语音控制接口。该项目允许用户通过自然语言指令来控制 Spot 的动作和行为。它可能集成了语音识别、自然语言处理和机器人控制API，将语音命令转换为 Spot 可以理解的指令。这个项目为人机交互提供了一个有趣的范例，使得操作复杂的机器人变得更加直观和便捷，尤其适合在演示、教育或特定工业场景中使用。 [<a href="https://news.ycombinator.com/item?id=45495174" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[UpCodes (YC S17) 正在美洲地区招聘远程工程师]]></title>
+            <link>https://up.codes/careers?utm_source=HN</link>
+            <guid isPermaLink="false">https://up.codes/careers?utm_source=HN</guid>
+            <pubDate>Mon, 06 Oct 2025 17:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[UpCodes 是一家 Y Combinator S17 孵化的公司，该公司正在美洲地区招聘远程工程师。UpCodes 提供一个平台，用于简化建筑规范的查询和合规性检查，帮助建筑师、工程师和建筑行业专业人士更高效地工作。此次招聘旨在扩大其技术团队，推动产品发展。 [<a href="https://news.ycombinator.com/item?id=45493453" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Texaco Towers]]></title>
-            <link>https://www.folklore.org/Texaco_Towers.html</link>
-            <guid isPermaLink="false">https://www.folklore.org/Texaco_Towers.html</guid>
-            <pubDate>Mon, 06 Oct 2025 19:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章来自 Folklore.org，讲述了 Mac 电脑开发早期的一个故事。&quot;Texaco Towers&quot;是早期 Macintosh 团队给其办公楼的绰号，因为楼顶有一个类似加油站标志的红色圆圈。文章描述了团队在这个充满活力和创造力的环境中的工作情景，以及他们如何在一个非传统、甚至有些简陋的办公室里，克服重重困难，最终创造出了改变个人电脑历史的 Macintosh。它体现了硅谷早期创业文化的独特魅力。 [<a href="https://news.ycombinator.com/item?id=45495171" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[OpenAI DevDay 2025：开幕主题演讲 [视频]]]></title>
+            <link>https://www.youtube.com/watch?v=hS1YqcewH0c</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=hS1YqcewH0c</guid>
+            <pubDate>Mon, 06 Oct 2025 17:00:05 GMT</pubDate>
+            <content:encoded><![CDATA[这是 OpenAI 2025 年开发者大会的开幕主题演讲视频。在演讲中，OpenAI 可能会发布其最新的模型、API 更新、新的开发工具以及平台功能。演讲旨在向开发者社区展示其技术路线图，并分享如何利用其技术构建下一代应用程序。 [<a href="https://news.ycombinator.com/item?id=45493432" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: Mirrors Reasoning Stack (Mrs) – 一个用于智能体的神经符号核心]]></title>
-            <link>https://news.ycombinator.com/item?id=45495170</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45495170</guid>
-            <pubDate>Mon, 06 Oct 2025 19:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个发布在 Hacker News 上的帖子，介绍并讨论了一个名为 &quot;Mirrors Reasoning Stack (Mrs)&quot; 的项目。该项目定位为一个用于智能代理的神经符号核心，旨在结合神经网络的学习能力和符号逻辑的推理能力。帖子和下面的评论区探讨了该项目的架构设计、技术细节、潜在应用场景以及与现有技术的对比。读者可以通过这个讨论串了解该项目的初步反响、开发者的回答以及社区专家的意见。 [<a href="https://news.ycombinator.com/item?id=45495170" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Ladybird 浏览器在 Web 平台测试中通过 Apple 90% 的阈值]]></title>
+            <link>https://twitter.com/awesomekling/status/1974781722953953601</link>
+            <guid isPermaLink="false">https://twitter.com/awesomekling/status/1974781722953953601</guid>
+            <pubDate>Mon, 06 Oct 2025 16:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[这条推文宣布了一个里程碑：Ladybird 网页浏览器项目在 Web 平台测试套件中，其通过率达到了与 Apple 的 WebKit 引擎相当的 90% 水平。这标志着该独立浏览器项目在兼容性和标准实现方面取得了巨大进展，正逐步成为一个功能完善的现代浏览器。 [<a href="https://news.ycombinator.com/item?id=45493358" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[赢得采纳 vs. 强制推行]]></title>
-            <link>https://phillc.com/blog/2025/08/05/earning-adoption-vs-enforcing-it/</link>
-            <guid isPermaLink="false">https://phillc.com/blog/2025/08/05/earning-adoption-vs-enforcing-it/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了在产品或技术推广中两种截然不同的策略：&quot;赢得采纳&quot;和&quot;强制推行&quot;。作者认为，成功的产品和标准应该通过其内在价值、用户体验和社区吸引力来自然地获得用户的青睐，即&quot;赢得采纳&quot。相反，依靠行政命令、技术垄断或营销手段来&quot;强制推行&quot，往往会引起用户的抵触，长期来看是不可持续的。文章通过多个案例论证了，真正的成功来自于解决用户的问题并赢得他们的信任，而非强迫他们改变。 [<a href="https://news.ycombinator.com/item?id=45495148" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[每天有一到两颗星链卫星正在返回地球]]></title>
+            <link>https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/</link>
+            <guid isPermaLink="false">https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/</guid>
+            <pubDate>Mon, 06 Oct 2025 16:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[文章报道，SpaceX 的星链卫星网络中，平均每天有一到两颗卫星完成使命后脱离轨道，再入大气层烧毁。这是卫星生命周期管理的正常环节。文章解释了卫星离轨的过程，并强调这些卫星被设计为在再入时完全燃烧，不会对地面构成威胁。 [<a href="https://news.ycombinator.com/item?id=45493143" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AIpi PHP 1.4 发布，带来备用模型和新的事件回调]]></title>
-            <link>https://github.com/skito/aipi-php</link>
-            <guid isPermaLink="false">https://github.com/skito/aipi-php</guid>
-            <pubDate>Mon, 06 Oct 2025 19:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[AIpi PHP 是一个用于在 PHP 应用中集成人工智能（AI）功能的库。版本 1.4 的更新引入了两个主要特性。首先是备用模型支持，允许开发者在主 API 模型（如 GPT）不可用或失败时，自动切换到备用模型，从而提高了应用的鲁棒性和可靠性。其次是新的事件回调系统，让开发者可以更精细地监听和响应 API 请求过程中的各个阶段，例如请求开始、数据接收、请求完成或出错等，增加了对交互流程的控制能力。 [<a href="https://news.ycombinator.com/item?id=45495115" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[“与众不同”已不再适用于产品构建]]></title>
+            <link>https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building</link>
+            <guid isPermaLink="false">https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building</guid>
+            <pubDate>Mon, 06 Oct 2025 16:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[这篇博客文章探讨了现代产品开发中的一个观点：仅仅追求&quot;与众不同&quot;已不再是成功的可靠策略。作者认为，在竞争激烈的市场中，产品成功的关键在于为用户提供真正的价值、解决具体问题或创造卓越的体验，而不是为了差异化而差异化。文章强调了回归用户需求和核心价值的重要性。 [<a href="https://news.ycombinator.com/item?id=45492888" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[两个问题]]></title>
-            <link>https://twoproblems.dev/</link>
-            <guid isPermaLink="false">https://twoproblems.dev/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个极简风格的网站，其核心内容是引用了计算机科学家 Donald Knuth 的一句名言：&quot;Pre-mature optimization is the root of all evil.&quot;（过早优化是万恶之源）。网站将软件开发中的复杂性归结为两个核心问题：缓存失效和命名。它通过简洁的设计提醒开发者，应该专注于解决真正重要的问题，而不是陷入过早的优化中。这个网站本身就是一个行为艺术，旨在传达一种简洁、务实的编程哲学。 [<a href="https://news.ycombinator.com/item?id=45495109" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[发布 HN：Grapevine (YC S19) – 一个真正有效的公司级 GPT]]></title>
+            <link>https://getgrapevine.ai/</link>
+            <guid isPermaLink="false">https://getgrapevine.ai/</guid>
+            <pubDate>Mon, 06 Oct 2025 15:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[Grapevine 是一个 Y Combinator S19 孵化的项目，它提供了一个专门为企业设计的 GPT 平台。该平台旨在解决通用 AI 模型在特定商业环境中的局限性，通过整合公司内部数据、知识库和工作流程，提供一个更准确、更安全、更符合企业需求的 AI 助手。 [<a href="https://news.ycombinator.com/item?id=45492564" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[金县住房挑战的解决方案或许就在我们家中]]></title>
-            <link>https://www.seattletimes.com/seattle-news/a-solution-to-king-countys-housing-challenges-might-be-in-our-homes/</link>
-            <guid isPermaLink="false">https://www.seattletimes.com/seattle-news/a-solution-to-king-countys-housing-challenges-might-be-in-our-homes/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[《西雅图时报》的这篇文章探讨了金县（包括西雅图）面临的住房可负担性危机。文章提出，一个潜在的解决方案是充分利用现有住房，例如推广附属住宅单元（ADU），即在后院建造小屋或改造地下室。文章分析了这种做法的潜力，认为它可以快速增加住房供应，且成本相对较低，同时还能保持社区的原有风貌。文章还讨论了相关的政策障碍和改革方向，认为简化审批流程和放宽限制是释放这种潜力的关键。 [<a href="https://news.ycombinator.com/item?id=45495108" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[新颖的稳定低能耗地月循环轨道 [pdf]]]></title>
+            <link>https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf</link>
+            <guid isPermaLink="false">https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf</guid>
+            <pubDate>Mon, 06 Oct 2025 14:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[这篇学术论文提出了一类新颖的地月系统循环轨道。这些轨道具有稳定性和低能耗的特点，适合用于月球探测任务中的空间站、燃料库或中转平台。论文通过轨道力学分析，展示了这些轨道如何能以较低的推进剂消耗实现地球与月球之间的定期往返运输。 [<a href="https://news.ycombinator.com/item?id=45492055" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: 我们为 GEO（生成式引擎优化）构建了一个工具]]></title>
-            <link>https://geofast.me/</link>
-            <guid isPermaLink="false">https://geofast.me/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站介绍了一款名为 GeoFast 的工具，专注于 GEO（Generative Engine Optimization），即生成式引擎优化。随着像 ChatGPT、Perplexity 这样的 AI 搜索引擎的兴起，传统的 SEO（搜索引擎优化）方法正在演变。GEO 旨在优化内容，使其更容易被这些 AI 模型理解、引用和推荐。GeoFast 可能提供了一套分析和优化工具，帮助内容创作者和营销人员调整他们的网站和文章，以提高在 AI 生成搜索结果中的可见度和排名，从而适应新的搜索范式。 [<a href="https://news.ycombinator.com/item?id=45495087" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Mise：Monorepo 任务]]></title>
+            <link>https://github.com/jdx/mise/discussions/6564</link>
+            <guid isPermaLink="false">https://github.com/jdx/mise/discussions/6564</guid>
+            <pubDate>Mon, 06 Oct 2025 14:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[这是 GitHub 上关于 Mise 项目的一个讨论。Mise 是一个开发工具运行器，该讨论探讨了如何在 Monorepo（单体仓库）环境中有效地使用 Mise 来管理和执行不同子项目的任务，以及相关的最佳实践和未来可能的功能改进，旨在提升大型项目的开发工作流效率。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[记忆助记词列表]]></title>
-            <link>https://www.johndcook.com/blog/2025/10/05/memorizing-a-list-of-seed-words/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2025/10/05/memorizing-a-list-of-seed-words/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章由 John D. Cook 撰写，探讨了如何有效记忆一个助记词列表，例如加密钱包的恢复短语。作者指出，死记硬背效率低下且容易出错。他建议采用更系统、更符合人类记忆规律的方法，例如将单词分组、构建一个生动的故事，或者使用记忆宫殿法。文章强调了理解单词之间的联系和创建一个有意义的叙事框架的重要性，这不仅能提高记忆的准确性，还能让记忆过程变得更加轻松和有趣。 [<a href="https://news.ycombinator.com/item?id=45495072" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN：Kent Dybvig 的 Scheme 机（400 行 C 语言实现，堆内存模型）]]></title>
+            <link>https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</link>
+            <guid isPermaLink="false">https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</guid>
+            <pubDate>Mon, 06 Oct 2025 14:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[这个 Gist 展示了一个用约 400 行 C 语言实现的 Scheme 虚拟机，其灵感来自 Kent Dybvig 的设计。该实现采用了堆内存模型来管理数据，是理解 Lisp/Scheme 语言解释器底层工作原理的一个优秀且简洁的教学示例，展示了如何用极少的代码构建一个可运行的函数式语言核心。 [<a href="https://news.ycombinator.com/item?id=45491609" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[费马素数与正切数]]></title>
-            <link>https://www.johndcook.com/blog/2025/10/05/fermat-primes-tangent/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2025/10/05/fermat-primes-tangent/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[在这篇数学博客中，John D. Cook 探讨了费马素数和正切数之间一个意想不到的联系。费马素数是形如 2^(2^n) + 1 的素数，目前已知的只有五个。正切数则与正切函数的泰勒级数展开有关。文章揭示了，一个正多边形能否用尺规作图，取决于其边数是否是费马素数的乘积，而正切数恰好出现在了相关的计算公式中。这篇文章展示了数学不同分支之间深刻的内在联系，即使是看似无关的概念也可能在某个层面交汇。 [<a href="https://news.ycombinator.com/item?id=45495057" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[AMD 与 OpenAI 签订 AI 芯片供应协议，并获得其 10% 股权的认购权]]></title>
+            <link>https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</link>
+            <guid isPermaLink="false">https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</guid>
+            <pubDate>Mon, 06 Oct 2025 12:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[路透社报道，AMD 已与 OpenAI 签署一项协议，将为其供应 AI 芯片。作为交易的一部分，AMD 获得了认购 OpenAI 最高 10% 股份的选择权。此举标志着 AMD 在与英伟达竞争的 AI 芯片市场中取得了重大突破，也显示了 OpenAI 意图实现供应链多元化的战略。 [<a href="https://news.ycombinator.com/item?id=45490549" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RSA 的一次悄然变革]]></title>
-            <link>https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/</link>
-            <guid isPermaLink="false">https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[John D. Cook 在这篇文章中讨论了 RSA 加密算法标准中一个重要但未引起广泛关注的变化。过去，RSA 密钥生成时，素数 p 和 q 通常被强制要求具有不同的长度，以防止某些特定的攻击。然而，最新的标准建议已经放宽了这一限制，允许 p 和 q 具有相同的长度。文章解释了这一变化背后的原因，即现代密码学分析认为，只要密钥长度足够，这种旧有的预防措施已非必要，而允许等长素数可以简化密钥生成过程并提高互操作性。 [<a href="https://news.ycombinator.com/item?id=45495051" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[现代消息传递：运行你自己的 XMPP 服务器]]></title>
+            <link>https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server</link>
+            <guid isPermaLink="false">https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server</guid>
+            <pubDate>Mon, 06 Oct 2025 12:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章是一份关于如何搭建和运行个人 XMPP（可扩展通讯和表示协议）服务器的实践指南。文章介绍了 XMPP 的优势，如去中心化、联邦化和可扩展性，并提供了详细的步骤，帮助用户利用现代软件（如 Prosody）创建一个安全、私有的即时通讯服务。 [<a href="https://news.ycombinator.com/item?id=45490439" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4 个 SQLite 数据库：Rails 8 是否走得太远了？]]></title>
-            <link>https://eidel.io/4-sqlite-databases-is-rails-8-taking-sqlite-too-far/</link>
-            <guid isPermaLink="false">https://eidel.io/4-sqlite-databases-is-rails-8-taking-sqlite-too-far/</guid>
-            <pubDate>Mon, 06 Oct 2025 19:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了 Ruby on Rails 8 框架中一个激进的提案：默认使用多个 SQLite 数据库来替代传统的单一 PostgreSQL 或 MySQL 数据库。作者分析了这一方案的利弊。优点包括简化部署、降低运营成本和利用 SQLite 的文件系统特性。然而，作者也提出了担忧，例如 SQLite 在处理高并发写入、复杂事务和网络访问方面的局限性，以及将应用逻辑与数据库管理过度耦合可能带来的长期维护问题。文章引发了对 Rails 未来发展方向和数据库选型哲学的深入思考。 [<a href="https://news.ycombinator.com/item?id=45495005" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN：我构建了一个用于撰写技术/科学文档的平台]]></title>
+            <link>https://www.monsterwriter.com</link>
+            <guid isPermaLink="false">https://www.monsterwriter.com</guid>
+            <pubDate>Mon, 06 Oct 2025 10:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[MonsterWriter 是一个专为撰写技术文档、科学论文和复杂报告而设计的在线写作平台。它旨在解决传统文字处理器在处理公式、图表、引用和交叉引用时的痛点，提供更专注、更高效的写作环境，帮助研究人员和技术作者更好地组织内容和格式。 [<a href="https://news.ycombinator.com/item?id=45489999" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI 的 GDPval：为何 66% 的自动评分比 48% 的胜率更重要]]></title>
-            <link>https://medium.com/@pranil.dasika/openais-gdpval-why-the-66-automated-grading-problem-matters-more-than-the-48-win-rate-a5e542508196</link>
-            <guid isPermaLink="false">https://medium.com/@pranil.dasika/openais-gdpval-why-the-66-automated-grading-problem-matters-more-than-the-48-win-rate-a5e542508196</guid>
-            <pubDate>Mon, 06 Oct 2025 19:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章分析了 OpenAI 在其 &quot;Swarm&quot; 项目中提出的 GDPval 评估指标。作者认为，虽然一个 AI 系统在对抗比赛中取得 48% 的胜率（接近 50%）看起来不错，但 GDPval 指标中体现出的 66% 的自动评分一致性更为关键。这说明了 AI 的输出具有高度的稳定性和可预测性，能够被自动化工具可靠地评估。作者强调，在许多实际应用场景中，一个行为一致、可被系统化评估的 AI，远比一个在竞争中略有优势但行为不可预测的 AI 更具价值和实用性。 [<a href="https://news.ycombinator.com/item?id=45494995" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[2025 年诺贝尔生理学或医学奖]]></title>
+            <link>https://www.nobelprize.org/prizes/medicine/2025/press-release/</link>
+            <guid isPermaLink="false">https://www.nobelprize.org/prizes/medicine/2025/press-release/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[这是 2025 年诺贝尔生理学或医学奖的官方新闻稿。新闻稿详细介绍了获奖者的研究成果、这些发现如何改变了我们对生命系统的理解，以及它们在医学领域的重大应用和深远影响，表彰了他们为人类健康做出的杰出贡献。 [<a href="https://news.ycombinator.com/item?id=45489533" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[有主见的产品 – 带着信念去设计]]></title>
-            <link>https://www.usamaasfar.com/2025/10/opinionated-products-designing-with.html</link>
-            <guid isPermaLink="false">https://www.usamaasfar.com/2025/10/opinionated-products-designing-with.html</guid>
-            <pubDate>Mon, 06 Oct 2025 19:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章倡导一种&quot;有主见的产品设计&quot;理念。作者认为，优秀的产品不应该试图满足所有人的所有需求，即成为没有个性的&quot;瑞士军刀&quot;。相反，设计师应该有自己明确的信念和价值观，并将其融入到产品中，做出果断的设计决策，为特定用户群体提供最佳体验。这种&quot;有主见&quot;的设计会引导用户，甚至教育用户，帮助他们以更高效、更愉悦的方式完成任务。文章通过案例说明，这种坚持信念的设计哲学往往能创造出更具魅力和影响力的产品。 [<a href="https://news.ycombinator.com/item?id=45494972" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Flightcontrol：一个部署到你自己的 AWS 账户的 PaaS]]></title>
+            <link>https://www.flightcontrol.dev/</link>
+            <guid isPermaLink="false">https://www.flightcontrol.dev/</guid>
+            <pubDate>Mon, 06 Oct 2025 07:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[Flightcontrol 是一个平台即服务（PaaS）产品，它允许开发者将应用程序直接部署到他们自己的 AWS 账户中。它结合了 PaaS 的易用性和云基础设施的灵活性与控制权，通过自动化配置和管理流程，简化了在 AWS 上部署和运行现代应用的复杂性。 [<a href="https://news.ycombinator.com/item?id=45488441" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SysML 中的系统思维]]></title>
-            <link>https://medium.com/@lucas.orman/system-thinking-in-sysml-v2-c7826fe1b727</link>
-            <guid isPermaLink="false">https://medium.com/@lucas.orman/system-thinking-in-sysml-v2-c7826fe1b727</guid>
-            <pubDate>Mon, 06 Oct 2025 18:59:08 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何在 SysML（系统建模语言）v2 中实践系统思维。系统思维是一种从整体出发，理解系统各组成部分之间相互关系和动态行为的思维方式。作者解释了 SysML v2 的新特性如何更好地支持这种思维模式，例如通过更灵活的建模结构、对需求与行为的精确描述以及对系统接口和交互的强调。文章指出，利用 SysML v2，工程师可以构建出更能反映真实世界复杂性的模型，从而在设计早期就发现潜在问题，优化系统整体性能。 [<a href="https://news.ycombinator.com/item?id=45494955" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[结构化拖延法 (1995)]]></title>
+            <link>https://structuredprocrastination.com</link>
+            <guid isPermaLink="false">https://structuredprocrastination.com</guid>
+            <pubDate>Mon, 06 Oct 2025 06:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[这篇由约翰·佩里撰写的经典文章介绍了一种名为&quot;结构化拖延法&quot;的时间管理策略。该策略的核心思想是，拖延者为了避免做某件最重要但又不想做的事，会很有动力地去完成其他许多有用但次要的任务。通过巧妙地安排任务清单，可以将拖延的负面能量转化为生产力。 [<a href="https://news.ycombinator.com/item?id=45488261" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
