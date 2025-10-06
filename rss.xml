@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 09:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 10:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[爱钱哈维 - 免费成人视觉小说和金融游戏]]></title>
-            <link>https://lovemoneyharvey.com</link>
-            <guid isPermaLink="false">https://lovemoneyharvey.com</guid>
-            <pubDate>Mon, 06 Oct 2025 09:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个结合了成人视觉小说元素和金融教育游戏的内容。玩家可能在游戏中学习金融知识，同时体验成人主题的故事。游戏可能包含投资决策、财务管理等元素，通过互动的方式教授金融概念。 [<a href="https://news.ycombinator.com/item?id=45489451" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[endurance 沉没的真实原因]]></title>
+            <link>https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/</link>
+            <guid isPermaLink="false">https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/</guid>
+            <pubDate>Mon, 06 Oct 2025 10:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[一项新研究表明，探险家沙克尔顿的著名船只 endurance 沉没的真实原因并非之前认为的冰块挤压，而是船上使用的木材质量不合格。研究人员分析了船体残骸和当时的历史文档，发现船只在建造时就存在结构性缺陷，木材强度不足以应对南极的极端环境。这一发现重新评估了历史上著名的南极探险故事。 [<a href="https://news.ycombinator.com/item?id=45489813" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EasyOS: 一个实验性的Linux发行版]]></title>
-            <link>https://easyos.org/</link>
-            <guid isPermaLink="false">https://easyos.org/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[EasyOS是一个轻量级、易于使用的Linux发行版，旨在降低Linux的使用门槛。它可能具有友好的用户界面、简化的安装过程和良好的硬件兼容性。这个项目可能是为了探索Linux在桌面环境中的新可能性，或者为Linux初学者提供一个友好的入门选择。 [<a href="https://news.ycombinator.com/item?id=45489440" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[HN 展示：用 Go 编写的一个最小化 VPN 实现]]></title>
+            <link>https://github.com/theotrama/vpn</link>
+            <guid isPermaLink="false">https://github.com/theotrama/vpn</guid>
+            <pubDate>Mon, 06 Oct 2025 10:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[这个项目展示了一个用 Go 语言编写的最小化 VPN 实现。该实现简洁但功能完整，适合学习 VPN 工作原理和网络安全知识。代码采用模块化设计，包含基本的客户端和服务器端功能，支持自定义加密方式，适合作为学习或小型项目的起点。项目附带详细的文档和示例代码，帮助开发者理解 VPN 的核心概念。 [<a href="https://news.ycombinator.com/item?id=45489812" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Granite-4.0-Micro: 一个能在浏览器中运行的34亿参数大语言模型]]></title>
-            <link>https://huggingface.co/spaces/ibm-granite/Granite-4.0-WebGPU</link>
-            <guid isPermaLink="false">https://huggingface.co/spaces/ibm-granite/Granite-4.0-WebGPU</guid>
-            <pubDate>Mon, 06 Oct 2025 09:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[Granite-4.0-Micro是IBM开发的一个小型化大语言模型，具有34亿参数，设计用于在普通网页浏览器中运行。这可能通过WebGPU技术实现，使AI模型能够在客户端执行，减少对云端计算的依赖。这种轻量级模型可能适用于各种需要本地AI功能的应用场景，同时保持相对较高的性能。 [<a href="https://news.ycombinator.com/item?id=45489421" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[焦点小组告诉你的事情（不是人们是否会购买）]]></title>
+            <link>https://askrally.com/article/synthetic-personas-the-honest-pitch</link>
+            <guid isPermaLink="false">https://askrally.com/article/synthetic-personas-the-honest-pitch</guid>
+            <pubDate>Mon, 06 Oct 2025 10:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[本文揭示了焦点小组研究的局限性，指出它们无法准确预测人们是否会购买产品。研究发现，焦点小组成员往往会提供他们认为研究人员希望听到的答案，而不是真实的购买意向。文章建议使用合成人物画像（synthetic personas）来替代传统的焦点小组，通过数据分析和市场研究创建更真实、更有代表性的用户模型。 [<a href="https://news.ycombinator.com/item?id=45489804" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN: 如何创建你自己的自定义去中心化彩票]]></title>
-            <link>https://LotteryHouse.Me</link>
-            <guid isPermaLink="false">https://LotteryHouse.Me</guid>
-            <pubDate>Mon, 06 Oct 2025 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[这个项目可能展示了如何使用区块链技术构建一个去中心化的彩票系统。用户可能通过智能合约进行公平、透明的抽奖活动，确保结果不可篡改。该平台可能提供自定义选项，允许创建不同规则和奖励机制的彩票游戏，同时保持去中心化的特性。 [<a href="https://news.ycombinator.com/item?id=45489375" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[德勤因在44万美元报告中使用 AI 而向澳大利亚政府部分退款]]></title>
+            <link>https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</link>
+            <guid isPermaLink="false">https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</guid>
+            <pubDate>Mon, 06 Oct 2025 10:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[德勤公司因在价值44万美元的政府报告中使用 AI 工具而被迫向澳大利亚政府退款。这份报告是关于澳大利亚国防军资源规划的，但德勤在未充分验证的情况下使用了 AI 生成的数据。政府强调，重要报告必须经过人工验证，不应过度依赖 AI。这一事件引发了对专业服务公司 AI 使用实践的质疑。 [<a href="https://news.ycombinator.com/item?id=45489794" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Cerebras撤回IPO申请]]></title>
-            <link>https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm</link>
-            <guid isPermaLink="false">https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm</guid>
-            <pubDate>Mon, 06 Oct 2025 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[Cerebras是一家开发AI芯片的公司，原本计划进行首次公开募股(IPO)，但现在撤回了相关申请。这可能意味着公司决定暂缓或改变其上市计划，可能是由于市场条件变化、公司战略调整或其他财务考虑。Cerebras以其大型AI芯片WSE-1和WSE-2闻名，专为深度学习工作负载设计。 [<a href="https://news.ycombinator.com/item?id=45489374" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Endurance 沉没的真实原因-研究发现沙克尔顿知道船只的缺陷]]></title>
+            <link>https://phys.org/news/2025-10-real-sank-shackleton-knew-ship.html</link>
+            <guid isPermaLink="false">https://phys.org/news/2025-10-real-sank-shackleton-knew-ship.html</guid>
+            <pubDate>Mon, 06 Oct 2025 10:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[最新研究发现了 endurance 沉没的真实原因，并指出沙克尔顿船长实际上知道船只的结构缺陷。研究发现，沙克尔顿在航行中一直密切关注船体状况，并在日记中记录了对木材质量的担忧。这些发现挑战了以往对探险队的描述，显示沙克尔顿可能做出了一系列艰难决定来保护船员生命，而非简单地与自然力量抗争。 [<a href="https://news.ycombinator.com/item?id=45489793" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Django: 一个统治所有数据库的ORM]]></title>
-            <link>https://www.paulox.net/2025/10/06/django-orm-comparison/</link>
-            <guid isPermaLink="false">https://www.paulox.net/2025/10/06/django-orm-comparison/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能比较了Django框架的对象关系映射(ORM)功能与其他ORM工具，强调了Django ORM的灵活性和强大之处。Django ORM允许开发者使用Python代码而不是SQL查询来操作数据库，支持多种数据库后端，并且提供了高级抽象功能，如数据迁移、查询集和关系管理等。 [<a href="https://news.ycombinator.com/item?id=45489347" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[高通因智能手机上的&quot;专利税&quot;而受到指控]]></title>
+            <link>https://www.theregister.com/2025/10/06/which_says_qualcomm_owes_uk/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/10/06/which_says_qualcomm_owes_uk/</guid>
+            <pubDate>Mon, 06 Oct 2025 10:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[高通公司因在智能手机上收取高额&quot;专利税&quot;而面临英国监管机构的调查。竞争与市场管理局（CMA）指控高通滥用其在无线通信技术领域的市场主导地位，向设备制造商收取过高的专利许可费。这一调查可能对高通的商业模式产生重大影响，也可能导致手机价格下降。 [<a href="https://news.ycombinator.com/item?id=45489783" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[理解面向对象编程]]></title>
-            <link>https://understandingoop.com/</link>
-            <guid isPermaLink="false">https://understandingoop.com/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站可能是一个全面的面向对象编程(OOP)学习资源，涵盖OOP的基本概念，如封装、继承、多态和抽象。它可能通过实例和练习来帮助读者理解这些概念，并展示如何在不同编程语言中应用面向对象的原则，适合初学者和希望加深OOP知识的专业人士。 [<a href="https://news.ycombinator.com/item?id=45489337" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[苹果和三星手机用户可能获得赔偿]]></title>
+            <link>https://news.sky.com/story/apple-and-samsung-phone-users-could-get-compensation-13445789</link>
+            <guid isPermaLink="false">https://news.sky.com/story/apple-and-samsung-phone-users-could-get-compensation-13445789</guid>
+            <pubDate>Mon, 06 Oct 2025 10:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[苹果和三星手机用户可能因不公平的定价行为而获得赔偿。一项集体诉讼指控这两家科技巨头在澳大利亚、英国和欧洲多个市场协调价格，避免竞争。如果诉讼成功，这些地区的智能手机购买者可能能够收回部分已支付的费用。该诉讼突显了大型科技公司面临日益增加的反垄断压力。 [<a href="https://news.ycombinator.com/item?id=45489766" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[&apos;最好&apos;的大学不会永远是最好的]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2025/10/ivy-league-schools-prestige/684454/</link>
-            <guid isPermaLink="false">https://www.theatlantic.com/ideas/archive/2025/10/ivy-league-schools-prestige/684454/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能探讨了大学排名和声望的动态变化，特别关注常春藤盟校等精英机构。作者可能分析了影响大学地位的各种因素，如研究产出、教学质量、创新能力和校友网络等，并讨论了大学如何适应不断变化的高等教育环境和社会需求。 [<a href="https://news.ycombinator.com/item?id=45489334" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[每种类型的自动化精益证明]]></title>
+            <link>https://www.galois.com/articles/automated-lean-proofs-for-every-type</link>
+            <guid isPermaLink="false">https://www.galois.com/articles/automated-lean-proofs-for-every-type</guid>
+            <pubDate>Mon, 06 Oct 2025 10:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[研究人员开发了一种新技术，可以为各种类型自动生成精益证明。这种方法结合了机器学习和形式化验证，大大减少了手动证明的需要，提高了形式化方法的实用性。这一突破可能对计算机科学基础研究、编程语言开发和软件安全验证等领域产生深远影响，使复杂的数学证明更加容易获取。 [<a href="https://news.ycombinator.com/item?id=45489761" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[加密货币现状(2021)]]></title>
-            <link>https://zerophilosophy.substack.com/p/crypto-current</link>
-            <guid isPermaLink="false">https://zerophilosophy.substack.com/p/crypto-current</guid>
-            <pubDate>Mon, 06 Oct 2025 09:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能发表于2021年，回顾了当时加密货币市场的发展状况、主要趋势和挑战。它可能分析了比特币、以太坊等主流加密货币的表现，讨论了DeFi(去中心化金融)的兴起，以及NFT市场的爆发，同时也可能提到了监管环境和机构投资者对加密资产的日益关注。 [<a href="https://news.ycombinator.com/item?id=45489329" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[2025年我通过印刷目录购物]]></title>
+            <link>https://kevinlynagh.com/catalogs/</link>
+            <guid isPermaLink="false">https://kevinlynagh.com/catalogs/</guid>
+            <pubDate>Mon, 06 Oct 2025 10:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[作者分享了他2025年回归使用印刷目录购物的经验。在数字化和算法推荐主导的时代，他发现印刷目录提供了独特的好处：减少信息过载、增加发现意外产品的机会、以及更符合个人节奏的购物体验。这一反思挑战了数字技术必然优越的观点，提出在某些情况下，&quot;过时&quot;的解决方案可能更符合人类需求。 [<a href="https://news.ycombinator.com/item?id=45489759" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[用Python构建你自己的AI代理的完整代码]]></title>
-            <link>https://thenewaiorder.substack.com/p/how-to-code-an-ai-agent-text-to-sql</link>
-            <guid isPermaLink="false">https://thenewaiorder.substack.com/p/how-to-code-an-ai-agent-text-to-sql</guid>
-            <pubDate>Mon, 06 Oct 2025 09:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能提供了使用Python编程语言构建AI代理的详细教程和完整代码示例。AI代理可能能够理解自然语言查询，将其转换为SQL命令，并与数据库交互。文章可能涵盖了从环境设置、模型选择到实现推理和决策逻辑的完整流程，适合希望创建自定义AI解决方案的开发者。 [<a href="https://news.ycombinator.com/item?id=45489325" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[大野类型学校]]></title>
+            <link>https://ohnotype.co/blog/ohno-type-school-a</link>
+            <guid isPermaLink="false">https://ohnotype.co/blog/ohno-type-school-a</guid>
+            <pubDate>Mon, 06 Oct 2025 10:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[Ohno Type School 是一个专注于设计和开发高质量字体的教育项目。由著名字体设计师大野健一创立，学校结合了传统工艺和现代技术，教授学生如何创建既美观又功能强大的字体。该项目反映了数字设计中对高质量排版和字体艺术的持续重视。 [<a href="https://news.ycombinator.com/item?id=45489757" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[一个告诉你USB-C线缆是否损坏的终端命令]]></title>
-            <link>https://kau.sh/blog/usbi/</link>
-            <guid isPermaLink="false">https://kau.sh/blog/usbi/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能介绍了一个可以在终端中执行的命令，用于检测USB-C线缆是否工作正常或存在故障。这个命令可能利用Linux内核的USB子系统信息，读取线缆的详细规格和状态，包括支持的数据传输速率、供电能力等关键参数，帮助用户识别劣质或损坏的USB-C线缆。 [<a href="https://news.ycombinator.com/item?id=45489317" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[尼康动态微观世界竞赛获奖视频]]></title>
+            <link>https://www.thisiscolossal.com/2025/09/2025-nikon-small-world-in-motion-video-competition/</link>
+            <guid isPermaLink="false">https://www.thisiscolossal.com/2025/09/2025-nikon-small-world-in-motion-video-competition/</guid>
+            <pubDate>Mon, 06 Oct 2025 10:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[尼康发布了2025年&quot;动态微观世界&quot;竞赛的获奖视频，这些作品展示了肉眼难以观察到的微观世界的运动之美。获奖作品包括各种生物、材料和自然现象的微观影像，采用先进显微技术捕捉。这些视频不仅具有艺术价值，也为科学研究提供了独特的视角，展示了科学探索与艺术表达的融合。 [<a href="https://news.ycombinator.com/item?id=45489752" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Opus 4.1在Max计划上减少12倍，Sonnet 4.5被认为存在延迟]]></title>
-            <link>https://github.com/anthropics/claude-code/issues/8449</link>
-            <guid isPermaLink="false">https://github.com/anthropics/claude-code/issues/8449</guid>
-            <pubDate>Mon, 06 Oct 2025 09:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[这可能是一个GitHub问题讨论，涉及Anthropic的Claude模型在不同计划上的性能变化。讨论可能指出Opus 4.1在Max计划上出现了显著的性能下降(减少12倍)，而Sonnet 4.5版本则被用户报告存在响应延迟问题。这可能是模型更新引起的性能问题，或者是基础设施变更导致的用户体验下降。 [<a href="https://news.ycombinator.com/item?id=45489316" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[如何关闭 iPhone 的蓝光]]></title>
+            <link>https://lumivapp.com/iphone-blue-light-filter</link>
+            <guid isPermaLink="false">https://lumivapp.com/iphone-blue-light-filter</guid>
+            <pubDate>Mon, 06 Oct 2025 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[本文详细介绍了如何在 iPhone 上关闭蓝光功能以改善睡眠质量和减轻眼睛疲劳。文章提供了多种方法，包括使用内置的&quot;夜览&quot;功能、安装第三方应用以及调整显示设置。作者解释了蓝光如何影响褪黑激素分泌和昼夜节律，并提供了不同场景下的最佳实践建议，帮助用户找到最适合自己使用习惯的解决方案。 [<a href="https://news.ycombinator.com/item?id=45489743" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Neutts-air - 开源的设备端文本转语音系统]]></title>
-            <link>https://github.com/neuphonic/neutts-air</link>
-            <guid isPermaLink="false">https://github.com/neuphonic/neutts-air</guid>
-            <pubDate>Mon, 06 Oct 2025 09:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[Neutts-air是一个开源项目，提供在本地设备上运行的文本转语音(TTS)解决方案。它可能旨在提供一个轻量级、高效的TTS系统，不需要依赖云端服务，从而保护用户隐私并减少延迟。该项目可能支持多种语言，并提供良好的语音质量和可定制的语音参数，适用于各种应用场景，如辅助技术、内容创作和自动化系统。 [<a href="https://news.ycombinator.com/item?id=45489311" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[因诚信问题，DefiLlama 将删除 Aster 永续交易量数据]]></title>
+            <link>https://cointelegraph.com/news/defillama-delist-aster-perp-data-integrity</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/defillama-delist-aster-perp-data-integrity</guid>
+            <pubDate>Mon, 06 Oct 2025 10:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[加密数据平台 DefiLlama 因诚信问题将删除 Aster 永续交易量数据。该平台发现 Aster 提供的数据存在问题，可能影响市场分析的准确性。这一决定反映了加密货币行业对数据完整性的日益重视，表明数据透明度和可靠性成为评估 DeFi 项目的重要标准。用户应谨慎依赖单一数据源进行投资决策。 [<a href="https://news.ycombinator.com/item?id=45489731" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Wasm中的Cap&apos;n Proto]]></title>
-            <link>https://mikel.xyz/posts/capnp-in-wasm/</link>
-            <guid isPermaLink="false">https://mikel.xyz/posts/capnp-in-wasm/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能探讨了如何将Cap&apos;n Proto(一种高效的数据序列化协议)与WebAssembly(Wasm)结合使用。Cap&apos;n Proto以其高性能和低延迟著称，而Wasm允许在浏览器中运行原生性能的代码。这种结合可能为Web应用提供更高效的数据传输和序列化方案，特别适合需要高性能数据交换的实时应用和游戏。 [<a href="https://news.ycombinator.com/item?id=45489309" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[三的力量：三进制逻辑、三逻辑和三边足球]]></title>
+            <link>https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football</link>
+            <guid isPermaLink="false">https://www.sothismedias.com/home/the-power-of-three-ternary-logic-triolectics-and-football</guid>
+            <pubDate>Mon, 06 Oct 2025 10:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了三进制逻辑、三辩证法和三边足球等基于&quot;三&quot;的概念的力量。作者认为，二进制思维限制了我们的可能性，而三元方法提供了更全面的理解框架。三边足球是一种替代性运动，不设守门员，强调团队合作和创新。这些概念挑战了传统的二元对立思维，鼓励更加灵活和多元的思考方式。 [<a href="https://news.ycombinator.com/item?id=45489727" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN: Youcomic.org: AI驱动的单步漫画创作平台]]></title>
-            <link>https://youcomic.org</link>
-            <guid isPermaLink="false">https://youcomic.org</guid>
-            <pubDate>Mon, 06 Oct 2025 09:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[Youcomic.org是一个利用人工智能技术简化漫画创作过程的平台。用户可能只需输入简单的文本提示或选择基本的创意方向，AI就能生成完整的漫画内容，包括角色设计、场景构建和对话编写。该平台可能旨在降低漫画创作的技术门槛，让没有专业绘图技能的用户也能创作出高质量的漫画内容。 [<a href="https://news.ycombinator.com/item?id=45489286" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[给 Rails 开发者的 Hanami 教程-第1部分]]></title>
+            <link>https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models</link>
+            <guid isPermaLink="false">https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models</guid>
+            <pubDate>Mon, 06 Oct 2025 10:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[本文是 Rails 开发者学习 Hanami 框架系列的第一部分，专注于模型层。Hanami 是一个轻量级 Ruby 框架，采用严格的 MVC 架构。文章对比了 Rails 和 Hanami 在模型定义、数据验证和数据库交互方面的差异，帮助开发者理解框架设计哲学的不同。对于希望探索替代 Rails 的开发者，这篇文章提供了实用的入门指南。 [<a href="https://news.ycombinator.com/item?id=45489703" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[关怀软件理念]]></title>
-            <link>https://arachnoid.com/careware/index.html</link>
-            <guid isPermaLink="false">https://arachnoid.com/careware/index.html</guid>
-            <pubDate>Mon, 06 Oct 2025 09:01:18 GMT</pubDate>
-            <content:encoded><![CDATA[关怀软件是一种软件分发理念，强调开发者与用户之间的互惠关系。与传统的免费软件或商业软件不同，关怀软件不强制收费或要求捐赠，而是鼓励用户在使用软件后，如果觉得有帮助，可以考虑以自己的方式回馈社会，比如帮助他人、参与慈善活动或创造有价值的作品。这种模式强调的是软件的社会价值和使用者的道德责任，而非直接的商业利益。 [<a href="https://news.ycombinator.com/item?id=45489280" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[泄露显示美国政府关于 FEMA 安全失败的谎言]]></title>
+            <link>https://www.theregister.com/2025/10/06/infosec_in_brief/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/10/06/infosec_in_brief/</guid>
+            <pubDate>Mon, 06 Oct 2025 10:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[泄露文件显示美国政府可能在关于 FEMA 安全失败的问题上误导公众。这些文件表明，安全漏洞比官方承认的更为严重，且修复进展缓慢。这一事件引发了对政府透明度和数据安全实践的质疑，强调了公共部门信息系统安全的重大挑战。 [<a href="https://news.ycombinator.com/item?id=45489697" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[QA-use-MCP: 用于端到端测试的MCP]]></title>
-            <link>https://www.npmjs.com/package/@desplega.ai/qa-use-mcp</link>
-            <guid isPermaLink="false">https://www.npmjs.com/package/@desplega.ai/qa-use-mcp</guid>
-            <pubDate>Mon, 06 Oct 2025 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[QA-use-MCP是一个npm包，可能为软件测试提供工具，特别是用于端到端(E2E)测试。MCP可能代表某种测试框架或协议。这个包可能允许测试人员编写自动化测试脚本，模拟真实用户场景，验证应用程序的各个功能是否按预期工作，确保软件质量并减少手动测试的工作量。 [<a href="https://news.ycombinator.com/item?id=45489274" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[调试之书]]></title>
+            <link>https://www.debuggingbook.org/</link>
+            <guid isPermaLink="false">https://www.debuggingbook.org/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;调试之书&gt;是一本全面介绍软件调试技术的在线书籍，涵盖从基础到高级的各种调试方法。作者提供了实用的调试策略、工具和案例分析，帮助开发者更有效地识别和修复软件缺陷。书中还包括自动化调试技术、调试原则和心理学方面的内容，适合各级软件开发者学习参考。 [<a href="https://news.ycombinator.com/item?id=45489625" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[轻量级OpenAPI查看器]]></title>
-            <link>https://swagger.vibecodinghub.org</link>
-            <guid isPermaLink="false">https://swagger.vibecodinghub.org</guid>
-            <pubDate>Mon, 06 Oct 2025 08:59:35 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个轻量级的OpenAPI规范查看工具，可能帮助开发者可视化和理解API文档。OpenAPI规范是一种标准化的RESTful API描述格式，允许开发者清晰地定义API的端点、参数、请求和响应格式。这个查看器可能提供交互式界面，使开发者能够轻松浏览API功能，测试端点，并集成开发工作流，提高API开发和使用的效率。 [<a href="https://news.ycombinator.com/item?id=45489268" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Clop 黑客团伙用新的零日漏洞攻击 Oracle E-Business Suite 用户]]></title>
+            <link>https://www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:55:14 GMT</pubDate>
+            <content:encoded><![CDATA[Clop 黑客团伙利用针对 Oracle E-Business Suite 的零日漏洞攻击了多家企业。这个漏洞允许攻击者执行远程代码并窃取敏感数据。Oracle 已发布安全公告和临时补丁，但建议用户尽快应用官方更新。这一事件再次强调了及时更新系统和监控安全警报的重要性。 [<a href="https://news.ycombinator.com/item?id=45489614" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Boost.Bloom中的批量操作]]></title>
-            <link>http://bannalia.blogspot.com/2025/10/bulk-operations-in-boostbloom.html</link>
-            <guid isPermaLink="false">http://bannalia.blogspot.com/2025/10/bulk-operations-in-boostbloom.html</guid>
-            <pubDate>Mon, 06 Oct 2025 08:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章可能讨论了C++库Boost.Bloom中的批量操作实现。布隆过滤器是一种空间效率高的概率数据结构，用于测试元素是否在集合中。Boost.Bloom可能是Boost库的一个扩展，提供了布隆过滤器的C++实现。文章可能探讨了如何优化布隆过滤器的批量操作，如批量插入、批量查询和批量删除，以提高数据处理的效率。 [<a href="https://news.ycombinator.com/item?id=45489263" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[HN 展示：Iframetest.com]]></title>
+            <link>https://iframetest.com/</link>
+            <guid isPermaLink="false">https://iframetest.com/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[Iframetest.com 是一个简单的在线工具，帮助开发者测试和调试 iframe 相关问题。它可以显示 iframe 内页面的各种属性和加载信息，解决跨域通信等常见问题。工具直观易用，支持实时测试，是处理复杂 iframe 集成时的实用资源。 [<a href="https://news.ycombinator.com/item?id=45489613" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN: Aikoa - 适用于工作与生活的简约待办事项网页应用]]></title>
-            <link>https://aikoa.app</link>
-            <guid isPermaLink="false">https://aikoa.app</guid>
-            <pubDate>Mon, 06 Oct 2025 08:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[Aikoa是一个简约设计的待办事项管理应用，特别注重工作与生活的平衡管理。它可能提供直观的用户界面，帮助用户分类和组织不同领域的任务，如工作项目、个人目标和家庭责任。应用可能强调时间管理和优先级设置功能，帮助用户更有效地利用时间，减少压力，提高生活质量。其极简设计理念旨在减少认知负担，让用户专注于任务本身。 [<a href="https://news.ycombinator.com/item?id=45489228" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[HN 展示：快速掩码邮件创建者- Fastmail 掩码邮件的 Chrome 扩展]]></title>
+            <link>https://chromewebstore.google.com/detail/fast-masked-mail-creator/jgnkjcmgagjaabogldbabgbcncakpdbb</link>
+            <guid isPermaLink="false">https://chromewebstore.google.com/detail/fast-masked-mail-creator/jgnkjcmgagjaabogldbabgbcncakpdbb</guid>
+            <pubDate>Mon, 06 Oct 2025 09:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[快速掩码邮件创建者是 Fastmail 的 Chrome 扩展，让用户轻松创建和管理一次性或临时电子邮件地址。这对于需要注册网站但不希望收到垃圾邮件的用户特别有用。扩展简洁高效，与 Fastmail 服务无缝集成，提供了便捷的隐私保护和邮箱管理功能。 [<a href="https://news.ycombinator.com/item?id=45489609" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
