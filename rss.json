@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/",
-            "content_html": "本文探讨了旅行黑名单如何被用作政治武器，而非单纯的安全工具。作者指出，政府利用这种不透明的机制来压制异见者、记者和人权活动家，剥夺他们出行的权利，且通常缺乏正当的法律程序和有效的申诉途径。文章强调，这种做法侵犯了基本自由，并呼吁建立更严格的监督和透明度，以防止旅行权利被任意剥夺。 [<a href=\"https://news.ycombinator.com/item?id=45492061\" target=\"_blank\">评论</a>]",
-            "url": "https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/",
-            "title": "旅行黑名单的武器化",
-            "date_modified": "2025-10-06T14:51:40.000Z"
+            "id": "https://github.com/jdx/mise/discussions/6564",
+            "content_html": "这个GitHub讨论探讨了Mise工具在monorepo（单一仓库）项目管理中的应用。Mise是一个现代化的开发环境管理工具，支持多种编程语言和工具链。讨论中提到，Mise可以有效地管理大型项目中的依赖关系，特别是在处理多个子项目时能够提供统一的任务执行环境。用户分享了使用Mise进行任务调度、依赖管理和环境配置的经验，并讨论了与其他工具如Make、Nx等的对比优势。该工具通过配置文件定义任务，支持并行执行，并能根据项目结构智能识别需要运行的任务，大大提高了开发效率。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/jdx/mise/discussions/6564",
+            "title": "Mise：Monorepo任务管理",
+            "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
-            "id": "https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/",
-            "content_html": "一个黑客组织通过入侵多家 Salesforce 客户的系统窃取了大量数据，并转而向 Salesforce 公司本身进行勒索。他们威胁称，如果 Salesforce 不支付赎金，就将公开这些敏感的客户信息。这一事件凸显了供应链攻击的严重性，即使是像 Salesforce 这样的大型云服务提供商，其客户的安全漏洞也可能导致自身面临巨大的声誉和财务风险。 [<a href=\"https://news.ycombinator.com/item?id=45492059\" target=\"_blank\">评论</a>]",
-            "url": "https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/",
-            "title": "黑客在窃取客户数据后向 Salesforce 勒索",
-            "date_modified": "2025-10-06T14:51:24.000Z"
+            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "content_html": "这是一个令人印象深刻的实现，用仅400行C代码构建了一个完整的Scheme虚拟机。该项目实现了Kent Dybvig设计的Scheme机器架构，采用堆内存模型来管理内存。代码展示了如何实现基本的Scheme语言特性，包括闭包、续体和垃圾回收。作者通过简洁的代码展示了虚拟机的核心概念：指令集设计、堆内存管理、函数调用机制等。这个实现不仅是学习虚拟机设计的优秀资源，也展示了如何用最少的代码实现一个功能完整的编程语言运行时。项目包含详细的注释，解释了每个部分的设计思路和实现细节。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "title": "Show HN：Kent Dybvig的Scheme机器（400行C代码实现，堆内存模型）",
+            "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
-            "id": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
-            "content_html": "这篇学术论文提出了一种新型的地月循环轨道。这些轨道具有两个主要优点：高稳定性和低能量消耗。高稳定性意味着航天器在轨道上运行时几乎不需要或完全不需要进行轨道修正，从而节省了大量燃料。低能耗特性则意味着从地球转移到这些轨道所需的初始能量更少。这种新轨道的发现为未来执行地月空间任务，如空间站部署或物资运输，提供了更经济、更可行的方案。 [<a href=\"https://news.ycombinator.com/item?id=45492055\" target=\"_blank\">评论</a>]",
-            "url": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
-            "title": "新型稳定低能耗地月循环轨道 [pdf]",
-            "date_modified": "2025-10-06T14:51:11.000Z"
+            "id": "https://write-it-down.com",
+            "content_html": "Write It Down是一个简洁的个人财务管理工具，专注于帮助用户记录和追踪日常收支。该工具采用极简设计理念，界面干净直观，用户可以快速记录收入、支出和预算信息。它支持多种分类标签，帮助用户更好地理解自己的消费模式。与其他复杂的财务软件不同，Write It Down专注于核心功能，避免了过度复杂的功能堆砌。它提供了基本的报表功能，可以生成月度和年度财务概览，帮助用户做出更好的财务决策。该工具注重隐私保护，所有数据都存储在用户本地，确保财务信息安全。适合那些需要简单、高效财务管理解决方案的个人用户。 [<a href=\"https://news.ycombinator.com/item?id=45490578\" target=\"_blank\">评论</a>]",
+            "url": "https://write-it-down.com",
+            "title": "Show HN：Write It Down – 个人财务追踪器",
+            "date_modified": "2025-10-06T12:23:40.000Z"
         },
         {
-            "id": "https://www.bbc.com/news/articles/c1kwxjzeez3o",
-            "content_html": "世界卫生组织（WHO）发布报告称，全球电子烟使用者数量已达到惊人的水平，特别是在青少年和年轻人中增长迅速。报告警告，电子烟并非无害，其含有的尼古丁会导致成瘾，并可能对大脑发育产生长期影响。此外，多种电子烟产品含有有害物质，长期使用的健康风险尚不完全清楚。WHO 呼吁各国采取更严格的监管措施，包括禁止调味电子烟、限制广告和防止未成年人接触，以应对这一日益严重的公共健康问题。 [<a href=\"https://news.ycombinator.com/item?id=45492050\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bbc.com/news/articles/c1kwxjzeez3o",
-            "title": "世卫组织称，如今吸电子烟的人数惊人",
-            "date_modified": "2025-10-06T14:50:42.000Z"
+            "id": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
+            "content_html": "这篇文章详细介绍了如何搭建和管理自己的XMPP（可扩展消息和存在协议）服务器。XMPP是一个开放标准的即时通讯协议，支持实时消息、状态更新和文件传输。文章从XMPP的基础概念开始，解释了为什么选择自建服务器而不是依赖商业服务。作者提供了完整的服务器配置指南，包括安装Prosody服务器、配置SSL证书、设置用户管理和安全策略。文章还讨论了现代XMPP的特性，如端到端加密、消息碳复制和多设备同步。通过实际操作示例，读者可以学习如何创建一个安全、私密且功能完整的即时通讯系统，完全掌控自己的通讯数据和隐私。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
+            "url": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
+            "title": "现代消息传递：运行自己的XMPP服务器",
+            "date_modified": "2025-10-06T12:02:45.000Z"
         },
         {
-            "id": "https://www.indiehackers.com/post/creavit-studio-an-alternative-screen-recorder-for-macos-2c32293116",
-            "content_html": "Creavit Studio 是一款专为 macOS 设计的新型屏幕录制应用，旨在成为现有流行工具的替代品。它提供了简洁的用户界面和高效的录制功能，支持录制高质量的视频、音频和系统声音。该应用可能还具备一些特色功能，如实时标注、快捷键操作和直接分享到各大平台。开发者通过 Indie Hackers 社区推介此产品，希望吸引那些寻求更轻量、更专注或具有不同特性的屏幕录制解决方案的用户。 [<a href=\"https://news.ycombinator.com/item?id=45492049\" target=\"_blank\">评论</a>]",
-            "url": "https://www.indiehackers.com/post/creavit-studio-an-alternative-screen-recorder-for-macos-2c32293116",
-            "title": "Creavit Studio – macOS 的替代屏幕录制工具",
-            "date_modified": "2025-10-06T14:50:37.000Z"
+            "id": "https://0xmm.in/posts/peer-to-peer-windows-part1/",
+            "content_html": "这是系列教程的第一部分，介绍如何在Windows平台上使用Wintun驱动程序构建VPN隧道。Wintun是WireGuard项目开发的高性能虚拟网络驱动，为Windows提供了比传统TAP驱动更好的性能。文章详细解释了Wintun的工作原理和优势，包括其内核级数据处理能力和低延迟特性。作者提供了完整的代码示例，展示如何初始化Wintun适配器、配置网络参数、以及建立基本的VPN连接。教程涵盖了从驱动安装到数据包转发的全过程，特别关注了Windows特有的网络编程挑战。这个系列教程对于想要深入理解VPN技术或开发网络应用程序的开发者来说是非常有价值的资源。 [<a href=\"https://news.ycombinator.com/item?id=45489581\" target=\"_blank\">评论</a>]",
+            "url": "https://0xmm.in/posts/peer-to-peer-windows-part1/",
+            "title": "使用Wintun在Windows上构建VPN隧道 – 第一部分",
+            "date_modified": "2025-10-06T09:49:33.000Z"
         },
         {
-            "id": "https://github.com/mohankumarelec/airgapped-qr-code-transfer",
-            "content_html": "这是一个开源的 Web 应用程序，旨在通过二维码在物理隔离（或称“气隙”）的设备之间传输数据。用户可以在一台设备上输入文本或选择小文件，应用会将其编码成一系列 QR 码。然后，使用另一台设备的摄像头扫描这些 QR 码，即可还原数据。这种方法为无法通过网络连接的计算机提供了一种安全的数据交换方式，适用于高度安全的环境。 [<a href=\"https://news.ycombinator.com/item?id=45492044\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/mohankumarelec/airgapped-qr-code-transfer",
-            "title": "气隙 QR 码传输网络应用",
-            "date_modified": "2025-10-06T14:50:06.000Z"
+            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "content_html": "2025年诺贝尔生理学或医学奖授予了在基因编辑和再生医学领域做出突破性贡献的科学家。获奖者开发了一种新型的精准基因编辑技术，能够安全有效地修复遗传缺陷，为治疗单基因遗传疾病开辟了新途径。他们的研究解决了传统基因编辑技术中的脱靶效应和免疫反应等关键问题。通过创新的分子生物学方法，他们实现了对人类基因组的精确修改，同时最大限度地减少了副作用。这项技术已经在临床试验中显示出治疗血友病、肌肉萎缩症等遗传疾病的潜力。诺贝尔委员会特别强调了这项工作对人类健康的深远影响，它不仅为遗传疾病患者带来了希望，也为整个医学领域的个性化治疗发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "title": "2025年诺贝尔生理学或医学奖",
+            "date_modified": "2025-10-06T09:41:16.000Z"
         },
         {
-            "id": "https://www.theregister.com/2025/10/06/radiant_group_hospital/",
-            "content_html": "数据经纪公司 Radiant Group 在面临公众对处理儿童数据的强烈反对后，承诺不再收集和使用儿童信息。然而，调查发现，该公司仍在积极收集和处理来自医院的患者数据，包括敏感的健康信息。文章批评了这种做法，指出尽管该公司在某些方面做出了让步，但其商业模式仍然依赖于挖掘和交易高度敏感的个人数据，医院数据则成为了新的目标，引发了对患者隐私和医疗数据安全的严重担忧。 [<a href=\"https://news.ycombinator.com/item?id=45492042\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/radiant_group_hospital/",
-            "title": "Radiant Group 现在不会碰儿童数据，但医院似乎成了公平的游戏",
-            "date_modified": "2025-10-06T14:49:51.000Z"
+            "id": "https://demodesk.com/careers",
+            "content_html": "Demodesk是一家Y Combinator 2019年冬季班的创业公司，正在招聘Ruby on Rails工程师。该公司提供智能销售演示平台，帮助企业创建和交付个性化的产品演示。作为后端工程师，你将负责开发和维护公司的核心平台，处理实时协作、数据分析和集成功能。公司使用Ruby on Rails作为主要技术栈，结合现代化的前端技术。他们提供有竞争力的薪酬、股权期权、灵活的远程工作选项和职业发展机会。团队规模虽小但充满活力，工程师能够直接影响产品方向和技术决策。公司重视代码质量、测试驱动开发和持续学习。理想的候选人应该有Rails开发经验，熟悉分布式系统概念，并对创建优秀的用户体验充满热情。 [<a href=\"https://news.ycombinator.com/item?id=45489174\" target=\"_blank\">评论</a>]",
+            "url": "https://demodesk.com/careers",
+            "title": "Demodesk (YC W19) 招聘Ruby on Rails工程师",
+            "date_modified": "2025-10-06T08:49:30.000Z"
         },
         {
-            "id": "https://www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
-            "content_html": "美国移民海关执法局（ICE）正在寻求承包商来开发一个社交媒体监控系统，该系统能够从多个主流平台（包括 Facebook、TikTok、X 等）收集和分析数据。值得注意的是，该计划的范围甚至包括了早已停运的 Google+，这可能意味着需要访问历史存档数据。此举旨在加强对移民和外国人的监控，但同时也引发了关于隐私、言论自由和政府过度监视的广泛争议和批评。 [<a href=\"https://news.ycombinator.com/item?id=45492036\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
-            "title": "美国移民海关执法局计划筛查 Facebook、TikTok、X 甚至已停运的 Google+",
-            "date_modified": "2025-10-06T14:49:26.000Z"
+            "id": "https://batteringram.eu/",
+            "content_html": "Battering RAM项目揭示了一种针对机密计算环境的新型攻击方法。研究人员开发了一种低成本的插入器攻击技术，能够在不破坏硬件的情况下访问受保护的数据。这种攻击利用了硬件设计中的漏洞，通过物理方式访问内存总线，绕过了机密计算平台的安全保护机制。项目展示了如何使用相对简单的设备对Intel SGX、AMD SEV等机密计算技术进行攻击。研究人员详细记录了攻击过程，包括硬件设计、信号分析和数据提取方法。这项研究对硬件安全社区具有重要意义，提醒厂商需要重新考虑机密计算的安全架构。网站提供了技术论文、演示视频和开源代码，帮助安全研究人员理解这种威胁并开发相应的防御措施。 [<a href=\"https://news.ycombinator.com/item?id=45488713\" target=\"_blank\">评论</a>]",
+            "url": "https://batteringram.eu/",
+            "title": "Battering RAM – 针对机密计算的低成本插入器攻击",
+            "date_modified": "2025-10-06T07:47:17.000Z"
         },
         {
-            "id": "https://ducret.dev/what-apify-best-selling-scrapers-teach-us/",
-            "content_html": "文章通过对抓取器市场平台 Apify 上的 7,525 个 Actors（即抓取工具）进行数据分析，揭示了当前网络数据抓取的热门趋势。研究发现，社交媒体平台（如 LinkedIn、Instagram）和电商网站（如 Amazon、Shopify）的抓取器最受欢迎。此外，文章还探讨了定价模式、开发者生态以及构建和销售抓取工具的最佳实践，为希望进入该领域的开发者提供了宝贵的市场洞察。 [<a href=\"https://news.ycombinator.com/item?id=45492032\" target=\"_blank\">评论</a>]",
-            "url": "https://ducret.dev/what-apify-best-selling-scrapers-teach-us/",
-            "title": "抓取抓取器市场：分析 7,525 个 Apify Actors",
-            "date_modified": "2025-10-06T14:49:08.000Z"
+            "id": "https://www.flightcontrol.dev/",
+            "content_html": "Flightcontrol是一个现代化的AWS平台即服务（PaaS）解决方案，旨在简化云应用的部署和管理。它提供了一个直观的界面，让开发者能够轻松地将应用程序部署到AWS，而无需深入了解复杂的AWS基础设施配置。Flightcontrol支持多种应用类型，包括静态网站、容器化应用和传统服务器应用。平台自动处理CI/CD流水线、负载均衡、自动扩缩容和监控等运维任务。开发者只需连接代码仓库，选择部署目标，Flightcontrol就会自动处理其余的工作。它特别适合中小型团队和个人开发者，能够显著降低AWS的使用门槛和运维成本。平台还提供了详细的使用分析和成本监控，帮助用户优化资源使用和预算控制。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
+            "url": "https://www.flightcontrol.dev/",
+            "title": "Flightcontrol：AWS PaaS平台",
+            "date_modified": "2025-10-06T07:07:11.000Z"
         },
         {
-            "id": "https://squarecircle.substack.com/p/donkeys",
-            "content_html": "这是一篇富有哲思的散文，通过作者在西班牙与驴子的亲身经历，探讨了驴子所象征的坚韧、耐心与谦逊的品质。文章将驴子默默承受重负、步履稳健的形象与现代社会的浮躁和急功近利进行对比，认为驴子身上体现了一种古老而朴素的智慧。作者借此反思了人类在追求进步的过程中可能失去的东西，并从这种看似卑微的动物身上学到了关于生活和存在的深刻道理。 [<a href=\"https://news.ycombinator.com/item?id=45492028\" target=\"_blank\">评论</a>]",
-            "url": "https://squarecircle.substack.com/p/donkeys",
-            "title": "“驴子身上有哲学”",
-            "date_modified": "2025-10-06T14:48:49.000Z"
+            "id": "https://structuredprocrastination.com",
+            "content_html": "这是John Perry教授在1995年提出的幽默而深刻的概念——结构化拖延症。文章认为，拖延症不一定是个缺点，如果善加利用，可以成为一种提高生产力的策略。作者建议将重要但不紧急的任务放在待办事项列表的顶部，这样为了避免做这些任务，人们会转而去完成其他相对重要但更容易处理的事情。这种&quot;拖延驱动&quot;的工作方式让人在逃避主要任务的同时，仍然完成了许多有价值的工作。文章以轻松的笔调探讨了人类心理和工作习惯，提供了一个重新审视拖延症的新视角。这个概念后来广受欢迎，帮助许多人以更积极的心态看待自己的工作习惯，并在保持拖延倾向的同时提高整体生产力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "url": "https://structuredprocrastination.com",
+            "title": "结构化拖延症（1995）",
+            "date_modified": "2025-10-06T06:35:36.000Z"
         },
         {
-            "id": "https://www.immibis.com/blog/why-mac-address",
-            "content_html": "这篇文章以通俗易懂的方式解释了 MAC 地址（媒体访问控制地址）在网络通信中的根本作用。它阐明，虽然 IP 地址负责在不同网络间路由数据包，但 MAC 地址是确保数据包在本地网络（如以太网或 Wi-Fi）内从源设备正确送达目标设备的关键。文章通过类比和例子说明，没有 MAC 地址，局域网内的设备就无法相互识别和通信，它是网络分层模型中数据链路层不可或缺的基础。 [<a href=\"https://news.ycombinator.com/item?id=45492019\" target=\"_blank\">评论</a>]",
-            "url": "https://www.immibis.com/blog/why-mac-address",
-            "title": "为什么我们需要 MAC 地址？",
-            "date_modified": "2025-10-06T14:47:45.000Z"
+            "id": "https://gem.coop/",
+            "content_html": "Gem.coop是一个致力于推广合作经济模式的数字平台。该平台旨在连接和支持各种类型的合作社，包括工作者合作社、消费者合作社和生产者合作社。它提供了一个在线空间，让合作社能够展示其业务、分享经验和寻找合作伙伴。平台强调民主治理、公平分配和社区参与的核心价值观。通过Gem.coop，用户可以发现本地和全球的合作社企业，了解合作经济如何创造更公平、更可持续的经济模式。平台还提供资源和教育材料，帮助人们了解如何创建和运营合作社。Gem.coop的使命是通过技术促进合作经济的发展，为传统资本主义模式提供替代方案，建立一个更加平等和包容的经济生态系统。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "url": "https://gem.coop/",
+            "title": "Gem.coop",
+            "date_modified": "2025-10-06T04:59:39.000Z"
         },
         {
-            "id": "https://polyformproject.org/what-is-polyform/",
-            "content_html": "PolyForm 项目提供了一系列介于宽松开源许可和专有许可之间的软件许可证。这些许可证旨在允许开发者共享源代码，同时对特定用途施加限制，例如防止纯粹的商业服务化（SaaS）利用、要求在衍生作品中署名或禁止商业竞争性使用。PolyForm 许可证为那些希望分享代码但又需要保护其商业利益或特定使用方式的开发者提供了一种灵活的选择，填补了传统开源与闭源模型之间的空白。 [<a href=\"https://news.ycombinator.com/item?id=45492016\" target=\"_blank\">评论</a>]",
-            "url": "https://polyformproject.org/what-is-polyform/",
-            "title": "什么是 PolyForm？",
-            "date_modified": "2025-10-06T14:47:38.000Z"
+            "id": "https://blog.archive.org/trillion/",
+            "content_html": "互联网档案馆宣布了一个重要的里程碑——已经成功归档了一万亿个网页。这个数字代表了人类数字文化保存工作的巨大成就。文章回顾了档案馆从1996年开始的工作历程，从最初的几十万网页到如今的一万亿规模。档案馆使用爬虫技术持续收集和保存网页，形成了互联网历史的完整时间胶囊。这些归档内容包括了新闻网站、博客、商业页面和个人主页等各种类型的网络内容。文章强调了这项工作对于学术研究、历史记录和文化保护的重要价值。一万亿网页的规模相当于每个地球人拥有130个网页，展示了互联网的爆炸性增长。档案馆继续面临技术挑战，包括存储成本、数据保存和网络爬虫的伦理问题，但他们致力于为后代保存这个数字时代的文化遗产。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.archive.org/trillion/",
+            "title": "一万亿个网页已归档",
+            "date_modified": "2025-10-06T03:48:34.000Z"
         },
         {
-            "id": "https://www.retaildive.com/news/more-than-a-quarter-of-consumers-plan-on-cutting-holiday-spending/761575/",
-            "content_html": "根据最新的调查，超过四分之一的消费者计划在即将到来的假日季节削减他们的购物开支。这一趋势主要归因于通货膨胀压力、经济不确定性以及对个人财务状况的担忧。报告指出，消费者将更加注重性价比，倾向于购买折扣商品和减少非必需品的消费。这对零售商来说是一个挑战，他们可能需要提供更大力度的促销和创新策略来吸引谨慎的消费者。 [<a href=\"https://news.ycombinator.com/item?id=45491973\" target=\"_blank\">评论</a>]",
-            "url": "https://www.retaildive.com/news/more-than-a-quarter-of-consumers-plan-on-cutting-holiday-spending/761575/",
-            "title": "超过四分之一的消费者计划削减假日支出",
-            "date_modified": "2025-10-06T14:43:56.000Z"
+            "id": "https://vgel.me/posts/seahorse/",
+            "content_html": "这篇文章深入探讨了一个有趣的现象：大型语言模型在处理海马表情符号（🌊）时会出现异常行为。作者通过实验发现，不同的LLM对这个相对较新的表情符号表现出完全不同的理解和处理方式。有些模型无法正确识别它，有些则会产生奇怪的联想或生成不相关的文本。文章分析了这种现象的可能原因，包括训练数据中海马表情符号的稀缺性、Unicode处理的技术细节、以及模型对符号语义理解的局限性。作者还测试了其他海洋生物表情符号作为对比，发现海马表情符号的特殊性可能与其复杂的视觉结构和相对较少的使用频率有关。这个发现揭示了LLM在处理非文本符号时的潜在弱点，也为改进模型的符号理解能力提供了研究方向。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
+            "url": "https://vgel.me/posts/seahorse/",
+            "title": "为什么LLM会对海马表情符号感到困惑？",
+            "date_modified": "2025-10-06T02:20:05.000Z"
         },
         {
-            "id": "https://www.chainguard.dev/unchained/a-gift-for-the-open-source-community-chainguards-cve-free-raspberry-pi-images-beta",
-            "content_html": "Chainguard 公司发布了一款针对树莓派的开源操作系统镜像。该镜像基于其 Chainguard OS 构建，最大的特点是在发布时已知的所有常见漏洞和暴露（CVE）都已被修复，提供了一个“零漏洞”的基础环境。这对于物联网设备、嵌入式系统以及使用树莓派进行开发的用户来说，意味着一个更安全、更可靠的起点，有助于从源头上减少安全风险。该产品目前处于测试阶段。 [<a href=\"https://news.ycombinator.com/item?id=45491911\" target=\"_blank\">评论</a>]",
-            "url": "https://www.chainguard.dev/unchained/a-gift-for-the-open-source-community-chainguards-cve-free-raspberry-pi-images-beta",
-            "title": "基于 Chainguard OS 的无漏洞树莓派镜像",
-            "date_modified": "2025-10-06T14:38:19.000Z"
+            "id": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
+            "content_html": "这是关于MYCIN系统的经典著作的在线版本，MYCIN是早期人工智能领域最具影响力的专家系统之一。该书详细记录了MYCIN项目的完整开发过程，这是一个用于诊断和治疗血液感染疾病的医疗专家系统。书中介绍了基于规则的推理机制、不确定性处理方法（如CF因子）、以及知识获取技术。MYCIN系统能够通过一系列规则链进行医学推理，其性能在测试中达到了人类专家的水平。这本书不仅记录了技术实现细节，还深入探讨了专家系统的设计哲学、知识表示方法和人机交互设计。它为后来的专家系统开发奠定了基础，影响了几代AI研究者。在线版本保留了原书的完整内容，包括理论背景、系统架构、实验结果和对未来发展的展望，是了解AI发展史的重要文献。 [<a href=\"https://news.ycombinator.com/item?id=45486306\" target=\"_blank\">评论</a>]",
+            "url": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
+            "title": "基于规则的专家系统：Mycin实验（1984）",
+            "date_modified": "2025-10-05T23:51:47.000Z"
         },
         {
-            "id": "https://medium.com/@Lidia-Rodriguez/what-dotnet-ecosystem-lacks-today-isnt-code-its-vision-9a31e7d67831",
-            "content_html": "作者认为，当前 .NET 生态系统虽然技术强大、工具丰富，但缺乏一个清晰、统一的愿景来引导社区和框架的未来发展。文章将 .NET 与其他一些拥有鲜明目标和定位的技术栈（如 Rails 的“约定优于配置”）进行对比，指出 .NET 试图满足所有人的所有需求，导致其在某些领域显得定位模糊。作者呼吁微软和社区领袖需要为 .NET 描绘一个更激动人心的未来蓝图，以激发开发者的热情和方向感。 [<a href=\"https://news.ycombinator.com/item?id=45491908\" target=\"_blank\">评论</a>]",
-            "url": "https://medium.com/@Lidia-Rodriguez/what-dotnet-ecosystem-lacks-today-isnt-code-its-vision-9a31e7d67831",
-            "title": ".NET 生态系统今天缺乏的不是代码——而是愿景",
-            "date_modified": "2025-10-06T14:38:10.000Z"
+            "id": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
+            "content_html": "德国在推广分布式可再生能源方面取得了显著成就，已经为超过五十万个阳台安装了太阳能电池板。这个项目的成功得益于简化的法规流程、政府补贴和创新的 Plug-and-Play 设计。阳台太阳能系统通常功率较小（600-800瓦），但安装简单，用户甚至可以自己完成安装。德国政府简化了并网程序，取消了复杂的注册要求，使得普通家庭能够轻松参与太阳能发电。这些系统虽然规模不大，但 collectively 为国家电网贡献了可观的清洁电力。项目还采用了智能逆变器技术，确保电力质量和电网安全。这种去中心化的能源模式不仅减少了碳排放，还提高了公众对可再生能源的认知和参与度。德国的经验为其他国家城市地区推广分布式太阳能提供了可复制的模式。 [<a href=\"https://news.ycombinator.com/item?id=45485806\" target=\"_blank\">评论</a>]",
+            "url": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
+            "title": "德国为五十万个阳台安装太阳能电池板",
+            "date_modified": "2025-10-05T22:18:31.000Z"
         },
         {
-            "id": "https://shademap.app",
-            "content_html": "ShadeMap 是一个交互式 Web 应用，允许用户模拟和查看在地球上任意地点、任意日期和时间的太阳阴影情况。用户可以在地图上选择一个位置，然后调整时间，实时观察建筑物、地形等如何产生阴影。该工具对城市规划、建筑设计、摄影、户外活动策划等非常有用，可以帮助用户了解日照情况，优化采光或避开强光。它结合了地图数据和太阳位置算法，提供了一个直观的日照分析工具。 [<a href=\"https://news.ycombinator.com/item?id=45491902\" target=\"_blank\">评论</a>]",
-            "url": "https://shademap.app",
-            "title": "ShadeMap – 模拟地球上任何时间和地点的太阳阴影",
-            "date_modified": "2025-10-06T14:37:51.000Z"
+            "id": "https://kenparkerarchtops.com",
+            "content_html": "肯·帕克，世界知名的吉他制琴大师，已经去世。帕克以其创新的吉他设计而闻名，特别是在拱顶吉他（archtop guitar）领域做出了革命性贡献。他设计的Parker Fly系列吉他彻底改变了传统吉他的概念，采用了轻质材料、碳纤维加固和独特的琴身形状，大大提高了吉他的音色和演奏性能。帕克的作品融合了传统工艺与现代技术，他的吉他被许多世界顶级音乐家使用。除了商业成功，帕克还致力于推动制琴工艺的发展，培养了许多年轻的制琴师。他的网站记录了他一生的作品和理念，包括各种创新设计的详细说明和音色演示。帕克的去世是音乐界的重大损失，但他对吉他制造业的影响将长久持续，他的创新精神将继续启发未来的乐器制造者。 [<a href=\"https://news.ycombinator.com/item?id=45485736\" target=\"_blank\">评论</a>]",
+            "url": "https://kenparkerarchtops.com",
+            "title": "著名制琴师肯·帕克去世",
+            "date_modified": "2025-10-05T22:10:15.000Z"
         },
         {
-            "id": "https://github.com/josevcm/nfc-laboratory",
-            "content_html": "这是一个开源的 GitHub 项目，提供了一个基于软件定义无线电（SDR）接收器的 NFC（近场通信）信号和协议分析工具。它允许用户捕获和分析 NFC 设备（如门禁卡、银行卡）发出的原始射频信号，并将其解码成可读的协议数据。这对于安全研究人员、硬件爱好者和开发者来说是一个强大的工具，可用于学习 NFC 协议、逆向工程 NFC 设备或进行安全漏洞研究。 [<a href=\"https://news.ycombinator.com/item?id=45491895\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/josevcm/nfc-laboratory",
-            "title": "NFC-laboratory: 使用 SDR 接收器的 NFC 信号和协议分析器",
-            "date_modified": "2025-10-06T14:36:31.000Z"
+            "id": "https://github.com/landley/toybox",
+            "content_html": "Toybox是一个集成了大量常用Linux命令行工具的单个可执行文件，旨在提供轻量级但功能完整的Unix工具集。该项目由Rob Landley创建，目标是实现POSIX标准和Linux常用命令的完整集合。Toybox的设计理念是简洁高效，每个工具都经过精心优化，确保最小的代码体积和最快的执行速度。它包含超过200个命令，从基本的ls、cp、mv到更复杂的awk、sed、grep等。Toybox特别适合嵌入式系统、容器环境和救援盘等空间受限的场景。与BusyBox类似，但Toybox更注重代码质量和标准合规性。项目采用清晰的模块化设计，每个命令都是独立的源文件，便于维护和扩展。Toybox已经成为多个Linux发行版的默认工具集，展现了其在实际应用中的可靠性和性能优势。 [<a href=\"https://news.ycombinator.com/item?id=45484284\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/landley/toybox",
+            "title": "Toybox：一体化Linux命令行工具",
+            "date_modified": "2025-10-05T19:09:35.000Z"
         },
         {
-            "id": "https://github.com/blade47/semantic-test",
-            "content_html": "这是一个在 GitHub 上开源的测试框架，专门为 AI 代理（AI Agent）设计。其核心特色是引入了“语义验证”，而不仅仅是传统的功能性测试。这意味着该框架不仅能检查 AI 代理是否执行了正确的操作，还能评估其输出的内容是否在语义上符合预期目标。这对于测试复杂 AI 系统的推理能力、对话质量和任务完成度非常有帮助，为构建更可靠、更智能的 AI 应用的开发者提供了一个强大的测试工具。 [<a href=\"https://news.ycombinator.com/item?id=45491864\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/blade47/semantic-test",
-            "title": "Show HN: 用于 AI 代理的开源测试框架，带语义验证",
-            "date_modified": "2025-10-06T14:33:07.000Z"
+            "id": "https://fi-le.net/oss/",
+            "content_html": "这篇文章深入分析了通过GPT-OSS（开源软件版本）泄露的关于OpenAI训练数据的信息。作者通过逆向工程和仔细分析，发现了OpenAI模型训练过程中的一些关键细节。分析显示，训练数据包含了大量的开源代码、技术文档和编程教程，这解释了为什么GPT模型在编程任务上表现出色。文章还揭示了数据清洗和过滤的一些策略，以及不同版本模型使用数据集的差异。作者发现了一些训练数据的模式，包括特定编程语言的占比、代码仓库的来源分布等。这些信息有助于理解大语言模型的能力来源和潜在偏见。文章还讨论了这些发现对AI社区的意义，包括训练数据透明度的重要性以及对开源项目使用的影响。这个分析为理解GPT系列模型的内部工作原理提供了宝贵的洞察。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
+            "url": "https://fi-le.net/oss/",
+            "title": "GPT-OSS泄露了OpenAI训练数据的什么信息",
+            "date_modified": "2025-10-05T18:28:16.000Z"
         },
         {
-            "id": "https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/",
-            "content_html": "作者主张，技术解决方案的设计文档应该力求简洁，通常只需几页纸就能讲清楚核心思想。他认为，冗长、详尽的设计文档往往是过度设计和缺乏焦点的表现，并且在快速变化的技术环境中很快就会过时。短小精悍的设计文档能迫使团队专注于最重要的架构决策、权衡取舍和核心逻辑，从而促进更快的沟通、反馈和迭代，是一种更高效的工程实践。 [<a href=\"https://news.ycombinator.com/item?id=45491859\" target=\"_blank\">评论</a>]",
-            "url": "https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/",
-            "title": "解决方案设计应该只有几页纸",
-            "date_modified": "2025-10-06T14:32:24.000Z"
+            "id": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+            "content_html": "韩国国家信息资源服务（NIRS）的云存储系统遭遇严重火灾，导致大量政府数据永久丢失。这起事件暴露了韩国政府数据管理中的严重缺陷——系统没有建立有效的备份机制。火灾摧毁了存储关键政府数据的服务器，包括公民个人信息、行政文件和历史记录。由于缺乏异地备份和灾难恢复计划，这些数据无法恢复。事件引发了公众对政府数据安全管理的强烈质疑，相关部门负责人已经辞职。专家指出，这起事故违反了基本的数据管理最佳实践，对于政府级别的信息系统来说是不可接受的。韩国政府承诺将重新评估所有关键系统的备份策略，并建立更严格的灾难恢复标准。这起事件为全球政府机构敲响了警钟，强调了数据备份和灾难恢复的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+            "title": "火灾摧毁韩国政府云存储系统，无备份可用",
+            "date_modified": "2025-10-05T17:20:39.000Z"
         },
         {
-            "id": "https://estimateproperty.blogspot.com/2025/10/the-winter-holiday-season-in-exotic.html",
-            "content_html": "这篇博客文章推荐了一些适合度过冬季节假日的异国目的地。它可能探讨了在热带或南半球国家（此时正值夏季）体验节日的独特魅力，例如在沙滩上庆祝圣诞节，或在充满异域风情的城市中迎接新年。文章可能会介绍一些具体的目的地、当地的节日活动、文化差异以及旅行建议，为那些希望打破常规、寻求新奇节日体验的旅行者提供灵感和实用信息。 [<a href=\"https://news.ycombinator.com/item?id=45491849\" target=\"_blank\">评论</a>]",
-            "url": "https://estimateproperty.blogspot.com/2025/10/the-winter-holiday-season-in-exotic.html",
-            "title": "异国目的地的冬季节日季",
-            "date_modified": "2025-10-06T14:31:43.000Z"
+            "id": "https://nfs40.online/",
+            "content_html": "这个网站纪念网络文件系统（NFS）诞生四十周年，回顾了这个由Sun微系统在1984年开发的革命性技术。NFS彻底改变了网络存储的概念，让用户能够像访问本地文件一样访问远程服务器上的文件。文章详细介绍了NFS的技术演进，从最初的版本到现代的实现，包括其核心协议设计、缓存机制和安全模型。网站收集了早期开发者的回忆录，分享了NFS开发的背后故事和技术挑战。NFS的成功不仅在于技术创新，还在于其开放标准的设计理念，这使得它成为了Unix和Linux系统的标准网络文件系统。文章还讨论了NFS对现代云计算和分布式存储系统的影响，许多现代存储技术仍然借鉴了NFS的设计原则。这个纪念网站不仅是对历史的回顾，也是对网络存储技术发展的深入思考，展示了NFS如何塑造了我们今天使用网络存储的方式。 [<a href=\"https://news.ycombinator.com/item?id=45482467\" target=\"_blank\">评论</a>]",
+            "url": "https://nfs40.online/",
+            "title": "NFS四十周年 – 回忆Sun微系统的网络文件系统",
+            "date_modified": "2025-10-05T15:49:58.000Z"
         }
     ]
 }
