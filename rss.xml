@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Sun, 05 Oct 2025 23:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 02:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[当AI创造一切时，谁拥有什么？]]></title>
-            <link>https://nanobits.beehiiv.com/p/who-owns-what-when-ai-creates-everything</link>
-            <guid isPermaLink="false">https://nanobits.beehiiv.com/p/who-owns-what-when-ai-creates-everything</guid>
-            <pubDate>Sun, 05 Oct 2025 23:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了当人工智能系统创作内容时出现的所有权问题。随着AI生成文本、图像、音乐和其他媒体的能力不断增强，法律界和创意产业正在面临复杂的挑战。文章分析了当前知识产权法如何应对AI创作，以及未来可能需要的法律框架变革。讨论包括对训练数据版权、AI生成内容的原创性认定以及创作者与AI之间的权益分配等问题的思考，为理解AI时代知识产权的未来提供了独特视角。 [<a href="https://news.ycombinator.com/item?id=45486278" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[通过计算机鼠标进行窃听]]></title>
+            <link>https://sites.google.com/view/mic-e-mouse</link>
+            <guid isPermaLink="false">https://sites.google.com/view/mic-e-mouse</guid>
+            <pubDate>Mon, 06 Oct 2025 01:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站介绍了名为Microphone Embedded Mouse (MIC-E-Mouse)的研究项目，它展示了一种潜在的网络安全威胁——通过计算机鼠标进行隐蔽的窃听。研究人员利用激光多普勒测振仪技术，捕获鼠标在移动时产生的机械振动，然后通过算法重构出音频信号。这种方法允许攻击者即使在禁用或不存在麦克风的情况下，也能捕获房间内的对话。该研究揭示了传统计算机硬件设计中容易被忽视的安全漏洞，强调了物理层安全的重要性。 [<a href="https://news.ycombinator.com/item?id=45486825" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[通过可学习边掩码的脑图增强用于精神疾病诊断]]></title>
-            <link>https://arxiv.org/abs/2509.09744</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.09744</guid>
-            <pubDate>Sun, 05 Oct 2025 23:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[这篇研究论文提出了一种创新的精神疾病诊断方法，利用图神经网络和可学习的边掩码技术增强脑图分析。研究团队通过构建大脑连接图，并应用边缘掩码算法来突出重要的神经连接特征，从而提高精神疾病的诊断准确率。该方法特别适用于抑郁症、焦虑症和自闭症等复杂精神障碍的早期检测。实验结果表明，与传统脑成像分析方法相比，这种方法能够更有效地识别与特定精神疾病相关的神经模式变化，为临床诊断提供了新的技术支持，有望推动精准医疗在精神健康领域的发展。 [<a href="https://news.ycombinator.com/item?id=45486277" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[基于规则的专家系统：Mycin实验(1984)]]></title>
+            <link>https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</link>
+            <guid isPermaLink="false">https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</guid>
+            <pubDate>Sun, 05 Oct 2025 23:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[这个页面提供了关于Mycin专家系统的原始资料，Mycin是1970年代末期在斯坦福大学开发的基于规则的专家系统，专门用于诊断血液感染和推荐抗生素治疗方案。该系统代表了早期人工智能的重要里程碑，它结合了医学专家的知识和计算机的处理能力。Mycin系统使用了不确定性推理技术，能够以确定性因子量化诊断的置信度。其设计方法和评估标准对后续专家系统的发展产生了深远影响，成为医疗人工智能领域的重要参考。 [<a href="https://news.ycombinator.com/item?id=45486306" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SPQA：将取代大多数现有软件的AI架构]]></title>
-            <link>https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software</link>
-            <guid isPermaLink="false">https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software</guid>
-            <pubDate>Sun, 05 Oct 2025 23:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了SPQA，一种革命性的AI驱动软件架构，据称将重塑软件开发和应用部署的格局。SPQA架构强调通过自动化和智能化替代传统软件工程中的大量手动工作，包括代码编写、测试、部署和维护等环节。作者预测，这种架构将显著降低软件开发的复杂性和成本，同时提高应用程序的性能和适应性。文章深入探讨了SPQA的工作原理、技术优势以及它对软件开发行业可能带来的深远影响，同时也讨论了这一创新面临的挑战和潜在的实施障碍，为技术专业人士提供了对未来软件发展方向的前瞻性思考。 [<a href="https://news.ycombinator.com/item?id=45486256" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[生成式人工智能的能源需求正在改变我们的世界]]></title>
+            <link>https://spectrum.ieee.org/ai-energy-use</link>
+            <guid isPermaLink="false">https://spectrum.ieee.org/ai-energy-use</guid>
+            <pubDate>Sun, 05 Oct 2025 23:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了生成式人工智能模型（如大型语言模型和图像生成系统）的巨大能源消耗及其对环境和能源格局的影响。随着AI模型规模不断扩大，其训练和运行所需的计算资源和电力急剧增加，导致数据中心能耗大幅攀升。这一趋势正在促使能源公司、政府和企业重新思考能源基础设施规划，并可能加速可再生能源的采用。同时，研究人员也在探索更高效的算法和硬件设计，以降低AI的碳足迹。文章强调，平衡AI发展与可持续能源使用将是未来科技政策的关键挑战。 [<a href="https://news.ycombinator.com/item?id=45486031" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[发布：Pluely v0.1.5，开源隐形AI助手]]></title>
-            <link>https://pluely.com/downloads</link>
-            <guid isPermaLink="false">https://pluely.com/downloads</guid>
-            <pubDate>Sun, 05 Oct 2025 23:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[Pluely是一款新发布的开源AI助手工具，其v0.1.5版本最近向公众开放。这款独特的AI助手设计为“隐形“模式，能够在不打扰用户的情况下提供智能辅助功能。Pluely可以无缝集成到现有工作流程中，自动识别用户可能需要的帮助，并在适当时机提供支持。其开源特性允许开发者社区参与改进和扩展功能，使该工具能够适应各种使用场景。该项目的目标是创造一种更自然、更少干扰的人机交互方式，让技术支持像空气一样无处不在却又不引人注目。Pluely的推出代表了一种人机界面设计的新趋势，强调在保持功能强大的同时最大限度地减少用户的认知负担。 [<a href="https://news.ycombinator.com/item?id=45486229" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[德国为五十万个阳台安装了太阳能电池板]]></title>
+            <link>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</link>
+            <guid isPermaLink="false">https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</guid>
+            <pubDate>Sun, 05 Oct 2025 22:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了德国推行的一项创新太阳能计划，通过在居民阳台安装小型太阳能电池板来扩大可再生能源的使用范围。这种微型太阳能系统专门为公寓楼居民设计，与传统屋顶太阳能相比具有安装简便、成本较低的优势。德国政府通过补贴政策鼓励家庭采纳这项技术，目前已成功安装了数十万套阳台太阳能系统。这种分布式能源解决方案不仅增加了可再生能源发电量，还增强了社区的能源自主性，减少了电网压力，同时降低了居民的能源开支，代表了城市能源转型的重要方向。 [<a href="https://news.ycombinator.com/item?id=45485806" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[利用棕榈岛设计可视化椭圆曲线方法]]></title>
-            <link>https://codingpirate.com/geometric-visualization-of-the-elliptic-curve-method-for-prime-factorization-the-palm-jumeirah-aaa23b888556</link>
-            <guid isPermaLink="false">https://codingpirate.com/geometric-visualization-of-the-elliptic-curve-method-for-prime-factorization-the-palm-jumeirah-aaa23b888556</guid>
-            <pubDate>Sun, 05 Oct 2025 23:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇创新文章展示了如何将迪拜棕榈岛的独特几何形状应用于解释和可视化椭圆曲线因数分解这一复杂的数学概念。作者巧妙地将棕榈岛的枝状结构与椭圆曲线的几何特性进行类比，使抽象的数学理论变得直观易懂。文章详细阐述了这种可视化方法如何帮助理解椭圆曲线密码学和质数分解的基本原理，特别是椭圆曲线在加密安全中的重要性。通过将现实世界地标与数学概念相联系，文章为学习高级数学和计算机科学的学生提供了一种新颖的学习工具，同时也展示了数学之美如何体现在人类设计和自然形态中。 [<a href="https://news.ycombinator.com/item?id=45486212" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[著名制琴师肯·帕克去世]]></title>
+            <link>https://kenparkerarchtops.com</link>
+            <guid isPermaLink="false">https://kenparkerarchtops.com</guid>
+            <pubDate>Sun, 05 Oct 2025 22:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[这是传奇制琴师肯·帕克官方网站，纪念这位吉他制作大师的生平与成就。帕克以创新的吉他设计和制造技术闻名于世，特别是他开发的“浮动琴桥“系统彻底改变了吉他的音色和演奏体验。他的手工制作的吉他被世界各地的音乐家视为珍宝，价格高达数万美元。帕克的制琴理念融合了传统工艺与现代技术，创造出独特的声音美学。尽管他已去世，但他的制琴工作室仍在继续生产他的设计，确保了这位制琴大师的遗产得以传承。网站展示了帕克不同时期的代表作品，以及他对现代吉他制造艺术的重要贡献。 [<a href="https://news.ycombinator.com/item?id=45485736" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SUV在曾遭受灾难性火灾的数据中心停车场起火]]></title>
-            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/SUV-catches-fire-in-parking-lot-of-data-center-that-suffered-catastrophic-fire/2412725</link>
-            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/SUV-catches-fire-in-parking-lot-of-data-center-that-suffered-catastrophic-fire/2412725</guid>
-            <pubDate>Sun, 05 Oct 2025 23:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道记录了一起发生在韩国数据中心的意外事件，一辆SUV在该数据中心停车场起火，而该数据中心此前曾遭受灾难性火灾。事件发生在数据中心恢复运营的关键时期，引发了对相关安全措施有效性的质疑。报道详细描述了火灾发生的时间、地点以及应急响应措施。特别值得注意的是，这已经是该数据中心近期发生的第二起火灾事件，引发了人们对数据中心安全标准的广泛讨论。专家们分析这可能表明在火灾后重建和维护过程中存在安全隐患，建议对类似设施进行彻底的安全审查，以防止类似事件再次发生。这一事件也引发了关于数据灾难恢复计划有效性的行业思考。 [<a href="https://news.ycombinator.com/item?id=45486210" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[工业设计的消亡与平淡电子产品的时代]]></title>
+            <link>https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/</link>
+            <guid isPermaLink="false">https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/</guid>
+            <pubDate>Sun, 05 Oct 2025 20:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了现代电子产品设计中创意与美学的缺失现象。作者指出，当前电子设备市场充斥着千篇一律的设计语言，缺乏独特性和个性。文章分析了导致这种状况的原因，包括成本压力、快速迭代的产品周期、消费者对功能的偏好胜过设计，以及供应链标准化。这种“设计平庸化“趋势不仅影响了产品的美学价值，也可能降低了用户的情感连接。作者呼吁电子产品制造商重新重视工业设计，创造出既有功能又有美感的创新产品，而非仅仅追求技术规格和市场营销。文章反映了科技爱好者对更高质量设计体验的渴望。 [<a href="https://news.ycombinator.com/item?id=45485175" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[更多加沙船队活动人士指称在以色列拘留期间遭受虐待]]></title>
-            <link>https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention</link>
-            <guid isPermaLink="false">https://www.aljazeera.com/news/2025/10/5/more-gaza-flotilla-activists-allege-mistreatment-in-israeli-detention</guid>
-            <pubDate>Sun, 05 Oct 2025 23:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道聚焦于最近被捕的加沙援助船队活动人士的指称，他们声称在以色列拘留期间遭受了不当待遇。据多名活动人士描述，他们在被拘留期间面临着恶劣的拘留条件、缺乏基本医疗保障以及心理压力等问题。这些新的指称使此前类似指控进一步升级，引发国际社会对人权状况的关注。报道包含了来自不同活动人士的具体证词描述，以及相关法律专家对这些拘留行为的评价。文章还回顾了历史上类似事件的处理方式，以及国际人道法在相关情况下的适用性。随着更多细节被揭露，这一事件可能对加沙地区的人道主义援助通道和国际关系产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45486208" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Toybox：一站式Linux命令行工具集]]></title>
+            <link>https://github.com/landley/toybox</link>
+            <guid isPermaLink="false">https://github.com/landley/toybox</guid>
+            <pubDate>Sun, 05 Oct 2025 19:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[Toybox是一个开源项目，旨在提供一套完整的Linux命令行工具集，替代通常由多个包提供的各种命令。该项目由Rob Landley创建，目标是将标准Unix工具的功能集成到一个单独的小型可执行文件中，适用于资源受限的环境。Toybox遵循POSIX标准，并与Busybox兼容，但更注重代码质量和可维护性。它适用于嵌入式系统、小型Linux发行版和Android系统，允许开发者使用单个命令工具完成传统上需要多个专用命令的操作。该项目还特别关注代码的简洁性和安全性，使其成为系统管理员和开发人员的有用工具，特别是对于需要构建精简系统的场景。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[技能问题接受度]]></title>
-            <link>https://mtende.blog/skill-issue-acceptance</link>
-            <guid isPermaLink="false">https://mtende.blog/skill-issue-acceptance</guid>
-            <pubDate>Sun, 05 Oct 2025 23:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章探讨了个人如何接受和处理自身技能差距的心理过程。作者分析了在面对技能不足时的常见心理障碍，如否认、回避和过度补偿等反应模式。文章强调了接受自身技能局限性的重要性，认为这是个人和专业成长的第一步。通过分享实用的心理策略和自我反思方法，作者帮助读者建立健康的技能差距应对机制。内容特别适合处于职业转型期或面临新技术挑战的职场人士，提供了从接纳差距到制定提升计划的完整思路。文章最终传达的核心信息是：只有坦诚面对自己的技能不足，才能有效地规划和实施能力提升策略，实现持续的个人发展。 [<a href="https://news.ycombinator.com/item?id=45486207" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[GPT-OSS泄露了关于OpenAI训练数据的哪些信息]]></title>
+            <link>https://fi-le.net/oss/</link>
+            <guid isPermaLink="false">https://fi-le.net/oss/</guid>
+            <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章分析了名为GPT-OSS的项目，该项目通过研究OpenAI公开发布的代码，间接揭示了其大型语言模型的训练数据构成。作者仔细研究了OpenAI的代码库，发现了指向训练数据源的线索，包括GitHub仓库、公共数据集和特定网站的内容。这些发现表明OpenAI的训练数据比官方披露的更为多样化，包含大量开源代码和技术文档。文章还讨论了这种数据构成对模型行为的影响，以及由此引发的对数据隐私和版权问题的关注。这项研究展示了如何通过分析公开信息来推断大型AI模型的内部数据来源，引发了对AI训练透明度的讨论。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[请教HN：创始人独立开发产品Beta版——继续独自开发还是找实习生？]]></title>
-            <link>https://news.ycombinator.com/item?id=45486184</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45486184</guid>
-            <pubDate>Sun, 05 Oct 2025 23:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[这篇帖子讨论了 solo 创业者在产品开发到一个阶段时面临的关键抉择：是否应该继续独自开发产品，还是引入实习生来分担工作。发帖者描述了自己作为独立开发者在产品Beta阶段遇到的生产力瓶颈和时间限制，正在考虑通过引入实习生来加速开发进程。帖子在Y Combinator社区引发了热烈讨论，有经验的创业者分享了自己的看法：一方认为保持控制权和代码质量很重要，建议谨慎引入外部帮助；另一方则强调快速迭代和扩大团队规模的重要性。讨论还涵盖了实习生管理、知识产权保护以及团队协作效率等实际问题，为独立创业者提供了多元化的决策参考。 [<a href="https://news.ycombinator.com/item?id=45486184" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用模板函子实现C++回调函数(1994)]]></title>
+            <link>http://www.tutok.sk/fastgl/callback.html</link>
+            <guid isPermaLink="false">http://www.tutok.sk/fastgl/callback.html</guid>
+            <pubDate>Sun, 05 Oct 2025 17:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[这个网页是一篇1994年的技术文章，详细介绍了在C++中使用模板函子实现回调函数的方法。在C++标准库引入std::function之前，开发者需要使用各种技术来实现函数回调机制。作者介绍了如何利用C++的模板和函数对象（functors）创建类型安全的回调系统，这种方法比传统的函数指针更加灵活和强大。文章提供了具体的代码示例，展示了如何定义回调接口、实现回调注册机制以及处理回调执行。这种技术对于GUI编程、事件驱动系统和异步操作等场景非常有用。尽管年代较早，但文章阐述的原理仍然是现代C++编程中理解回调和函数对象的重要基础。 [<a href="https://news.ycombinator.com/item?id=45483651" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我最糟糕的黑客马拉松经历：速率限制、混乱和评判失误]]></title>
-            <link>https://news.ycombinator.com/item?id=45486143</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45486143</guid>
-            <pubDate>Sun, 05 Oct 2025 23:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细描述了一次黑客马拉松中的糟糕经历，重点讲述了参与者面临的三个主要挑战：API速率限制导致的开发障碍、现场组织混乱以及评判系统不公正。作者分享了在72小时编程马拉松中，如何因为第三方服务的访问限制而被迫重新设计项目，以及如何在团队协作混乱的环境中保持专注。最令人沮丧的是，尽管项目完成度高且创新性强，但在评分环节却遭遇了明显的评判失误和不透明标准。这篇反思不仅是一次个人经历的吐槽，更揭示了黑客马拉松组织过程中常见的问题，为未来的参赛者和组织者提供了宝贵的教训，强调了清晰规则、技术准备和公平评判在技术竞赛中的重要性。 [<a href="https://news.ycombinator.com/item?id=45486143" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[分享：ut——基于Rust的CLI工具集，专为开发者和IT人员设计]]></title>
+            <link>https://github.com/ksdme/ut</link>
+            <guid isPermaLink="false">https://github.com/ksdme/ut</guid>
+            <pubDate>Sun, 05 Oct 2025 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[ut是一个用Rust语言编写的命令行工具集合，旨在为开发者和IT运维人员提供高效实用的命令行实用程序。该项目集合了多种常用工具，如文件操作、数据处理、网络诊断等，类似于传统Unix工具包但针对现代需求进行了优化。ut使用Rust的内存安全和并发特性，提供了比传统C语言工具更好的性能和稳定性。工具设计遵循简洁高效的原则，同时提供了丰富的功能选项。作者希望通过这个项目帮助开发人员在日常工作中减少对多个独立工具的依赖，提高工作效率。该项目是开源的，欢迎社区贡献，体现了现代Rust生态在系统工具开发方面的优势。 [<a href="https://news.ycombinator.com/item?id=45483531" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[为什么响应式编程在Python中没有流行起来（以及为什么Signals会改变这一现状）]]></title>
-            <link>https://bui.app/why-reactive-programming-hasnt-taken-off-in-python-and-how-signals-can-change-that/</link>
-            <guid isPermaLink="false">https://bui.app/why-reactive-programming-hasnt-taken-off-in-python-and-how-signals-can-change-that/</guid>
-            <pubDate>Sun, 05 Oct 2025 23:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章深入分析了响应式编程模型在Python生态系统中 adoption 有限的原因，并提出了“Signals“作为可能的解决方案。作者指出，Python的异步编程模型与传统响应式编程在概念上存在分歧，加上缺乏与JavaScript RxJS等流行库相媲美的高质量实现，阻碍了响应式编程在Python中的普及。文章详细探讨了Python中现有的响应式库的不足之处，以及为什么它们未能获得开发者社区的广泛认可。随后，作者介绍了“Signals“这一新兴概念，它试图通过更符合Python语言特性和开发者习惯的方式来处理数据流和事件驱动编程。文章提供了代码示例和实际用例，展示了Signals如何简化异步编程模式，并有望在未来改变Python开发者对响应式编程的认知。 [<a href="https://news.ycombinator.com/item?id=45486122" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[火灾摧毁韩国政府云存储系统，无备份可用]]></title>
+            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
+            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
+            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[这则新闻报道了一起严重的IT事故，韩国国家情报研究服务中心的云存储系统遭遇火灾，导致大量政府数据被毁，且没有可用的备份。火灾造成了不可逆转的数据损失，包括敏感的国家信息、行政记录和研究资料。据报道，该系统虽然实现了数据备份计划，但备份策略存在严重缺陷，无法在灾难情况下恢复数据。这一事件引发了公众对政府数据管理实践和灾难恢复策略的质疑，也强调了建立健壮备份系统和定期测试恢复流程的重要性。事故调查正在进行中，预计将导致政府IT基础设施安全标准的全面审查和改进。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[印度人的回归]]></title>
-            <link>https://estimateproperty.blogspot.com/2025/10/the-return-of-indians.html</link>
-            <guid isPermaLink="false">https://estimateproperty.blogspot.com/2025/10/the-return-of-indians.html</guid>
-            <pubDate>Sun, 05 Oct 2025 23:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博文探讨了印度专业人士，特别是科技和IT领域的人才，近年来开始从海外返回印度的趋势。文章分析了这一现象背后的多重因素，包括印度本土科技行业的快速发展、政府推出的吸引海外人才回国政策、以及国际就业环境变化带来的影响。作者指出，这些回流的印度人才不仅带回了国际经验和专业技能，还带来了创新的思维方式和管理理念，正在改变印度企业的文化和发展方向。文章通过具体案例和数据，展示了这一回流趋势对印度各行业的积极影响，特别是在科技创业、企业创新和知识转移方面。同时，文章也讨论了这一趋势可能带来的挑战，如人才竞争加剧和薪资结构调整，为理解全球人才流动的新动态提供了洞察。 [<a href="https://news.ycombinator.com/item?id=45486110" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[通过监督学习框架实现隐式演员-评论家耦合，应用于RLVR]]></title>
+            <link>https://arxiv.org/abs/2509.02522</link>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.02522</guid>
+            <pubDate>Sun, 05 Oct 2025 17:01:19 GMT</pubDate>
+            <content:encoded><![CDATA[这是一篇机器学习研究论文，提出了一种新的强化学习方法，通过监督学习框架实现隐式演员-评论家(ACTOR-CRITIC)耦合机制，特别针对强化视觉导航任务(RLVR)。传统强化学习中，演员网络和评论家网络通常需要分别训练，而本文提出的方法通过一个统一的框架实现两者的协同优化。该方法利用监督信号指导强化学习过程，加速了收敛速度并提高了稳定性。作者在多个视觉导航基准任务上评估了该方法，结果表明它相比传统方法具有更好的性能和样本效率。这项研究为解决复杂视觉环境下的强化学习挑战提供了新思路，特别是对自动驾驶机器人路径规划等应用具有重要价值。 [<a href="https://news.ycombinator.com/item?id=45483205" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[创建有效的愿景板]]></title>
-            <link>https://capstanmallnews.blogspot.com/2025/09/blog-post_04.html</link>
-            <guid isPermaLink="false">https://capstanmallnews.blogspot.com/2025/09/blog-post_04.html</guid>
-            <pubDate>Sun, 05 Oct 2025 23:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[这篇生活指南文章详细介绍了如何创建真正有效的愿景板，而不仅仅是简单的拼贴画。作者解释了愿景板作为可视化目标的强大工具如何帮助人们明确生活方向并增强实现目标的动力。文章提供了从选择合适的媒介、收集能代表个人目标的图片和文字，到设计布局和放置位置等全方位的实用建议。特别强调了情感连接在愿景板制作中的关键作用，指出只有能够引发强烈情感共鸣的愿景板才能真正发挥其激励作用。文章还分享了如何定期更新和维护愿景板，以适应生活阶段的变化和目标的进展。对于寻求实现个人和职业发展的人来说，这篇指南提供了一套系统而科学的方法，将愿景从抽象概念转化为具体的日常行动指南。 [<a href="https://news.ycombinator.com/item?id=45486106" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[比亚迪制造出全球最快的汽车]]></title>
+            <link>https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</link>
+            <guid isPermaLink="false">https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car</guid>
+            <pubDate>Sun, 05 Oct 2025 15:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章报道了中国汽车制造商比亚迪推出了一款创纪录的电动汽车，据称是世界上加速最快的量产车。这款尚未正式命名的车型搭载先进的电池技术和电动机系统，能够在极短时间内完成0-100公里/小时的加速，性能超越了传统超级跑车。比亚迪作为中国领先的新能源汽车制造商，一直致力于推动电动车技术的发展，此次展示的最新车型代表了其工程技术实力的巅峰。文章还提到，尽管性能惊人，但这款车型仍保持了比亚迪在电动汽车领域的成本优势和实用设计理念，可能重新定义大众对电动汽车性能的期望。 [<a href="https://news.ycombinator.com/item?id=45482516" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[软件开发AI工具（CMU课程）]]></title>
-            <link>https://ai-developer-tools.github.io</link>
-            <guid isPermaLink="false">https://ai-developer-tools.github.io</guid>
-            <pubDate>Sun, 05 Oct 2025 23:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[这是由卡内基梅隆大学提供的课程资源，专注于介绍和应用人工智能工具在软件开发过程中的各种应用。课程涵盖了从代码生成、自动化测试、bug检测到项目管理和文档生成等软件开发全生命周期的AI工具。内容不仅包括现有工具的介绍和评价，还提供了实践案例和实验项目，帮助学习者掌握如何有效地将这些工具集成到日常开发流程中。特别有价值的是课程中对AI工具局限性和潜在风险的讨论，以及对开发者如何适应人机协作编程新模式的思考。这个资源适合软件开发人员、技术团队领导者和教育工作者，帮助他们了解AI如何改变软件开发实践，并做好准备迎接这一技术变革。 [<a href="https://news.ycombinator.com/item?id=45486098" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[NFS四十周年——回顾太阳微系统网络文件系统]]></title>
+            <link>https://nfs40.online/</link>
+            <guid isPermaLink="false">https://nfs40.online/</guid>
+            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站庆祝网络文件系统(NFS)诞生40周年，NFS是由太阳微系统(Sun Microsystems)开发的一项革命性技术，彻底改变了网络存储和文件共享的方式。NFS允许不同计算机系统通过网络透明地访问和共享文件，使用户感觉就像在访问本地存储一样。这项技术发布于1984年，成为分布式计算和客户端-服务器架构的关键组成部分，影响了现代操作系统和网络设计。网站回顾了NFS的发展历程、技术演变和广泛影响，同时也讨论了它面临的挑战和未来发展方向。作为互联网基础设施的重要组件，NFS的理念和实现方式至今仍在云计算和分布式系统中发挥着重要作用。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[发布：Identicons——从任意文本生成的确定性像素艺术头像]]></title>
-            <link>https://identiqwe.maxcomperatore.com/</link>
-            <guid isPermaLink="false">https://identiqwe.maxcomperatore.com/</guid>
-            <pubDate>Sun, 05 Oct 2025 23:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[Identicons是一个新颖的开源项目，可以从任何文本输入生成独特的确定性像素艺术头像。与随机生成的头像不同，Identicons确保相同文本始终产生完全相同的图像，同时保证不同文本产生不同图像。这种确定性使其非常适合用作用户头像或数据可视化工具。项目利用哈希算法将输入文本转换为像素模式，然后应用颜色方案生成最终图像。开发者提供了易于集成的API和多种自定义选项，包括调整图像大小、颜色主题和复杂度等。除了头像生成外，Identicons还可用于数据集可视化、内容指纹识别等场景。这个工具特别需要一致视觉标识的应用程序，同时为开源社区提供了一个轻量级但高度可定制的解决方案。 [<a href="https://news.ycombinator.com/item?id=45486093" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[分享：ASCII绘图板]]></title>
+            <link>https://www.delopsu.com/draw.html</link>
+            <guid isPermaLink="false">https://www.delopsu.com/draw.html</guid>
+            <pubDate>Sun, 05 Oct 2025 15:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个基于Web的ASCII绘图工具，允许用户使用简单的文本编辑器创建ASCII艺术。该工具提供了一个直观的界面，用户可以通过键盘输入字符和符号，在网格中创建像素化的图形和图案。与传统的绘图软件不同，这个工具严格使用ASCII字符（如#、@、*等）进行创作，唤起了早期计算机时代的艺术风格。界面设计简洁，易于使用，适合创作简单的像素艺术、图表或个性化签名。这个项目展示了如何用有限的技术资源实现创意表达，也反映了ASCII艺术在数字时代依然具有的魅力和实用价值。它是程序员和技术爱好者探索文本艺术和怀旧编程的一个有趣平台。 [<a href="https://news.ycombinator.com/item?id=45482333" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GraphDoc——免费开源且用户友好的决策树构建工具]]></title>
-            <link>https://www.maastrichtuniversity.nl/news/graphdoc-free-open-source-and-user-friendly-graphical-interface-build-your-own-decision-trees</link>
-            <guid isPermaLink="false">https://www.maastrichtuniversity.nl/news/graphdoc-free-open-source-and-user-friendly-graphical-interface-build-your-own-decision-trees</guid>
-            <pubDate>Sun, 05 Oct 2025 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[GraphDoc是一个新推出的免费开源工具，专为帮助用户创建和可视化决策树而设计。这款软件提供直观的图形界面，使复杂决策过程的建模变得简单明了。用户可以通过拖放元素、设置决策规则和结果节点来构建结构化的决策树。GraphDoc特别适合教育工作者、学生和需要向利益相关者清晰展示决策过程的专业人士。该工具支持多种决策树算法，并提供导出功能，可将创建的决策树保存为图像或文档格式。作为开源项目，GraphDoc允许用户自由使用、修改和分发，同时受益于社区贡献的改进和创新。这个工具的出现降低了复杂决策建模的技术门槛，为知识分享和教学提供了有力支持。 [<a href="https://news.ycombinator.com/item?id=45486089" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[QNX操作系统]]></title>
+            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
+            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
+            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章深入介绍了QNX操作系统，这是一款以微内核架构和卓越可靠性著称的实时操作系统。QNX最初由加拿大QNX软件系统公司开发，现属于黑莓公司，广泛应用于汽车电子、工业控制、医疗设备和航空航天等对稳定性要求极高的领域。文章详细解释了QNX的微内核设计如何通过将核心服务与用户空间分离来实现高可靠性，即使一个组件崩溃也不会影响整个系统。这种架构使QNX成为关键任务系统的理想选择，包括现代汽车的自动驾驶系统和飞机的飞行控制系统。文章还讨论了QNX的历史发展、技术特点以及其在各行业中的实际应用案例，展示了这款“永不崩溃“操作系统的技术优势。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[日本科技巨头部署激光无人机保护家禽并防止禽流感]]></title>
-            <link>https://www.tomshardware.com/tech-industry/japanese-tech-giant-deploys-laser-drones-to-protect-chickens-drones-are-hoped-to-prevent-the-spread-of-avian-flu</link>
-            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/japanese-tech-giant-deploys-laser-drones-to-protect-chickens-drones-are-hoped-to-prevent-the-spread-of-avian-flu</guid>
-            <pubDate>Sun, 05 Oct 2025 23:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道介绍了一家日本科技巨头公司如何创新性地应用激光技术无人机来保护家禽养殖场，防止禽流感传播。这些无人机配备高精度激光系统，能够自动识别并驱赶可能传播疾病的野生鸟类。报道解释了这项技术的运作原理：无人机利用计算机视觉识别入侵鸟类，然后发射低功率激光束，不会伤害鸟类但能有效阻止它们接近养殖区域。与传统方法相比，这种激光解决方案更环保、更经济且效率更高。文章还提到，该技术已在多个养殖场成功部署，显著降低了禽类感染风险，为农业科技应用提供了创新范例。这项技术展示了如何将先进科技与传统农业问题相结合，开创了生物安全防护的新途径。 [<a href="https://news.ycombinator.com/item?id=45486082" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[使用ARM SIMD实现单线程86 GB/s的位打包]]></title>
+            <link>https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</link>
+            <guid isPermaLink="false">https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack</guid>
+            <pubDate>Sun, 05 Oct 2025 12:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目展示了令人印象深刻的性能优化成果，开发者通过ARM SIMD指令集实现了高达86GB/s的单线程位打包(bitpacking)速度。位打包是一种数据压缩技术，将多个小值压缩到一个更大的整数中，在数据库、数据分析和网络通信等领域有广泛应用。项目作者利用ARM NEON SIMD指令集的并行处理能力，对算法进行了深度优化，充分利用现代ARM处理器的计算资源。这个实现不仅展示了ARM架构的强大处理能力，也为相关领域的开发者提供了高性能数据处理的技术参考。项目包括详细的性能测试数据和优化说明，体现了现代系统编程中性能优化的技巧和方法。 [<a href="https://news.ycombinator.com/item?id=45481008" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[自闭症谱系是否应该被拆分？]]></title>
-            <link>https://www.nytimes.com/2025/10/01/health/autism-spectrum-neurodiversity-kennedy.html</link>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/10/01/health/autism-spectrum-neurodiversity-kennedy.html</guid>
-            <pubDate>Sun, 05 Oct 2025 23:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[这篇《纽约时报》文章深入探讨了当前自闭症诊断分类的争议，质疑是否应该将现有的自闭症谱系进一步细分。文章呈现了支持与反对这一分裂的不同观点：一方认为更精细的分类有助于精准治疗和个性化医疗，使医生能够针对特定亚型制定更有效的干预方案；另一方则担心过度细分可能加剧患者的孤立感，忽视不同自闭症特质之间的连续性，并可能限制获取全面医疗服务的可能性。报道采访了神经多样性倡导者、医学专家和自闭症人士家庭，全面分析了这一复杂问题背后的科学、社会和伦理考量。文章最后指出，这一争议反映了医学界在理解神经多样性方面持续演变的思考，以及如何在科学精准性与人文关怀之间寻找平衡的挑战。 [<a href="https://news.ycombinator.com/item?id=45486076" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Framework笔记本和硬盘上自托管10TB的S3存储]]></title>
+            <link>https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</link>
+            <guid isPermaLink="false">https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/</guid>
+            <pubDate>Sun, 05 Oct 2025 09:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细介绍了如何在普通的Framework笔记本电脑上配置自托管存储系统，实现相当于Amazon S3的10TB存储能力。作者使用了多个高速SSD硬盘，结合开源的MinIO或类似的S3兼容存储软件，构建了一个成本效益高的私人云存储解决方案。这个系统不仅可以作为个人或小型企业的数据备份和文件共享平台，还可以作为开发测试环境的存储后端。文章涵盖了硬件选择、软件配置、性能优化和数据安全等方面的详细指南，展示了如何在有限预算内构建功能完善的存储基础设施。这种自托管方案对于注重数据隐私和控制权的用户特别有吸引力。 [<a href="https://news.ycombinator.com/item?id=45480317" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[应该有一项法律]]></title>
-            <link>https://www.stallman.org/there-ought-to-be-a-law.html</link>
-            <guid isPermaLink="false">https://www.stallman.org/there-ought-to-be-a-law.html</guid>
-            <pubDate>Sun, 05 Oct 2025 23:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章由著名自由软件运动领袖理查德·斯托曼撰写，探讨了在数字时代制定新法律保护用户权利的必要性。斯托曼分析了当前软件和互联网环境中的多个问题，包括用户数据被不当收集、软件授权限制过多、设备维修权受限以及数字权利管理过度限制用户自由等。他论证了现有法律框架不足以应对这些挑战，提出了应该制定的新法律方向，包括保护用户数据隐私、确保软件可修改性、保障设备维修权以及限制过度DRM等方面。文章体现了斯托曼一贯的倡导自由和用户权利的理念，呼吁社会各界共同努力推动相关立法变革，创造一个更加尊重用户权利的数字环境。 [<a href="https://news.ycombinator.com/item?id=45486062" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[社会降温(2017)]]></title>
+            <link>https://www.socialcooling.com/</link>
+            <guid isPermaLink="false">https://www.socialcooling.com/</guid>
+            <pubDate>Sun, 05 Oct 2025 06:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站介绍了“社会降温“(Social Cooling)的概念，这是由社会科学家提出的一种现象，指的是人们由于意识到自己的所有行为可能被监视和分析而自我审查和自我约束，从而逐渐变得更加顺从和保守。这种现象类似于“寒蝉效应“，但更侧重于数字监控对整个社会创新性和自由表达的影响。网站探讨了无处不在的数据收集和分析如何改变人们的行为，导致社会创新减少和群体思维增强。作者通过研究案例和数据分析，展示了社会降温如何影响艺术、科学和政治等领域，以及如何应对这一挑战。这个项目旨在提高公众对数字监控隐性影响的认识，倡导更加平衡的隐私与安全政策。 [<a href="https://news.ycombinator.com/item?id=45479165" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI准备发布视觉代理构建器]]></title>
-            <link>https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/</link>
-            <guid isPermaLink="false">https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/</guid>
-            <pubDate>Sun, 05 Oct 2025 23:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道揭示了OpenAI计划在10月6日的开发者日上发布一款名为“视觉代理构建器“的新工具。据称，这款工具将使开发者能够创建能够理解和响应视觉信息的AI代理，标志着人工智能应用向多模态能力的又一重要进展。文章详细介绍了该工具的功能特点，包括通过简单界面设计AI视觉代理的能力，无需深厚的机器学习专业知识即可部署。这款工具预计将广泛应用于各种场景，从增强的用户界面设计到自动化视觉内容审核，再到智能辅助系统。报道还分析了这一产品对开发社区可能带来的影响，包括降低AI应用开发门槛和加速视觉AI创新。随着多模态AI技术的快速发展，OpenAI的这一举措可能会重塑开发者构建智能应用的方式，为下一代人机交互奠定基础。 [<a href="https://news.ycombinator.com/item?id=45486061" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[在Claude开发者平台上管理上下文]]></title>
+            <link>https://www.anthropic.com/news/context-management</link>
+            <guid isPermaLink="false">https://www.anthropic.com/news/context-management</guid>
+            <pubDate>Sun, 05 Oct 2025 05:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了Anthropic公司为其AI助手Claude开发的上下文管理系统，这是处理大型语言模型长对话能力的关键技术。上下文管理允许模型在保持对话连贯性的同时，处理更长的交互历史，提高多轮对话的质量和效率。文章详细解释了Anthropic如何优化内存和计算资源，以支持更长的上下文窗口，同时保持响应的准确性和相关性。这种技术对于复杂的编程任务、创意写作和深度分析对话尤为重要。此外，文章还分享了关于上下文管理的最佳实践，包括如何有效组织信息、如何平衡详细程度与效率，以及如何在保持对话流的同时处理多个主题。这些改进使Claude成为更加强大的AI助手，能够处理更复杂的用户需求。 [<a href="https://news.ycombinator.com/item?id=45479006" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
