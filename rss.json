@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/",
-            "content_html": "本文记录了一项世界纪录：摄影师在比利牛斯山的芬斯特雷尔斯峰成功拍摄到了443公里外阿尔卑斯山的加斯帕德峰。这次摄影的成功依赖于罕见的大气条件，特别是温度逆转现象，它使得光线能够沿着地球曲率弯曲。文章详细解释了拍摄背后的科学原理、所使用的设备以及这次成就的意义，证明了在特定条件下，肉眼和相机可以捕捉到远超地平线的惊人景象。 [<a href=\"https://news.ycombinator.com/item?id=45496086\" target=\"_blank\">评论</a>]",
-            "url": "https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/",
-            "title": "超越地平线：世界纪录长距离照片443公里，比利牛斯山的芬斯特雷尔斯峰",
-            "date_modified": "2025-10-06T20:42:04.000Z"
+            "id": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1582906-rust-written-redox-os-enables-multi-threading-by-default",
+            "content_html": "Redox操作系统，一个完全用Rust语言编写的开源操作系统，已经实现了默认启用多线程的功能。这一里程碑式的进展标志着Redox OS在系统架构上的重要改进，使其能够更好地利用现代多核处理器的性能。开发者通过在内核级别实现线程调度和管理，让系统默认支持并发执行，提高了整体系统响应性和吞吐量。这一改进对Redox OS的生态系统发展具有重要意义，为运行更复杂的应用程序奠定了基础。该项目团队表示，多线程支持是Redox迈向生产就绪操作系统的关键一步。 [<a href=\"https://news.ycombinator.com/item?id=45496446\" target=\"_blank\">评论</a>]",
+            "url": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1582906-rust-written-redox-os-enables-multi-threading-by-default",
+            "title": "用Rust编写的Redox OS默认启用多线程",
+            "date_modified": "2025-10-06T21:17:45.000Z"
         },
         {
-            "id": "https://www.thepsmiths.com/p/briefly-noted-summer-reading",
-            "content_html": "这是一篇关于暑期阅读推荐的博客文章。作者分享了一系列适合夏天阅读的书籍，涵盖了不同类型和主题，为读者提供了丰富的选择。文章以轻松的笔触介绍了每本书的亮点，旨在鼓励人们在假期中通过阅读来放松和充实自己，享受知识的乐趣。 [<a href=\"https://news.ycombinator.com/item?id=45496057\" target=\"_blank\">评论</a>]",
-            "url": "https://www.thepsmiths.com/p/briefly-noted-summer-reading",
-            "title": "简讯：暑期读物",
-            "date_modified": "2025-10-06T20:39:16.000Z"
+            "id": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+            "content_html": "这篇文章深入探讨了WebGPU技术以及WGSL（WebGPU着色语言）编译过程中的性能开销。作者详细分析了WebGPU在现代浏览器中的实现，特别关注了着色器编译对应用性能的影响。文章指出，WGSL编译可能成为WebGPU应用的瓶颈，特别是在复杂图形场景中。作者提供了一些优化建议，包括预编译着色器、缓存编译结果以及减少动态编译需求。文章还讨论了WebGPU与OpenGL和WebGL的对比，强调了新一代图形API的优势和挑战。对于Web开发者来说，理解这些编译代价对于构建高性能的图形应用至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
+            "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+            "title": "WebGPU和编译WGSL的代价",
+            "date_modified": "2025-10-06T21:14:51.000Z"
         },
         {
-            "id": "https://nik.art/is-it-easy-or-just-easy-to-try/",
-            "content_html": "这篇文章探讨了&quot;容易&quot;的两种含义：事情本身简单，还是仅仅是&quot;开始尝试&quot;这个动作简单。作者认为，许多事情之所以让人觉得&quot;容易开始&quot;，是因为尝试的门槛很低，但这并不意味着完成它就很容易。文章鼓励人们思考这种区别，以更好地管理期望和坚持到底，避免因低估难度而轻易放弃。 [<a href=\"https://news.ycombinator.com/item?id=45496049\" target=\"_blank\">评论</a>]",
-            "url": "https://nik.art/is-it-easy-or-just-easy-to-try/",
-            "title": "是事情本身简单，还是仅仅是尝试起来简单？",
-            "date_modified": "2025-10-06T20:38:42.000Z"
+            "id": "https://arxiv.org/abs/2509.25149",
+            "content_html": "这篇研究论文探讨了使用NVIDIA的NVFP4浮点格式来预训练大型语言模型的方法。NVFP4是一种4位浮点数格式，能够在保持模型性能的同时显著减少内存占用和计算开销。研究团队通过实验证明，使用NVFP4进行预训练可以实现与更高精度格式相当的模型质量，同时节省大量计算资源。这项技术对于降低大模型训练成本具有重要意义，可能使得更多研究机构和企业能够承担大模型训练的费用。论文详细介绍了量化策略、训练技巧以及性能评估结果，为低精度大模型训练提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45496359\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.25149",
+            "title": "使用NVFP4预训练大型语言模型",
+            "date_modified": "2025-10-06T21:09:25.000Z"
         },
         {
-            "id": "https://openlib.io/security-model-wayland-vs-xorg-in-linux/",
-            "content_html": "本文深入比较了Linux系统中两种主流显示服务器协议Wayland和Xorg的安全模型。文章指出，Xorg的设计年代久远，其安全架构存在先天缺陷，例如任何程序都可以截屏或记录按键。而Wayland从设计之初就采用了更严格的安全模型，通过隔离应用程序的输入和输出，有效防止了恶意程序的窥探，从而提供了更强的安全保障。 [<a href=\"https://news.ycombinator.com/item?id=45496029\" target=\"_blank\">评论</a>]",
-            "url": "https://openlib.io/security-model-wayland-vs-xorg-in-linux/",
-            "title": "安全模型：Linux中的Wayland与Xorg对比",
-            "date_modified": "2025-10-06T20:36:48.000Z"
+            "id": "https://macleans.ca/longforms/my-misadventures-in-gentle-parenting/",
+            "content_html": "这篇文章是一位家长对温和育儿理念的个人反思和经历分享。作者坦诚地讲述了在实践温和育儿过程中遇到的挑战和困惑，包括如何在保持温和的同时设定界限，以及如何应对孩子的不当行为。文章探讨了对温和育儿的误解，指出温和不等于纵容，而是需要坚定而友善的引导。作者分享了从理论到实践的心路历程，以及如何在挫折中找到平衡点。这篇文章为正在探索育儿方式的家长提供了真实的视角，提醒人们育儿没有标准答案，需要根据家庭情况和孩子个性灵活调整。 [<a href=\"https://news.ycombinator.com/item?id=45496354\" target=\"_blank\">评论</a>]",
+            "url": "https://macleans.ca/longforms/my-misadventures-in-gentle-parenting/",
+            "title": "我在温和育儿中的不幸遭遇",
+            "date_modified": "2025-10-06T21:08:43.000Z"
         },
         {
-            "id": "https://github.com/kaushikb11/verifiers-monitor",
-            "content_html": "这是一个GitHub项目，介绍了一个名为&quot;verifiers-monitor&quot;的开源框架。该框架专门为强化学习（RL）设计，旨在提供原生的可观测性功能。它解决了在开发和调试RL智能体时难以监控其内部状态和行为的痛点。通过这个工具，开发者可以更直观地理解和分析其RL模型的训练过程和决策逻辑，从而提升开发效率和模型性能。 [<a href=\"https://news.ycombinator.com/item?id=45496023\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/kaushikb11/verifiers-monitor",
-            "title": "Show HN: 我们一直缺少的开源、原生强化学习可观测性框架",
-            "date_modified": "2025-10-06T20:36:31.000Z"
+            "id": "https://cdm.link/audacity-4-in-ui-preview/",
+            "content_html": "Audacity 4.0版本带来了全新的用户界面设计，标志着这款经典免费音频编辑软件向现代化迈出重要一步。新UI采用了更清晰的设计语言，包括深色模式支持、重新组织的工具栏、改进的轨道管理以及更直观的效果面板。开发团队专注于提升用户体验，让音频编辑工作流程更加流畅高效。除了视觉更新，新版本还优化了性能，增加了实时效果预览功能，并改进了音频处理引擎。这些改进使得Audacity在保持免费开源特性的同时，能够与商业音频软件竞争。文章展示了多个界面截图，让用户提前了解即将到来的变化。 [<a href=\"https://news.ycombinator.com/item?id=45496309\" target=\"_blank\">评论</a>]",
+            "url": "https://cdm.link/audacity-4-in-ui-preview/",
+            "title": "Audacity 4：免费音频编辑器的新现代UI预览",
+            "date_modified": "2025-10-06T21:04:07.000Z"
         },
         {
-            "id": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
-            "content_html": "作者分享了自己试图为著名JavaScript库Lodash贡献代码时被阻止的经历。文章详细描述了作者发现的一个潜在问题，并精心准备了一个Pull Request。然而，他不仅没有得到积极的反馈，反而被项目维护者直接封禁，无法再进行任何贡献。作者通过此事反思了开源社区的沟通、权力动态以及新贡献者可能遇到的障碍。 [<a href=\"https://news.ycombinator.com/item?id=45496005\" target=\"_blank\">评论</a>]",
-            "url": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
-            "title": "关于被阻止为Lodash做贡献的经历",
-            "date_modified": "2025-10-06T20:34:36.000Z"
+            "id": "https://www.vloex.com",
+            "content_html": "VLOEX是一个创新项目，旨在将视频处理能力提升为软件的基础原语，类似于文本和图像在现有计算系统中的地位。该项目从视频生成作为切入点，探索如何让视频内容的创建、编辑和处理变得更加程序化和可组合。平台提供了一套API和工具，让开发者能够以代码方式生成和操作视频内容，而不仅仅是作为文件处理。这种方法可能彻底改变视频内容的创作方式，使其更容易集成到各种应用中。项目展示了视频作为数据类型的潜力，为下一代多媒体应用开发开辟了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45496299\" target=\"_blank\">评论</a>]",
+            "url": "https://www.vloex.com",
+            "title": "Show HN: 让视频成为软件原语（从生成开始）",
+            "date_modified": "2025-10-06T21:02:59.000Z"
         },
         {
-            "id": "https://www.youtube.com/watch?v=I6IQ_FOCE6I",
-            "content_html": "这是一个发布在YouTube上的视频，内容是一首关于经济泡沫的讽刺歌曲。视频通过幽默的歌词和旋律，回顾了历史上的互联网泡沫，并影射了当前可能存在的类似市场现象，特别是对科技和投资热潮的批判。它旨在提醒观众对市场狂热保持警惕，并以娱乐方式引发人们对经济周期的思考。 [<a href=\"https://news.ycombinator.com/item?id=45495946\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=I6IQ_FOCE6I",
-            "title": "又一个泡沫要来了 [视频]",
-            "date_modified": "2025-10-06T20:28:40.000Z"
+            "id": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
+            "content_html": "这篇文章探讨了计算架构的重大变革：将处理单元直接集成到内存芯片中，打破传统的冯·诺依曼架构限制。这种&quot;内存计算&quot;（Processing-in-Memory）技术能够显著减少数据移动带来的延迟和能耗，解决现代计算系统中的内存墙问题。文章详细介绍了这一技术的原理、优势以及面临的挑战。通过在内存内部执行计算操作，可以大幅提升数据密集型应用的性能，特别是在AI训练、大数据分析等领域。多家研究机构和公司正在推进相关技术，预计这一变革将在未来几年内重塑计算硬件设计，带来性能和能效的显著提升。 [<a href=\"https://news.ycombinator.com/item?id=45496282\" target=\"_blank\">评论</a>]",
+            "url": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
+            "title": "下一次计算革命：将处理带入内存内部",
+            "date_modified": "2025-10-06T21:01:00.000Z"
         },
         {
-            "id": "https://cased.com/blog/2025-10-05-sandboxes",
-            "content_html": "这篇文章介绍了一个旨在统一云代码执行沙箱的通用API。开发者们经常面临在AWS Lambda、Google Cloud Functions等不同平台间切换的麻烦，每个平台都有其独特的API和配置。这个通用API的目标是提供一个标准化的接口，让开发者可以用同一套代码在不同的云服务商的沙箱环境中运行，从而简化开发流程，提高代码的可移植性。 [<a href=\"https://news.ycombinator.com/item?id=45495945\" target=\"_blank\">评论</a>]",
-            "url": "https://cased.com/blog/2025-10-05-sandboxes",
-            "title": "一个通往云代码执行沙箱的通用API",
-            "date_modified": "2025-10-06T20:28:35.000Z"
+            "id": "https://www.bbc.com/culture/article/20251002-the-century-long-search-for-the-loch-ness-monster",
+            "content_html": "这篇文章回顾了人类寻找尼斯湖水怪长达一个世纪的历程。从1934年著名的&quot;外科医生照片&quot;开始，尼斯湖水怪就成为了全球最著名的神秘生物之一。文章详细记录了各个时代的探索尝试，包括早期的目击报告、潜水器探测、声纳扫描以及现代的DNA分析技术。科学家们通过严谨的科学方法调查湖水生态系统，但至今没有发现确凿证据证明水怪存在。文章探讨了这一现象背后的文化意义，以及人类对未知事物的持续好奇。尼斯湖水怪的传说已经超越了科学探索本身，成为流行文化的重要组成部分，吸引着无数游客和研究者前往苏格兰高地。 [<a href=\"https://news.ycombinator.com/item?id=45496271\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bbc.com/culture/article/20251002-the-century-long-search-for-the-loch-ness-monster",
+            "title": "寻找尼斯湖水怪的百年历程",
+            "date_modified": "2025-10-06T21:00:02.000Z"
         },
         {
-            "id": "https://www.polskieradio.pl/395/7784/artykul/3588855,polish-scientists-startup-pathway-announces-ai-reasoning-breakthrough",
-            "content_html": "波兰初创公司Pathway宣布其在人工智能推理领域取得了重大突破。该公司的技术能够让AI系统更有效地处理复杂和实时的数据流，进行更接近人类的逻辑推理。这项突破有望在金融、物联网和自动驾驶等多个领域产生深远影响，帮助AI从简单的模式识别向更高级的决策支持转变。文章强调了这项技术对于推动AI应用发展的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45495923\" target=\"_blank\">评论</a>]",
-            "url": "https://www.polskieradio.pl/395/7784/artykul/3588855,polish-scientists-startup-pathway-announces-ai-reasoning-breakthrough",
-            "title": "Pathway公司宣布AI推理技术取得突破",
-            "date_modified": "2025-10-06T20:25:58.000Z"
+            "id": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
+            "content_html": "据彭博社报道，苹果公司硬件工程高级副总裁John Ternus正在成为接替Tim Cook担任CEO的热门人选。Ternus在苹果工作多年，负责Mac、iPhone、iPad等核心产品的硬件开发，深受公司信任。文章分析了苹果的继任计划，指出Ternus在产品创新和供应链管理方面的经验使他成为理想候选人。同时，苹果近期搁置了一些项目，包括Vision Air眼镜和M5 iPad，这可能反映了公司战略调整。文章还讨论了苹果面临的挑战，包括在中国市场的竞争压力以及AI技术的发展机遇。Ternus的崛起标志着苹果可能延续其以硬件创新为核心的发展路线。 [<a href=\"https://news.ycombinator.com/item?id=45496268\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
+            "title": "苹果将硬件主管John Ternus置于CEO继任聚光灯下",
+            "date_modified": "2025-10-06T20:59:38.000Z"
         },
         {
-            "id": "https://isonomiaquarterly.com/wp-content/uploads/2025/07/zellen-l-s-2.pdf",
-            "content_html": "这是一篇学术论文的PDF文件，探讨了国际关系理论。作者挑战了传统国际体系处于&quot;无政府状态&quot;的观点，提出了&quot;去中心化专制&quot;的概念。文章认为，全球权力结构并非无序，而是通过一种分散的、非中心化的方式实施控制，形成了一种新型的专制形式，从而制造了无政府的幻觉。该理论为理解当代全球治理和权力运作提供了新的视角。 [<a href=\"https://news.ycombinator.com/item?id=45495906\" target=\"_blank\">评论</a>]",
-            "url": "https://isonomiaquarterly.com/wp-content/uploads/2025/07/zellen-l-s-2.pdf",
-            "title": "去中心化的专制与国际无政府状态的幻觉 [pdf]",
-            "date_modified": "2025-10-06T20:23:36.000Z"
+            "id": "https://idiallo.com/blog/ai-video-overview",
+            "content_html": "这篇文章全面介绍了当前AI视频生成技术的发展现状。作者详细分析了各大AI视频生成工具的特点、能力以及使用场景，包括Runway、Pika、Sora等领先平台。文章涵盖了从文本到视频、图像到视频、视频风格转换等多种生成模式，并比较了不同工具在视频质量、连贯性和可控性方面的表现。作者还讨论了AI视频技术面临的挑战，如长视频连贯性、物理规律理解以及计算资源需求等。文章为内容创作者、开发者和企业用户提供了选择合适工具的指导，并预测了AI视频技术的未来发展趋势，包括实时生成、3D视频支持和更精细的控制选项。 [<a href=\"https://news.ycombinator.com/item?id=45496246\" target=\"_blank\">评论</a>]",
+            "url": "https://idiallo.com/blog/ai-video-overview",
+            "title": "AI视频概览",
+            "date_modified": "2025-10-06T20:57:21.000Z"
         },
         {
-            "id": "https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
-            "content_html": "安全研究人员在广泛使用的内存数据库Redis的源代码中发现了一个潜伏了长达13年的严重漏洞。该漏洞被评级为10级（最高危），允许攻击者在特定条件下实现远程代码执行（RCE）。文章解释了漏洞的技术细节，并强调了其潜在影响，因为Redis被无数大型网站和服务所依赖。Redis官方已发布修复补丁，敦促用户立即更新。 [<a href=\"https://news.ycombinator.com/item?id=45495886\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
-            "title": "潜伏在Redis源码中13年的10级漏洞可能导致RCE",
-            "date_modified": "2025-10-06T20:21:36.000Z"
+            "id": "https://spikepuppet.io/posts/a-rubber-duck-on-acid-wont-take-jobs/",
+            "content_html": "这篇文章以幽默的方式探讨了AI对就业市场的影响，反驳了AI将大规模取代人类工作的悲观预测。作者用&quot;迷幻的橡皮鸭&quot;这个比喻来强调当前AI技术的局限性，指出AI虽然在某些任务上表现出色，但缺乏真正的理解力和创造力。文章分析了不同职业被AI取代的可能性，强调了许多需要人类情感、创造力和复杂决策的工作短期内难以被自动化。作者建议人们应该将AI视为工具而非威胁，学会与AI协作以提高工作效率。文章呼吁理性看待AI发展，避免过度炒作或恐惧，专注于培养AI难以替代的人类技能。 [<a href=\"https://news.ycombinator.com/item?id=45496240\" target=\"_blank\">评论</a>]",
+            "url": "https://spikepuppet.io/posts/a-rubber-duck-on-acid-wont-take-jobs/",
+            "title": "橡皮鸭，即使在迷幻状态下，也不会夺走你的工作",
+            "date_modified": "2025-10-06T20:56:37.000Z"
         },
         {
-            "id": "https://www.latimes.com/business/story/2025-10-06/why-fears-of-a-trillion-dollar-ai-bubble-are-growing",
-            "content_html": "这篇文章探讨了当前人工智能领域的投资热潮是否正在形成一个新的经济泡沫，类似于21世纪初的互联网泡沫。作者引用了多位经济学家和投资者的观点，指出AI公司估值飙升与其当前的实际收入和盈利能力严重不符。文章分析了市场狂热的迹象，如巨额资金涌入和对未来回报的过度乐观，并对可能到来的市场调整提出了担忧。 [<a href=\"https://news.ycombinator.com/item?id=45495865\" target=\"_blank\">评论</a>]",
-            "url": "https://www.latimes.com/business/story/2025-10-06/why-fears-of-a-trillion-dollar-ai-bubble-are-growing",
-            "title": "硅谷是否在重蹈 dot-com 泡沫的覆辙，陷入 AI 狂热？",
-            "date_modified": "2025-10-06T20:20:10.000Z"
+            "id": "https://www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
+            "content_html": "OpenAI宣布推出ChatGPT新的推荐功能，让开发者可以将ChatGPT作为应用和服务的入口把关人。这一功能允许ChatGPT将用户推荐给第三方应用和服务，为开发者提供新的用户获取渠道。OpenAI详细介绍了推荐机制的运作方式，包括如何确保推荐质量、保护用户隐私以及防止滥用。这一举措标志着ChatGPT从单纯的对话工具向平台化服务转变，可能重塑应用分发和用户获取模式。文章分析了这一变化对开发者和用户的影响，以及OpenAI在构建生态系统方面的战略意图。推荐功能的推出也可能改变用户发现和使用应用的方式，为AI驱动的应用商店模式奠定基础。 [<a href=\"https://news.ycombinator.com/item?id=45496225\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
+            "title": "OpenAI告诉开发者ChatGPT已准备好成为他们的把关人",
+            "date_modified": "2025-10-06T20:55:34.000Z"
         },
         {
-            "id": "https://www.axios.com/2025/10/06/amd-ai-bubble-stock-market",
-            "content_html": "本文聚焦于近期AI相关股票出现的单日大幅飙升现象，并将其视为市场泡沫的信号。文章以AMD等公司为例，指出其股价在短时间内因与AI相关的消息或预期而急剧上涨，这种脱离基本面的表现类似于历史上的投机狂热。分析师认为，这种&quot;反重力&quot;式的上涨虽然反映了市场对AI的极度热情，但也预示着潜在的高风险和不稳定性。 [<a href=\"https://news.ycombinator.com/item?id=45495857\" target=\"_blank\">评论</a>]",
-            "url": "https://www.axios.com/2025/10/06/amd-ai-bubble-stock-market",
-            "title": "反重力式单日AI股票飙升是最新泡沫信号",
-            "date_modified": "2025-10-06T20:19:30.000Z"
+            "id": "https://github.com/tommyip/max-gpt-2",
+            "content_html": "这个GitHub项目展示了如何在Modular的MAX编程框架中实现GPT-2语言模型。项目提供了完整的代码实现，包括模型架构定义、权重加载和推理功能。Modular MAX是一个新兴的AI计算框架，旨在提供高性能的机器学习推理能力。作者通过这个项目演示了MAX框架的易用性和性能优势，证明了在新的硬件和软件栈上运行经典模型的可行性。项目包含了详细的文档和使用说明，让开发者可以快速上手。这个实现不仅展示了MAX框架的潜力，也为社区提供了在替代平台上部署大模型的参考案例，促进了AI基础设施的多样化和创新。 [<a href=\"https://news.ycombinator.com/item?id=45496208\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/tommyip/max-gpt-2",
+            "title": "在Modular MAX中实现GPT-2",
+            "date_modified": "2025-10-06T20:54:17.000Z"
         },
         {
-            "id": "https://www.nature.com/articles/d41586-025-03224-z",
-            "content_html": "这篇发表于《自然》的文章探讨了全球能源转型过程中面临的核心困境。文章指出，向绿色能源的转变不仅是一个技术问题，更是一个深刻的社会和经济问题。它批判了&quot;绿色资本主义&quot;的解决方案，认为这种模式可能无法实现真正的&quot;公正转型&quot;，反而可能加剧现有的不平等，例如在发展中国家和弱势社区中产生新的环境和社会成本。 [<a href=\"https://news.ycombinator.com/item?id=45495799\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nature.com/articles/d41586-025-03224-z",
-            "title": "从化石燃料到绿色资本主义：公正能源转型的困境",
-            "date_modified": "2025-10-06T20:14:18.000Z"
+            "id": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+            "content_html": "这个GitHub仓库收集和保存了经典游戏《雷神之锤》的各种机器人（Bot）代码和实现。项目汇集了从游戏早期到现代的多种AI对手实现，展示了游戏AI技术的发展历程。仓库包含了不同难度级别和行为模式的Bot代码，以及相关的算法和技术文档。这些Bot使用了从简单的规则系统到复杂的机器学习算法等多种AI技术。项目不仅具有历史价值，还为游戏开发者和AI研究者提供了宝贵的参考资料。通过分析这些经典Bot的实现，可以了解游戏AI设计的演进，以及如何在不影响游戏平衡的前提下创建具有挑战性的AI对手。 [<a href=\"https://news.ycombinator.com/item?id=45496206\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+            "title": "Quake Bot Archive",
+            "date_modified": "2025-10-06T20:54:08.000Z"
         },
         {
-            "id": "https://www.theguardian.com/science/2025/oct/06/jane-goodall-trump-elon-musk-putin",
-            "content_html": "著名灵长类动物学家简·古道尔在一次采访中发表了引人注目的言论。她开玩笑说，如果可能，她希望将唐纳德·特朗普、埃隆·马斯克以及弗拉基米尔·普京等人送上单程的太空之旅。这番言论表达了她对这些世界领导人在环境政策和全球领导力方面的失望。文章借此引述了古道尔对气候变化和环境破坏的深切忧虑。 [<a href=\"https://news.ycombinator.com/item?id=45495785\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/science/2025/oct/06/jane-goodall-trump-elon-musk-putin",
-            "title": "简·古道尔称她将把特朗普和马斯克送上单程太空之旅",
-            "date_modified": "2025-10-06T20:13:14.000Z"
+            "id": "https://www.youtube.com/watch?v=FmYXyWbis9w",
+            "content_html": "这个YouTube视频探讨了人工智能快速发展对人类社会的深远影响。视频通过专家访谈、历史案例分析和未来预测，深入讨论了AI技术可能带来的机遇和风险。内容涵盖了AI在各个领域的应用进展，包括自主系统、决策制定和创造性工作等。视频提出了一个关键问题：面对日益强大的AI，人类社会是否能够及时团结起来，制定合理的治理框架和伦理准则。专家们分享了关于AI安全、技术治理和国际合作的不同观点，呼吁全球协作应对AI带来的挑战。视频旨在引发观众对AI未来的思考，促进关于技术与社会关系的深入讨论。 [<a href=\"https://news.ycombinator.com/item?id=45496184\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=FmYXyWbis9w",
+            "title": "机器赢了。人类能在为时已晚之前团结起来吗？[视频]",
+            "date_modified": "2025-10-06T20:51:21.000Z"
         },
         {
-            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "content_html": "这是一篇技术博客，记录了作者首次尝试将Cython代码翻译成Mojo编程语言的经历。作者以scikit-learn库中DBSCAN算法的内部循环为例，详细描述了翻译过程。文章比较了两种语言的语法和性能特点，并展示了Mojo在性能和与Python生态系统集成方面的潜力。这次尝试旨在探索Mojo作为Python高性能计算替代方案的可行性。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
-            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "title": "将Cython翻译成Mojo的初次尝试",
-            "date_modified": "2025-10-06T20:09:44.000Z"
+            "id": "https://fleuret.org/francois/lbdl.html",
+            "content_html": "《深度学习小书》是Francois Fleuret撰写的2024年版深度学习入门教材。这本书以简洁明了的方式介绍了深度学习的核心概念、原理和实践技巧。内容涵盖了神经网络基础、反向传播算法、卷积网络、循环网络以及Transformer架构等关键主题。作者采用循序渐进的教学方法，通过直观的解释和实例帮助读者理解复杂的技术概念。书中的数学推导被简化到最小程度，更注重概念的直观理解。这本书适合初学者和有一定基础的读者，是学习深度学习的优秀资源。网站提供了免费在线阅读版本，让更多人能够接触和学习深度学习知识。 [<a href=\"https://news.ycombinator.com/item?id=45496179\" target=\"_blank\">评论</a>]",
+            "url": "https://fleuret.org/francois/lbdl.html",
+            "title": "深度学习小书（2024）",
+            "date_modified": "2025-10-06T20:50:38.000Z"
         },
         {
-            "id": "https://jircii.dashnine.org/",
-            "content_html": "JIRCii是一个用Java编写的互联网中继聊天（IRC）客户端。这个项目网站介绍了该客户端的主要特性，包括跨平台兼容性、高度可定制的界面以及脚本支持。它旨在为熟悉IRC的用户提供一个功能丰富且稳定的选择。虽然项目可能已不是最新，但它代表了一个时代的经典IRC工具，仍在特定用户群体中使用。 [<a href=\"https://news.ycombinator.com/item?id=45495729\" target=\"_blank\">评论</a>]",
-            "url": "https://jircii.dashnine.org/",
-            "title": "JIRCii – Java IRC 客户端",
-            "date_modified": "2025-10-06T20:08:56.000Z"
+            "id": "https://coaching.chughes.uk/blog/leading-without-authority/",
+            "content_html": "这篇文章探讨了在领导力和管理中通过共情建立信任的重要性。作者强调了理解他人情感和观点的能力是建立有效关系的关键。文章提供了实用的共情技巧，包括积极倾听、观察非语言信号、避免判断以及验证他人感受等。作者指出，共情不是软弱的表现，而是建立强大团队和组织文化的基石。文章还讨论了在远程工作环境下如何保持共情连接，以及如何将共情融入日常管理实践。通过真实案例，作者展示了共情如何帮助解决冲突、提高团队凝聚力和促进创新。这篇文章为管理者、团队领导者和任何希望改善人际关系的读者提供了有价值的见解。 [<a href=\"https://news.ycombinator.com/item?id=45496172\" target=\"_blank\">评论</a>]",
+            "url": "https://coaching.chughes.uk/blog/leading-without-authority/",
+            "title": "通过共情建立信任",
+            "date_modified": "2025-10-06T20:50:05.000Z"
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Spoon_theory",
-            "content_html": "勺子理论是一个由 Christine Miserandino 创造的比喻，用以解释慢性疾病或残疾患者如何分配有限的精力。她用&quot;勺子&quot;来代表完成日常任务所需的能量单位。健康的人拥有几乎无限的勺子，而患者每天只有少数几个勺子，每做一件事（如起床、穿衣）就会消耗一个勺子。这个理论帮助健康人更好地理解慢性病患者的生活状态和能量限制。 [<a href=\"https://news.ycombinator.com/item?id=45495726\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Spoon_theory",
-            "title": "勺子理论",
-            "date_modified": "2025-10-06T20:08:51.000Z"
+            "id": "https://www.theguardian.com/science/2025/sep/22/fresh-approaches-needed-to-tackle-political-age-of-rage-us-study-suggests",
+            "content_html": "这篇来自《卫报》的文章报道了一项关于当代政治极化和愤怒现象的美国研究。研究发现，社交媒体的回音室效应、错误信息的传播以及经济不平等加剧了政治对立。研究指出，传统的政治沟通方式已经失效，需要新的策略来缓解社会紧张。研究建议采取跨党派对话、媒体素养教育以及社区建设等措施来促进理解。文章还探讨了心理学因素在政治极化中的作用，包括确认偏误和群体认同等。专家呼吁政治家、媒体和公民社会共同努力，重建理性对话的空间，防止社会分裂进一步恶化。这项研究为理解和应对当代政治挑战提供了重要的科学依据。 [<a href=\"https://news.ycombinator.com/item?id=45496166\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theguardian.com/science/2025/sep/22/fresh-approaches-needed-to-tackle-political-age-of-rage-us-study-suggests",
+            "title": "美国研究建议需要新方法来解决政治&quot;愤怒时代&quot;",
+            "date_modified": "2025-10-06T20:49:19.000Z"
         },
         {
-            "id": "https://www.youtube.com/watch?v=ejbTKtgSZI0",
-            "content_html": "这是一个在VCFMW 20会议上发表的技术演讲视频。演讲者介绍了llvm-mos项目，该项目旨在为经典的6502微处理器（曾用于Apple II、Commodore 64等老式电脑）提供一个基于LLVM的现代C/C++编译器工具链。视频展示了如何利用现代编译技术为这款古老的芯片编写高效代码，从而让开发者能够在复古硬件上进行更高级别的软件开发。 [<a href=\"https://news.ycombinator.com/item?id=45495715\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=ejbTKtgSZI0",
-            "title": "llvm-mos：在经典6502上运行现代C/C++ | VCFMW 20 (2025) [视频]",
-            "date_modified": "2025-10-06T20:07:37.000Z"
+            "id": "https://en.wikipedia.org/wiki/Mutation_testing",
+            "content_html": "变异测试是一种软件测试技术，用于评估测试套件的质量和完整性。这种方法通过对源代码进行小的、语义保持的修改（称为变异），然后运行现有的测试用例来检查是否能发现这些引入的错误。如果测试套件未能检测到某个变异，说明测试覆盖不足。维基百科页面详细介绍了变异测试的原理、历史发展、工具实现以及优缺点。文章解释了变异操作符的类型、等价变异问题以及如何优化变异测试的性能。变异测试能够帮助开发者识别测试盲点，提高代码质量，但计算成本较高。页面还提供了变异测试在不同编程语言和开发环境中的应用实例，是了解这一重要软件质量保证技术的权威资源。 [<a href=\"https://news.ycombinator.com/item?id=45496151\" target=\"_blank\">评论</a>]",
+            "url": "https://en.wikipedia.org/wiki/Mutation_testing",
+            "title": "变异测试",
+            "date_modified": "2025-10-06T20:48:12.000Z"
         },
         {
-            "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "content_html": "这篇文章是作者对其毕生从事&quot;双关语艺术&quot;创作的回忆与思考。Ambigram是一种可以将单词或词组设计成从不同角度（如旋转180度）看仍能读出相同或不同含义的艺术形式。作者分享了自己如何迷上这种独特的文字游戏，探讨了其背后的语言学、视觉设计原理，以及这种艺术如何赋予文字双重生命和趣味性。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "title": "我在双关语艺术中的生活",
-            "date_modified": "2025-10-06T20:07:25.000Z"
+            "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+            "content_html": "Riot Games详细介绍了Valorant游戏采用的128-tick服务器技术及其对游戏体验的影响。文章解释了tick rate的概念，即服务器每秒更新游戏状态的速度，以及128-tick相比64-tick服务器的优势。更高的tick率意味着更精确的命中检测、更流畅的角色移动和更公平的竞技环境。Riot Games的技术团队分享了实现128-tick服务器的挑战，包括网络优化、服务器架构设计和性能调优。文章还讨论了这一技术如何减少网络延迟对游戏的影响，提升职业选手和普通玩家的体验。通过技术细节和性能数据，文章展示了Riot Games在竞技游戏网络技术方面的投入和创新，为玩家提供了更优质的在线射击游戏体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
+            "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+            "title": "Valorant的128-Tick服务器",
+            "date_modified": "2025-10-06T20:47:25.000Z"
         }
     ]
 }
