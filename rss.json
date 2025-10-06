@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/",
-            "content_html": "本文探讨了人工智能（AI）对X世代职业生涯的潜在冲击。文章认为，X世代面临着独特的挑战：他们不像年轻一代那样是数字原住民，难以轻松适应以AI为中心的新工作，但又尚未老到可以安稳退休。他们正处于职业生涯中期，AI导致的技能过时构成了严重威胁。因此，作者提出，X世代可能是第一个因技术颠覆而真正需要全民基本收入（UBI）的群体，以应对可能出现的长期失业和经济不安全感。 [<a href=\"https://news.ycombinator.com/item?id=45490825\" target=\"_blank\">评论</a>]",
-            "url": "https://thehill.com/opinion/finance/5538292-gen-x-job-security-ai/",
-            "title": "X世代可能是第一个需要全民基本收入的一代人",
-            "date_modified": "2025-10-06T12:51:24.000Z"
+            "id": "https://sena.so/directories/yc-network",
+            "content_html": "这是一个 YC（Y Combinator）网络搜索工具。用户可以使用自然语言查询来查找 YC 的创始人、校友和公司。该工具旨在帮助用户寻找联合创始人、获取介绍或进行行业研究，简化了在庞大的 YC 社区中寻找特定人才或资源的过程。 [<a href=\"https://news.ycombinator.com/item?id=45491224\" target=\"_blank\">评论</a>]",
+            "url": "https://sena.so/directories/yc-network",
+            "title": "Show HN: YC 网络搜索 – 使用自然语言查找 YC 人员",
+            "date_modified": "2025-10-06T13:29:55.000Z"
         },
         {
-            "id": "https://github.com/SimplePhotoGallery/core",
-            "content_html": "这是一个名为&quot;Simple Photo Gallery&quot;的开源项目，它提供一个命令行界面（CLI），允许用户快速创建静态的HTML照片画廊。该项目旨在简化照片分享的过程，用户只需指定包含图片的文件夹，工具即可自动生成一个美观、无需后端服务器的照片网站。它适合那些希望在网上展示照片，但又不想配置复杂数据库或服务器的用户。 [<a href=\"https://news.ycombinator.com/item?id=45490810\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/SimplePhotoGallery/core",
-            "title": "Show HN: 简单照片画廊 – 用于创建静态照片画廊的开源命令行工具",
-            "date_modified": "2025-10-06T12:49:23.000Z"
+            "id": "https://www.calendar0.app",
+            "content_html": "Calendar0 是一款系统托盘应用程序，专注于快速和便捷的日程安排。它允许用户通过自然语言输入来创建和修改日历事件，例如输入&ldquo;明天下午三点开会&rdquo;。其设计理念是减少操作步骤，让用户在不离开当前工作流的情况下高效管理时间。 [<a href=\"https://news.ycombinator.com/item?id=45491222\" target=\"_blank\">评论</a>]",
+            "url": "https://www.calendar0.app",
+            "title": "Show HN: Calendar0 – 用于自然语言安排日程的系统托盘应用",
+            "date_modified": "2025-10-06T13:29:38.000Z"
         },
         {
-            "id": "https://theface.com/culture/the-new-lost-generation-sean-monahan-americans-paris-cultural-commentary-substack-podcast",
-            "content_html": "这篇文章探讨了当前移居巴黎的美国年轻人群体，并将其与海明威笔下的&quot;迷惘的一代&quot;进行类比。作者通过采访和观察，描述了这批新一代的侨民，他们逃离了美国的社会政治环境，在巴黎寻求艺术灵感和不同的生活方式。文章深入分析了他们面临的挑战、文化冲突以及在这个标志性城市中寻找身份认同的过程，反映了当代年轻人的精神状态和追求。 [<a href=\"https://news.ycombinator.com/item?id=45490792\" target=\"_blank\">评论</a>]",
-            "url": "https://theface.com/culture/the-new-lost-generation-sean-monahan-americans-paris-cultural-commentary-substack-podcast",
-            "title": "新迷惘的一代",
-            "date_modified": "2025-10-06T12:47:23.000Z"
+            "id": "https://www.phoronix.com/news/GCC-ALGOL-68-Still-Going",
+            "content_html": "本文报道了古老的 Algol 68 编程语言在现代 GCC 编译器中的支持仍在持续开发。尽管该项目进展缓慢且长期缺乏维护者，但近期仍有开发者提交代码，推动其向前发展。这表明对经典编程语言的兴趣和支持在开源社区中得以延续，即使它们已不再主流。 [<a href=\"https://news.ycombinator.com/item?id=45491208\" target=\"_blank\">评论</a>]",
+            "url": "https://www.phoronix.com/news/GCC-ALGOL-68-Still-Going",
+            "title": "Algol 68 编程语言对 GCC 的支持仍在开发中",
+            "date_modified": "2025-10-06T13:28:03.000Z"
         },
         {
-            "id": "https://muskdeer.blogspot.com/2025/10/a-manifesto-for-data-realism.html",
-            "content_html": "这篇博客文章提出了一份&quot;数据现实主义宣言&quot，旨在批判当前数据科学领域中普遍存在的过度乐观和理想主义。作者主张从业者和研究者应采取更务实、更脚踏实地的态度来对待数据。宣言的核心观点包括：承认数据的局限性和不完美性、重视数据质量而非单纯追求数量、以及将模型与现实世界的因果关系紧密结合。它呼吁行业回归常识，避免被炒作和技术术语所迷惑。 [<a href=\"https://news.ycombinator.com/item?id=45490787\" target=\"_blank\">评论</a>]",
-            "url": "https://muskdeer.blogspot.com/2025/10/a-manifesto-for-data-realism.html",
-            "title": "数据现实主义宣言",
-            "date_modified": "2025-10-06T12:46:53.000Z"
+            "id": "https://news.sky.com/story/medieval-church-tower-suspended-45ft-above-ground-in-never-seen-before-feat-13437109",
+            "content_html": "为了对一座15世纪的教堂塔楼进行地基修复和加固，工程师们采用了一种创新的施工方法：使用一个特制的钢制笼子结构，将重达数百吨的塔楼整体抬起，并临时悬挂在45英尺（约13.7米）的空中。这项被誉为&ldquo;前所未见&rdquo;的工程，成功避免了传统方法可能导致的结构坍塌风险。 [<a href=\"https://news.ycombinator.com/item?id=45491162\" target=\"_blank\">评论</a>]",
+            "url": "https://news.sky.com/story/medieval-church-tower-suspended-45ft-above-ground-in-never-seen-before-feat-13437109",
+            "title": "中世纪教堂塔楼以&ldquo;前所未见&rdquo;的方式被悬挂在地面45英尺高处",
+            "date_modified": "2025-10-06T13:24:44.000Z"
         },
         {
-            "id": "https://www.theregister.com/2025/10/04/india_tech_talent_pipeline/",
-            "content_html": "该文章分析了印度长期以来作为全球科技人才主要输出国的地位正面临的挑战。文章指出，尽管印度拥有庞大的工程师群体，但教育体系与产业需求脱节、技能水平参差不齐以及全球竞争格局变化等问题，导致其科技人才供给的质量和可持续性出现危机。企业发现，应届毕业生往往缺乏实际工作所需的技能，需要大量再培训。这迫使印度科技公司及跨国企业重新审视其人才战略。 [<a href=\"https://news.ycombinator.com/item?id=45490778\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/04/india_tech_talent_pipeline/",
-            "title": "印度的科技人才管道正在熄火",
-            "date_modified": "2025-10-06T12:46:01.000Z"
+            "id": "https://github.com/j178/prek",
+            "content_html": "Peek 是一个用 Rust 语言重新编写的 pre-commit 框架管理工具。它旨在成为原有 Python 版本 pre-commit 的一个更快、更高效的替代品。通过利用 Rust 的性能和安全性，Peek 提供了更快的执行速度和更低的资源消耗，同时保持了与现有配置的兼容性，以提升开发者在代码提交前的自动化检查体验。 [<a href=\"https://news.ycombinator.com/item?id=45491149\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/j178/prek",
+            "title": "Peek：更好的 pre-commit 工具，用 Rust 重新构建",
+            "date_modified": "2025-10-06T13:23:42.000Z"
         },
         {
-            "id": "https://apod.nasa.gov/apod/astropix.html",
-            "content_html": "美国国家航空航天局（NASA）的&quot;天文每日一 pictures;(APOD)网站发布通知，由于联邦政府资金中断，该网站暂时无法进行更新。页面上显示了这一标准的政府停摆通知，向访问者解释服务暂停的原因。这意味着在资金问题解决之前，公众将无法看到新的每日天文图片和相关的科普解释。 [<a href=\"https://news.ycombinator.com/item?id=45490777\" target=\"_blank\">评论</a>]",
-            "url": "https://apod.nasa.gov/apod/astropix.html",
-            "title": "天文每日一图：由于联邦政府资金中断，NASA暂停更新网站",
-            "date_modified": "2025-10-06T12:45:54.000Z"
+            "id": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+            "content_html": "本文批判了一种被称为&ldquo;氛围式编程&rdquo;的趋势，即开发者过度依赖 AI 工具（如 Copilot）快速生成代码，而缺乏深入理解和批判性思维。作者认为，这种行为模仿了开源的&ldquo;快速迭代&rdquo;精神，但抛弃了其核心的严谨性、协作和对质量的追求，最终可能导致技术债增加和软件质量下降，是对开源精神最糟糕的解读。 [<a href=\"https://news.ycombinator.com/item?id=45491136\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+            "title": "氛围式编程是新的开源——以最糟糕的方式",
+            "date_modified": "2025-10-06T13:22:31.000Z"
         },
         {
-            "id": "https://wagtail.org/blog/uv-overtakes-pip-in-ci/",
-            "content_html": "这篇Wagtail官方博客文章宣布了一个里程碑式的变化：在Wagtail项目的持续集成（CI）环境中，使用新一代Python包安装工具&quot;uv&quot;的频率已经超过了传统的&quot;pip&quot。文章解释了这一转变的原因，主要归功于uv在依赖解析和安装速度上的巨大优势，显著加快了CI流程。这反映了Python生态系统的快速演进，以及开发社区对更高效工具的积极采纳。 [<a href=\"https://news.ycombinator.com/item?id=45490775\" target=\"_blank\">评论</a>]",
-            "url": "https://wagtail.org/blog/uv-overtakes-pip-in-ci/",
-            "title": "在CI环境中，uv包管理器的使用率超过了pip（针对Wagtail用户）",
-            "date_modified": "2025-10-06T12:45:51.000Z"
+            "id": "https://github.com/Belluxx/TransFire",
+            "content_html": "TransFire 是一个工具，旨在解决用户与本地运行的大语言模型（LLM）聊天时的网络配置难题。它通过一种巧妙的中继机制，允许用户从网络上的任何设备（如手机）访问其本地计算机上运行的 LLM 服务，而无需进行复杂的路由器端口转发或设置内网穿透，大大简化了远程访问本地 AI 模型的过程。 [<a href=\"https://news.ycombinator.com/item?id=45491133\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Belluxx/TransFire",
+            "title": "Show HN: TransFire – 无需端口转发即可与你的本地 LLM 聊天",
+            "date_modified": "2025-10-06T13:22:21.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45490760",
-            "content_html": "这是一篇在Hacker News上的求助帖。用户发帖称，苹果公司拒绝其加入苹果开发者计划的申请，但未提供具体原因，并向社区寻求建议。帖下的讨论非常活跃，网友们分享了各种可能的原因，如账户信息问题、所在国家/地区限制、过往违规记录等，并提供了相应的解决方案，如联系苹果支持、检查账户状态、或尝试通过不同方式申请。整个帖子集中反映了与苹果官方沟通困难的问题。 [<a href=\"https://news.ycombinator.com/item?id=45490760\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45490760",
-            "title": "Ask HN: 苹果不让我注册开发者计划，我该怎么办？",
-            "date_modified": "2025-10-06T12:44:43.000Z"
+            "id": "https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it",
+            "content_html": "本文论证了构建一个&ldquo;Iceberg 原生&rdquo;数据库的必要性。作者认为，仅仅将 Apache Iceberg 表格式与现有的大数据处理引擎（如 Spark）或消息系统（如 Kafka）结合，并不能完全发挥其潜力。一个真正原生的系统应该从头设计，以深度集成 Iceberg 的特性，从而在性能、成本和操作简易性上超越传统的组合方案。 [<a href=\"https://news.ycombinator.com/item?id=45491128\" target=\"_blank\">评论</a>]",
+            "url": "https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it",
+            "title": "为 Iceberg 原生数据库辩护：为什么 Spark 作业和零拷贝 Kafka 并不够",
+            "date_modified": "2025-10-06T13:21:51.000Z"
         },
         {
-            "id": "https://blog.cr.yp.to/20251005-modpod.html",
-            "content_html": "这篇博客文章严厉批评了互联网工程任务组（IETF）内部的流程，声称其保护程序内异议声音的机制已经失效。作者以一个具体案例为例，阐述了IETF领导层如何通过程序操纵和压制不同意见，从而损害了该组织开放、透明和基于共识决策的核心价值。文章认为，这种趋势对互联网标准的健康发展构成了严重威胁，因为它扼杀了必要的辩论和技术审查。 [<a href=\"https://news.ycombinator.com/item?id=45490747\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.cr.yp.to/20251005-modpod.html",
-            "title": "IETF对异议的保护机制正在崩溃",
-            "date_modified": "2025-10-06T12:43:06.000Z"
+            "id": "https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html",
+            "content_html": "根据《纽约时报》的报道和分析，2025年8月前往美国的国际学生人数与去年同期相比下降了近20%。这一显著下降可能与多种因素有关，包括签证政策变化、全球竞争加剧以及学生和家长对美国安全和社会环境的担忧，这可能对美国高校的招生和国际交流产生长远影响。 [<a href=\"https://news.ycombinator.com/item?id=45491118\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/interactive/2025/10/06/upshot/us-international-student-travel.html",
+            "title": "八月赴美国际学生人数减少近20%",
+            "date_modified": "2025-10-06T13:21:09.000Z"
         },
         {
-            "id": "https://arxiv.org/abs/2510.01453",
-            "content_html": "这篇arXiv论文提出了一种创新方法，利用人工智能（AI）来自动为命令行工具生成图形用户界面（GUI）。系统通过解析命令的&quot;手册页&quot;来理解其功能和参数，然后AI模型会据此设计和创建一个对应的GUI。这项研究旨在降低非技术用户使用强大命令行工具的门槛，将复杂的文本命令转换为直观的图形操作，从而提升软件的可用性和可及性。 [<a href=\"https://news.ycombinator.com/item?id=45490744\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2510.01453",
-            "title": "命令行图形指南：通过AI从手册页生成图形界面",
-            "date_modified": "2025-10-06T12:42:41.000Z"
+            "id": "https://www.mdpi.com/2226-4310/12/9/852",
+            "content_html": "这是一篇发表在航空航天领域期刊上的学术研究论文。该研究通过计算机仿真，探讨了为航空发动机孔探仪（用于检查发动机内部的内窥镜）设计气体冷却系统的可行性。研究分析了不同气体流量和冷却通道设计对探头温度的影响，旨在开发更有效的冷却方案，以保护精密的光学设备在发动机高温环境中正常工作。 [<a href=\"https://news.ycombinator.com/item?id=45491115\" target=\"_blank\">评论</a>]",
+            "url": "https://www.mdpi.com/2226-4310/12/9/852",
+            "title": "航空发动机孔探仪气体冷却的仿真研究",
+            "date_modified": "2025-10-06T13:20:54.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45490740",
-            "content_html": "这是一篇Hacker News上的讨论帖，用户询问哪款智能电视最容易被&quot;破解;&quot;或进行自定义改造，例如安装第三方应用或更改系统。社区回复普遍认为，大多数智能电视的封闭性很强，不建议直接购买。许多用户推荐了替代方案，如购买非智能电视（或仅作为显示器）然后外接一个Apple TV、NVIDIA Shield或自制的树莓派等媒体播放器，以获得更好的性能、隐私和自定义自由度。 [<a href=\"https://news.ycombinator.com/item?id=45490740\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45490740",
-            "title": "Ask HN: 最好的可破解智能电视是哪款？",
-            "date_modified": "2025-10-06T12:42:19.000Z"
+            "id": "https://www.rmit.edu.au/news/all-news/2025/oct/space-bacteria",
+            "content_html": "澳大利亚皇家墨尔本理工大学的一项火箭测试实验表明，某些类型的细菌能够在太空发射的剧烈震动、加速以及返回地球再入大气层的高温高压环境中存活下来。这项发现对于行星保护政策具有重要意义，提示我们需要更严格地防止地球微生物污染其他天体，同时也为研究生命在极端环境下的生存能力提供了新数据。 [<a href=\"https://news.ycombinator.com/item?id=45491114\" target=\"_blank\">评论</a>]",
+            "url": "https://www.rmit.edu.au/news/all-news/2025/oct/space-bacteria",
+            "title": "火箭测试证明细菌可以安然无恙地承受发射和再入大气层",
+            "date_modified": "2025-10-06T13:20:49.000Z"
         },
         {
-            "id": "https://mrkaran.dev/posts/ai-home-cooked-software/",
-            "content_html": "这篇博客文章探讨了作者在个人项目中使用人工智能（AI）的经验和思考。作者将AI视为一个强大的编程伙伴，可以帮助他快速实现想法、调试代码和探索新技术。文章通过几个具体的例子，展示了AI如何辅助生成代码片段、解释复杂概念、甚至重构整个模块。作者认为，AI正在降低软件开发门槛，让个人开发者（即&quot;自制软件;的制作者）能够以前所未有的效率和质量构建自己的工具。 [<a href=\"https://news.ycombinator.com/item?id=45490737\" target=\"_blank\">评论</a>]",
-            "url": "https://mrkaran.dev/posts/ai-home-cooked-software/",
-            "title": "AI与自制软件",
-            "date_modified": "2025-10-06T12:41:52.000Z"
+            "id": "https://yutovo.com",
+            "content_html": "Yutovo 是一款可视化的在线计算器。与传统的输入公式得到结果的方式不同，它可能通过图形化、模块化或拖拽式的界面，让用户更直观地构建和理解计算过程。这种设计旨在让复杂的数学或逻辑计算变得更加易于理解和使用，尤其适合教学、快速原型设计或对传统计算器不熟悉的用户。 [<a href=\"https://news.ycombinator.com/item?id=45491097\" target=\"_blank\">评论</a>]",
+            "url": "https://yutovo.com",
+            "title": "Show HN: Yutovo – 可视化在线计算器",
+            "date_modified": "2025-10-06T13:19:28.000Z"
         },
         {
-            "id": "https://www.nytimes.com/2025/10/02/world/europe/denmark-drones-prepping.html",
-            "content_html": "《纽约时报》报道，近日丹麦民众因一系列神秘的无人机目击事件而陷入恐慌，并开始抢购罐头鲭鱼、应急收音机等生存物资。这些无人机主要在关键基础设施附近活动，引发了公众对国家安全和潜在冲突的担忧。尽管政府和军方试图安抚民众，称可能并无恶意，但紧张的地缘政治背景（如近期波罗的海电缆损坏事件）加剧了不安全感，促使丹麦人认真对待民防准备。 [<a href=\"https://news.ycombinator.com/item?id=45490736\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nytimes.com/2025/10/02/world/europe/denmark-drones-prepping.html",
-            "title": "丹麦的罐头鲭鱼和应急收音机遭抢购。原因？无人机。",
-            "date_modified": "2025-10-06T12:41:49.000Z"
+            "id": "https://github.com/Remote-Skills/nexus",
+            "content_html": "Nexus 是一个开源的 AI 代码代理，其设计目标是成为一个比 Claude Code 等商业产品更具成本效益的替代方案。它声称能够实现类似的功能，如代码生成、解释和修改，但成本仅为后者的三分之一。通过开源，该项目旨在为开发者社区提供一个透明、可定制且经济实惠的 AI 辅助编程工具。 [<a href=\"https://news.ycombinator.com/item?id=45491096\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Remote-Skills/nexus",
+            "title": "Show HN: Nexus – 一个比 Claude Code 便宜 3 倍的开源代码代理",
+            "date_modified": "2025-10-06T13:19:24.000Z"
         },
         {
-            "id": "https://www.express.co.uk/news/uk/2117722/sickening-protests-planned-october",
-            "content_html": "英国《快报》报道，多所英国大学正计划在10月7日（哈马斯袭击以色列周年纪念日）举行抗议活动，文章称这些活动的内容和性质&quot;令人作呕;&quot;。报道指出，一些学生团体和活动组织者计划举办声援巴勒斯坦的集会，这引起了犹太学生群体和部分政客的强烈不满，他们认为此举是在纪念恐怖袭击，具有煽动仇恨的性质。文章强调了校园内因巴以冲突而日益紧张的对立气氛。 [<a href=\"https://news.ycombinator.com/item?id=45490731\" target=\"_blank\">评论</a>]",
-            "url": "https://www.express.co.uk/news/uk/2117722/sickening-protests-planned-october",
-            "title": "英大学计划在10月7日周年纪念日举行&quot;令人作呕;&quot;的抗议活动",
-            "date_modified": "2025-10-06T12:41:11.000Z"
+            "id": "https://kerkour.com/pingoo-scaleway-website-unlimited-bandwidth",
+            "content_html": "本文是一篇技术博客，介绍了如何利用 Scaleway 这家云服务提供商的产品，以每月仅 3 欧元的低成本，搭建一个具有无限带宽、自动 HTTPS 证书和全球内容分发网络（CDN）的个人网站或博客。作者分享了具体的配置步骤和代码示例，展示了如何以极低的成本实现高性能和高可用性的网站托管。 [<a href=\"https://news.ycombinator.com/item?id=45491092\" target=\"_blank\">评论</a>]",
+            "url": "https://kerkour.com/pingoo-scaleway-website-unlimited-bandwidth",
+            "title": "每月 3 欧元托管无限带宽和自动 HTTPS 的网站",
+            "date_modified": "2025-10-06T13:18:56.000Z"
         },
         {
-            "id": "https://nypost.com/2025/10/02/media/paramount-skydance-to-name-bari-weiss-editor-in-chief-of-cbs-news-sources/",
-            "content_html": "据《纽约邮报》报道，在派拉蒙全球与天舞传媒的合并完成后，将进行一系列重大的管理层变动。其中最引人注目的是，记者巴里·维斯将被任命为CBS新闻的总裁，负责领导这个新闻部门的重组和未来方向。这一任命被视为新东家希望重塑CBS新闻品牌、吸引更广泛受众的信号，也反映了媒体行业在当前复杂环境下的战略调整。 [<a href=\"https://news.ycombinator.com/item?id=45490728\" target=\"_blank\">评论</a>]",
-            "url": "https://nypost.com/2025/10/02/media/paramount-skydance-to-name-bari-weiss-editor-in-chief-of-cbs-news-sources/",
-            "title": "巴里·维斯将在派拉蒙天舞重大重组中领导CBS新闻",
-            "date_modified": "2025-10-06T12:40:59.000Z"
+            "id": "https://www.findreads.app/",
+            "content_html": "FindReads 是一个创新的书籍推荐网站。它不同于传统的按类型或作者推荐的方式，而是让用户通过选择特定的&ldquo;氛围&rdquo;、&ldquo;情绪&rdquo;或&ldquo;场景&rdquo;（如&ldquo;雨天读的书&rdquo;、&ldquo;让人感到平静的书&rdquo;）来发现书籍。该网站旨在帮助用户找到符合当下心境和需求的读物，提供一种更感性、更个性化的阅读发现体验。 [<a href=\"https://news.ycombinator.com/item?id=45491078\" target=\"_blank\">评论</a>]",
+            "url": "https://www.findreads.app/",
+            "title": "Show HN: FindReads – 我建了一个根据氛围推荐书籍的网站",
+            "date_modified": "2025-10-06T13:17:35.000Z"
         },
         {
-            "id": "https://dunkels.com/adam/stress-testing-next-generation-beacons/",
-            "content_html": "这篇技术博客详细描述了一个对100个新一代蓝牙信标进行大规模压力测试的项目。作者通过构建自动化测试系统，模拟各种极端使用场景，以验证这些信标在长时间、高负载下的稳定性、功耗和通信可靠性。文章分享了测试过程中遇到的挑战、发现的问题以及解决方案。这次全面的测试旨在确保产品在部署到现实世界后能够稳定运行，从而让开发团队对产品质量充满信心。 [<a href=\"https://news.ycombinator.com/item?id=45490721\" target=\"_blank\">评论</a>]",
-            "url": "https://dunkels.com/adam/stress-testing-next-generation-beacons/",
-            "title": "压力测试100个蓝牙信标（以便团队晚上能睡个好觉）",
-            "date_modified": "2025-10-06T12:40:11.000Z"
+            "id": "https://sleepingpotato.com/design-principle-composable-services/",
+            "content_html": "这篇博客文章阐述了&ldquo;可组合服务&rdquo;的软件设计原则。该原则主张将系统构建为一套小而专注、功能单一且定义良好的服务。这些服务可以像乐高积木一样，根据不同的业务需求被灵活地组合和重用，从而构建出复杂的应用。这种方式有助于提高系统的模块化、可维护性和可扩展性。 [<a href=\"https://news.ycombinator.com/item?id=45491069\" target=\"_blank\">评论</a>]",
+            "url": "https://sleepingpotato.com/design-principle-composable-services/",
+            "title": "设计原则：可组合的服务",
+            "date_modified": "2025-10-06T13:16:29.000Z"
         },
         {
-            "id": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
-            "content_html": "这是一份关于线性代数的图文并茂的入门指南。它通过大量的插图和直观的例子，来解释线性代数中的核心概念，如向量、矩阵、行列式、特征值等。作者旨在帮助初学者，尤其是那些觉得传统教材过于抽象的读者，建立对线性代数的几何直觉和深刻理解。这份资料将抽象的数学理论与可视化图形紧密结合，使学习过程更加生动有趣。 [<a href=\"https://news.ycombinator.com/item?id=45490713\" target=\"_blank\">评论</a>]",
-            "url": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
-            "title": "线性代数图解入门",
-            "date_modified": "2025-10-06T12:38:40.000Z"
+            "id": "https://claude.ai/public/artifacts/c68a1269-5215-4b04-8c6b-0a4edfd12226",
+            "content_html": "这是一个托管在 Claude.ai 平台上的互动小游戏，名为&ldquo;爱情连线&rdquo;。玩家的目标是将屏幕上的角色或元素进行配对，可能基于某种逻辑或情感关联。标题中的&ldquo;(Mandatory)&rdquo;带有幽默感，暗示这是一个必须完成的挑战。它展示了 AI 平台在创建小型互动应用方面的能力。 [<a href=\"https://news.ycombinator.com/item?id=45491064\" target=\"_blank\">评论</a>]",
+            "url": "https://claude.ai/public/artifacts/c68a1269-5215-4b04-8c6b-0a4edfd12226",
+            "title": "Show HN: 爱情连线游戏。（强制）",
+            "date_modified": "2025-10-06T13:15:41.000Z"
         },
         {
-            "id": "https://www.aivojournal.org/is-googles-discovery-role-weakening-in-a-no-click-world/",
-            "content_html": "本文探讨了&quot;无点击世界;现象对谷歌作为信息发现工具角色的影响。所谓&quot;无点击世界;，是指搜索引擎在结果页面直接提供答案，用户无需点击进入任何网站。文章分析认为，这种趋势虽然提升了用户体验，但削弱了用户对原始内容网站的访问，从而改变了传统的网络流量分配模式。谷歌正从一个通往互联网的门户，转变为一个提供封闭答案的终端，这对其长期的信息生态和角色定位构成了挑战。 [<a href=\"https://news.ycombinator.com/item?id=45490709\" target=\"_blank\">评论</a>]",
-            "url": "https://www.aivojournal.org/is-googles-discovery-role-weakening-in-a-no-click-world/",
-            "title": "在无点击世界中，谷歌的发现角色正在减弱吗？",
-            "date_modified": "2025-10-06T12:38:16.000Z"
+            "id": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
+            "content_html": "这是一篇技术指南，专为希望在 Windows 操作系统上，利用 AMD GPU 和 PyTorch 框架来部署和运行大语言模型（LLM）的初学者而写。文章详细介绍了环境配置、驱动安装、PyTorch 设置以及模型加载和运行的完整步骤，旨在降低用户在 AMD 硬件上入门 AI 模型部署的门槛。 [<a href=\"https://news.ycombinator.com/item?id=45491057\" target=\"_blank\">评论</a>]",
+            "url": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
+            "title": "初学者指南：在 Windows 上使用 PyTorch 部署 AMD LLM",
+            "date_modified": "2025-10-06T13:15:00.000Z"
         },
         {
-            "id": "https://etn.se/72494",
-            "content_html": "这篇报道宣布，一个基于人工智能的静态应用程序安全测试（SAST）工具在广泛使用的cURL工具中成功发现了50个新的安全漏洞。这一成果有力地证明了&quot;AI原生;SAST工具的有效性。与依赖规则的传统工具不同，AI驱动的工具能够通过深度学习代码模式来发现更复杂、更隐蔽的缺陷。这一发现不仅提升了cURL的安全性，也标志着AI在软件保障领域的应用正变得越来越成熟和可靠。 [<a href=\"https://news.ycombinator.com/item?id=45490703\" target=\"_blank\">评论</a>]",
-            "url": "https://etn.se/72494",
-            "title": "AI在cURL中发现了50个bug。&quot;AI原生SAST工具效果很好&quot;",
-            "date_modified": "2025-10-06T12:37:52.000Z"
+            "id": "https://github.com/mijnverbruik/dsmr",
+            "content_html": "这是一个开源的 Python 库，专门用于解析荷兰智能电表（DSMR）的输出数据。DSMR 是荷兰智能电表使用的标准通信协议。该库能将电表通过串口或网络发送的原始电报数据，结构化成易于程序处理的 Python 对象，方便开发者进行能源消耗监控、数据分析或构建相关应用。 [<a href=\"https://news.ycombinator.com/item?id=45491043\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/mijnverbruik/dsmr",
+            "title": "用于解析荷兰智能电表要求的库 (DSMR)",
+            "date_modified": "2025-10-06T13:13:18.000Z"
         },
         {
-            "id": "https://zakelfassi.com/dark-engagement-open-web-network-collapse",
-            "content_html": "这篇博客文章提出了&quot;黑暗参与度;的概念，用以描述一种破坏性的网络互动模式。作者认为，当前的互联网平台算法为了追求用户停留时间，会优先推荐能引发愤怒、对立和极端情绪的内容。这种模式虽然能带来高参与度，但却侵蚀了公共话语空间，导致社会两极分化和信任崩塌。文章警告，这种由负面情绪驱动的&quot;黑暗参与度;正在导致开放网络的生态崩溃。 [<a href=\"https://news.ycombinator.com/item?id=45490695\" target=\"_blank\">评论</a>]",
-            "url": "https://zakelfassi.com/dark-engagement-open-web-network-collapse",
-            "title": "黑暗参与度",
-            "date_modified": "2025-10-06T12:37:04.000Z"
+            "id": "https://github.com/maddiedreese/vibe-coding-for-beginners",
+            "content_html": "这是一个 GitHub 仓库，提供了一份关于&ldquo;氛围式编程&rdquo;的幽默指南。它将&ldquo;氛围式编程&rdquo;定义为一种凭感觉和直觉进行快速开发的风格，并给出了一系列&ldquo;技巧&rdquo;，例如&ldquo;相信你的第一行代码&rdquo;和&ldquo;如果它看起来能工作，那它就能工作&rdquo;。该仓库旨在以轻松的方式探讨现代开发中过度依赖直觉、缺乏严谨性的现象。 [<a href=\"https://news.ycombinator.com/item?id=45491024\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/maddiedreese/vibe-coding-for-beginners",
+            "title": "初学者的氛围式编程——技巧与窍门",
+            "date_modified": "2025-10-06T13:10:59.000Z"
         }
     ]
 }
