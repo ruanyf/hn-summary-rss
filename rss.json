@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://phys.org/news/2025-09-qa-dna-techniques-reveal-unseen.html",
-            "content_html": "科学家利用新型DNA技术，如宏基因组学，直接分析土壤中的遗传物质，绕过了传统培养方法的限制。这一突破揭示了大量前所未见的土壤细菌，并发现了可能产生新抗生素的基因，为解决抗生素耐药性问题带来了希望。 [<a href=\"https://news.ycombinator.com/item?id=45497118\" target=\"_blank\">评论</a>]",
-            "url": "https://phys.org/news/2025-09-qa-dna-techniques-reveal-unseen.html",
-            "title": "问答：新的 DNA 技术揭示了未被发现的土壤细菌和抗生素候选物",
-            "date_modified": "2025-10-06T22:40:23.000Z"
+            "id": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+            "content_html": "DeepMind 推出了 CodeMender，一个专用于代码安全的 AI 代理。它利用先进的 AI 技术，能够主动发现并修复代码中的安全漏洞，帮助开发者在开发流程中提升软件的安全性，防范潜在的网络攻击，从而增强开发效率和代码质量。 [<a href=\"https://news.ycombinator.com/item?id=45496533\" target=\"_blank\">评论</a>]",
+            "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+            "title": "DeepMind：CodeMender：一个用于代码安全的AI代理",
+            "date_modified": "2025-10-06T21:28:56.000Z"
         },
         {
-            "id": "https://rachel.fast.ai/posts/2025-10-07-rethinking-viruses/index.html",
-            "content_html": "该文章挑战了传统观点，认为病毒不仅是病原体，更是生态系统中不可或缺的组成部分。它们驱动进化，参与基因水平转移，并影响地球的生物化学循环。文章呼吁我们重新认识病毒在生命之网中的核心作用，理解其复杂而普遍的影响力。 [<a href=\"https://news.ycombinator.com/item?id=45497116\" target=\"_blank\">评论</a>]",
-            "url": "https://rachel.fast.ai/posts/2025-10-07-rethinking-viruses/index.html",
-            "title": "科学家刚刚将病毒与万物联系起来",
-            "date_modified": "2025-10-06T22:40:00.000Z"
+            "id": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+            "content_html": "本文探讨了在 WebGPU 中编译 WGSL（WebGPU 着色语言）所带来的性能开销。文章分析了编译过程对应用启动时间和运行时性能的具体影响，并讨论了相关的诊断工具和可能的优化策略，旨在帮助开发者更好地理解和优化其 WebGPU 应用的性能表现。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
+            "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+            "title": "WebGPU 和编译 WGSL 的代价",
+            "date_modified": "2025-10-06T21:14:51.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45497088",
-            "content_html": "Reqwire.io 是一个用于测试和管理 API 请求的工具。在 Hacker News 的讨论中，用户们将其与 Postman、Insomnia 等现有工具进行比较，讨论其独特的功能、开源性质或用户体验。评论通常涉及其技术实现、潜在用例以及它在开发者工具生态系统中的定位。 [<a href=\"https://news.ycombinator.com/item?id=45497088\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45497088",
-            "title": "Reqwire.io",
-            "date_modified": "2025-10-06T22:37:39.000Z"
+            "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+            "content_html": "Riot Games 详细阐述了《无畏契约》采用 128-tick 服务器的技术决策。文章解释了高 tick 率（服务器每秒更新游戏状态的次数）如何确保更精确、更频繁的游戏同步，从而减少延迟和不公，为竞技玩家提供更公平、更响应迅速的在线射击体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
+            "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+            "title": "《无畏契约》的 128-Tick 服务器（2020）",
+            "date_modified": "2025-10-06T20:47:25.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45497076",
-            "content_html": "这是一则 Hacker News 上的提问，询问支付公司 Stripe 为其 API 和 Webhooks 的调试工具 Workbench 采用了何种技术栈或解决方案。社区的回答可能涉及内部自研工具、现有开源项目的修改或特定技术的组合，旨在实现高效的 API 调试和实时事件监控。 [<a href=\"https://news.ycombinator.com/item?id=45497076\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45497076",
-            "title": "问 HN：Stripe 的 API/webhooks Workbench 使用了什么解决方案？",
-            "date_modified": "2025-10-06T22:36:22.000Z"
+            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "content_html": "这篇文章记录了首次尝试将 scikit-learn 库中的 Cython 代码翻译成 Mojo 语言的实践。作者以 DBSCAN 算法的核心内循环为例，分享了翻译过程中遇到的挑战、初步的性能对比结果，并探讨了 Mojo 作为 Python 高性能计算替代方案的潜力。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
+            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "title": "尝试将 Cython 翻译成 Mojo",
+            "date_modified": "2025-10-06T20:09:44.000Z"
         },
         {
-            "id": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
-            "content_html": "OpenAI CEO Sam Altman 在谈及新功能 ChatGPT Pulse 时表示，公司目前没有在 ChatGPT 中投放广告的计划。然而，他并未完全排除未来引入广告的可能性，这表明 OpenAI 在探索商业化途径时仍保持开放态度，但短期内将专注于用户体验和产品核心功能。 [<a href=\"https://news.ycombinator.com/item?id=45497072\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
-            "title": "Altman 表示 ChatGPT Pulse 目前没有广告计划——但不排除未来可能",
-            "date_modified": "2025-10-06T22:35:42.000Z"
+            "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+            "content_html": "这篇文章探讨了视错觉词的艺术形式，即词语或短语被设计成可以从不同视角（如旋转180度）解读成相同或不同的词。作者分享了自己与这种艺术的个人联系，并讨论了它如何巧妙地融合了语言学、设计和视觉感知，创造出独特的双重含义。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+            "title": "我在视错觉词（Ambigrammia）中的生活",
+            "date_modified": "2025-10-06T20:07:25.000Z"
         },
         {
-            "id": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
-            "content_html": "随着 AI 工具的普及，传统开发者的角色正在从编写代码转向更高层次的系统设计、问题解决和 AI 协作。文章指出，未来的开发者需要掌握 AI 辅助编程、理解机器学习模型、并专注于创造性和战略性任务，通过不断学习和适应新技术来保持竞争力。 [<a href=\"https://news.ycombinator.com/item?id=45497060\" target=\"_blank\">评论</a>]",
-            "url": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
-            "title": "开发者角色正在演变。以下是保持领先的方法。",
-            "date_modified": "2025-10-06T22:34:16.000Z"
+            "id": "https://developers.openai.com/apps-sdk/",
+            "content_html": "OpenAI 推出了 Apps SDK，这是一个软件开发工具包，旨在简化构建和集成 OpenAI 模型到应用程序中的过程。该 SDK 提供了统一的接口，用于管理 API 调用、处理状态和编排工作流，使开发者能更轻松地创建功能强大的 AI 驱动应用。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "url": "https://developers.openai.com/apps-sdk/",
+            "title": "Apps SDK",
+            "date_modified": "2025-10-06T18:27:33.000Z"
         },
         {
-            "id": "https://globalmigration.ucdavis.edu/sites/g/files/dgvnsk8181/files/2017-07/giovanni_what_happens_to_the_careers.pdf",
-            "content_html": "这份研究报告探讨了移民对欧洲本地工人职业生涯的影响。研究发现，移民对本地工人的整体就业率和工资影响微乎其微，甚至可能是积极的。报告详细分析了不同国家和行业的情况，指出移民通常填补了本地劳动力市场的空缺，或与本地工人形成互补关系，而非简单的替代关系。 [<a href=\"https://news.ycombinator.com/item?id=45497033\" target=\"_blank\">评论</a>]",
-            "url": "https://globalmigration.ucdavis.edu/sites/g/files/dgvnsk8181/files/2017-07/giovanni_what_happens_to_the_careers.pdf",
-            "title": "当移民“抢走”他们的工作时，欧洲工人会怎样？[pdf]",
-            "date_modified": "2025-10-06T22:30:40.000Z"
+            "id": "https://github.com/openai/chatkit-js",
+            "content_html": "OpenAI 在 GitHub 上开源了 ChatKit，一个用于构建聊天界面的 JavaScript 库。它提供了一系列预构建的 UI 组件、消息处理逻辑和与 OpenAI API 的便捷集成，旨在帮助开发者快速搭建功能完善、体验良好的聊天机器人或对话式 AI 应用。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/openai/chatkit-js",
+            "title": "OpenAI ChatKit",
+            "date_modified": "2025-10-06T17:23:20.000Z"
         },
         {
-            "id": "https://www.phoronix.com/news/Case-Insensitive-Overlay-6.18",
-            "content_html": "Linux 内核 6.18 版本合并了对 OverlayFS 文件系统的不区分大小写支持功能。这一改进对于需要与 Windows 文件系统交互或运行特定应用（如 Docker 容器）的场景至关重要，它提升了跨平台兼容性和文件处理的灵活性，是 Linux 文件系统的一个重要演进。 [<a href=\"https://news.ycombinator.com/item?id=45497030\" target=\"_blank\">评论</a>]",
-            "url": "https://www.phoronix.com/news/Case-Insensitive-Overlay-6.18",
-            "title": "不区分大小写的 OverlayFS 支持已合并到 Linux 6.18",
-            "date_modified": "2025-10-06T22:30:36.000Z"
+            "id": "https://up.codes/careers?utm_source=HN",
+            "content_html": "UpCodes，一家 Y Combinator S17 孵化的公司，正在招聘位于美洲各地的远程工程师。该公司提供建筑规范合规管理软件，旨在吸引有才华的工程师加入团队，共同开发用于简化建筑业法规遵循流程的技术工具。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
+            "url": "https://up.codes/careers?utm_source=HN",
+            "title": "UpCodes (YC S17) 正在招聘美洲地区的远程工程师",
+            "date_modified": "2025-10-06T17:01:31.000Z"
         },
         {
-            "id": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
-            "content_html": "安全公司 Wiz 发现了 Redis 中一个严重的远程代码执行漏洞（CVE-2025-49844），名为 RediShell。该漏洞允许攻击者在特定条件下绕过 Redis 的安全机制，执行任意命令。此漏洞影响广泛，敦促 Redis 用户立即更新到最新版本以防范潜在攻击。 [<a href=\"https://news.ycombinator.com/item?id=45497027\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
-            "title": "RediShell：严重的远程代码执行漏洞",
-            "date_modified": "2025-10-06T22:30:12.000Z"
+            "id": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "content_html": "Ladybird 浏览器项目在 web-platform-tests（网络平台测试）兼容性测试中，成功通过了 Apple 的 90% 支持度阈值。这标志着该开源浏览器在与 Safari 兼容的 Web 标准实现方面取得了重大进展，是其发展历程中的一个重要里程碑。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
+            "url": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "title": "Ladybird 在 web-platform-tests 上通过了 Apple 90% 的阈值",
+            "date_modified": "2025-10-06T16:52:58.000Z"
         },
         {
-            "id": "https://homecomputer-tycoon.lovable.app/?lang=en",
-            "content_html": "“家用电脑大亨”是一款处于 Alpha 阶段的模拟经营游戏。玩家将扮演一家早期的个人电脑公司创始人，体验从 70 年代末到 80 年代个人电脑产业蓬勃发展的历程，负责研发、制造和销售电脑，与历史上的巨头竞争，体验创业的艰辛与乐趣。 [<a href=\"https://news.ycombinator.com/item?id=45496993\" target=\"_blank\">评论</a>]",
-            "url": "https://homecomputer-tycoon.lovable.app/?lang=en",
-            "title": "家用电脑大亨 (Alpha)",
-            "date_modified": "2025-10-06T22:26:02.000Z"
+            "id": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
+            "content_html": "报告指出，平均每天有 1 到 2 颗星链卫星完成使命后脱离轨道并返回地球大气层。SpaceX 设计这些卫星时已考虑其寿命终结时的处理，确保它们在再入过程中能完全燃烧殆尽，以最大限度地减少太空碎片和对地面的风险。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
+            "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
+            "title": "每天有一到两颗星链卫星坠回地球",
+            "date_modified": "2025-10-06T16:32:30.000Z"
         },
         {
-            "id": "https://www.nytimes.com/2025/10/05/science/awards-prizes-non-nobels.html",
-            "content_html": "文章探讨了诺贝尔奖之外众多重要的科学奖项。这些奖项可能在特定领域更具声望，或奖励被诺贝尔奖忽视的成就，如团队合作、跨学科研究或应用科学。它们共同构成了一个更全面、更多元的科学表彰体系，激励着更广泛的科学探索。 [<a href=\"https://news.ycombinator.com/item?id=45496981\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nytimes.com/2025/10/05/science/awards-prizes-non-nobels.html",
-            "title": "超越诺贝尔奖的是一个科学奖项的世界",
-            "date_modified": "2025-10-06T22:25:04.000Z"
+            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "content_html": "Meta（Facebook）开源了 OpenZL，一个格式感知的压缩框架。与通用压缩算法不同，OpenZL 能够根据特定数据格式（如图像、视频、文本）的特性进行优化，从而实现更高的压缩率和更快的处理速度，为开发者提供了高效的压缩解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "title": "OpenZL：一个开源的格式感知压缩框架",
+            "date_modified": "2025-10-06T16:01:58.000Z"
         },
         {
-            "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "content_html": "咨询巨头德勤公司承认，在为澳大利亚政府撰写的一份价值 44 万美元的报告中，未经授权使用了人工智能技术。此举违反了合同规定，德勤同意退还全部款项。此事件引发了对咨询行业在专业服务中使用 AI 的透明度和合规性的广泛关注。 [<a href=\"https://news.ycombinator.com/item?id=45496978\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "title": "德勤因在 44 万美元的报告中使用 AI，将向阿尔巴尼斯政府退款",
-            "date_modified": "2025-10-06T22:24:48.000Z"
+            "id": "https://getgrapevine.ai/",
+            "content_html": "Grapevine，一家由 Y Combinator S19 孵化的公司，推出了一款旨在为企业提供高效、精准 AI 助手的公司级 GPT 平台。该产品专注于整合企业内部知识库，提供安全、可控的生成式 AI 服务，以自动化工作流程并提升员工生产力。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "url": "https://getgrapevine.ai/",
+            "title": "Launch HN: Grapevine (YC S19) – 一个真正好用的公司级 GPT",
+            "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
-            "id": "https://ui.elevenlabs.io",
-            "content_html": "这是一个展示项目，提供了基于 shadcn/UI 框架的音频用户界面组件库。这些组件由 ElevenLabs 公司开发，旨在帮助开发者轻松构建功能丰富且美观的音频播放、控制和生成界面，可集成到各种 Web 应用中，简化了音频相关的 UI 开发工作。 [<a href=\"https://news.ycombinator.com/item?id=45496971\" target=\"_blank\">评论</a>]",
-            "url": "https://ui.elevenlabs.io",
-            "title": "Show HN: ElevenLabs UI shadcn/UI 音频组件",
-            "date_modified": "2025-10-06T22:23:20.000Z"
+            "id": "https://github.com/jdx/mise/discussions/6564",
+            "content_html": "Mise（一个开发环境管理工具）正在讨论其关于 monorepo（单体仓库）任务管理的新功能。该功能旨在简化和统一在包含多个子项目的大型代码库中定义、执行和管理开发任务（如测试、构建、部署）的流程，提升开发效率。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/jdx/mise/discussions/6564",
+            "title": "Mise：Monorepo 任务管理",
+            "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
-            "id": "https://nextcloud.com/blog/nextcloud-hub25-autumn/",
-            "content_html": "Nextcloud Hub 25 秋季版发布，这是一个集文件同步、共享、协作办公于一体的开源平台。新版本带来了性能提升、用户界面改进以及更紧密的应用集成，旨在为用户提供一个更快速、更安全、更易用的私有云数字工作空间，以满足现代企业和个人的需求。 [<a href=\"https://news.ycombinator.com/item?id=45496967\" target=\"_blank\">评论</a>]",
-            "url": "https://nextcloud.com/blog/nextcloud-hub25-autumn/",
-            "title": "Nextcloud Hub 25 秋季版：您的数字工作空间，即刻就绪",
-            "date_modified": "2025-10-06T22:22:29.000Z"
+            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "content_html": "这个 GitHub Gist 展示了如何用大约 400 行 C 代码实现一个 R. Kent Dybvig 风格的 Scheme 虚拟机，并采用了堆内存模型。这是一个精巧的项目，旨在演示如何从底层构建一个功能完备的 Lisp 方言解释器，是学习编程语言实现的绝佳范例。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "title": "Show HN: Kent Dybvig 的 Scheme 虚拟机，用 400 行 C 语言实现（堆内存模型）",
+            "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
-            "id": "https://www.bloomberg.com/news/articles/2025-10-06/cdc-approves-physician-referral-recommendations-for-covid-shot",
-            "content_html": "美国疾病控制与预防中心（CDC）批准了一项新的建议，允许医生将患者转诊至其他医疗服务提供者处接种新冠疫苗。此举旨在提高疫苗的可及性，特别是对于那些无法在初级保健机构获得疫苗的民众，以扩大疫苗接种覆盖面。 [<a href=\"https://news.ycombinator.com/item?id=45496964\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bloomberg.com/news/articles/2025-10-06/cdc-approves-physician-referral-recommendations-for-covid-shot",
-            "title": "CDC 批准新冠疫苗的医生转诊建议",
-            "date_modified": "2025-10-06T22:22:06.000Z"
+            "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "content_html": "路透社报道，AMD 与 OpenAI 签署了一项 AI 芯片供应协议。作为交易的一部分，OpenAI 获得了一项期权，可以选择收购 AMD 公司高达 10% 的股份。此举旨在加强 OpenAI 的 AI 芯片供应链多样性，并可能减少对现有主要供应商的依赖。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
+            "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "title": "AMD 与 OpenAI 签署 AI 芯片供应协议，并获得收购其 10% 股份的期权",
+            "date_modified": "2025-10-06T12:17:59.000Z"
         },
         {
-            "id": "https://lovable.dev/cloud",
-            "content_html": "Lovable Cloud and AI 介绍了一个集成了人工智能技术的云服务平台。该平台可能提供 AI 驱动的开发工具、自动化部署、智能监控等功能，旨在简化软件开发和运维流程，帮助开发者更高效地构建、管理和扩展应用程序，利用 AI 提升生产力。 [<a href=\"https://news.ycombinator.com/item?id=45496948\" target=\"_blank\">评论</a>]",
-            "url": "https://lovable.dev/cloud",
-            "title": "Lovable Cloud and AI",
-            "date_modified": "2025-10-06T22:19:27.000Z"
+            "id": "https://www.monsterwriter.com",
+            "content_html": "Monsterwriter 是一个专为撰写技术报告、学术论文和科学文档而设计的在线平台。它提供了强大的排版功能、参考文献管理、版本控制和协作工具，旨在为研究人员和工程师提供一个比传统文字处理器更高效、更专业的写作环境。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
+            "url": "https://www.monsterwriter.com",
+            "title": "Show HN: 我构建了一个用于撰写技术/科学文档的平台",
+            "date_modified": "2025-10-06T10:58:14.000Z"
         },
         {
-            "id": "https://text.npr.org/nx-s1-5476032",
-            "content_html": "文章分析了智利出生率的急剧下降现象，并探讨其可能成为美国未来的预演。报道指出，经济不确定性、社会观念变化和女性教育水平提高等因素共同导致了生育率降低，这一趋势对社会保障、劳动力市场和经济发展构成长期挑战。 [<a href=\"https://news.ycombinator.com/item?id=45496920\" target=\"_blank\">评论</a>]",
-            "url": "https://text.npr.org/nx-s1-5476032",
-            "title": "智利骤降的出生率可能预示着美国的未来",
-            "date_modified": "2025-10-06T22:17:09.000Z"
+            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "content_html": "此页面为 2025 年诺贝尔生理学或医学奖的官方新闻发布会页面。根据诺贝尔奖的惯例，获奖名单及成就通常在每年 10 月初公布。该页面将在正式公布时更新，详细介绍获奖者及其对该领域的杰出贡献。目前，奖项信息尚未发布。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "title": "2025年诺贝尔生理学或医学奖",
+            "date_modified": "2025-10-06T09:41:16.000Z"
         },
         {
-            "id": "https://manifold.markets/67/will-an-ai-solve-navier-stokes-and",
-            "content_html": "这是一个预测市场，下注主题是：DeepMind 或其他 AI 公司能否在 2025 年 10 月 20 日前公开一个解决纳维-斯托克斯方程的方案。纳维-斯托克斯方程是流体力学中的核心难题，其完整解的发现将是科学界的重大突破，该市场反映了人们对 AI 解决复杂科学问题能力的期待与猜测。 [<a href=\"https://news.ycombinator.com/item?id=45496817\" target=\"_blank\">评论</a>]",
-            "url": "https://manifold.markets/67/will-an-ai-solve-navier-stokes-and",
-            "title": "新的 LK-99：DeepMind/其他 AI 会在 10 月 20 日前公开解决纳维-斯托克斯问题吗？",
-            "date_modified": "2025-10-06T22:02:18.000Z"
+            "id": "https://gem.coop/",
+            "content_html": "Gem.coop 是一个致力于支持和推广合作社模式的平台或组织。它可能为合作社提供相关的资源、教育、网络连接和技术工具，旨在倡导民主、公平和可持续的商业实践，帮助成员共同拥有和管理他们的企业，实现共同繁荣。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "url": "https://gem.coop/",
+            "title": "Gem.coop",
+            "date_modified": "2025-10-06T04:59:39.000Z"
         },
         {
-            "id": "https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655",
-            "content_html": "这篇来自微软开发博客的文章强调了一个编程最佳实践：代码注释应该描述代码执行那一刻系统的状态和原因，而不是描述代码本身做了什么。作者认为，好的注释能帮助未来的维护者理解代码的上下文和设计决策，从而更有效地调试和修改代码。 [<a href=\"https://news.ycombinator.com/item?id=45496809\" target=\"_blank\">评论</a>]",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655",
-            "title": "注释应适用于它们“执行”时系统的状态",
-            "date_modified": "2025-10-06T22:01:17.000Z"
+            "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "content_html": "这篇《纽约时报》的文章讲述了一个令人心碎的案例：一名患者在急诊室被诊断为“只是病毒”，几天后不幸离世。文章深入探讨了医疗体系中可能存在的诊断疏忽、沟通障碍以及对患者症状未能给予足够重视的系统性问题。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "title": "急诊室告诉他“只是个病毒”——几天后，他去世了",
+            "date_modified": "2025-10-06T03:57:26.000Z"
         },
         {
-            "id": "https://gbragafibra.github.io/2025/05/27/autopoietic_nets2.html",
-            "content_html": "这篇文章继续探讨“自创生网络”的概念，即能够自我维持和自我生产的网络系统。作者通过更多具体的例子，如生物细胞、生态系统甚至某些社会经济模型，来阐释自创生的核心思想，即系统通过其内部组件的相互作用不断再生自身结构，并维持其边界。 [<a href=\"https://news.ycombinator.com/item?id=45496808\" target=\"_blank\">评论</a>]",
-            "url": "https://gbragafibra.github.io/2025/05/27/autopoietic_nets2.html",
-            "title": "自创生网络（更多例子）",
-            "date_modified": "2025-10-06T22:01:13.000Z"
+            "id": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
+            "content_html": "《华尔街日报》报道，Sharpie（思笔乐）品牌通过优化其美国本土的生产流程，成功降低了著名马克笔的制造成本。文章探讨了其背后的供应链管理、生产自动化和策略调整，这一案例挑战了将制造业外包至海外总是更经济的传统观念。 [<a href=\"https://news.ycombinator.com/item?id=45480354\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
+            "title": "Sharpie 找到了通过在美国制造来降低笔支成本的方法",
+            "date_modified": "2025-10-05T10:01:00.000Z"
         }
     ]
 }
