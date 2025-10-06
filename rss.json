@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "这个GitHub讨论探讨了Mise工具在monorepo（单一仓库）项目管理中的应用。Mise是一个现代化的开发环境管理工具，支持多种编程语言和工具链。讨论中提到，Mise可以有效地管理大型项目中的依赖关系，特别是在处理多个子项目时能够提供统一的任务执行环境。用户分享了使用Mise进行任务调度、依赖管理和环境配置的经验，并讨论了与其他工具如Make、Nx等的对比优势。该工具通过配置文件定义任务，支持并行执行，并能根据项目结构智能识别需要运行的任务，大大提高了开发效率。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo任务管理",
-            "date_modified": "2025-10-06T14:07:46.000Z"
+            "id": "https://www.youtube.com/watch?v=wJPfr5hIl10",
+            "content_html": "这个视频展示了一个团队如何研究并发现利用 AI 工具在技术面试中作弊的方法。他们演示了如何实时获取 AI 生成的答案来应对编程和算法问题。随后，团队开发了相应的检测技术，旨在识别这种作弊行为，揭示了在招聘流程中滥用 AI 所带来的安全风险与挑战，并探讨了如何保障技术面试的公平性。 [<a href=\"https://news.ycombinator.com/item?id=45492686\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=wJPfr5hIl10",
+            "title": "我们破解了 AI 辅助面试作弊 [视频]",
+            "date_modified": "2025-10-06T15:51:34.000Z"
         },
         {
-            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这是一个令人印象深刻的实现，用仅400行C代码构建了一个完整的Scheme虚拟机。该项目实现了Kent Dybvig设计的Scheme机器架构，采用堆内存模型来管理内存。代码展示了如何实现基本的Scheme语言特性，包括闭包、续体和垃圾回收。作者通过简洁的代码展示了虚拟机的核心概念：指令集设计、堆内存管理、函数调用机制等。这个实现不仅是学习虚拟机设计的优秀资源，也展示了如何用最少的代码实现一个功能完整的编程语言运行时。项目包含详细的注释，解释了每个部分的设计思路和实现细节。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
-            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN：Kent Dybvig的Scheme机器（400行C代码实现，堆内存模型）",
-            "date_modified": "2025-10-06T14:06:29.000Z"
+            "id": "https://epstein-docs.github.io/",
+            "content_html": "该网站是一个集中存储和展示杰弗里·爱泼斯坦案件相关法庭文件的项目。它收集了大量已公开的法律文件，包括起诉书、证词、邮件和其他证据，并以易于搜索和浏览的方式呈现给公众。项目的目标是提高透明度，让研究人员、记者和公众能够更方便地查阅和了解这起备受关注的案件的细节。 [<a href=\"https://news.ycombinator.com/item?id=45492682\" target=\"_blank\">评论</a>]",
+            "url": "https://epstein-docs.github.io/",
+            "title": "爱泼斯坦文件",
+            "date_modified": "2025-10-06T15:50:42.000Z"
         },
         {
-            "id": "https://write-it-down.com",
-            "content_html": "Write It Down是一个简洁的个人财务管理工具，专注于帮助用户记录和追踪日常收支。该工具采用极简设计理念，界面干净直观，用户可以快速记录收入、支出和预算信息。它支持多种分类标签，帮助用户更好地理解自己的消费模式。与其他复杂的财务软件不同，Write It Down专注于核心功能，避免了过度复杂的功能堆砌。它提供了基本的报表功能，可以生成月度和年度财务概览，帮助用户做出更好的财务决策。该工具注重隐私保护，所有数据都存储在用户本地，确保财务信息安全。适合那些需要简单、高效财务管理解决方案的个人用户。 [<a href=\"https://news.ycombinator.com/item?id=45490578\" target=\"_blank\">评论</a>]",
-            "url": "https://write-it-down.com",
-            "title": "Show HN：Write It Down – 个人财务追踪器",
-            "date_modified": "2025-10-06T12:23:40.000Z"
+            "id": "https://www.cnbc.com/2025/10/06/instagram-ring-award-creators.html",
+            "content_html": "Instagram 推出了一项新的奖励计划，旨在表彰其平台上最优秀的创作者。根据该计划，达到特定成就标准的顶级创作者将获得一枚实体金戒指作为荣誉象征。此举旨在增强创作者的归属感和成就感，激励他们持续产出高质量内容。然而，该奖励并不包含任何现金形式的报酬，其价值主要体现在品牌认可和地位象征上。 [<a href=\"https://news.ycombinator.com/item?id=45492668\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnbc.com/2025/10/06/instagram-ring-award-creators.html",
+            "title": "Instagram 将用金戒指奖励顶级创作者，但没有现金",
+            "date_modified": "2025-10-06T15:49:56.000Z"
         },
         {
-            "id": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "content_html": "这篇文章详细介绍了如何搭建和管理自己的XMPP（可扩展消息和存在协议）服务器。XMPP是一个开放标准的即时通讯协议，支持实时消息、状态更新和文件传输。文章从XMPP的基础概念开始，解释了为什么选择自建服务器而不是依赖商业服务。作者提供了完整的服务器配置指南，包括安装Prosody服务器、配置SSL证书、设置用户管理和安全策略。文章还讨论了现代XMPP的特性，如端到端加密、消息碳复制和多设备同步。通过实际操作示例，读者可以学习如何创建一个安全、私密且功能完整的即时通讯系统，完全掌控自己的通讯数据和隐私。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
-            "url": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "title": "现代消息传递：运行自己的XMPP服务器",
-            "date_modified": "2025-10-06T12:02:45.000Z"
+            "id": "https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/",
+            "content_html": "本文深入探讨了硅谷投资人彼得·蒂尔对“反基督”这一概念的独特执念。文章分析了这种思想如何源于他的哲学和神学背景，并如何影响他的世界观、投资决策乃至政治行动。作者认为，理解蒂尔的这一“执念”是解读他背后更深层次动机和意识形态的关键，并揭示了这种思想在科技和权力精英圈中的潜在影响和风险。 [<a href=\"https://news.ycombinator.com/item?id=45492652\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/",
+            "title": "彼得·蒂尔“反基督”执念的风险与真实故事",
+            "date_modified": "2025-10-06T15:48:14.000Z"
         },
         {
-            "id": "https://0xmm.in/posts/peer-to-peer-windows-part1/",
-            "content_html": "这是系列教程的第一部分，介绍如何在Windows平台上使用Wintun驱动程序构建VPN隧道。Wintun是WireGuard项目开发的高性能虚拟网络驱动，为Windows提供了比传统TAP驱动更好的性能。文章详细解释了Wintun的工作原理和优势，包括其内核级数据处理能力和低延迟特性。作者提供了完整的代码示例，展示如何初始化Wintun适配器、配置网络参数、以及建立基本的VPN连接。教程涵盖了从驱动安装到数据包转发的全过程，特别关注了Windows特有的网络编程挑战。这个系列教程对于想要深入理解VPN技术或开发网络应用程序的开发者来说是非常有价值的资源。 [<a href=\"https://news.ycombinator.com/item?id=45489581\" target=\"_blank\">评论</a>]",
-            "url": "https://0xmm.in/posts/peer-to-peer-windows-part1/",
-            "title": "使用Wintun在Windows上构建VPN隧道 – 第一部分",
-            "date_modified": "2025-10-06T09:49:33.000Z"
+            "id": "https://www.technostatecraft.com/p/dark-fiberan-archaeology-of-the-dot",
+            "content_html": "这篇文章以“暗光纤”为切入点，对 20 世纪末的互联网泡沫进行了一次“考古学”式的回顾。暗光纤是指那些在泡沫时期被铺设但从未被使用过的光纤网络。文章通过考察这些被遗忘的基础设施，探讨了那个时代的过度投资、技术乌托邦主义以及泡沫破灭后的长期影响，揭示了技术繁荣与萧条周期留下的物质和文化遗产。 [<a href=\"https://news.ycombinator.com/item?id=45492642\" target=\"_blank\">评论</a>]",
+            "url": "https://www.technostatecraft.com/p/dark-fiberan-archaeology-of-the-dot",
+            "title": "暗光纤——互联网泡沫考古学",
+            "date_modified": "2025-10-06T15:47:28.000Z"
         },
         {
-            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "content_html": "2025年诺贝尔生理学或医学奖授予了在基因编辑和再生医学领域做出突破性贡献的科学家。获奖者开发了一种新型的精准基因编辑技术，能够安全有效地修复遗传缺陷，为治疗单基因遗传疾病开辟了新途径。他们的研究解决了传统基因编辑技术中的脱靶效应和免疫反应等关键问题。通过创新的分子生物学方法，他们实现了对人类基因组的精确修改，同时最大限度地减少了副作用。这项技术已经在临床试验中显示出治疗血友病、肌肉萎缩症等遗传疾病的潜力。诺贝尔委员会特别强调了这项工作对人类健康的深远影响，它不仅为遗传疾病患者带来了希望，也为整个医学领域的个性化治疗发展奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "title": "2025年诺贝尔生理学或医学奖",
-            "date_modified": "2025-10-06T09:41:16.000Z"
+            "id": "https://blog.scottlogic.com/2025/10/06/delegating-grunt-work.html",
+            "content_html": "这篇博客文章探讨了如何利用 AI 代理来自动化用户界面（UI）测试开发中繁琐且重复的部分。作者阐述了 AI 代理如何学习应用程序的结构，并自动生成、执行和维护测试用例，从而解放开发人员，让他们能专注于更复杂的逻辑和创造性任务。文章强调了这种方法在提高测试效率和覆盖率方面的巨大潜力，是软件开发自动化领域的一个重要发展方向。 [<a href=\"https://news.ycombinator.com/item?id=45492625\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.scottlogic.com/2025/10/06/delegating-grunt-work.html",
+            "title": "将苦差事委托出去：用于 UI 测试开发的 AI 代理",
+            "date_modified": "2025-10-06T15:46:15.000Z"
         },
         {
-            "id": "https://demodesk.com/careers",
-            "content_html": "Demodesk是一家Y Combinator 2019年冬季班的创业公司，正在招聘Ruby on Rails工程师。该公司提供智能销售演示平台，帮助企业创建和交付个性化的产品演示。作为后端工程师，你将负责开发和维护公司的核心平台，处理实时协作、数据分析和集成功能。公司使用Ruby on Rails作为主要技术栈，结合现代化的前端技术。他们提供有竞争力的薪酬、股权期权、灵活的远程工作选项和职业发展机会。团队规模虽小但充满活力，工程师能够直接影响产品方向和技术决策。公司重视代码质量、测试驱动开发和持续学习。理想的候选人应该有Rails开发经验，熟悉分布式系统概念，并对创建优秀的用户体验充满热情。 [<a href=\"https://news.ycombinator.com/item?id=45489174\" target=\"_blank\">评论</a>]",
-            "url": "https://demodesk.com/careers",
-            "title": "Demodesk (YC W19) 招聘Ruby on Rails工程师",
-            "date_modified": "2025-10-06T08:49:30.000Z"
+            "id": "https://time.com/7323442/south-carolina-judge-diane-goodstein-house-fire-trump-political-violence/",
+            "content_html": "南卡罗来纳州法官黛安·古德斯坦的房屋发生火灾并被烧毁。此前，她因在一项涉及特朗普政府的裁决中立场鲜明而受到该政府的公开批评。事件发生后，外界普遍担忧这可能是一起与政治紧张局势相关的暴力行为。文章报道了事件的背景、各方反应以及执法部门的调查进展，并将其置于美国日益加剧的政治分裂和针对公职人员威胁增大的背景下进行讨论。 [<a href=\"https://news.ycombinator.com/item?id=45492619\" target=\"_blank\">评论</a>]",
+            "url": "https://time.com/7323442/south-carolina-judge-diane-goodstein-house-fire-trump-political-violence/",
+            "title": "受特朗普政府批评的南卡罗来纳州法官房屋被烧毁",
+            "date_modified": "2025-10-06T15:45:53.000Z"
         },
         {
-            "id": "https://batteringram.eu/",
-            "content_html": "Battering RAM项目揭示了一种针对机密计算环境的新型攻击方法。研究人员开发了一种低成本的插入器攻击技术，能够在不破坏硬件的情况下访问受保护的数据。这种攻击利用了硬件设计中的漏洞，通过物理方式访问内存总线，绕过了机密计算平台的安全保护机制。项目展示了如何使用相对简单的设备对Intel SGX、AMD SEV等机密计算技术进行攻击。研究人员详细记录了攻击过程，包括硬件设计、信号分析和数据提取方法。这项研究对硬件安全社区具有重要意义，提醒厂商需要重新考虑机密计算的安全架构。网站提供了技术论文、演示视频和开源代码，帮助安全研究人员理解这种威胁并开发相应的防御措施。 [<a href=\"https://news.ycombinator.com/item?id=45488713\" target=\"_blank\">评论</a>]",
-            "url": "https://batteringram.eu/",
-            "title": "Battering RAM – 针对机密计算的低成本插入器攻击",
-            "date_modified": "2025-10-06T07:47:17.000Z"
+            "id": "https://maudit.org/",
+            "content_html": "Maudit 是一个用 Rust 编程语言编写的库，专为构建静态网站而设计。它强调性能、安全性和简洁性。该工具允许开发者使用 Rust 的强大功能来生成快速、可靠的静态站点，适用于博客、项目文档和个人主页等场景。Maudit 提供了灵活的模板系统和内容管理方式，旨在为开发者提供一个现代化且高效的静态网站生成解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492616\" target=\"_blank\">评论</a>]",
+            "url": "https://maudit.org/",
+            "title": "HN 展示：Maudit，一个用于构建静态网站的 Rust 库",
+            "date_modified": "2025-10-06T15:45:42.000Z"
         },
         {
-            "id": "https://www.flightcontrol.dev/",
-            "content_html": "Flightcontrol是一个现代化的AWS平台即服务（PaaS）解决方案，旨在简化云应用的部署和管理。它提供了一个直观的界面，让开发者能够轻松地将应用程序部署到AWS，而无需深入了解复杂的AWS基础设施配置。Flightcontrol支持多种应用类型，包括静态网站、容器化应用和传统服务器应用。平台自动处理CI/CD流水线、负载均衡、自动扩缩容和监控等运维任务。开发者只需连接代码仓库，选择部署目标，Flightcontrol就会自动处理其余的工作。它特别适合中小型团队和个人开发者，能够显著降低AWS的使用门槛和运维成本。平台还提供了详细的使用分析和成本监控，帮助用户优化资源使用和预算控制。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
-            "url": "https://www.flightcontrol.dev/",
-            "title": "Flightcontrol：AWS PaaS平台",
-            "date_modified": "2025-10-06T07:07:11.000Z"
+            "id": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
+            "content_html": "根据房地产公司 Redfin 的报告，美国公寓市场的供需关系出现显著失衡，卖家数量比买家多出 72%。这一数据表明公寓市场正面临严重的供过于求局面，可能导致房价下行压力增大，房屋在市场上的待售时间延长。文章分析了造成这一现象的多种因素，包括高利率、保险成本上升以及生活方式偏好变化等，并对未来市场趋势进行了展望。 [<a href=\"https://news.ycombinator.com/item?id=45492612\" target=\"_blank\">评论</a>]",
+            "url": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
+            "title": "美国公寓卖家数量比买家多 72%",
+            "date_modified": "2025-10-06T15:45:00.000Z"
         },
         {
-            "id": "https://structuredprocrastination.com",
-            "content_html": "这是John Perry教授在1995年提出的幽默而深刻的概念——结构化拖延症。文章认为，拖延症不一定是个缺点，如果善加利用，可以成为一种提高生产力的策略。作者建议将重要但不紧急的任务放在待办事项列表的顶部，这样为了避免做这些任务，人们会转而去完成其他相对重要但更容易处理的事情。这种&quot;拖延驱动&quot;的工作方式让人在逃避主要任务的同时，仍然完成了许多有价值的工作。文章以轻松的笔调探讨了人类心理和工作习惯，提供了一个重新审视拖延症的新视角。这个概念后来广受欢迎，帮助许多人以更积极的心态看待自己的工作习惯，并在保持拖延倾向的同时提高整体生产力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
-            "url": "https://structuredprocrastination.com",
-            "title": "结构化拖延症（1995）",
-            "date_modified": "2025-10-06T06:35:36.000Z"
+            "id": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
+            "content_html": "这是一篇关于大型语言模型（LLM）优化的技术笔记。文章系统性地总结了一系列旨在提高 LLM 效率的技术，涵盖了内存管理（如量化、内存优化）、计算加速（如模型并行、算子融合）以及推理过程优化（如 KV 缓存、投机解码）等多个方面。该笔记为研究者和工程师提供了关于如何更高效地训练和部署大规模模型的实用参考和概览。 [<a href=\"https://news.ycombinator.com/item?id=45492611\" target=\"_blank\">评论</a>]",
+            "url": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
+            "title": "LLM 优化笔记：内存、计算与推理技术",
+            "date_modified": "2025-10-06T15:44:53.000Z"
         },
         {
-            "id": "https://gem.coop/",
-            "content_html": "Gem.coop是一个致力于推广合作经济模式的数字平台。该平台旨在连接和支持各种类型的合作社，包括工作者合作社、消费者合作社和生产者合作社。它提供了一个在线空间，让合作社能够展示其业务、分享经验和寻找合作伙伴。平台强调民主治理、公平分配和社区参与的核心价值观。通过Gem.coop，用户可以发现本地和全球的合作社企业，了解合作经济如何创造更公平、更可持续的经济模式。平台还提供资源和教育材料，帮助人们了解如何创建和运营合作社。Gem.coop的使命是通过技术促进合作经济的发展，为传统资本主义模式提供替代方案，建立一个更加平等和包容的经济生态系统。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
-            "url": "https://gem.coop/",
-            "title": "Gem.coop",
-            "date_modified": "2025-10-06T04:59:39.000Z"
+            "id": "https://www.macrumors.com/2025/10/06/apple-leadership-shakeup-impending/",
+            "content_html": "据报道称，苹果公司正酝酿一次重大的领导层变动。现任硬件工程高级副总裁约翰·特努斯被认为是接替蒂姆·库克成为下一任首席执行官的最有力人选。文章回顾了特努斯在苹果的职业历程和他主导的关键项目，并分析了此次潜在变动的背景、时机以及对苹果未来战略方向可能产生的影响，预示着这家科技巨头将进入一个新的领导时代。 [<a href=\"https://news.ycombinator.com/item?id=45492595\" target=\"_blank\">评论</a>]",
+            "url": "https://www.macrumors.com/2025/10/06/apple-leadership-shakeup-impending/",
+            "title": "苹果重大领导层变动在即，约翰·特努斯或成下任 CEO",
+            "date_modified": "2025-10-06T15:43:16.000Z"
         },
         {
-            "id": "https://blog.archive.org/trillion/",
-            "content_html": "互联网档案馆宣布了一个重要的里程碑——已经成功归档了一万亿个网页。这个数字代表了人类数字文化保存工作的巨大成就。文章回顾了档案馆从1996年开始的工作历程，从最初的几十万网页到如今的一万亿规模。档案馆使用爬虫技术持续收集和保存网页，形成了互联网历史的完整时间胶囊。这些归档内容包括了新闻网站、博客、商业页面和个人主页等各种类型的网络内容。文章强调了这项工作对于学术研究、历史记录和文化保护的重要价值。一万亿网页的规模相当于每个地球人拥有130个网页，展示了互联网的爆炸性增长。档案馆继续面临技术挑战，包括存储成本、数据保存和网络爬虫的伦理问题，但他们致力于为后代保存这个数字时代的文化遗产。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.archive.org/trillion/",
-            "title": "一万亿个网页已归档",
-            "date_modified": "2025-10-06T03:48:34.000Z"
+            "id": "https://time.com/7321098/ai-2026-midterm-elections/",
+            "content_html": "本文探讨了人工智能（AI）技术在即将到来的 2026 年美国中期选举中可能扮演的关键角色。文章分析了 AI 如何被用于生成高度个性化的政治广告、制造和传播虚假信息、动员选民以及优化竞选策略。同时，也指出了这带来的挑战，包括选举公正性受到威胁、信息环境恶化以及监管的必要性，强调 AI 正在重塑现代政治的运作方式。 [<a href=\"https://news.ycombinator.com/item?id=45492566\" target=\"_blank\">评论</a>]",
+            "url": "https://time.com/7321098/ai-2026-midterm-elections/",
+            "title": "AI 或将驱动 2026 年中期选举",
+            "date_modified": "2025-10-06T15:40:01.000Z"
         },
         {
-            "id": "https://vgel.me/posts/seahorse/",
-            "content_html": "这篇文章深入探讨了一个有趣的现象：大型语言模型在处理海马表情符号（🌊）时会出现异常行为。作者通过实验发现，不同的LLM对这个相对较新的表情符号表现出完全不同的理解和处理方式。有些模型无法正确识别它，有些则会产生奇怪的联想或生成不相关的文本。文章分析了这种现象的可能原因，包括训练数据中海马表情符号的稀缺性、Unicode处理的技术细节、以及模型对符号语义理解的局限性。作者还测试了其他海洋生物表情符号作为对比，发现海马表情符号的特殊性可能与其复杂的视觉结构和相对较少的使用频率有关。这个发现揭示了LLM在处理非文本符号时的潜在弱点，也为改进模型的符号理解能力提供了研究方向。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
-            "url": "https://vgel.me/posts/seahorse/",
-            "title": "为什么LLM会对海马表情符号感到困惑？",
-            "date_modified": "2025-10-06T02:20:05.000Z"
+            "id": "https://getgrapevine.ai/",
+            "content_html": "Grapevine 是一家 Y Combinator 孵化的公司，提供了一个专为商业环境设计的定制化 GPT（生成式预训练变换器）解决方案。与其他通用 AI 模型不同，Grapevine 专注于整合企业内部数据和知识库，为员工提供一个安全、准确且符合公司特定语境的 AI 助手。其目标是提高企业内部信息检索效率和决策支持能力，同时确保数据隐私和安全。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "url": "https://getgrapevine.ai/",
+            "title": "HN 发布：Grapevine (YC S19) – 一个能用的公司级 GPT",
+            "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
-            "id": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
-            "content_html": "这是关于MYCIN系统的经典著作的在线版本，MYCIN是早期人工智能领域最具影响力的专家系统之一。该书详细记录了MYCIN项目的完整开发过程，这是一个用于诊断和治疗血液感染疾病的医疗专家系统。书中介绍了基于规则的推理机制、不确定性处理方法（如CF因子）、以及知识获取技术。MYCIN系统能够通过一系列规则链进行医学推理，其性能在测试中达到了人类专家的水平。这本书不仅记录了技术实现细节，还深入探讨了专家系统的设计哲学、知识表示方法和人机交互设计。它为后来的专家系统开发奠定了基础，影响了几代AI研究者。在线版本保留了原书的完整内容，包括理论背景、系统架构、实验结果和对未来发展的展望，是了解AI发展史的重要文献。 [<a href=\"https://news.ycombinator.com/item?id=45486306\" target=\"_blank\">评论</a>]",
-            "url": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
-            "title": "基于规则的专家系统：Mycin实验（1984）",
-            "date_modified": "2025-10-05T23:51:47.000Z"
+            "id": "https://apps.apple.com/us/app/gymgod-weightlifting-tracker/id6748158964",
+            "content_html": "这是一款名为 Gymgod 的 iOS 应用程序，专为健身爱好者设计，用于追踪他们的举重训练。该应用界面简洁，专注于核心功能，用户可以轻松记录训练组数、次数和重量。它旨在帮助用户系统地监控自己的训练进度，分析表现，并最终实现力量增长目标，为举重训练者提供了一个高效、无干扰的数字化训练日志工具。 [<a href=\"https://news.ycombinator.com/item?id=45492557\" target=\"_blank\">评论</a>]",
+            "url": "https://apps.apple.com/us/app/gymgod-weightlifting-tracker/id6748158964",
+            "title": "HN 展示：一款用于追踪举重训练的精简 iOS 应用",
+            "date_modified": "2025-10-06T15:39:38.000Z"
         },
         {
-            "id": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
-            "content_html": "德国在推广分布式可再生能源方面取得了显著成就，已经为超过五十万个阳台安装了太阳能电池板。这个项目的成功得益于简化的法规流程、政府补贴和创新的 Plug-and-Play 设计。阳台太阳能系统通常功率较小（600-800瓦），但安装简单，用户甚至可以自己完成安装。德国政府简化了并网程序，取消了复杂的注册要求，使得普通家庭能够轻松参与太阳能发电。这些系统虽然规模不大，但 collectively 为国家电网贡献了可观的清洁电力。项目还采用了智能逆变器技术，确保电力质量和电网安全。这种去中心化的能源模式不仅减少了碳排放，还提高了公众对可再生能源的认知和参与度。德国的经验为其他国家城市地区推广分布式太阳能提供了可复制的模式。 [<a href=\"https://news.ycombinator.com/item?id=45485806\" target=\"_blank\">评论</a>]",
-            "url": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
-            "title": "德国为五十万个阳台安装太阳能电池板",
-            "date_modified": "2025-10-05T22:18:31.000Z"
+            "id": "https://asteriskmag.com/issues/11/scam-cities",
+            "content_html": "这篇文章深入探讨了某些城市如何成为系统性诈骗活动的温床。它分析了这些城市的社会经济结构、执法环境和文化背景，揭示了诈骗产业如何在这里生根发芽、形成规模甚至成为地方经济的一部分。文章通过具体案例，展示了从电信诈骗到网络赌博等多种骗局是如何在这些“诈骗城市”中被组织化运作的，并对其带来的社会后果进行了反思。 [<a href=\"https://news.ycombinator.com/item?id=45492555\" target=\"_blank\">评论</a>]",
+            "url": "https://asteriskmag.com/issues/11/scam-cities",
+            "title": "诈骗城市",
+            "date_modified": "2025-10-06T15:39:05.000Z"
         },
         {
-            "id": "https://kenparkerarchtops.com",
-            "content_html": "肯·帕克，世界知名的吉他制琴大师，已经去世。帕克以其创新的吉他设计而闻名，特别是在拱顶吉他（archtop guitar）领域做出了革命性贡献。他设计的Parker Fly系列吉他彻底改变了传统吉他的概念，采用了轻质材料、碳纤维加固和独特的琴身形状，大大提高了吉他的音色和演奏性能。帕克的作品融合了传统工艺与现代技术，他的吉他被许多世界顶级音乐家使用。除了商业成功，帕克还致力于推动制琴工艺的发展，培养了许多年轻的制琴师。他的网站记录了他一生的作品和理念，包括各种创新设计的详细说明和音色演示。帕克的去世是音乐界的重大损失，但他对吉他制造业的影响将长久持续，他的创新精神将继续启发未来的乐器制造者。 [<a href=\"https://news.ycombinator.com/item?id=45485736\" target=\"_blank\">评论</a>]",
-            "url": "https://kenparkerarchtops.com",
-            "title": "著名制琴师肯·帕克去世",
-            "date_modified": "2025-10-05T22:10:15.000Z"
+            "id": "https://editor.casbin.org/",
+            "content_html": "Casbin 策略编辑器是一个基于 Web 的开源工具，允许用户在浏览器中直观地设计和测试访问控制策略。它支持基于角色的访问控制（RBAC）和基于属性的访问控制（ABAC）等多种模型。用户可以通过图形化界面定义策略模型、编写策略规则，并立即进行模拟测试以验证其正确性，极大地简化了权限管理系统的开发和调试过程。 [<a href=\"https://news.ycombinator.com/item?id=45492550\" target=\"_blank\">评论</a>]",
+            "url": "https://editor.casbin.org/",
+            "title": "Casbin 策略编辑器：在浏览器中设计和测试 RBAC/ABAC 策略",
+            "date_modified": "2025-10-06T15:38:25.000Z"
         },
         {
-            "id": "https://github.com/landley/toybox",
-            "content_html": "Toybox是一个集成了大量常用Linux命令行工具的单个可执行文件，旨在提供轻量级但功能完整的Unix工具集。该项目由Rob Landley创建，目标是实现POSIX标准和Linux常用命令的完整集合。Toybox的设计理念是简洁高效，每个工具都经过精心优化，确保最小的代码体积和最快的执行速度。它包含超过200个命令，从基本的ls、cp、mv到更复杂的awk、sed、grep等。Toybox特别适合嵌入式系统、容器环境和救援盘等空间受限的场景。与BusyBox类似，但Toybox更注重代码质量和标准合规性。项目采用清晰的模块化设计，每个命令都是独立的源文件，便于维护和扩展。Toybox已经成为多个Linux发行版的默认工具集，展现了其在实际应用中的可靠性和性能优势。 [<a href=\"https://news.ycombinator.com/item?id=45484284\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/landley/toybox",
-            "title": "Toybox：一体化Linux命令行工具",
-            "date_modified": "2025-10-05T19:09:35.000Z"
+            "id": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
+            "content_html": "这篇文章探讨了作家科里·道克特罗如何创造并推广了&quot;enshittification&quot;（平台化粪）这个词。该词精准地描述了数字平台如何从对用户友好，转向榨取价值以服务广告商和股东，最终导致用户体验和平台质量全面下降的过程。文章分析了这个词如何迅速被广泛接受，并成为批评科技平台商业模式的有力工具，改变了公众对科技行业问题的讨论话语。 [<a href=\"https://news.ycombinator.com/item?id=45492544\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
+            "title": "重磅作家用一个词——“Enshittification”——改变了关于科技的辩论",
+            "date_modified": "2025-10-06T15:38:14.000Z"
         },
         {
-            "id": "https://fi-le.net/oss/",
-            "content_html": "这篇文章深入分析了通过GPT-OSS（开源软件版本）泄露的关于OpenAI训练数据的信息。作者通过逆向工程和仔细分析，发现了OpenAI模型训练过程中的一些关键细节。分析显示，训练数据包含了大量的开源代码、技术文档和编程教程，这解释了为什么GPT模型在编程任务上表现出色。文章还揭示了数据清洗和过滤的一些策略，以及不同版本模型使用数据集的差异。作者发现了一些训练数据的模式，包括特定编程语言的占比、代码仓库的来源分布等。这些信息有助于理解大语言模型的能力来源和潜在偏见。文章还讨论了这些发现对AI社区的意义，包括训练数据透明度的重要性以及对开源项目使用的影响。这个分析为理解GPT系列模型的内部工作原理提供了宝贵的洞察。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
-            "url": "https://fi-le.net/oss/",
-            "title": "GPT-OSS泄露了OpenAI训练数据的什么信息",
-            "date_modified": "2025-10-05T18:28:16.000Z"
+            "id": "https://www.cambridge.org/core/journals/polar-record/article/why-did-endurance-sink/6CC2C2D56087035A94DEB50930B81980",
+            "content_html": "这篇学术文章从科学角度重新分析了探险船“坚忍号”在 1915 年沉没的原因。作者结合历史记录、现代海洋学和船舶工程知识，对导致船体被威德尔海海冰挤毁并最终沉没的一系列因素进行了深入探讨。文章不仅归因于极端冰情，还分析了船只设计、木材特性以及当时航行决策等综合因素，为这起著名的极地探险悲剧提供了更全面的科学解释。 [<a href=\"https://news.ycombinator.com/item?id=45492538\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cambridge.org/core/journals/polar-record/article/why-did-endurance-sink/6CC2C2D56087035A94DEB50930B81980",
+            "title": "“坚忍号”为何沉没？",
+            "date_modified": "2025-10-06T15:37:41.000Z"
         },
         {
-            "id": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "content_html": "韩国国家信息资源服务（NIRS）的云存储系统遭遇严重火灾，导致大量政府数据永久丢失。这起事件暴露了韩国政府数据管理中的严重缺陷——系统没有建立有效的备份机制。火灾摧毁了存储关键政府数据的服务器，包括公民个人信息、行政文件和历史记录。由于缺乏异地备份和灾难恢复计划，这些数据无法恢复。事件引发了公众对政府数据安全管理的强烈质疑，相关部门负责人已经辞职。专家指出，这起事故违反了基本的数据管理最佳实践，对于政府级别的信息系统来说是不可接受的。韩国政府承诺将重新评估所有关键系统的备份策略，并建立更严格的灾难恢复标准。这起事件为全球政府机构敲响了警钟，强调了数据备份和灾难恢复的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
-            "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-            "title": "火灾摧毁韩国政府云存储系统，无备份可用",
-            "date_modified": "2025-10-05T17:20:39.000Z"
+            "id": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
+            "content_html": "埃隆·马斯克的 SpaceX 公司正通过其星链项目大力推进直接-to-cell 手机服务。该计划旨在为全球智能手机提供无缝的卫星连接，直接与苹果的“紧急 SOS”功能以及 AT&T、Verizon 等传统运营商的卫星通信合作项目竞争。文章分析了星链计划的野心和潜在优势，并探讨马斯克如何利用技术和价格策略，试图颠覆现有的移动通信市场格局。 [<a href=\"https://news.ycombinator.com/item?id=45492522\" target=\"_blank\">评论</a>]",
+            "url": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
+            "title": "马斯克试图让苹果和移动运营商为选择星链竞争对手而后悔",
+            "date_modified": "2025-10-06T15:35:59.000Z"
         },
         {
-            "id": "https://nfs40.online/",
-            "content_html": "这个网站纪念网络文件系统（NFS）诞生四十周年，回顾了这个由Sun微系统在1984年开发的革命性技术。NFS彻底改变了网络存储的概念，让用户能够像访问本地文件一样访问远程服务器上的文件。文章详细介绍了NFS的技术演进，从最初的版本到现代的实现，包括其核心协议设计、缓存机制和安全模型。网站收集了早期开发者的回忆录，分享了NFS开发的背后故事和技术挑战。NFS的成功不仅在于技术创新，还在于其开放标准的设计理念，这使得它成为了Unix和Linux系统的标准网络文件系统。文章还讨论了NFS对现代云计算和分布式存储系统的影响，许多现代存储技术仍然借鉴了NFS的设计原则。这个纪念网站不仅是对历史的回顾，也是对网络存储技术发展的深入思考，展示了NFS如何塑造了我们今天使用网络存储的方式。 [<a href=\"https://news.ycombinator.com/item?id=45482467\" target=\"_blank\">评论</a>]",
-            "url": "https://nfs40.online/",
-            "title": "NFS四十周年 – 回忆Sun微系统的网络文件系统",
-            "date_modified": "2025-10-05T15:49:58.000Z"
+            "id": "https://www.leadingsapiens.com/sources-of-power-in-organizations/",
+            "content_html": "这篇文章系统地剖析了在组织或企业环境中权力的多种来源。作者指出，权力并不仅仅来自于正式的职位或职级，还源于个人魅力、专业知识、控制关键资源、拥有强大的人际网络以及掌握信息等多个方面。文章详细阐述了每种权力来源的特点和作用机制，旨在帮助读者更深刻地理解组织动态，并更有效地运用和应对权力关系。 [<a href=\"https://news.ycombinator.com/item?id=45492519\" target=\"_blank\">评论</a>]",
+            "url": "https://www.leadingsapiens.com/sources-of-power-in-organizations/",
+            "title": "组织中的权力来源",
+            "date_modified": "2025-10-06T15:35:48.000Z"
         }
     ]
 }
