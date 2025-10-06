@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.youtube.com/watch?v=wJPfr5hIl10",
-            "content_html": "这个视频展示了一个团队如何研究并发现利用 AI 工具在技术面试中作弊的方法。他们演示了如何实时获取 AI 生成的答案来应对编程和算法问题。随后，团队开发了相应的检测技术，旨在识别这种作弊行为，揭示了在招聘流程中滥用 AI 所带来的安全风险与挑战，并探讨了如何保障技术面试的公平性。 [<a href=\"https://news.ycombinator.com/item?id=45492686\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=wJPfr5hIl10",
-            "title": "我们破解了 AI 辅助面试作弊 [视频]",
-            "date_modified": "2025-10-06T15:51:34.000Z"
-        },
-        {
-            "id": "https://epstein-docs.github.io/",
-            "content_html": "该网站是一个集中存储和展示杰弗里·爱泼斯坦案件相关法庭文件的项目。它收集了大量已公开的法律文件，包括起诉书、证词、邮件和其他证据，并以易于搜索和浏览的方式呈现给公众。项目的目标是提高透明度，让研究人员、记者和公众能够更方便地查阅和了解这起备受关注的案件的细节。 [<a href=\"https://news.ycombinator.com/item?id=45492682\" target=\"_blank\">评论</a>]",
-            "url": "https://epstein-docs.github.io/",
-            "title": "爱泼斯坦文件",
-            "date_modified": "2025-10-06T15:50:42.000Z"
-        },
-        {
-            "id": "https://www.cnbc.com/2025/10/06/instagram-ring-award-creators.html",
-            "content_html": "Instagram 推出了一项新的奖励计划，旨在表彰其平台上最优秀的创作者。根据该计划，达到特定成就标准的顶级创作者将获得一枚实体金戒指作为荣誉象征。此举旨在增强创作者的归属感和成就感，激励他们持续产出高质量内容。然而，该奖励并不包含任何现金形式的报酬，其价值主要体现在品牌认可和地位象征上。 [<a href=\"https://news.ycombinator.com/item?id=45492668\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cnbc.com/2025/10/06/instagram-ring-award-creators.html",
-            "title": "Instagram 将用金戒指奖励顶级创作者，但没有现金",
-            "date_modified": "2025-10-06T15:49:56.000Z"
-        },
-        {
-            "id": "https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/",
-            "content_html": "本文深入探讨了硅谷投资人彼得·蒂尔对“反基督”这一概念的独特执念。文章分析了这种思想如何源于他的哲学和神学背景，并如何影响他的世界观、投资决策乃至政治行动。作者认为，理解蒂尔的这一“执念”是解读他背后更深层次动机和意识形态的关键，并揭示了这种思想在科技和权力精英圈中的潜在影响和风险。 [<a href=\"https://news.ycombinator.com/item?id=45492652\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/",
-            "title": "彼得·蒂尔“反基督”执念的风险与真实故事",
-            "date_modified": "2025-10-06T15:48:14.000Z"
-        },
-        {
-            "id": "https://www.technostatecraft.com/p/dark-fiberan-archaeology-of-the-dot",
-            "content_html": "这篇文章以“暗光纤”为切入点，对 20 世纪末的互联网泡沫进行了一次“考古学”式的回顾。暗光纤是指那些在泡沫时期被铺设但从未被使用过的光纤网络。文章通过考察这些被遗忘的基础设施，探讨了那个时代的过度投资、技术乌托邦主义以及泡沫破灭后的长期影响，揭示了技术繁荣与萧条周期留下的物质和文化遗产。 [<a href=\"https://news.ycombinator.com/item?id=45492642\" target=\"_blank\">评论</a>]",
-            "url": "https://www.technostatecraft.com/p/dark-fiberan-archaeology-of-the-dot",
-            "title": "暗光纤——互联网泡沫考古学",
-            "date_modified": "2025-10-06T15:47:28.000Z"
-        },
-        {
-            "id": "https://blog.scottlogic.com/2025/10/06/delegating-grunt-work.html",
-            "content_html": "这篇博客文章探讨了如何利用 AI 代理来自动化用户界面（UI）测试开发中繁琐且重复的部分。作者阐述了 AI 代理如何学习应用程序的结构，并自动生成、执行和维护测试用例，从而解放开发人员，让他们能专注于更复杂的逻辑和创造性任务。文章强调了这种方法在提高测试效率和覆盖率方面的巨大潜力，是软件开发自动化领域的一个重要发展方向。 [<a href=\"https://news.ycombinator.com/item?id=45492625\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.scottlogic.com/2025/10/06/delegating-grunt-work.html",
-            "title": "将苦差事委托出去：用于 UI 测试开发的 AI 代理",
-            "date_modified": "2025-10-06T15:46:15.000Z"
-        },
-        {
-            "id": "https://time.com/7323442/south-carolina-judge-diane-goodstein-house-fire-trump-political-violence/",
-            "content_html": "南卡罗来纳州法官黛安·古德斯坦的房屋发生火灾并被烧毁。此前，她因在一项涉及特朗普政府的裁决中立场鲜明而受到该政府的公开批评。事件发生后，外界普遍担忧这可能是一起与政治紧张局势相关的暴力行为。文章报道了事件的背景、各方反应以及执法部门的调查进展，并将其置于美国日益加剧的政治分裂和针对公职人员威胁增大的背景下进行讨论。 [<a href=\"https://news.ycombinator.com/item?id=45492619\" target=\"_blank\">评论</a>]",
-            "url": "https://time.com/7323442/south-carolina-judge-diane-goodstein-house-fire-trump-political-violence/",
-            "title": "受特朗普政府批评的南卡罗来纳州法官房屋被烧毁",
-            "date_modified": "2025-10-06T15:45:53.000Z"
-        },
-        {
-            "id": "https://maudit.org/",
-            "content_html": "Maudit 是一个用 Rust 编程语言编写的库，专为构建静态网站而设计。它强调性能、安全性和简洁性。该工具允许开发者使用 Rust 的强大功能来生成快速、可靠的静态站点，适用于博客、项目文档和个人主页等场景。Maudit 提供了灵活的模板系统和内容管理方式，旨在为开发者提供一个现代化且高效的静态网站生成解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492616\" target=\"_blank\">评论</a>]",
-            "url": "https://maudit.org/",
-            "title": "HN 展示：Maudit，一个用于构建静态网站的 Rust 库",
-            "date_modified": "2025-10-06T15:45:42.000Z"
-        },
-        {
-            "id": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
-            "content_html": "根据房地产公司 Redfin 的报告，美国公寓市场的供需关系出现显著失衡，卖家数量比买家多出 72%。这一数据表明公寓市场正面临严重的供过于求局面，可能导致房价下行压力增大，房屋在市场上的待售时间延长。文章分析了造成这一现象的多种因素，包括高利率、保险成本上升以及生活方式偏好变化等，并对未来市场趋势进行了展望。 [<a href=\"https://news.ycombinator.com/item?id=45492612\" target=\"_blank\">评论</a>]",
-            "url": "https://www.redfin.com/news/more-condo-sellers-than-buyers/",
-            "title": "美国公寓卖家数量比买家多 72%",
-            "date_modified": "2025-10-06T15:45:00.000Z"
-        },
-        {
-            "id": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
-            "content_html": "这是一篇关于大型语言模型（LLM）优化的技术笔记。文章系统性地总结了一系列旨在提高 LLM 效率的技术，涵盖了内存管理（如量化、内存优化）、计算加速（如模型并行、算子融合）以及推理过程优化（如 KV 缓存、投机解码）等多个方面。该笔记为研究者和工程师提供了关于如何更高效地训练和部署大规模模型的实用参考和概览。 [<a href=\"https://news.ycombinator.com/item?id=45492611\" target=\"_blank\">评论</a>]",
-            "url": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
-            "title": "LLM 优化笔记：内存、计算与推理技术",
-            "date_modified": "2025-10-06T15:44:53.000Z"
-        },
-        {
-            "id": "https://www.macrumors.com/2025/10/06/apple-leadership-shakeup-impending/",
-            "content_html": "据报道称，苹果公司正酝酿一次重大的领导层变动。现任硬件工程高级副总裁约翰·特努斯被认为是接替蒂姆·库克成为下一任首席执行官的最有力人选。文章回顾了特努斯在苹果的职业历程和他主导的关键项目，并分析了此次潜在变动的背景、时机以及对苹果未来战略方向可能产生的影响，预示着这家科技巨头将进入一个新的领导时代。 [<a href=\"https://news.ycombinator.com/item?id=45492595\" target=\"_blank\">评论</a>]",
-            "url": "https://www.macrumors.com/2025/10/06/apple-leadership-shakeup-impending/",
-            "title": "苹果重大领导层变动在即，约翰·特努斯或成下任 CEO",
-            "date_modified": "2025-10-06T15:43:16.000Z"
-        },
-        {
-            "id": "https://time.com/7321098/ai-2026-midterm-elections/",
-            "content_html": "本文探讨了人工智能（AI）技术在即将到来的 2026 年美国中期选举中可能扮演的关键角色。文章分析了 AI 如何被用于生成高度个性化的政治广告、制造和传播虚假信息、动员选民以及优化竞选策略。同时，也指出了这带来的挑战，包括选举公正性受到威胁、信息环境恶化以及监管的必要性，强调 AI 正在重塑现代政治的运作方式。 [<a href=\"https://news.ycombinator.com/item?id=45492566\" target=\"_blank\">评论</a>]",
-            "url": "https://time.com/7321098/ai-2026-midterm-elections/",
-            "title": "AI 或将驱动 2026 年中期选举",
-            "date_modified": "2025-10-06T15:40:01.000Z"
+            "id": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
+            "content_html": "文章探讨了在当今市场环境下，&quot;与众不同&quot;已不再是构建产品的有效策略。作者认为，仅仅为了差异化而差异化，往往会导致产品脱离用户实际需求。相反，更有效的方法是专注于&quot;做得更好&quot;，即深入理解用户痛点，并提供比现有解决方案更优的体验。文章强调，成功的产品源于对问题的深刻洞察和卓越的执行力，而非表面的新奇。这种从追求不同到追求卓越的转变，是产品成功的关键。 [<a href=\"https://news.ycombinator.com/item?id=45492888\" target=\"_blank\">评论</a>]",
+            "url": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
+            "title": "“与众不同”已不再适用于产品构建",
+            "date_modified": "2025-10-06T16:09:22.000Z"
         },
         {
             "id": "https://getgrapevine.ai/",
-            "content_html": "Grapevine 是一家 Y Combinator 孵化的公司，提供了一个专为商业环境设计的定制化 GPT（生成式预训练变换器）解决方案。与其他通用 AI 模型不同，Grapevine 专注于整合企业内部数据和知识库，为员工提供一个安全、准确且符合公司特定语境的 AI 助手。其目标是提高企业内部信息检索效率和决策支持能力，同时确保数据隐私和安全。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "content_html": "Grapevine 是一款专为企业设计的公司级 GPT 工具。它能够安全地连接到公司的内部数据源，如 Google Drive、Slack 和 Confluence，从而为员工提供准确、可验证的答案。该平台强调数据隐私和安全，确保敏感信息不会泄露。Grapevine 旨在成为团队的智能助手，帮助员工快速查找信息、提高工作效率，并减少在不同应用间切换的时间。其核心优势在于能够深入理解公司特定知识，并提供可靠的、基于上下文的回答。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
             "url": "https://getgrapevine.ai/",
-            "title": "HN 发布：Grapevine (YC S19) – 一个能用的公司级 GPT",
+            "title": "Launch HN: Grapevine (YC S19) – 一款真正有效的公司级 GPT",
             "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
-            "id": "https://apps.apple.com/us/app/gymgod-weightlifting-tracker/id6748158964",
-            "content_html": "这是一款名为 Gymgod 的 iOS 应用程序，专为健身爱好者设计，用于追踪他们的举重训练。该应用界面简洁，专注于核心功能，用户可以轻松记录训练组数、次数和重量。它旨在帮助用户系统地监控自己的训练进度，分析表现，并最终实现力量增长目标，为举重训练者提供了一个高效、无干扰的数字化训练日志工具。 [<a href=\"https://news.ycombinator.com/item?id=45492557\" target=\"_blank\">评论</a>]",
-            "url": "https://apps.apple.com/us/app/gymgod-weightlifting-tracker/id6748158964",
-            "title": "HN 展示：一款用于追踪举重训练的精简 iOS 应用",
-            "date_modified": "2025-10-06T15:39:38.000Z"
+            "id": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
+            "content_html": "据报道，微软正计划推出一个全新的、由广告支持的免费 Xbox 云游戏服务层级。此举旨在吸引那些不愿订阅 Xbox Game Pass Ultimate 的玩家，从而扩大其云游戏用户基础。该免费层级可能会提供有限的游戏库，并在游戏开始前、游戏中或游戏结束后播放广告。这标志着微软在云游戏市场采取更激进的策略，与竞争对手争夺更广泛的受众，特别是那些对价格敏感的休闲玩家。 [<a href=\"https://news.ycombinator.com/item?id=45492086\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
+            "title": "微软将推出带广告的免费 Xbox 云游戏服务",
+            "date_modified": "2025-10-06T14:53:46.000Z"
         },
         {
-            "id": "https://asteriskmag.com/issues/11/scam-cities",
-            "content_html": "这篇文章深入探讨了某些城市如何成为系统性诈骗活动的温床。它分析了这些城市的社会经济结构、执法环境和文化背景，揭示了诈骗产业如何在这里生根发芽、形成规模甚至成为地方经济的一部分。文章通过具体案例，展示了从电信诈骗到网络赌博等多种骗局是如何在这些“诈骗城市”中被组织化运作的，并对其带来的社会后果进行了反思。 [<a href=\"https://news.ycombinator.com/item?id=45492555\" target=\"_blank\">评论</a>]",
-            "url": "https://asteriskmag.com/issues/11/scam-cities",
-            "title": "诈骗城市",
-            "date_modified": "2025-10-06T15:39:05.000Z"
+            "id": "https://github.com/jdx/mise/discussions/6564",
+            "content_html": "这篇 GitHub 讨论介绍了开发工具 Mise 的 Monorepo Tasks 功能。该功能旨在简化在包含多个相关项目的大型代码库中的任务管理。通过 Mise，开发者可以定义和运行跨多个包或项目的任务，而无需在每个子项目中单独配置。它支持任务依赖、并行执行以及工作区感知，使得在复杂的 monorepo 环境中进行构建、测试和部署等操作变得更加高效和统一。这为管理大型前端或后端项目提供了强大的自动化能力。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/jdx/mise/discussions/6564",
+            "title": "Mise: Monorepo 任务",
+            "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
-            "id": "https://editor.casbin.org/",
-            "content_html": "Casbin 策略编辑器是一个基于 Web 的开源工具，允许用户在浏览器中直观地设计和测试访问控制策略。它支持基于角色的访问控制（RBAC）和基于属性的访问控制（ABAC）等多种模型。用户可以通过图形化界面定义策略模型、编写策略规则，并立即进行模拟测试以验证其正确性，极大地简化了权限管理系统的开发和调试过程。 [<a href=\"https://news.ycombinator.com/item?id=45492550\" target=\"_blank\">评论</a>]",
-            "url": "https://editor.casbin.org/",
-            "title": "Casbin 策略编辑器：在浏览器中设计和测试 RBAC/ABAC 策略",
-            "date_modified": "2025-10-06T15:38:25.000Z"
+            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "content_html": "这是一个代码片段，展示了用大约 400 行 C 语言实现的 Kent Dybvig 的 Scheme 虚拟机。该实现特别关注于堆内存模型，而非传统的基于寄存器的模型。代码简洁而高效，能够执行基本的 Scheme 程序。它为学习虚拟机设计、内存管理以及 Scheme 语言的实现原理提供了一个极佳的参考。这个项目对于那些想要深入理解编程语言底层工作原理的开发者来说，是一个宝贵的教育资源。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "title": "Show HN: Kent Dybvig 的 Scheme 机（400行C语言实现，基于堆内存模型）",
+            "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
-            "id": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
-            "content_html": "这篇文章探讨了作家科里·道克特罗如何创造并推广了&quot;enshittification&quot;（平台化粪）这个词。该词精准地描述了数字平台如何从对用户友好，转向榨取价值以服务广告商和股东，最终导致用户体验和平台质量全面下降的过程。文章分析了这个词如何迅速被广泛接受，并成为批评科技平台商业模式的有力工具，改变了公众对科技行业问题的讨论话语。 [<a href=\"https://news.ycombinator.com/item?id=45492544\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
-            "title": "重磅作家用一个词——“Enshittification”——改变了关于科技的辩论",
-            "date_modified": "2025-10-06T15:38:14.000Z"
+            "id": "https://write-it-down.com",
+            "content_html": "Write It Down 是一个简洁的个人财务追踪工具。它旨在帮助用户轻松记录和管理他们的日常收支、账户余额和预算。该应用强调简单性和用户隐私，通常不涉及复杂的投资分析或股票市场功能，而是专注于核心的个人记账需求。用户可以通过直观的界面快速输入交易，查看财务报告，并了解自己的消费习惯。对于希望获得清晰财务状况概览而又不想使用过于复杂软件的用户来说，这是一个理想的选择。 [<a href=\"https://news.ycombinator.com/item?id=45490578\" target=\"_blank\">评论</a>]",
+            "url": "https://write-it-down.com",
+            "title": "Show HN: Write It Down – 个人财务追踪器",
+            "date_modified": "2025-10-06T12:23:40.000Z"
         },
         {
-            "id": "https://www.cambridge.org/core/journals/polar-record/article/why-did-endurance-sink/6CC2C2D56087035A94DEB50930B81980",
-            "content_html": "这篇学术文章从科学角度重新分析了探险船“坚忍号”在 1915 年沉没的原因。作者结合历史记录、现代海洋学和船舶工程知识，对导致船体被威德尔海海冰挤毁并最终沉没的一系列因素进行了深入探讨。文章不仅归因于极端冰情，还分析了船只设计、木材特性以及当时航行决策等综合因素，为这起著名的极地探险悲剧提供了更全面的科学解释。 [<a href=\"https://news.ycombinator.com/item?id=45492538\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cambridge.org/core/journals/polar-record/article/why-did-endurance-sink/6CC2C2D56087035A94DEB50930B81980",
-            "title": "“坚忍号”为何沉没？",
-            "date_modified": "2025-10-06T15:37:41.000Z"
+            "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "content_html": "根据路透社报道，AMD 与 OpenAI 签署了一项协议，将为 OpenAI 提供 AI 芯片。作为交易的一部分，AMD 获得了购买 OpenAI 最高 10% 股权的期权。此举标志着 AMD 在与英伟达竞争 AI 芯片市场的战略中取得了重要进展，同时也表明 OpenAI 正在寻求芯片供应链的多元化。这笔交易不仅为 AMD 带来了重要的订单，还可能通过股权投资深度绑定与这家领先 AI 公司的关系，共同推动 AI 硬件的发展。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
+            "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "title": "AMD 与 OpenAI 签署 AI 芯片供应协议，并获得其 10% 股权的认购权",
+            "date_modified": "2025-10-06T12:17:59.000Z"
         },
         {
-            "id": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
-            "content_html": "埃隆·马斯克的 SpaceX 公司正通过其星链项目大力推进直接-to-cell 手机服务。该计划旨在为全球智能手机提供无缝的卫星连接，直接与苹果的“紧急 SOS”功能以及 AT&T、Verizon 等传统运营商的卫星通信合作项目竞争。文章分析了星链计划的野心和潜在优势，并探讨马斯克如何利用技术和价格策略，试图颠覆现有的移动通信市场格局。 [<a href=\"https://news.ycombinator.com/item?id=45492522\" target=\"_blank\">评论</a>]",
-            "url": "https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/",
-            "title": "马斯克试图让苹果和移动运营商为选择星链竞争对手而后悔",
-            "date_modified": "2025-10-06T15:35:59.000Z"
+            "id": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
+            "content_html": "这篇文章是一份详细的指南，指导读者如何搭建和运行自己的 XMPP（可扩展通讯和表示协议）服务器。文章强调了自托管消息传递服务的优势，如数据隐私、控制权和免受商业服务政策变更的影响。它以 Prosody 为例，逐步讲解了服务器的安装、配置、域名设置、使用 TLS 加密以及管理用户等关键步骤。这篇文章为希望摆脱中心化聊天应用、建立私密通信渠道的技术爱好者提供了实用的入门教程。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
+            "url": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
+            "title": "现代消息传递：运行你自己的 XMPP 服务器",
+            "date_modified": "2025-10-06T12:02:45.000Z"
         },
         {
-            "id": "https://www.leadingsapiens.com/sources-of-power-in-organizations/",
-            "content_html": "这篇文章系统地剖析了在组织或企业环境中权力的多种来源。作者指出，权力并不仅仅来自于正式的职位或职级，还源于个人魅力、专业知识、控制关键资源、拥有强大的人际网络以及掌握信息等多个方面。文章详细阐述了每种权力来源的特点和作用机制，旨在帮助读者更深刻地理解组织动态，并更有效地运用和应对权力关系。 [<a href=\"https://news.ycombinator.com/item?id=45492519\" target=\"_blank\">评论</a>]",
-            "url": "https://www.leadingsapiens.com/sources-of-power-in-organizations/",
-            "title": "组织中的权力来源",
-            "date_modified": "2025-10-06T15:35:48.000Z"
+            "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "content_html": "2025年诺贝尔生理学或医学奖授予了 Victor Ambros 和 Gary Ruvkun，以表彰他们发现 microRNAs 的开创性贡献。他们的研究揭示了一种全新的基因调控机制，即 microRNAs 这种微小 RNA 分子如何在基因表达中发挥关键作用。这一发现彻底改变了我们对细胞如何分化以及身体如何运作的理解，并为癌症、病毒感染及其他多种疾病的研究开辟了新道路。他们的工作证明了基础科学研究对于理解生命和开发新疗法的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+            "title": "2025年诺贝尔生理学或医学奖",
+            "date_modified": "2025-10-06T09:41:16.000Z"
+        },
+        {
+            "id": "https://demodesk.com/careers",
+            "content_html": "Demodesk，一家 Y Combinator W19 孵化的公司，正在招聘一名 Ruby on Rails 工程师。Demodesk 提供一个智能销售会议平台，能够自动进行议程规划、实时记录和更新 CRM 系统。该职位要求候选人具备强大的 Ruby on Rails 开发经验，熟悉后端架构、API 设计和数据库管理。成功的候选人将加入一个致力于改变销售方式的团队，负责开发和维护平台的核心功能，以提升销售团队的效率和业绩。 [<a href=\"https://news.ycombinator.com/item?id=45489174\" target=\"_blank\">评论</a>]",
+            "url": "https://demodesk.com/careers",
+            "title": "Demodesk (YC W19) 招聘 Ruby on Rails 工程师",
+            "date_modified": "2025-10-06T08:49:30.000Z"
+        },
+        {
+            "id": "https://batteringram.eu/",
+            "content_html": "&quot;Battering RAM&quot; 是一项安全研究，揭示了一种针对机密计算环境的新型低成本攻击方法。研究者通过一种名为中介体攻击的技术，能够绕过基于硬件的安全隔离（如 Intel SGX），从被认为是安全的内存区域中窃取敏感数据。该攻击利用了硬件层面上的侧信道漏洞，成本相对低廉，但威胁巨大。这项研究挑战了人们对机密计算安全性的传统认知，并促使芯片制造商和软件开发者重新评估和加强其安全防护措施。 [<a href=\"https://news.ycombinator.com/item?id=45488713\" target=\"_blank\">评论</a>]",
+            "url": "https://batteringram.eu/",
+            "title": "Battering RAM – 针对机密计算的低成本中介体攻击",
+            "date_modified": "2025-10-06T07:47:17.000Z"
+        },
+        {
+            "id": "https://www.flightcontrol.dev/",
+            "content_html": "Flightcontrol 是一个平台即服务，它允许开发者将 web 应用程序、数据库和后台作业直接部署到他们自己的 AWS 账户中。它结合了 PaaS 的易用性和云基础设施的灵活性与控制权。用户只需连接他们的 GitHub 仓库和 AWS 账户，Flightcontrol 就会自动处理构建、发布、容器化和基础设施配置等复杂工作。这使团队能够专注于编写代码，同时保留对其云环境、数据和成本的全部所有权，无需成为 DevOps 专家。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
+            "url": "https://www.flightcontrol.dev/",
+            "title": "Flightcontrol: 一个部署到你的 AWS 账户的 PaaS 平台",
+            "date_modified": "2025-10-06T07:07:11.000Z"
+        },
+        {
+            "id": "https://structuredprocrastination.com",
+            "content_html": "&quot;结构化拖延法&quot;是斯坦福大学哲学教授 John Perry 提出的一种幽默而高效的拖延管理策略。其核心思想是，拖延者为了避免做最重要、最困难的任务，会转而完成其他次重要但同样具有价值的事情。因此，通过巧妙地调整待办事项列表的优先级，将看起来最重要但实际上不那么紧急的任务放在顶端，就可以利用拖延的倾向来推动其他有建设性工作的完成。这种方法承认拖延是人性的一部分，并将其转化为一种生产力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "url": "https://structuredprocrastination.com",
+            "title": "结构化拖延法 (1995)",
+            "date_modified": "2025-10-06T06:35:36.000Z"
+        },
+        {
+            "id": "https://gem.coop/",
+            "content_html": "Gem.coop 是一个基于合作模式（co-op）的数字平台或项目。虽然具体细节可能随时间变化，但此类平台通常旨在通过成员共同拥有的模式，提供比传统企业更公平、更透明或更具社群导向的服务。它可能涉及内容创作、软件开发、资源共享或金融服务等领域。核心理念是赋予成员决策权和收益权，强调社区福祉和协作而非利润最大化，旨在构建一个更加民主和去中心化的数字生态系统。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "url": "https://gem.coop/",
+            "title": "Gem.coop",
+            "date_modified": "2025-10-06T04:59:39.000Z"
+        },
+        {
+            "id": "https://blog.archive.org/trillion/",
+            "content_html": "互联网档案馆宣布其网页存档量已突破一万亿个大关。这是一个里程碑式的成就，标志着人类数字遗产得到了前所未有的广泛保存。自 1996 年以来，通过其 Wayback Machine 服务，档案馆持续抓取和存储网页，为研究人员、历史学家和公众提供了一个宝贵的数字时间胶囊。这个庞大的数据库记录了互联网的演化、文化变迁以及无数事件的原始记录，确保了这些信息能够被后代访问和学习，对抗了数字信息的易逝性。 [<a href=\"https://news.ycombinator.com/item?id=45487476\" target=\"_blank\">评论</a>]",
+            "url": "https://blog.archive.org/trillion/",
+            "title": "存档了一万亿个网页",
+            "date_modified": "2025-10-06T03:48:34.000Z"
+        },
+        {
+            "id": "https://vgel.me/posts/seahorse/",
+            "content_html": "这篇文章深入探讨了一个有趣的现象：当输入海马（🦓）表情符号时，一些大型语言模型会产生异常或重复的文本输出。作者通过一系列实验和模型分析，推测这可能是由于海马表情符号在模型的训练数据中具有某些独特的上下文关联或频率特征，或者与模型的分词器处理方式有关。这一现象揭示了 LLM 内部工作机制的复杂性和不可预测性，即使是看似简单的输入也可能触发模型行为的异常，为理解模型的潜在偏见和缺陷提供了独特视角。 [<a href=\"https://news.ycombinator.com/item?id=45487044\" target=\"_blank\">评论</a>]",
+            "url": "https://vgel.me/posts/seahorse/",
+            "title": "为什么大语言模型会对海马表情符号失控？",
+            "date_modified": "2025-10-06T02:20:05.000Z"
+        },
+        {
+            "id": "https://joinreboot.org/p/lighthouses-in-the-sky",
+            "content_html": "这篇文章探讨了持续在线位置共享应用所带来的隐私和伦理风险。作者认为，虽然这类应用（如分享实时位置给朋友或家人）提供了一种安全感和便利，但它们也创造了一种前所未有的、持续的亲密监控关系。这种监控可能被滥用，导致情感操控、控制和追踪，模糊了关爱与监视的界限。文章呼吁人们反思这种技术对人际关系和个人自主性的影响，并强调在享受便利的同时，必须警惕其背后潜藏的控制与危险。 [<a href=\"https://news.ycombinator.com/item?id=45485546\" target=\"_blank\">评论</a>]",
+            "url": "https://joinreboot.org/p/lighthouses-in-the-sky",
+            "title": "社交位置共享的危险亲密关系",
+            "date_modified": "2025-10-05T21:44:01.000Z"
+        },
+        {
+            "id": "https://fi-le.net/oss/",
+            "content_html": "这篇技术分析文章声称从一个名为 GPT-OSS 的开源模型中发现了关于 OpenAI 训练数据的线索。作者通过特定的提示词诱导模型输出了似乎是内部使用的文件名、路径和开发者标识符等敏感信息。文章推测，这个开源模型可能是基于 OpenAI 的某个未公开模型进行微调或蒸馏的，从而保留了部分原始训练数据的&quot;记忆&quot;。这一发现引发了关于 AI 模型数据泄露、知识产权以及开源模型安全性的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45483924\" target=\"_blank\">评论</a>]",
+            "url": "https://fi-le.net/oss/",
+            "title": "GPT-OSS 泄露了关于 OpenAI 训练数据的哪些信息",
+            "date_modified": "2025-10-05T18:28:16.000Z"
+        },
+        {
+            "id": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+            "content_html": "韩国政府国家养老金服务（NPS）的数据中心发生火灾，导致其云存储系统被完全摧毁。最严重的是，报告显示该系统没有任何可用的备份，意味着大量公民的养老金数据和敏感信息可能永久丢失。这起事件被形容为一场国家级的 IT 灾难，暴露了政府在关键基础设施管理和数据备份策略上的严重漏洞。事件引发了公众的强烈担忧和对政府数据处理能力的质疑，并促使当局对全国范围内的公共数据安全进行紧急审查。 [<a href=\"https://news.ycombinator.com/item?id=45483386\" target=\"_blank\">评论</a>]",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+            "title": "大火烧毁韩国政府云存储系统，无备份可用",
+            "date_modified": "2025-10-05T17:20:39.000Z"
+        },
+        {
+            "id": "https://www.abortretry.fail/p/the-qnx-operating-system",
+            "content_html": "这篇文章详细介绍了 QNX 操作系统的历史、架构和特点。QNX 是一款微内核架构的实时操作系统（RTOS），以其高可靠性、稳定性和安全性而闻名。文章解释了其微内核设计如何将大多数服务运行在用户空间，从而提高了系统的容错性和模块化。QNX 广泛应用于汽车信息娱乐系统、工业控制、医疗设备等对可靠性要求极高的领域。文章还探讨了它的发展历程，从一个小型项目成长为嵌入式系统中关键软件的历程。 [<a href=\"https://news.ycombinator.com/item?id=45481892\" target=\"_blank\">评论</a>]",
+            "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
+            "title": "QNX 操作系统",
+            "date_modified": "2025-10-05T14:47:13.000Z"
         }
     ]
 }
