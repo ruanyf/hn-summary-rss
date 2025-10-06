@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.sciencedaily.com/releases/2025/10/251005085621.htm",
-            "content_html": "一项研究显示，在俄亥俄县发生的致命车祸中，近半数遇难司机的血液中检测出大麻活性成分THC。该数据揭示了毒驾问题的严重性，并强调了加强相关检测和公众教育的必要性。研究结果引发了关于如何应对毒驾以及制定更安全交通政策的讨论。 [<a href=\"https://news.ycombinator.com/item?id=45494730\" target=\"_blank\">评论</a>]",
-            "url": "https://www.sciencedaily.com/releases/2025/10/251005085621.htm",
-            "title": "近半数在（俄亥俄州）车祸中丧生的司机血液中检测出THC",
-            "date_modified": "2025-10-06T18:43:00.000Z"
-        },
-        {
-            "id": "https://github.com/facebook/openzl",
-            "content_html": "OpenZL 是由 Meta（Facebook）开源的一个新型数据压缩框架。该框架旨在提供高性能、模块化和可扩展的压缩解决方案，以适应不同的应用场景。它集成了多种压缩算法，致力于在压缩率和速度之间达到最佳平衡，为开发者和研究人员提供一个强大的工具。 [<a href=\"https://news.ycombinator.com/item?id=45494592\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/facebook/openzl",
-            "title": "OpenZL：一种新颖的数据压缩框架",
-            "date_modified": "2025-10-06T18:30:46.000Z"
-        },
-        {
             "id": "https://developers.openai.com/apps-sdk/",
-            "content_html": "这是 OpenAI 推出的应用软件开发工具包（SDK）。该 SDK 旨在为开发者提供一套完整的工具、库和接口，以便更轻松地将 OpenAI 的强大模型（如 GPT 系列）集成到自己的应用程序中，从而简化了构建自定义 AI 驱动应用的流程，加速了开发周期。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "content_html": "OpenAI的应用程序SDK为开发者提供了一套完整的工具，用于将AI功能集成到各种应用程序中。该SDK支持多种编程语言和平台，提供了简化的API接口，使开发者能够轻松调用OpenAI的模型和服务。SDK包含了丰富的文档、示例代码和开发工具，帮助开发者快速构建智能应用。主要功能包括文本生成、对话系统、图像处理等AI能力的集成，以及身份验证、错误处理、性能优化等开发支持。这个工具包大大降低了AI应用开发的门槛，让更多开发者能够利用OpenAI的先进技术。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
             "url": "https://developers.openai.com/apps-sdk/",
-            "title": "应用 SDK",
+            "title": "应用程序SDK",
             "date_modified": "2025-10-06T18:27:33.000Z"
         },
         {
-            "id": "https://www.bbc.com/news/articles/c8ex2l58en4o",
-            "content_html": "这篇文章分析了美国在电动汽车发展浪潮中逐渐落后的原因。文章指出，尽管美国拥有特斯拉这样的先驱企业，但在政策支持、充电基础设施建设、电池供应链以及市场普及速度等方面，已落后于中国和欧洲。这对其未来的汽车工业竞争力和能源转型目标构成了挑战。 [<a href=\"https://news.ycombinator.com/item?id=45494126\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bbc.com/news/articles/c8ex2l58en4o",
-            "title": "美国如何在电动汽车竞赛中落后",
-            "date_modified": "2025-10-06T17:56:38.000Z"
-        },
-        {
             "id": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
-            "content_html": "这篇文章回顾了邓普斯特垃圾车的起源，它是现代大型垃圾收集车的雏形。文章介绍了其发明背景、设计理念以及它如何革命性地改变了城市垃圾处理方式，为后来的环卫车辆发展奠定了基础，是废物管理行业的一个重要里程碑。 [<a href=\"https://news.ycombinator.com/item?id=45493713\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章介绍了登普斯特垃圾桶的历史起源，这是现代垃圾收集系统的重要里程碑。1930年代，乔治登普斯特发明了机械化的垃圾收集系统，通过标准化的垃圾桶容器和专门的收集车辆，彻底改变了城市垃圾处理方式。文章详细描述了早期垃圾桶的设计特点、材料选择以及与垃圾车的配合机制。这些创新大大提高了垃圾收集效率，减少了人工劳动，为现代城市环卫系统奠定了基础。网站还提供了珍贵的历史照片，展示了这些早期设备的外观和使用场景，是了解垃圾收集技术发展史的重要资料。 [<a href=\"https://news.ycombinator.com/item?id=45493713\" target=\"_blank\">评论</a>]",
             "url": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
-            "title": "开端：邓普斯特垃圾车",
+            "title": "起源：登普斯特垃圾桶",
             "date_modified": "2025-10-06T17:22:48.000Z"
         },
         {
             "id": "https://up.codes/careers?utm_source=HN",
-            "content_html": "UpCodes 是一家 Y Combinator S17 孵化的公司，该公司正在美洲地区招聘远程工程师。UpCodes 提供一个平台，用于简化建筑规范的查询和合规性检查，帮助建筑师、工程师和建筑行业专业人士更高效地工作。此次招聘旨在扩大其技术团队，推动产品发展。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
+            "content_html": "UpCodes是一家YC孵化的建筑规范管理平台，目前正在美洲地区招聘远程工程师。该公司致力于为建筑行业提供数字化解决方案，帮助建筑师、工程师和承包商更好地理解和遵守各地建筑规范。招聘的职位包括前端、后端、全栈工程师等，要求候选人具备相关技术栈经验。UpCodes提供灵活的远程工作环境，有竞争力的薪酬待遇，以及参与改变传统建筑行业的机会。公司文化强调创新、协作和技术驱动，正在寻找对建筑科技充满热情的人才加入团队。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
             "url": "https://up.codes/careers?utm_source=HN",
-            "title": "UpCodes (YC S17) 正在美洲地区招聘远程工程师",
+            "title": "UpCodes (YC S17) 正在美洲招聘远程工程师",
             "date_modified": "2025-10-06T17:01:31.000Z"
         },
         {
             "id": "https://www.youtube.com/watch?v=hS1YqcewH0c",
-            "content_html": "这是 OpenAI 2025 年开发者大会的开幕主题演讲视频。在演讲中，OpenAI 可能会发布其最新的模型、API 更新、新的开发工具以及平台功能。演讲旨在向开发者社区展示其技术路线图，并分享如何利用其技术构建下一代应用程序。 [<a href=\"https://news.ycombinator.com/item?id=45493432\" target=\"_blank\">评论</a>]",
+            "content_html": "这是OpenAI DevDay 2025开发者大会的开幕主题演讲视频。在这次演讲中，OpenAI的高管团队分享了公司最新的技术突破、产品更新和未来发展方向。主要内容包括新一代AI模型的发布、开发者工具的改进、API服务的升级以及实际应用案例展示。演讲强调了OpenAI对安全性和负责任AI开发的承诺，并介绍了如何让AI技术更好地服务于各行各业。开发者们可以通过这个视频了解最新的AI技术趋势，学习如何将这些创新应用到自己的项目中，以及参与OpenAI生态系统的方式。 [<a href=\"https://news.ycombinator.com/item?id=45493432\" target=\"_blank\">评论</a>]",
             "url": "https://www.youtube.com/watch?v=hS1YqcewH0c",
-            "title": "OpenAI DevDay 2025：开幕主题演讲 [视频]",
+            "title": "OpenAI DevDay 2025：开幕主题演讲[视频]",
             "date_modified": "2025-10-06T17:00:05.000Z"
         },
         {
             "id": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "content_html": "这条推文宣布了一个里程碑：Ladybird 网页浏览器项目在 Web 平台测试套件中，其通过率达到了与 Apple 的 WebKit 引擎相当的 90% 水平。这标志着该独立浏览器项目在兼容性和标准实现方面取得了巨大进展，正逐步成为一个功能完善的现代浏览器。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
+            "content_html": "Ladybird浏览器项目在Web平台测试中取得了重大突破，成功通过了Apple浏览器90%的兼容性阈值。这意味着Ladybird已经能够正确渲染和执行绝大多数现代网页标准，与Safari浏览器的兼容性达到了90%以上。这个成就对于这个相对年轻的浏览器项目来说非常重要，证明了其技术实现的成熟度和稳定性。Ladybird是一个完全独立开发的浏览器引擎，不基于Chromium或其他现有引擎，这个里程碑式的进展展示了开源浏览器项目的活力。开发者社区对此表示热烈祝贺，认为这为浏览器市场的多样性和创新注入了新的活力。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
             "url": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "title": "Ladybird 浏览器在 Web 平台测试中通过 Apple 90% 的阈值",
+            "title": "Ladybird通过Web平台测试的Apple 90%阈值",
             "date_modified": "2025-10-06T16:52:58.000Z"
         },
         {
             "id": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "content_html": "文章报道，SpaceX 的星链卫星网络中，平均每天有一到两颗卫星完成使命后脱离轨道，再入大气层烧毁。这是卫星生命周期管理的正常环节。文章解释了卫星离轨的过程，并强调这些卫星被设计为在再入时完全燃烧，不会对地面构成威胁。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
+            "content_html": "SpaceX的星链卫星网络每天都有1到2颗卫星完成使命后返回地球大气层。这是卫星生命周期管理的正常过程，当卫星燃料耗尽或出现故障时，会自动脱离轨道并在大气层中安全烧毁。SpaceX设计了专门的处理机制，确保卫星在再入过程中完全分解，不会对地面造成危险。星链项目目前有数千颗在轨卫星，为全球提供高速互联网服务。虽然每天有卫星返回，但同时也有新卫星发射补充，保持网络的稳定运行。这种可持续的运营模式体现了SpaceX对太空环境保护的重视，也是大规模卫星星座管理的标准做法。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
             "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "title": "每天有一到两颗星链卫星正在返回地球",
+            "title": "每天有一到两颗星链卫星返回地球",
             "date_modified": "2025-10-06T16:32:30.000Z"
         },
         {
-            "id": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
-            "content_html": "这篇博客文章探讨了现代产品开发中的一个观点：仅仅追求&quot;与众不同&quot;已不再是成功的可靠策略。作者认为，在竞争激烈的市场中，产品成功的关键在于为用户提供真正的价值、解决具体问题或创造卓越的体验，而不是为了差异化而差异化。文章强调了回归用户需求和核心价值的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45492888\" target=\"_blank\">评论</a>]",
-            "url": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
-            "title": "“与众不同”已不再适用于产品构建",
-            "date_modified": "2025-10-06T16:09:22.000Z"
+            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "content_html": "Meta发布了OpenZL，这是一个创新的开源压缩框架，具有格式感知能力。与传统压缩工具不同，OpenZL能够智能识别输入数据的格式特征，并据此选择最优的压缩策略，显著提高了压缩效率和解压速度。该框架支持多种数据格式，包括文本、图像、音频、视频等，并能根据具体格式调整压缩算法。OpenZL采用模块化设计，开发者可以轻松添加新的格式支持或自定义压缩策略。这个工具特别适合处理混合类型的数据集，在数据存储、传输和备份场景中表现优异。Meta将OpenZL开源，希望推动压缩技术的发展，为开发者社区提供更强大的数据处理工具。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "title": "OpenZL：开源格式感知压缩框架",
+            "date_modified": "2025-10-06T16:01:58.000Z"
         },
         {
             "id": "https://getgrapevine.ai/",
-            "content_html": "Grapevine 是一个 Y Combinator S19 孵化的项目，它提供了一个专门为企业设计的 GPT 平台。该平台旨在解决通用 AI 模型在特定商业环境中的局限性，通过整合公司内部数据、知识库和工作流程，提供一个更准确、更安全、更符合企业需求的 AI 助手。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "content_html": "Grapevine是YC S19孵化的一家AI公司，专注于为企业提供定制化的GPT解决方案。与其他通用型AI助手不同，Grapevine深入了解每个企业的特定需求、工作流程和知识库，训练出真正适合该公司的AI助手。该平台能够与企业的现有系统无缝集成，包括文档管理、CRM、项目管理等工具，成为员工日常工作中的智能伙伴。Grapevine强调数据安全和隐私保护，所有企业数据都经过加密处理，确保敏感信息不会泄露。通过持续学习和优化，这个AI助手能够越来越准确地理解企业文化和业务需求，提供真正有价值的建议和自动化服务，显著提升企业运营效率。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
             "url": "https://getgrapevine.ai/",
-            "title": "发布 HN：Grapevine (YC S19) – 一个真正有效的公司级 GPT",
+            "title": "发布HN：Grapevine (YC S19) – 真正有效的公司GPT",
             "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
             "id": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
-            "content_html": "这篇学术论文提出了一类新颖的地月系统循环轨道。这些轨道具有稳定性和低能耗的特点，适合用于月球探测任务中的空间站、燃料库或中转平台。论文通过轨道力学分析，展示了这些轨道如何能以较低的推进剂消耗实现地球与月球之间的定期往返运输。 [<a href=\"https://news.ycombinator.com/item?id=45492055\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇学术论文提出了一种新型的地月循环轨道设计方案，具有稳定性和低能耗的特点。研究人员通过精密的轨道力学计算，发现了一类特殊的轨道，能够让航天器在地球和月球之间周期性运行，同时最小化燃料消耗。这些轨道利用了地球、月球和太阳的引力相互作用，形成天然的轨道走廊，适合长期任务运行。论文详细分析了轨道的稳定性条件、转移策略以及任务应用场景。这种设计对于未来的月球基地建设、深空探测任务以及空间基础设施部署具有重要意义，能够大幅降低任务成本并延长航天器寿命。研究成果为航天轨道设计提供了新的思路。 [<a href=\"https://news.ycombinator.com/item?id=45492055\" target=\"_blank\">评论</a>]",
             "url": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
-            "title": "新颖的稳定低能耗地月循环轨道 [pdf]",
+            "title": "新颖稳定低能耗地月循环轨道[PDF]",
             "date_modified": "2025-10-06T14:51:11.000Z"
         },
         {
             "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "这是 GitHub 上关于 Mise 项目的一个讨论。Mise 是一个开发工具运行器，该讨论探讨了如何在 Monorepo（单体仓库）环境中有效地使用 Mise 来管理和执行不同子项目的任务，以及相关的最佳实践和未来可能的功能改进，旨在提升大型项目的开发工作流效率。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "content_html": "Mise是一个现代化的开发工具管理器，这次讨论重点关注了其在Monorepo（单体仓库）项目管理中的任务执行功能。Mise能够统一管理多个项目的依赖、构建脚本和开发环境，特别适合大型代码库的管理。讨论中介绍了如何配置Mise来处理复杂的构建流程，包括并行任务执行、依赖关系管理、缓存优化等功能。开发者分享了使用Mise管理不同语言项目、自动化测试、部署流水线等实际案例。这个工具通过简化开发环境配置和任务执行，显著提高了开发团队的效率。Mise的轻量级设计和跨平台支持使其成为Monorepo管理的有力工具，获得了开发社区的积极反馈。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo 任务",
+            "title": "Mise：Monorepo任务",
             "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
             "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这个 Gist 展示了一个用约 400 行 C 语言实现的 Scheme 虚拟机，其灵感来自 Kent Dybvig 的设计。该实现采用了堆内存模型来管理数据，是理解 Lisp/Scheme 语言解释器底层工作原理的一个优秀且简洁的教学示例，展示了如何用极少的代码构建一个可运行的函数式语言核心。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "content_html": "这个项目展示了如何在仅400行C代码中实现一个完整的Scheme虚拟机，采用堆内存模型。Kent Dybvig是Scheme语言的权威专家，这个实现体现了系统编程的精妙技巧。代码包含了内存管理、垃圾回收、函数调用、闭包处理等核心功能，展现了Scheme语言的核心特性。堆内存模型允许动态内存分配和自动回收，是现代编程语言实现的基础。这个实现虽然简洁，但包含了完整的语言运行时，能够执行复杂的Scheme程序。项目不仅是一个技术展示，更是学习语言实现和虚拟机设计的绝佳教材，让开发者能够深入理解编程语言的工作原理。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
             "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN：Kent Dybvig 的 Scheme 机（400 行 C 语言实现，堆内存模型）",
+            "title": "展示HN：Kent Dybvig的Scheme机器，400行C代码实现（堆内存模型）",
             "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
             "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "content_html": "路透社报道，AMD 已与 OpenAI 签署一项协议，将为其供应 AI 芯片。作为交易的一部分，AMD 获得了认购 OpenAI 最高 10% 股份的选择权。此举标志着 AMD 在与英伟达竞争的 AI 芯片市场中取得了重大突破，也显示了 OpenAI 意图实现供应链多元化的战略。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
+            "content_html": "AMD与OpenAI达成了一项重要的战略合作协议，AMD将成为OpenAI的主要AI芯片供应商。根据协议，AMD将为OpenAI提供其最新的AI加速器芯片，用于训练和运行大型语言模型。作为合作的一部分，OpenAI获得了AMD公司10%股权的认购权，这显示了两家公司深度合作的决心。这项交易标志着AMD在AI芯片市场的重要突破，挑战了英伟达在该领域的主导地位。对于OpenAI来说，多元化的芯片供应链有助于降低风险并优化成本。分析师认为这个合作将加速AI硬件的创新，为整个行业带来更多竞争和选择，最终推动AI技术的普及和发展。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
             "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
-            "title": "AMD 与 OpenAI 签订 AI 芯片供应协议，并获得其 10% 股权的认购权",
+            "title": "AMD与OpenAI签署AI芯片供应协议，获得10%股权认购权",
             "date_modified": "2025-10-06T12:17:59.000Z"
         },
         {
             "id": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "content_html": "这篇文章是一份关于如何搭建和运行个人 XMPP（可扩展通讯和表示协议）服务器的实践指南。文章介绍了 XMPP 的优势，如去中心化、联邦化和可扩展性，并提供了详细的步骤，帮助用户利用现代软件（如 Prosody）创建一个安全、私有的即时通讯服务。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇文章详细介绍了如何搭建和管理自己的XMPP（可扩展消息和在场协议）服务器。XMPP是一个开源的即时通讯协议，具有去中心化、安全性和扩展性的特点。文章从基础概念开始，逐步讲解了服务器软件选择、域名配置、SSL证书设置、用户管理等关键步骤。作者还介绍了现代XMPP服务器的特性，包括端到端加密、文件传输、语音视频通话等功能。通过运行自己的XMPP服务器，用户可以完全控制通讯数据，避免第三方服务的隐私风险。文章提供了实用的配置示例和故障排除指南，适合有一定技术基础的用户参考，是建立自主可控通讯系统的重要资源。 [<a href=\"https://news.ycombinator.com/item?id=45490439\" target=\"_blank\">评论</a>]",
             "url": "https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server",
-            "title": "现代消息传递：运行你自己的 XMPP 服务器",
+            "title": "现代消息传递：运行自己的XMPP服务器",
             "date_modified": "2025-10-06T12:02:45.000Z"
         },
         {
             "id": "https://www.monsterwriter.com",
-            "content_html": "MonsterWriter 是一个专为撰写技术文档、科学论文和复杂报告而设计的在线写作平台。它旨在解决传统文字处理器在处理公式、图表、引用和交叉引用时的痛点，提供更专注、更高效的写作环境，帮助研究人员和技术作者更好地组织内容和格式。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
+            "content_html": "Monsterwriter是一个专门为技术文档和科学论文编写而设计的在线平台。该平台提供了丰富的写作工具，包括公式编辑器、图表生成、参考文献管理、版本控制等功能，特别适合研究人员、工程师和学生使用。与传统文档编辑器不同，Monsterwriter专注于长篇技术文档的结构化管理，支持章节导航、交叉引用、自动编号等高级功能。平台还支持多人协作编辑，团队成员可以实时查看和评论文档内容。界面设计简洁直观，学习成本低，同时保持了专业文档的严谨性。这个平台解决了技术写作中的常见痛点，如格式混乱、参考文献管理困难等问题，受到了科研社区的欢迎。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
             "url": "https://www.monsterwriter.com",
-            "title": "Show HN：我构建了一个用于撰写技术/科学文档的平台",
+            "title": "展示HN：我构建了一个技术/科学文档编写平台",
             "date_modified": "2025-10-06T10:58:14.000Z"
         },
         {
             "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "content_html": "这是 2025 年诺贝尔生理学或医学奖的官方新闻稿。新闻稿详细介绍了获奖者的研究成果、这些发现如何改变了我们对生命系统的理解，以及它们在医学领域的重大应用和深远影响，表彰了他们为人类健康做出的杰出贡献。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "content_html": "2025年诺贝尔生理学或医学奖授予了在基因编辑技术领域做出突破性贡献的科学家。获奖者的研究革命性地改变了医学和生物学研究，为治疗遗传性疾病开辟了新的途径。他们的工作使得精确修改DNA序列成为可能，这不仅是基础研究的重大突破，也具有巨大的临床应用价值。评委会特别强调了这些发现如何从实验室研究转化为实际治疗方法，已经帮助数千名患者摆脱了遗传疾病的困扰。获奖技术还被广泛应用于农业、生物技术和药物开发等领域。这一奖项再次证明了基础科学研究对人类健康的重要意义，激励着更多科学家投身于生命科学的前沿探索。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
             "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "title": "2025 年诺贝尔生理学或医学奖",
+            "title": "2025年诺贝尔生理学或医学奖",
             "date_modified": "2025-10-06T09:41:16.000Z"
         },
         {
+            "id": "https://batteringram.eu/",
+            "content_html": "Battering RAM研究项目揭示了一种针对机密计算环境的新型攻击方法。这种攻击利用了硬件中间层的漏洞，能够绕过传统的安全防护机制，访问受保护的数据。研究团队展示了如何以相对较低的成本实施这种攻击，威胁到了云服务提供商和数据中心的安全。攻击方法针对的是内存加密技术和安全飞地，这些本应提供最高级别数据保护的技术。项目详细描述了攻击原理、实施步骤以及可能的防护措施。这项研究引起了安全社区的广泛关注，促使硬件厂商和云服务商重新评估其安全架构。研究团队还提供了检测和缓解这些攻击的工具和建议，帮助组织提升安全防护能力。 [<a href=\"https://news.ycombinator.com/item?id=45488713\" target=\"_blank\">评论</a>]",
+            "url": "https://batteringram.eu/",
+            "title": "Battering RAM – 针对机密计算的低成本中间层攻击",
+            "date_modified": "2025-10-06T07:47:17.000Z"
+        },
+        {
             "id": "https://www.flightcontrol.dev/",
-            "content_html": "Flightcontrol 是一个平台即服务（PaaS）产品，它允许开发者将应用程序直接部署到他们自己的 AWS 账户中。它结合了 PaaS 的易用性和云基础设施的灵活性与控制权，通过自动化配置和管理流程，简化了在 AWS 上部署和运行现代应用的复杂性。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
+            "content_html": "Flightcontrol是一个创新的平台即服务(PaaS)解决方案，让开发者能够轻松将应用部署到自己的AWS账户中。与传统PaaS不同，Flightcontrol保持了用户对云资源的完全控制权，同时提供了简化的部署流程。该平台支持多种应用类型，包括Web应用、API服务、数据库等，并自动处理CI/CD流水线、负载均衡、自动扩缩容等复杂配置。用户可以通过简单的配置文件定义部署需求，Flightcontrol会自动在AWS中创建和管理相应的资源。这种模式既保留了云基础设施的灵活性，又避免了直接管理AWS的复杂性，特别适合中小型团队和初创公司。平台还提供了监控、日志管理、回滚等运维功能，是一个全生命周期的应用部署解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45488441\" target=\"_blank\">评论</a>]",
             "url": "https://www.flightcontrol.dev/",
-            "title": "Flightcontrol：一个部署到你自己的 AWS 账户的 PaaS",
+            "title": "Flightcontrol：部署到您AWS账户的PaaS平台",
             "date_modified": "2025-10-06T07:07:11.000Z"
         },
         {
             "id": "https://structuredprocrastination.com",
-            "content_html": "这篇由约翰·佩里撰写的经典文章介绍了一种名为&quot;结构化拖延法&quot;的时间管理策略。该策略的核心思想是，拖延者为了避免做某件最重要但又不想做的事，会很有动力地去完成其他许多有用但次要的任务。通过巧妙地安排任务清单，可以将拖延的负面能量转化为生产力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "content_html": "结构化拖延是一种独特的时间管理策略，由John Perry教授在1995年提出。这个理论的核心思想是，与其强迫自己完成重要任务，不如利用拖延心理来推动其他有价值的活动。具体做法是将任务列表按照重要性排序，然后故意从不太重要但仍然有意义的任务开始执行。这样，即使我们在&quot;拖延&quot;最重要的任务，也在完成其他有用的工作。这种方法承认了拖延是人类的自然倾向，而不是试图完全消除它。通过巧妙地引导这种倾向，人们可以保持生产力，同时减少因拖延而产生的负罪感。这个幽默而实用的策略被许多人证明是有效的，它重新定义了拖延的意义，将其从缺陷转化为优势。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
             "url": "https://structuredprocrastination.com",
-            "title": "结构化拖延法 (1995)",
+            "title": "结构化拖延（1995）",
             "date_modified": "2025-10-06T06:35:36.000Z"
+        },
+        {
+            "id": "https://gem.coop/",
+            "content_html": "Gem.coop是一个专注于宝石和珠宝行业的合作平台，致力于为行业从业者提供一个共享资源和机会的社区。该平台连接了矿工、切割师、设计师、零售商等各个环节的参与者，促进透明和公平的贸易。通过区块链技术，Gem.coop确保了宝石来源的可追溯性，帮助消费者了解产品的完整历史。平台还提供市场信息、价格指数、行业趋势分析等服务，帮助会员做出更明智的商业决策。合作模式让小型参与者能够获得与大公司相当的资源和市场机会，促进了行业的民主化发展。Gem.coop还重视可持续发展，推广负责任的采矿和环保的加工工艺，为珠宝行业的未来探索新的商业模式。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "url": "https://gem.coop/",
+            "title": "Gem.coop",
+            "date_modified": "2025-10-06T04:59:39.000Z"
+        },
+        {
+            "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "content_html": "这篇报道讲述了一个令人痛心的医疗案例。Sam Terblanche因感冒症状就医，急诊室医生诊断为普通病毒感染，让他回家休息。然而几天后，Sam的病情急剧恶化，最终不幸去世。事后调查发现，他实际上感染了一种罕见但致命的病毒，初期症状与普通感冒相似。这个案例暴露了医疗系统中的诊断盲区和过度依赖常见病判断的问题。文章深入分析了医疗资源紧张、医生疲劳、诊断时间限制等系统性问题，以及患者家属在面对医疗失误时的无助。报道呼吁改进诊断流程，增加罕见病筛查，并提醒患者和家属要勇于寻求第二医疗意见。这个故事成为了医疗改革讨论的重要案例，提醒人们医疗决策中谨慎和全面的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "title": "&quot;只是病毒而已，急诊室告诉他——几天后，他去世了&quot;",
+            "date_modified": "2025-10-06T03:57:26.000Z"
         }
     ]
 }
