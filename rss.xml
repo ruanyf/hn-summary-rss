@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 20:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 20:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[应用程序SDK]]></title>
-            <link>https://developers.openai.com/apps-sdk/</link>
-            <guid isPermaLink="false">https://developers.openai.com/apps-sdk/</guid>
-            <pubDate>Mon, 06 Oct 2025 18:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI的应用程序SDK为开发者提供了一套完整的工具，用于将AI功能集成到各种应用程序中。该SDK支持多种编程语言和平台，提供了简化的API接口，使开发者能够轻松调用OpenAI的模型和服务。SDK包含了丰富的文档、示例代码和开发工具，帮助开发者快速构建智能应用。主要功能包括文本生成、对话系统、图像处理等AI能力的集成，以及身份验证、错误处理、性能优化等开发支持。这个工具包大大降低了AI应用开发的门槛，让更多开发者能够利用OpenAI的先进技术。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[超越地平线：世界纪录长距离照片443公里，比利牛斯山的芬斯特雷尔斯峰]]></title>
+            <link>https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/</link>
+            <guid isPermaLink="false">https://beyondrange.wordpress.com/2016/08/03/pic-de-finestrelles-pic-gaspard-ecrins-443-km/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[本文记录了一项世界纪录：摄影师在比利牛斯山的芬斯特雷尔斯峰成功拍摄到了443公里外阿尔卑斯山的加斯帕德峰。这次摄影的成功依赖于罕见的大气条件，特别是温度逆转现象，它使得光线能够沿着地球曲率弯曲。文章详细解释了拍摄背后的科学原理、所使用的设备以及这次成就的意义，证明了在特定条件下，肉眼和相机可以捕捉到远超地平线的惊人景象。 [<a href="https://news.ycombinator.com/item?id=45496086" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[起源：登普斯特垃圾桶]]></title>
-            <link>https://www.classicrefusetrucks.com/albums/DE/DE01.html</link>
-            <guid isPermaLink="false">https://www.classicrefusetrucks.com/albums/DE/DE01.html</guid>
-            <pubDate>Mon, 06 Oct 2025 17:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了登普斯特垃圾桶的历史起源，这是现代垃圾收集系统的重要里程碑。1930年代，乔治登普斯特发明了机械化的垃圾收集系统，通过标准化的垃圾桶容器和专门的收集车辆，彻底改变了城市垃圾处理方式。文章详细描述了早期垃圾桶的设计特点、材料选择以及与垃圾车的配合机制。这些创新大大提高了垃圾收集效率，减少了人工劳动，为现代城市环卫系统奠定了基础。网站还提供了珍贵的历史照片，展示了这些早期设备的外观和使用场景，是了解垃圾收集技术发展史的重要资料。 [<a href="https://news.ycombinator.com/item?id=45493713" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[简讯：暑期读物]]></title>
+            <link>https://www.thepsmiths.com/p/briefly-noted-summer-reading</link>
+            <guid isPermaLink="false">https://www.thepsmiths.com/p/briefly-noted-summer-reading</guid>
+            <pubDate>Mon, 06 Oct 2025 20:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[这是一篇关于暑期阅读推荐的博客文章。作者分享了一系列适合夏天阅读的书籍，涵盖了不同类型和主题，为读者提供了丰富的选择。文章以轻松的笔触介绍了每本书的亮点，旨在鼓励人们在假期中通过阅读来放松和充实自己，享受知识的乐趣。 [<a href="https://news.ycombinator.com/item?id=45496057" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[UpCodes (YC S17) 正在美洲招聘远程工程师]]></title>
-            <link>https://up.codes/careers?utm_source=HN</link>
-            <guid isPermaLink="false">https://up.codes/careers?utm_source=HN</guid>
-            <pubDate>Mon, 06 Oct 2025 17:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[UpCodes是一家YC孵化的建筑规范管理平台，目前正在美洲地区招聘远程工程师。该公司致力于为建筑行业提供数字化解决方案，帮助建筑师、工程师和承包商更好地理解和遵守各地建筑规范。招聘的职位包括前端、后端、全栈工程师等，要求候选人具备相关技术栈经验。UpCodes提供灵活的远程工作环境，有竞争力的薪酬待遇，以及参与改变传统建筑行业的机会。公司文化强调创新、协作和技术驱动，正在寻找对建筑科技充满热情的人才加入团队。 [<a href="https://news.ycombinator.com/item?id=45493453" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[是事情本身简单，还是仅仅是尝试起来简单？]]></title>
+            <link>https://nik.art/is-it-easy-or-just-easy-to-try/</link>
+            <guid isPermaLink="false">https://nik.art/is-it-easy-or-just-easy-to-try/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了&quot;容易&quot;的两种含义：事情本身简单，还是仅仅是&quot;开始尝试&quot;这个动作简单。作者认为，许多事情之所以让人觉得&quot;容易开始&quot;，是因为尝试的门槛很低，但这并不意味着完成它就很容易。文章鼓励人们思考这种区别，以更好地管理期望和坚持到底，避免因低估难度而轻易放弃。 [<a href="https://news.ycombinator.com/item?id=45496049" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenAI DevDay 2025：开幕主题演讲[视频]]]></title>
-            <link>https://www.youtube.com/watch?v=hS1YqcewH0c</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=hS1YqcewH0c</guid>
-            <pubDate>Mon, 06 Oct 2025 17:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[这是OpenAI DevDay 2025开发者大会的开幕主题演讲视频。在这次演讲中，OpenAI的高管团队分享了公司最新的技术突破、产品更新和未来发展方向。主要内容包括新一代AI模型的发布、开发者工具的改进、API服务的升级以及实际应用案例展示。演讲强调了OpenAI对安全性和负责任AI开发的承诺，并介绍了如何让AI技术更好地服务于各行各业。开发者们可以通过这个视频了解最新的AI技术趋势，学习如何将这些创新应用到自己的项目中，以及参与OpenAI生态系统的方式。 [<a href="https://news.ycombinator.com/item?id=45493432" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[安全模型：Linux中的Wayland与Xorg对比]]></title>
+            <link>https://openlib.io/security-model-wayland-vs-xorg-in-linux/</link>
+            <guid isPermaLink="false">https://openlib.io/security-model-wayland-vs-xorg-in-linux/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[本文深入比较了Linux系统中两种主流显示服务器协议Wayland和Xorg的安全模型。文章指出，Xorg的设计年代久远，其安全架构存在先天缺陷，例如任何程序都可以截屏或记录按键。而Wayland从设计之初就采用了更严格的安全模型，通过隔离应用程序的输入和输出，有效防止了恶意程序的窥探，从而提供了更强的安全保障。 [<a href="https://news.ycombinator.com/item?id=45496029" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ladybird通过Web平台测试的Apple 90%阈值]]></title>
-            <link>https://twitter.com/awesomekling/status/1974781722953953601</link>
-            <guid isPermaLink="false">https://twitter.com/awesomekling/status/1974781722953953601</guid>
-            <pubDate>Mon, 06 Oct 2025 16:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[Ladybird浏览器项目在Web平台测试中取得了重大突破，成功通过了Apple浏览器90%的兼容性阈值。这意味着Ladybird已经能够正确渲染和执行绝大多数现代网页标准，与Safari浏览器的兼容性达到了90%以上。这个成就对于这个相对年轻的浏览器项目来说非常重要，证明了其技术实现的成熟度和稳定性。Ladybird是一个完全独立开发的浏览器引擎，不基于Chromium或其他现有引擎，这个里程碑式的进展展示了开源浏览器项目的活力。开发者社区对此表示热烈祝贺，认为这为浏览器市场的多样性和创新注入了新的活力。 [<a href="https://news.ycombinator.com/item?id=45493358" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: 我们一直缺少的开源、原生强化学习可观测性框架]]></title>
+            <link>https://github.com/kaushikb11/verifiers-monitor</link>
+            <guid isPermaLink="false">https://github.com/kaushikb11/verifiers-monitor</guid>
+            <pubDate>Mon, 06 Oct 2025 20:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个GitHub项目，介绍了一个名为&quot;verifiers-monitor&quot;的开源框架。该框架专门为强化学习（RL）设计，旨在提供原生的可观测性功能。它解决了在开发和调试RL智能体时难以监控其内部状态和行为的痛点。通过这个工具，开发者可以更直观地理解和分析其RL模型的训练过程和决策逻辑，从而提升开发效率和模型性能。 [<a href="https://news.ycombinator.com/item?id=45496023" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[每天有一到两颗星链卫星返回地球]]></title>
-            <link>https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/</link>
-            <guid isPermaLink="false">https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/</guid>
-            <pubDate>Mon, 06 Oct 2025 16:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[SpaceX的星链卫星网络每天都有1到2颗卫星完成使命后返回地球大气层。这是卫星生命周期管理的正常过程，当卫星燃料耗尽或出现故障时，会自动脱离轨道并在大气层中安全烧毁。SpaceX设计了专门的处理机制，确保卫星在再入过程中完全分解，不会对地面造成危险。星链项目目前有数千颗在轨卫星，为全球提供高速互联网服务。虽然每天有卫星返回，但同时也有新卫星发射补充，保持网络的稳定运行。这种可持续的运营模式体现了SpaceX对太空环境保护的重视，也是大规模卫星星座管理的标准做法。 [<a href="https://news.ycombinator.com/item?id=45493143" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[关于被阻止为Lodash做贡献的经历]]></title>
+            <link>https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</link>
+            <guid isPermaLink="false">https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[作者分享了自己试图为著名JavaScript库Lodash贡献代码时被阻止的经历。文章详细描述了作者发现的一个潜在问题，并精心准备了一个Pull Request。然而，他不仅没有得到积极的反馈，反而被项目维护者直接封禁，无法再进行任何贡献。作者通过此事反思了开源社区的沟通、权力动态以及新贡献者可能遇到的障碍。 [<a href="https://news.ycombinator.com/item?id=45496005" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OpenZL：开源格式感知压缩框架]]></title>
-            <link>https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</link>
-            <guid isPermaLink="false">https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</guid>
-            <pubDate>Mon, 06 Oct 2025 16:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[Meta发布了OpenZL，这是一个创新的开源压缩框架，具有格式感知能力。与传统压缩工具不同，OpenZL能够智能识别输入数据的格式特征，并据此选择最优的压缩策略，显著提高了压缩效率和解压速度。该框架支持多种数据格式，包括文本、图像、音频、视频等，并能根据具体格式调整压缩算法。OpenZL采用模块化设计，开发者可以轻松添加新的格式支持或自定义压缩策略。这个工具特别适合处理混合类型的数据集，在数据存储、传输和备份场景中表现优异。Meta将OpenZL开源，希望推动压缩技术的发展，为开发者社区提供更强大的数据处理工具。 [<a href="https://news.ycombinator.com/item?id=45492803" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[又一个泡沫要来了 [视频]]]></title>
+            <link>https://www.youtube.com/watch?v=I6IQ_FOCE6I</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=I6IQ_FOCE6I</guid>
+            <pubDate>Mon, 06 Oct 2025 20:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个发布在YouTube上的视频，内容是一首关于经济泡沫的讽刺歌曲。视频通过幽默的歌词和旋律，回顾了历史上的互联网泡沫，并影射了当前可能存在的类似市场现象，特别是对科技和投资热潮的批判。它旨在提醒观众对市场狂热保持警惕，并以娱乐方式引发人们对经济周期的思考。 [<a href="https://news.ycombinator.com/item?id=45495946" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[发布HN：Grapevine (YC S19) – 真正有效的公司GPT]]></title>
-            <link>https://getgrapevine.ai/</link>
-            <guid isPermaLink="false">https://getgrapevine.ai/</guid>
-            <pubDate>Mon, 06 Oct 2025 15:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[Grapevine是YC S19孵化的一家AI公司，专注于为企业提供定制化的GPT解决方案。与其他通用型AI助手不同，Grapevine深入了解每个企业的特定需求、工作流程和知识库，训练出真正适合该公司的AI助手。该平台能够与企业的现有系统无缝集成，包括文档管理、CRM、项目管理等工具，成为员工日常工作中的智能伙伴。Grapevine强调数据安全和隐私保护，所有企业数据都经过加密处理，确保敏感信息不会泄露。通过持续学习和优化，这个AI助手能够越来越准确地理解企业文化和业务需求，提供真正有价值的建议和自动化服务，显著提升企业运营效率。 [<a href="https://news.ycombinator.com/item?id=45492564" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[一个通往云代码执行沙箱的通用API]]></title>
+            <link>https://cased.com/blog/2025-10-05-sandboxes</link>
+            <guid isPermaLink="false">https://cased.com/blog/2025-10-05-sandboxes</guid>
+            <pubDate>Mon, 06 Oct 2025 20:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章介绍了一个旨在统一云代码执行沙箱的通用API。开发者们经常面临在AWS Lambda、Google Cloud Functions等不同平台间切换的麻烦，每个平台都有其独特的API和配置。这个通用API的目标是提供一个标准化的接口，让开发者可以用同一套代码在不同的云服务商的沙箱环境中运行，从而简化开发流程，提高代码的可移植性。 [<a href="https://news.ycombinator.com/item?id=45495945" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[新颖稳定低能耗地月循环轨道[PDF]]]></title>
-            <link>https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf</link>
-            <guid isPermaLink="false">https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf</guid>
-            <pubDate>Mon, 06 Oct 2025 14:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[这篇学术论文提出了一种新型的地月循环轨道设计方案，具有稳定性和低能耗的特点。研究人员通过精密的轨道力学计算，发现了一类特殊的轨道，能够让航天器在地球和月球之间周期性运行，同时最小化燃料消耗。这些轨道利用了地球、月球和太阳的引力相互作用，形成天然的轨道走廊，适合长期任务运行。论文详细分析了轨道的稳定性条件、转移策略以及任务应用场景。这种设计对于未来的月球基地建设、深空探测任务以及空间基础设施部署具有重要意义，能够大幅降低任务成本并延长航天器寿命。研究成果为航天轨道设计提供了新的思路。 [<a href="https://news.ycombinator.com/item?id=45492055" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Pathway公司宣布AI推理技术取得突破]]></title>
+            <link>https://www.polskieradio.pl/395/7784/artykul/3588855,polish-scientists-startup-pathway-announces-ai-reasoning-breakthrough</link>
+            <guid isPermaLink="false">https://www.polskieradio.pl/395/7784/artykul/3588855,polish-scientists-startup-pathway-announces-ai-reasoning-breakthrough</guid>
+            <pubDate>Mon, 06 Oct 2025 20:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[波兰初创公司Pathway宣布其在人工智能推理领域取得了重大突破。该公司的技术能够让AI系统更有效地处理复杂和实时的数据流，进行更接近人类的逻辑推理。这项突破有望在金融、物联网和自动驾驶等多个领域产生深远影响，帮助AI从简单的模式识别向更高级的决策支持转变。文章强调了这项技术对于推动AI应用发展的重要性。 [<a href="https://news.ycombinator.com/item?id=45495923" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mise：Monorepo任务]]></title>
-            <link>https://github.com/jdx/mise/discussions/6564</link>
-            <guid isPermaLink="false">https://github.com/jdx/mise/discussions/6564</guid>
-            <pubDate>Mon, 06 Oct 2025 14:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[Mise是一个现代化的开发工具管理器，这次讨论重点关注了其在Monorepo（单体仓库）项目管理中的任务执行功能。Mise能够统一管理多个项目的依赖、构建脚本和开发环境，特别适合大型代码库的管理。讨论中介绍了如何配置Mise来处理复杂的构建流程，包括并行任务执行、依赖关系管理、缓存优化等功能。开发者分享了使用Mise管理不同语言项目、自动化测试、部署流水线等实际案例。这个工具通过简化开发环境配置和任务执行，显著提高了开发团队的效率。Mise的轻量级设计和跨平台支持使其成为Monorepo管理的有力工具，获得了开发社区的积极反馈。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[去中心化的专制与国际无政府状态的幻觉 [pdf]]]></title>
+            <link>https://isonomiaquarterly.com/wp-content/uploads/2025/07/zellen-l-s-2.pdf</link>
+            <guid isPermaLink="false">https://isonomiaquarterly.com/wp-content/uploads/2025/07/zellen-l-s-2.pdf</guid>
+            <pubDate>Mon, 06 Oct 2025 20:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[这是一篇学术论文的PDF文件，探讨了国际关系理论。作者挑战了传统国际体系处于&quot;无政府状态&quot;的观点，提出了&quot;去中心化专制&quot;的概念。文章认为，全球权力结构并非无序，而是通过一种分散的、非中心化的方式实施控制，形成了一种新型的专制形式，从而制造了无政府的幻觉。该理论为理解当代全球治理和权力运作提供了新的视角。 [<a href="https://news.ycombinator.com/item?id=45495906" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：Kent Dybvig的Scheme机器，400行C代码实现（堆内存模型）]]></title>
-            <link>https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</link>
-            <guid isPermaLink="false">https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</guid>
-            <pubDate>Mon, 06 Oct 2025 14:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[这个项目展示了如何在仅400行C代码中实现一个完整的Scheme虚拟机，采用堆内存模型。Kent Dybvig是Scheme语言的权威专家，这个实现体现了系统编程的精妙技巧。代码包含了内存管理、垃圾回收、函数调用、闭包处理等核心功能，展现了Scheme语言的核心特性。堆内存模型允许动态内存分配和自动回收，是现代编程语言实现的基础。这个实现虽然简洁，但包含了完整的语言运行时，能够执行复杂的Scheme程序。项目不仅是一个技术展示，更是学习语言实现和虚拟机设计的绝佳教材，让开发者能够深入理解编程语言的工作原理。 [<a href="https://news.ycombinator.com/item?id=45491609" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[潜伏在Redis源码中13年的10级漏洞可能导致RCE]]></title>
+            <link>https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[安全研究人员在广泛使用的内存数据库Redis的源代码中发现了一个潜伏了长达13年的严重漏洞。该漏洞被评级为10级（最高危），允许攻击者在特定条件下实现远程代码执行（RCE）。文章解释了漏洞的技术细节，并强调了其潜在影响，因为Redis被无数大型网站和服务所依赖。Redis官方已发布修复补丁，敦促用户立即更新。 [<a href="https://news.ycombinator.com/item?id=45495886" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD与OpenAI签署AI芯片供应协议，获得10%股权认购权]]></title>
-            <link>https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</link>
-            <guid isPermaLink="false">https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</guid>
-            <pubDate>Mon, 06 Oct 2025 12:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[AMD与OpenAI达成了一项重要的战略合作协议，AMD将成为OpenAI的主要AI芯片供应商。根据协议，AMD将为OpenAI提供其最新的AI加速器芯片，用于训练和运行大型语言模型。作为合作的一部分，OpenAI获得了AMD公司10%股权的认购权，这显示了两家公司深度合作的决心。这项交易标志着AMD在AI芯片市场的重要突破，挑战了英伟达在该领域的主导地位。对于OpenAI来说，多元化的芯片供应链有助于降低风险并优化成本。分析师认为这个合作将加速AI硬件的创新，为整个行业带来更多竞争和选择，最终推动AI技术的普及和发展。 [<a href="https://news.ycombinator.com/item?id=45490549" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[硅谷是否在重蹈 dot-com 泡沫的覆辙，陷入 AI 狂热？]]></title>
+            <link>https://www.latimes.com/business/story/2025-10-06/why-fears-of-a-trillion-dollar-ai-bubble-are-growing</link>
+            <guid isPermaLink="false">https://www.latimes.com/business/story/2025-10-06/why-fears-of-a-trillion-dollar-ai-bubble-are-growing</guid>
+            <pubDate>Mon, 06 Oct 2025 20:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了当前人工智能领域的投资热潮是否正在形成一个新的经济泡沫，类似于21世纪初的互联网泡沫。作者引用了多位经济学家和投资者的观点，指出AI公司估值飙升与其当前的实际收入和盈利能力严重不符。文章分析了市场狂热的迹象，如巨额资金涌入和对未来回报的过度乐观，并对可能到来的市场调整提出了担忧。 [<a href="https://news.ycombinator.com/item?id=45495865" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[现代消息传递：运行自己的XMPP服务器]]></title>
-            <link>https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server</link>
-            <guid isPermaLink="false">https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server</guid>
-            <pubDate>Mon, 06 Oct 2025 12:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了如何搭建和管理自己的XMPP（可扩展消息和在场协议）服务器。XMPP是一个开源的即时通讯协议，具有去中心化、安全性和扩展性的特点。文章从基础概念开始，逐步讲解了服务器软件选择、域名配置、SSL证书设置、用户管理等关键步骤。作者还介绍了现代XMPP服务器的特性，包括端到端加密、文件传输、语音视频通话等功能。通过运行自己的XMPP服务器，用户可以完全控制通讯数据，避免第三方服务的隐私风险。文章提供了实用的配置示例和故障排除指南，适合有一定技术基础的用户参考，是建立自主可控通讯系统的重要资源。 [<a href="https://news.ycombinator.com/item?id=45490439" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[反重力式单日AI股票飙升是最新泡沫信号]]></title>
+            <link>https://www.axios.com/2025/10/06/amd-ai-bubble-stock-market</link>
+            <guid isPermaLink="false">https://www.axios.com/2025/10/06/amd-ai-bubble-stock-market</guid>
+            <pubDate>Mon, 06 Oct 2025 20:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[本文聚焦于近期AI相关股票出现的单日大幅飙升现象，并将其视为市场泡沫的信号。文章以AMD等公司为例，指出其股价在短时间内因与AI相关的消息或预期而急剧上涨，这种脱离基本面的表现类似于历史上的投机狂热。分析师认为，这种&quot;反重力&quot;式的上涨虽然反映了市场对AI的极度热情，但也预示着潜在的高风险和不稳定性。 [<a href="https://news.ycombinator.com/item?id=45495857" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：我构建了一个技术/科学文档编写平台]]></title>
-            <link>https://www.monsterwriter.com</link>
-            <guid isPermaLink="false">https://www.monsterwriter.com</guid>
-            <pubDate>Mon, 06 Oct 2025 10:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[Monsterwriter是一个专门为技术文档和科学论文编写而设计的在线平台。该平台提供了丰富的写作工具，包括公式编辑器、图表生成、参考文献管理、版本控制等功能，特别适合研究人员、工程师和学生使用。与传统文档编辑器不同，Monsterwriter专注于长篇技术文档的结构化管理，支持章节导航、交叉引用、自动编号等高级功能。平台还支持多人协作编辑，团队成员可以实时查看和评论文档内容。界面设计简洁直观，学习成本低，同时保持了专业文档的严谨性。这个平台解决了技术写作中的常见痛点，如格式混乱、参考文献管理困难等问题，受到了科研社区的欢迎。 [<a href="https://news.ycombinator.com/item?id=45489999" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[从化石燃料到绿色资本主义：公正能源转型的困境]]></title>
+            <link>https://www.nature.com/articles/d41586-025-03224-z</link>
+            <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03224-z</guid>
+            <pubDate>Mon, 06 Oct 2025 20:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[这篇发表于《自然》的文章探讨了全球能源转型过程中面临的核心困境。文章指出，向绿色能源的转变不仅是一个技术问题，更是一个深刻的社会和经济问题。它批判了&quot;绿色资本主义&quot;的解决方案，认为这种模式可能无法实现真正的&quot;公正转型&quot;，反而可能加剧现有的不平等，例如在发展中国家和弱势社区中产生新的环境和社会成本。 [<a href="https://news.ycombinator.com/item?id=45495799" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025年诺贝尔生理学或医学奖]]></title>
-            <link>https://www.nobelprize.org/prizes/medicine/2025/press-release/</link>
-            <guid isPermaLink="false">https://www.nobelprize.org/prizes/medicine/2025/press-release/</guid>
-            <pubDate>Mon, 06 Oct 2025 09:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025年诺贝尔生理学或医学奖授予了在基因编辑技术领域做出突破性贡献的科学家。获奖者的研究革命性地改变了医学和生物学研究，为治疗遗传性疾病开辟了新的途径。他们的工作使得精确修改DNA序列成为可能，这不仅是基础研究的重大突破，也具有巨大的临床应用价值。评委会特别强调了这些发现如何从实验室研究转化为实际治疗方法，已经帮助数千名患者摆脱了遗传疾病的困扰。获奖技术还被广泛应用于农业、生物技术和药物开发等领域。这一奖项再次证明了基础科学研究对人类健康的重要意义，激励着更多科学家投身于生命科学的前沿探索。 [<a href="https://news.ycombinator.com/item?id=45489533" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[简·古道尔称她将把特朗普和马斯克送上单程太空之旅]]></title>
+            <link>https://www.theguardian.com/science/2025/oct/06/jane-goodall-trump-elon-musk-putin</link>
+            <guid isPermaLink="false">https://www.theguardian.com/science/2025/oct/06/jane-goodall-trump-elon-musk-putin</guid>
+            <pubDate>Mon, 06 Oct 2025 20:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[著名灵长类动物学家简·古道尔在一次采访中发表了引人注目的言论。她开玩笑说，如果可能，她希望将唐纳德·特朗普、埃隆·马斯克以及弗拉基米尔·普京等人送上单程的太空之旅。这番言论表达了她对这些世界领导人在环境政策和全球领导力方面的失望。文章借此引述了古道尔对气候变化和环境破坏的深切忧虑。 [<a href="https://news.ycombinator.com/item?id=45495785" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Battering RAM – 针对机密计算的低成本中间层攻击]]></title>
-            <link>https://batteringram.eu/</link>
-            <guid isPermaLink="false">https://batteringram.eu/</guid>
-            <pubDate>Mon, 06 Oct 2025 07:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[Battering RAM研究项目揭示了一种针对机密计算环境的新型攻击方法。这种攻击利用了硬件中间层的漏洞，能够绕过传统的安全防护机制，访问受保护的数据。研究团队展示了如何以相对较低的成本实施这种攻击，威胁到了云服务提供商和数据中心的安全。攻击方法针对的是内存加密技术和安全飞地，这些本应提供最高级别数据保护的技术。项目详细描述了攻击原理、实施步骤以及可能的防护措施。这项研究引起了安全社区的广泛关注，促使硬件厂商和云服务商重新评估其安全架构。研究团队还提供了检测和缓解这些攻击的工具和建议，帮助组织提升安全防护能力。 [<a href="https://news.ycombinator.com/item?id=45488713" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[将Cython翻译成Mojo的初次尝试]]></title>
+            <link>https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</link>
+            <guid isPermaLink="false">https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[这是一篇技术博客，记录了作者首次尝试将Cython代码翻译成Mojo编程语言的经历。作者以scikit-learn库中DBSCAN算法的内部循环为例，详细描述了翻译过程。文章比较了两种语言的语法和性能特点，并展示了Mojo在性能和与Python生态系统集成方面的潜力。这次尝试旨在探索Mojo作为Python高性能计算替代方案的可行性。 [<a href="https://news.ycombinator.com/item?id=45495738" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flightcontrol：部署到您AWS账户的PaaS平台]]></title>
-            <link>https://www.flightcontrol.dev/</link>
-            <guid isPermaLink="false">https://www.flightcontrol.dev/</guid>
-            <pubDate>Mon, 06 Oct 2025 07:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[Flightcontrol是一个创新的平台即服务(PaaS)解决方案，让开发者能够轻松将应用部署到自己的AWS账户中。与传统PaaS不同，Flightcontrol保持了用户对云资源的完全控制权，同时提供了简化的部署流程。该平台支持多种应用类型，包括Web应用、API服务、数据库等，并自动处理CI/CD流水线、负载均衡、自动扩缩容等复杂配置。用户可以通过简单的配置文件定义部署需求，Flightcontrol会自动在AWS中创建和管理相应的资源。这种模式既保留了云基础设施的灵活性，又避免了直接管理AWS的复杂性，特别适合中小型团队和初创公司。平台还提供了监控、日志管理、回滚等运维功能，是一个全生命周期的应用部署解决方案。 [<a href="https://news.ycombinator.com/item?id=45488441" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[JIRCii – Java IRC 客户端]]></title>
+            <link>https://jircii.dashnine.org/</link>
+            <guid isPermaLink="false">https://jircii.dashnine.org/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[JIRCii是一个用Java编写的互联网中继聊天（IRC）客户端。这个项目网站介绍了该客户端的主要特性，包括跨平台兼容性、高度可定制的界面以及脚本支持。它旨在为熟悉IRC的用户提供一个功能丰富且稳定的选择。虽然项目可能已不是最新，但它代表了一个时代的经典IRC工具，仍在特定用户群体中使用。 [<a href="https://news.ycombinator.com/item?id=45495729" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[结构化拖延（1995）]]></title>
-            <link>https://structuredprocrastination.com</link>
-            <guid isPermaLink="false">https://structuredprocrastination.com</guid>
-            <pubDate>Mon, 06 Oct 2025 06:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[结构化拖延是一种独特的时间管理策略，由John Perry教授在1995年提出。这个理论的核心思想是，与其强迫自己完成重要任务，不如利用拖延心理来推动其他有价值的活动。具体做法是将任务列表按照重要性排序，然后故意从不太重要但仍然有意义的任务开始执行。这样，即使我们在&quot;拖延&quot;最重要的任务，也在完成其他有用的工作。这种方法承认了拖延是人类的自然倾向，而不是试图完全消除它。通过巧妙地引导这种倾向，人们可以保持生产力，同时减少因拖延而产生的负罪感。这个幽默而实用的策略被许多人证明是有效的，它重新定义了拖延的意义，将其从缺陷转化为优势。 [<a href="https://news.ycombinator.com/item?id=45488261" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[勺子理论]]></title>
+            <link>https://en.wikipedia.org/wiki/Spoon_theory</link>
+            <guid isPermaLink="false">https://en.wikipedia.org/wiki/Spoon_theory</guid>
+            <pubDate>Mon, 06 Oct 2025 20:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[勺子理论是一个由 Christine Miserandino 创造的比喻，用以解释慢性疾病或残疾患者如何分配有限的精力。她用&quot;勺子&quot;来代表完成日常任务所需的能量单位。健康的人拥有几乎无限的勺子，而患者每天只有少数几个勺子，每做一件事（如起床、穿衣）就会消耗一个勺子。这个理论帮助健康人更好地理解慢性病患者的生活状态和能量限制。 [<a href="https://news.ycombinator.com/item?id=45495726" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Gem.coop]]></title>
-            <link>https://gem.coop/</link>
-            <guid isPermaLink="false">https://gem.coop/</guid>
-            <pubDate>Mon, 06 Oct 2025 04:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[Gem.coop是一个专注于宝石和珠宝行业的合作平台，致力于为行业从业者提供一个共享资源和机会的社区。该平台连接了矿工、切割师、设计师、零售商等各个环节的参与者，促进透明和公平的贸易。通过区块链技术，Gem.coop确保了宝石来源的可追溯性，帮助消费者了解产品的完整历史。平台还提供市场信息、价格指数、行业趋势分析等服务，帮助会员做出更明智的商业决策。合作模式让小型参与者能够获得与大公司相当的资源和市场机会，促进了行业的民主化发展。Gem.coop还重视可持续发展，推广负责任的采矿和环保的加工工艺，为珠宝行业的未来探索新的商业模式。 [<a href="https://news.ycombinator.com/item?id=45487771" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[llvm-mos：在经典6502上运行现代C/C++ | VCFMW 20 (2025) [视频]]]></title>
+            <link>https://www.youtube.com/watch?v=ejbTKtgSZI0</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=ejbTKtgSZI0</guid>
+            <pubDate>Mon, 06 Oct 2025 20:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个在VCFMW 20会议上发表的技术演讲视频。演讲者介绍了llvm-mos项目，该项目旨在为经典的6502微处理器（曾用于Apple II、Commodore 64等老式电脑）提供一个基于LLVM的现代C/C++编译器工具链。视频展示了如何利用现代编译技术为这款古老的芯片编写高效代码，从而让开发者能够在复古硬件上进行更高级别的软件开发。 [<a href="https://news.ycombinator.com/item?id=45495715" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[&quot;只是病毒而已，急诊室告诉他——几天后，他去世了&quot;]]></title>
-            <link>https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</link>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</guid>
-            <pubDate>Mon, 06 Oct 2025 03:57:26 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道讲述了一个令人痛心的医疗案例。Sam Terblanche因感冒症状就医，急诊室医生诊断为普通病毒感染，让他回家休息。然而几天后，Sam的病情急剧恶化，最终不幸去世。事后调查发现，他实际上感染了一种罕见但致命的病毒，初期症状与普通感冒相似。这个案例暴露了医疗系统中的诊断盲区和过度依赖常见病判断的问题。文章深入分析了医疗资源紧张、医生疲劳、诊断时间限制等系统性问题，以及患者家属在面对医疗失误时的无助。报道呼吁改进诊断流程，增加罕见病筛查，并提醒患者和家属要勇于寻求第二医疗意见。这个故事成为了医疗改革讨论的重要案例，提醒人们医疗决策中谨慎和全面的重要性。 [<a href="https://news.ycombinator.com/item?id=45487519" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我在双关语艺术中的生活]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/</link>
+            <guid isPermaLink="false">https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章是作者对其毕生从事&quot;双关语艺术&quot;创作的回忆与思考。Ambigram是一种可以将单词或词组设计成从不同角度（如旋转180度）看仍能读出相同或不同含义的艺术形式。作者分享了自己如何迷上这种独特的文字游戏，探讨了其背后的语言学、视觉设计原理，以及这种艺术如何赋予文字双重生命和趣味性。 [<a href="https://news.ycombinator.com/item?id=45495711" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
