@@ -10,144 +10,144 @@
     },
     "items": [
         {
+            "id": "https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/",
+            "content_html": "本文探讨了旅行黑名单如何被用作政治武器，而非单纯的安全工具。作者指出，政府利用这种不透明的机制来压制异见者、记者和人权活动家，剥夺他们出行的权利，且通常缺乏正当的法律程序和有效的申诉途径。文章强调，这种做法侵犯了基本自由，并呼吁建立更严格的监督和透明度，以防止旅行权利被任意剥夺。 [<a href=\"https://news.ycombinator.com/item?id=45492061\" target=\"_blank\">评论</a>]",
+            "url": "https://papersplease.org/wp/2025/10/06/the-weaponization-of-travel-blacklists/",
+            "title": "旅行黑名单的武器化",
+            "date_modified": "2025-10-06T14:51:40.000Z"
+        },
+        {
+            "id": "https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/",
+            "content_html": "一个黑客组织通过入侵多家 Salesforce 客户的系统窃取了大量数据，并转而向 Salesforce 公司本身进行勒索。他们威胁称，如果 Salesforce 不支付赎金，就将公开这些敏感的客户信息。这一事件凸显了供应链攻击的严重性，即使是像 Salesforce 这样的大型云服务提供商，其客户的安全漏洞也可能导致自身面临巨大的声誉和财务风险。 [<a href=\"https://news.ycombinator.com/item?id=45492059\" target=\"_blank\">评论</a>]",
+            "url": "https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/",
+            "title": "黑客在窃取客户数据后向 Salesforce 勒索",
+            "date_modified": "2025-10-06T14:51:24.000Z"
+        },
+        {
+            "id": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
+            "content_html": "这篇学术论文提出了一种新型的地月循环轨道。这些轨道具有两个主要优点：高稳定性和低能量消耗。高稳定性意味着航天器在轨道上运行时几乎不需要或完全不需要进行轨道修正，从而节省了大量燃料。低能耗特性则意味着从地球转移到这些轨道所需的初始能量更少。这种新轨道的发现为未来执行地月空间任务，如空间站部署或物资运输，提供了更经济、更可行的方案。 [<a href=\"https://news.ycombinator.com/item?id=45492055\" target=\"_blank\">评论</a>]",
+            "url": "https://ross.aoe.vt.edu/papers/ross-roberts-tsoukkas-2025-AAS-25-621.pdf",
+            "title": "新型稳定低能耗地月循环轨道 [pdf]",
+            "date_modified": "2025-10-06T14:51:11.000Z"
+        },
+        {
+            "id": "https://www.bbc.com/news/articles/c1kwxjzeez3o",
+            "content_html": "世界卫生组织（WHO）发布报告称，全球电子烟使用者数量已达到惊人的水平，特别是在青少年和年轻人中增长迅速。报告警告，电子烟并非无害，其含有的尼古丁会导致成瘾，并可能对大脑发育产生长期影响。此外，多种电子烟产品含有有害物质，长期使用的健康风险尚不完全清楚。WHO 呼吁各国采取更严格的监管措施，包括禁止调味电子烟、限制广告和防止未成年人接触，以应对这一日益严重的公共健康问题。 [<a href=\"https://news.ycombinator.com/item?id=45492050\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bbc.com/news/articles/c1kwxjzeez3o",
+            "title": "世卫组织称，如今吸电子烟的人数惊人",
+            "date_modified": "2025-10-06T14:50:42.000Z"
+        },
+        {
+            "id": "https://www.indiehackers.com/post/creavit-studio-an-alternative-screen-recorder-for-macos-2c32293116",
+            "content_html": "Creavit Studio 是一款专为 macOS 设计的新型屏幕录制应用，旨在成为现有流行工具的替代品。它提供了简洁的用户界面和高效的录制功能，支持录制高质量的视频、音频和系统声音。该应用可能还具备一些特色功能，如实时标注、快捷键操作和直接分享到各大平台。开发者通过 Indie Hackers 社区推介此产品，希望吸引那些寻求更轻量、更专注或具有不同特性的屏幕录制解决方案的用户。 [<a href=\"https://news.ycombinator.com/item?id=45492049\" target=\"_blank\">评论</a>]",
+            "url": "https://www.indiehackers.com/post/creavit-studio-an-alternative-screen-recorder-for-macos-2c32293116",
+            "title": "Creavit Studio – macOS 的替代屏幕录制工具",
+            "date_modified": "2025-10-06T14:50:37.000Z"
+        },
+        {
+            "id": "https://github.com/mohankumarelec/airgapped-qr-code-transfer",
+            "content_html": "这是一个开源的 Web 应用程序，旨在通过二维码在物理隔离（或称“气隙”）的设备之间传输数据。用户可以在一台设备上输入文本或选择小文件，应用会将其编码成一系列 QR 码。然后，使用另一台设备的摄像头扫描这些 QR 码，即可还原数据。这种方法为无法通过网络连接的计算机提供了一种安全的数据交换方式，适用于高度安全的环境。 [<a href=\"https://news.ycombinator.com/item?id=45492044\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/mohankumarelec/airgapped-qr-code-transfer",
+            "title": "气隙 QR 码传输网络应用",
+            "date_modified": "2025-10-06T14:50:06.000Z"
+        },
+        {
+            "id": "https://www.theregister.com/2025/10/06/radiant_group_hospital/",
+            "content_html": "数据经纪公司 Radiant Group 在面临公众对处理儿童数据的强烈反对后，承诺不再收集和使用儿童信息。然而，调查发现，该公司仍在积极收集和处理来自医院的患者数据，包括敏感的健康信息。文章批评了这种做法，指出尽管该公司在某些方面做出了让步，但其商业模式仍然依赖于挖掘和交易高度敏感的个人数据，医院数据则成为了新的目标，引发了对患者隐私和医疗数据安全的严重担忧。 [<a href=\"https://news.ycombinator.com/item?id=45492042\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/06/radiant_group_hospital/",
+            "title": "Radiant Group 现在不会碰儿童数据，但医院似乎成了公平的游戏",
+            "date_modified": "2025-10-06T14:49:51.000Z"
+        },
+        {
+            "id": "https://www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
+            "content_html": "美国移民海关执法局（ICE）正在寻求承包商来开发一个社交媒体监控系统，该系统能够从多个主流平台（包括 Facebook、TikTok、X 等）收集和分析数据。值得注意的是，该计划的范围甚至包括了早已停运的 Google+，这可能意味着需要访问历史存档数据。此举旨在加强对移民和外国人的监控，但同时也引发了关于隐私、言论自由和政府过度监视的广泛争议和批评。 [<a href=\"https://news.ycombinator.com/item?id=45492036\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/03/ice_contractors_social_media_spy/",
+            "title": "美国移民海关执法局计划筛查 Facebook、TikTok、X 甚至已停运的 Google+",
+            "date_modified": "2025-10-06T14:49:26.000Z"
+        },
+        {
+            "id": "https://ducret.dev/what-apify-best-selling-scrapers-teach-us/",
+            "content_html": "文章通过对抓取器市场平台 Apify 上的 7,525 个 Actors（即抓取工具）进行数据分析，揭示了当前网络数据抓取的热门趋势。研究发现，社交媒体平台（如 LinkedIn、Instagram）和电商网站（如 Amazon、Shopify）的抓取器最受欢迎。此外，文章还探讨了定价模式、开发者生态以及构建和销售抓取工具的最佳实践，为希望进入该领域的开发者提供了宝贵的市场洞察。 [<a href=\"https://news.ycombinator.com/item?id=45492032\" target=\"_blank\">评论</a>]",
+            "url": "https://ducret.dev/what-apify-best-selling-scrapers-teach-us/",
+            "title": "抓取抓取器市场：分析 7,525 个 Apify Actors",
+            "date_modified": "2025-10-06T14:49:08.000Z"
+        },
+        {
+            "id": "https://squarecircle.substack.com/p/donkeys",
+            "content_html": "这是一篇富有哲思的散文，通过作者在西班牙与驴子的亲身经历，探讨了驴子所象征的坚韧、耐心与谦逊的品质。文章将驴子默默承受重负、步履稳健的形象与现代社会的浮躁和急功近利进行对比，认为驴子身上体现了一种古老而朴素的智慧。作者借此反思了人类在追求进步的过程中可能失去的东西，并从这种看似卑微的动物身上学到了关于生活和存在的深刻道理。 [<a href=\"https://news.ycombinator.com/item?id=45492028\" target=\"_blank\">评论</a>]",
+            "url": "https://squarecircle.substack.com/p/donkeys",
+            "title": "“驴子身上有哲学”",
+            "date_modified": "2025-10-06T14:48:49.000Z"
+        },
+        {
+            "id": "https://www.immibis.com/blog/why-mac-address",
+            "content_html": "这篇文章以通俗易懂的方式解释了 MAC 地址（媒体访问控制地址）在网络通信中的根本作用。它阐明，虽然 IP 地址负责在不同网络间路由数据包，但 MAC 地址是确保数据包在本地网络（如以太网或 Wi-Fi）内从源设备正确送达目标设备的关键。文章通过类比和例子说明，没有 MAC 地址，局域网内的设备就无法相互识别和通信，它是网络分层模型中数据链路层不可或缺的基础。 [<a href=\"https://news.ycombinator.com/item?id=45492019\" target=\"_blank\">评论</a>]",
+            "url": "https://www.immibis.com/blog/why-mac-address",
+            "title": "为什么我们需要 MAC 地址？",
+            "date_modified": "2025-10-06T14:47:45.000Z"
+        },
+        {
+            "id": "https://polyformproject.org/what-is-polyform/",
+            "content_html": "PolyForm 项目提供了一系列介于宽松开源许可和专有许可之间的软件许可证。这些许可证旨在允许开发者共享源代码，同时对特定用途施加限制，例如防止纯粹的商业服务化（SaaS）利用、要求在衍生作品中署名或禁止商业竞争性使用。PolyForm 许可证为那些希望分享代码但又需要保护其商业利益或特定使用方式的开发者提供了一种灵活的选择，填补了传统开源与闭源模型之间的空白。 [<a href=\"https://news.ycombinator.com/item?id=45492016\" target=\"_blank\">评论</a>]",
+            "url": "https://polyformproject.org/what-is-polyform/",
+            "title": "什么是 PolyForm？",
+            "date_modified": "2025-10-06T14:47:38.000Z"
+        },
+        {
+            "id": "https://www.retaildive.com/news/more-than-a-quarter-of-consumers-plan-on-cutting-holiday-spending/761575/",
+            "content_html": "根据最新的调查，超过四分之一的消费者计划在即将到来的假日季节削减他们的购物开支。这一趋势主要归因于通货膨胀压力、经济不确定性以及对个人财务状况的担忧。报告指出，消费者将更加注重性价比，倾向于购买折扣商品和减少非必需品的消费。这对零售商来说是一个挑战，他们可能需要提供更大力度的促销和创新策略来吸引谨慎的消费者。 [<a href=\"https://news.ycombinator.com/item?id=45491973\" target=\"_blank\">评论</a>]",
+            "url": "https://www.retaildive.com/news/more-than-a-quarter-of-consumers-plan-on-cutting-holiday-spending/761575/",
+            "title": "超过四分之一的消费者计划削减假日支出",
+            "date_modified": "2025-10-06T14:43:56.000Z"
+        },
+        {
+            "id": "https://www.chainguard.dev/unchained/a-gift-for-the-open-source-community-chainguards-cve-free-raspberry-pi-images-beta",
+            "content_html": "Chainguard 公司发布了一款针对树莓派的开源操作系统镜像。该镜像基于其 Chainguard OS 构建，最大的特点是在发布时已知的所有常见漏洞和暴露（CVE）都已被修复，提供了一个“零漏洞”的基础环境。这对于物联网设备、嵌入式系统以及使用树莓派进行开发的用户来说，意味着一个更安全、更可靠的起点，有助于从源头上减少安全风险。该产品目前处于测试阶段。 [<a href=\"https://news.ycombinator.com/item?id=45491911\" target=\"_blank\">评论</a>]",
+            "url": "https://www.chainguard.dev/unchained/a-gift-for-the-open-source-community-chainguards-cve-free-raspberry-pi-images-beta",
+            "title": "基于 Chainguard OS 的无漏洞树莓派镜像",
+            "date_modified": "2025-10-06T14:38:19.000Z"
+        },
+        {
+            "id": "https://medium.com/@Lidia-Rodriguez/what-dotnet-ecosystem-lacks-today-isnt-code-its-vision-9a31e7d67831",
+            "content_html": "作者认为，当前 .NET 生态系统虽然技术强大、工具丰富，但缺乏一个清晰、统一的愿景来引导社区和框架的未来发展。文章将 .NET 与其他一些拥有鲜明目标和定位的技术栈（如 Rails 的“约定优于配置”）进行对比，指出 .NET 试图满足所有人的所有需求，导致其在某些领域显得定位模糊。作者呼吁微软和社区领袖需要为 .NET 描绘一个更激动人心的未来蓝图，以激发开发者的热情和方向感。 [<a href=\"https://news.ycombinator.com/item?id=45491908\" target=\"_blank\">评论</a>]",
+            "url": "https://medium.com/@Lidia-Rodriguez/what-dotnet-ecosystem-lacks-today-isnt-code-its-vision-9a31e7d67831",
+            "title": ".NET 生态系统今天缺乏的不是代码——而是愿景",
+            "date_modified": "2025-10-06T14:38:10.000Z"
+        },
+        {
+            "id": "https://shademap.app",
+            "content_html": "ShadeMap 是一个交互式 Web 应用，允许用户模拟和查看在地球上任意地点、任意日期和时间的太阳阴影情况。用户可以在地图上选择一个位置，然后调整时间，实时观察建筑物、地形等如何产生阴影。该工具对城市规划、建筑设计、摄影、户外活动策划等非常有用，可以帮助用户了解日照情况，优化采光或避开强光。它结合了地图数据和太阳位置算法，提供了一个直观的日照分析工具。 [<a href=\"https://news.ycombinator.com/item?id=45491902\" target=\"_blank\">评论</a>]",
+            "url": "https://shademap.app",
+            "title": "ShadeMap – 模拟地球上任何时间和地点的太阳阴影",
+            "date_modified": "2025-10-06T14:37:51.000Z"
+        },
+        {
+            "id": "https://github.com/josevcm/nfc-laboratory",
+            "content_html": "这是一个开源的 GitHub 项目，提供了一个基于软件定义无线电（SDR）接收器的 NFC（近场通信）信号和协议分析工具。它允许用户捕获和分析 NFC 设备（如门禁卡、银行卡）发出的原始射频信号，并将其解码成可读的协议数据。这对于安全研究人员、硬件爱好者和开发者来说是一个强大的工具，可用于学习 NFC 协议、逆向工程 NFC 设备或进行安全漏洞研究。 [<a href=\"https://news.ycombinator.com/item?id=45491895\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/josevcm/nfc-laboratory",
+            "title": "NFC-laboratory: 使用 SDR 接收器的 NFC 信号和协议分析器",
+            "date_modified": "2025-10-06T14:36:31.000Z"
+        },
+        {
+            "id": "https://github.com/blade47/semantic-test",
+            "content_html": "这是一个在 GitHub 上开源的测试框架，专门为 AI 代理（AI Agent）设计。其核心特色是引入了“语义验证”，而不仅仅是传统的功能性测试。这意味着该框架不仅能检查 AI 代理是否执行了正确的操作，还能评估其输出的内容是否在语义上符合预期目标。这对于测试复杂 AI 系统的推理能力、对话质量和任务完成度非常有帮助，为构建更可靠、更智能的 AI 应用的开发者提供了一个强大的测试工具。 [<a href=\"https://news.ycombinator.com/item?id=45491864\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/blade47/semantic-test",
+            "title": "Show HN: 用于 AI 代理的开源测试框架，带语义验证",
+            "date_modified": "2025-10-06T14:33:07.000Z"
+        },
+        {
+            "id": "https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/",
+            "content_html": "作者主张，技术解决方案的设计文档应该力求简洁，通常只需几页纸就能讲清楚核心思想。他认为，冗长、详尽的设计文档往往是过度设计和缺乏焦点的表现，并且在快速变化的技术环境中很快就会过时。短小精悍的设计文档能迫使团队专注于最重要的架构决策、权衡取舍和核心逻辑，从而促进更快的沟通、反馈和迭代，是一种更高效的工程实践。 [<a href=\"https://news.ycombinator.com/item?id=45491859\" target=\"_blank\">评论</a>]",
+            "url": "https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/",
+            "title": "解决方案设计应该只有几页纸",
+            "date_modified": "2025-10-06T14:32:24.000Z"
+        },
+        {
             "id": "https://estimateproperty.blogspot.com/2025/10/the-winter-holiday-season-in-exotic.html",
-            "content_html": "这篇博客探讨了在非传统目的地度过冬季假期的魅力，从热带海滩到历史名城，为寻求独特节日体验的旅行者提供了灵感和建议。文章强调，跳出常规的滑雪或家庭聚会，选择异国他乡庆祝节日，可以创造难忘的回忆，并体验不同文化的节日传统。它还提供了一些规划此类旅行的实用技巧，帮助读者找到适合自己的独特冬季度假地。 [<a href=\"https://news.ycombinator.com/item?id=45491849\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇博客文章推荐了一些适合度过冬季节假日的异国目的地。它可能探讨了在热带或南半球国家（此时正值夏季）体验节日的独特魅力，例如在沙滩上庆祝圣诞节，或在充满异域风情的城市中迎接新年。文章可能会介绍一些具体的目的地、当地的节日活动、文化差异以及旅行建议，为那些希望打破常规、寻求新奇节日体验的旅行者提供灵感和实用信息。 [<a href=\"https://news.ycombinator.com/item?id=45491849\" target=\"_blank\">评论</a>]",
             "url": "https://estimateproperty.blogspot.com/2025/10/the-winter-holiday-season-in-exotic.html",
-            "title": "异国目的地的冬季假期季节",
+            "title": "异国目的地的冬季节日季",
             "date_modified": "2025-10-06T14:31:43.000Z"
-        },
-        {
-            "id": "https://kno-three.vercel.app/home",
-            "content_html": "Kno-Three 是一个专为教育内容设计的搜索引擎，它专注于帮助用户查找播客和纪录片，而不是传统的文本文章。该平台旨在通过多媒体形式简化学习资源的发现过程，让学生和自学者能够更便捷地通过音频和视频获取知识。它利用先进算法筛选和推荐高质量的教育类音视频内容，覆盖多个学科领域。 [<a href=\"https://news.ycombinator.com/item?id=45491831\" target=\"_blank\">评论</a>]",
-            "url": "https://kno-three.vercel.app/home",
-            "title": "用于查找教育播客/纪录片而非文本的搜索引擎",
-            "date_modified": "2025-10-06T14:29:43.000Z"
-        },
-        {
-            "id": "https://ashvardanian.com/posts/llm-epicycles/",
-            "content_html": "这篇文章探讨了一个深刻的问题：当前的大型语言模型是否仅仅是技术上的“本轮”，即一种为了解释现有理论（传统人工智能）无法解释的现象而提出的复杂补丁，而非通向真正智能的根本性突破？作者将 LLM 的发展与托勒密天文学中的“本轮”概念进行类比，反思其局限性，并探讨了未来可能需要怎样的范式转变，才能实现更高级、更通用的智能形式。 [<a href=\"https://news.ycombinator.com/item?id=45491829\" target=\"_blank\">评论</a>]",
-            "url": "https://ashvardanian.com/posts/llm-epicycles/",
-            "title": "大型语言模型是智能的“本轮”吗？",
-            "date_modified": "2025-10-06T14:29:27.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=dmHaCQ8Ul6E",
-            "content_html": "该视频是关于苏联联盟号飞船上使用的“Globus”机械导航计算机的深度解析第一部分。它展示了这台设备的外观、内部构造和基本工作原理，让观者了解航天技术早期如何在没有数字计算机的情况下进行轨道导航。视频通过实物拆解和动画演示，生动地揭示了这台精巧机械装置如何通过齿轮和凸轮来预测飞船的轨迹。 [<a href=\"https://news.ycombinator.com/item?id=45491824\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=dmHaCQ8Ul6E",
-            "title": "联盟号“Globus”机械导航计算机 第一部分：盛大开幕 [视频]",
-            "date_modified": "2025-10-06T14:28:19.000Z"
-        },
-        {
-            "id": "https://robertgreiner.com/tools-create-capacity-workflows-create-value/",
-            "content_html": "这篇文章阐述了工具与工作流之间的核心区别及其价值。作者指出，工具本身只能提升我们做事的潜在能力，但只有通过精心设计和执行的工作流，才能将这些能力转化为实际的、可衡量的价值。文章强调，单纯积累工具并不能带来成功，关键在于如何将工具有效地整合进一个系统性的流程中，以优化效率、提升产出，并最终实现组织或个人的目标。 [<a href=\"https://news.ycombinator.com/item?id=45491816\" target=\"_blank\">评论</a>]",
-            "url": "https://robertgreiner.com/tools-create-capacity-workflows-create-value/",
-            "title": "工具创造能力，工作流创造价值",
-            "date_modified": "2025-10-06T14:27:10.000Z"
-        },
-        {
-            "id": "https://ohdear.app/news-and-updates/sql-performance-improvements-analysing-fixing-the-slow-queries-part-2",
-            "content_html": "本文是关于 SQL 性能优化的系列文章的第二部分，重点介绍了如何分析和修复数据库中的慢查询。文章通过实例演示了使用 EXPLAIN 命令来理解查询执行计划的方法，并讲解了如何识别性能瓶颈，如缺失索引、不合理的 JOIN 操作或全表扫描。最后，它提供了一系列具体的修复策略，帮助开发者有效提升数据库查询速度。 [<a href=\"https://news.ycombinator.com/item?id=45491810\" target=\"_blank\">评论</a>]",
-            "url": "https://ohdear.app/news-and-updates/sql-performance-improvements-analysing-fixing-the-slow-queries-part-2",
-            "title": "SQL 性能改进：分析和修复慢查询",
-            "date_modified": "2025-10-06T14:26:37.000Z"
-        },
-        {
-            "id": "https://www.youtube.com/watch?v=zl-wAqplQAo",
-            "content_html": "这部纪录片带你深入了解“观鸟者”这个群体，特别是那些将观鸟视为一场竞赛的狂热爱好者。影片跟随几位顶尖的“列表员”，他们致力于记录尽可能多的鸟类物种，为此不惜奔赴世界各个角落。视频展示了这种极端爱好的激情、挑战与孤独，以及它对个人生活、人际关系乃至自然保护意识产生的深远影响，揭示了人与自然之间一种独特的联系。 [<a href=\"https://news.ycombinator.com/item?id=45491759\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=zl-wAqplQAo",
-            "title": "观鸟者：一窥极端观鸟世界 [视频]",
-            "date_modified": "2025-10-06T14:21:39.000Z"
-        },
-        {
-            "id": "https://www.researchgate.net/publication/396235412_Adversarial_Confusion_Attacks_Disrupting_Multimodal_LLMs",
-            "content_html": "这篇研究论文介绍了一种名为“对抗性混淆攻击”的新方法，旨在破坏多模态大型语言模型的稳定性，使其产生错误信息或幻觉。研究者发现，通过对输入数据（如图像和文本）进行人眼难以察觉的微小扰动，可以系统地误导模型，导致其输出完全背离事实的内容。该研究揭示了当前先进 AI 模型的安全漏洞，并强调了开发更鲁棒防御机制的紧迫性。 [<a href=\"https://news.ycombinator.com/item?id=45491757\" target=\"_blank\">评论</a>]",
-            "url": "https://www.researchgate.net/publication/396235412_Adversarial_Confusion_Attacks_Disrupting_Multimodal_LLMs",
-            "title": "对抗性混淆攻击：让 GPT-5 产生幻觉",
-            "date_modified": "2025-10-06T14:21:28.000Z"
-        },
-        {
-            "id": "https://github.com/d99kris/nmail",
-            "content_html": "Nmail 是一个为 Linux 和 macOS 设计的、在终端中运行的电子邮件客户端。它支持 IMAP 和 SMTP 协议，提供了纯文本界面来管理邮件，适合喜欢在命令行环境下工作的用户。该客户端功能包括收发邮件、管理文件夹、搜索邮件等，力求在简洁高效的同时，提供完整的邮件管理体验，是开发者和技术爱好者的一个轻量级选择。 [<a href=\"https://news.ycombinator.com/item?id=45491741\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/d99kris/nmail",
-            "title": "Nmail：适用于 Linux 和 macOS 的终端电子邮件客户端",
-            "date_modified": "2025-10-06T14:20:00.000Z"
-        },
-        {
-            "id": "https://doc.searls.com/2025/10/06/leavings/",
-            "content_html": "这是一篇充满哲思的个人随笔，作者围绕“离去”这一主题，探讨了生活中各种形式的告别与放手。文章从季节的更迭、物品的丢失，到亲人的离世和时代的变迁，细腻地描绘了离去带来的失落感与新生的可能。作者认为，每一次离去都是对生命本质的一次深刻体察，它教会我们珍惜当下，并理解万物循环的必然规律，最终在失去中寻找到前行的力量。 [<a href=\"https://news.ycombinator.com/item?id=45491737\" target=\"_blank\">评论</a>]",
-            "url": "https://doc.searls.com/2025/10/06/leavings/",
-            "title": "离去",
-            "date_modified": "2025-10-06T14:19:45.000Z"
-        },
-        {
-            "id": "https://chromewebstore.google.com/detail/pigeon/nkgcdhcknjnoipgooofhiajpjgchdhcc",
-            "content_html": "Pigeon 是一款浏览器扩展程序，旨在增强用户的在线购物和阅读体验。当你在某个产品页面或文章网站上时，Pigeon 会自动在侧边栏显示来自 Reddit 社区关于该产品或话题的相关讨论和评价。这让你能够方便地查看真实用户的反馈、意见和潜在警告，从而做出更明智的决策，避免“踩雷”。它就像是连接你当前浏览内容和公众舆论的一座桥梁。 [<a href=\"https://news.ycombinator.com/item?id=45491732\" target=\"_blank\">评论</a>]",
-            "url": "https://chromewebstore.google.com/detail/pigeon/nkgcdhcknjnoipgooofhiajpjgchdhcc",
-            "title": "Show HN: Pigeon – 查看Reddit对你正在阅读或购物内容的评价",
-            "date_modified": "2025-10-06T14:19:17.000Z"
-        },
-        {
-            "id": "https://www.nucnet.org/news/italy-takes-key-step-in-bid-to-restart-nuclear-power-programme-10-1-2025",
-            "content_html": "意大利政府已采取一项关键措施，为其重启核能计划的计划铺平了道路。该措施涉及通过一项法律框架，为新一代更安全、更高效的核电站的建设和运营设定了标准。意大利曾在 1987 年公投后弃用核电，但面对能源安全和气候变化的挑战，政府现在认为核能是实现能源转型和稳定电价的必要组成部分，此举标志着其能源政策的重大转变。 [<a href=\"https://news.ycombinator.com/item?id=45491711\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nucnet.org/news/italy-takes-key-step-in-bid-to-restart-nuclear-power-programme-10-1-2025",
-            "title": "意大利在重启核能计划方面迈出关键一步",
-            "date_modified": "2025-10-06T14:17:37.000Z"
-        },
-        {
-            "id": "https://www.nobelprize.org/prizes/medicine/2025/popular-information/",
-            "content_html": "2025年诺贝尔生理学或医学奖授予了在【此处为示例，实际内容需根据官网更新】领域做出革命性贡献的科学家。他们的研究揭示了【具体发现，如：一种全新的基因调控机制】，彻底改变了我们对【相关疾病，如：癌症】发生发展的理解。这一突破不仅为诊断开辟了新途径，也为开发针对【疾病靶点】的创新疗法奠定了坚实基础，对全球医学产生了深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45491698\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/medicine/2025/popular-information/",
-            "title": "2025年诺贝尔生理学或医学奖",
-            "date_modified": "2025-10-06T14:16:41.000Z"
-        },
-        {
-            "id": "https://github.com/fcjr/subtool",
-            "content_html": "Subtool 是一款开源的本地化工具，利用人工智能技术为视频提供字幕处理功能。它可以在用户的个人电脑上运行，无需联网，从而保证了数据的私密性。该工具支持自动语音识别来生成字幕，并能将生成的字幕翻译成多种语言。此外，它还能将字幕文件嵌入到视频文件中，是一个功能全面的本地视频后期处理解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45491691\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/fcjr/subtool",
-            "title": "Show HN: 本地AI驱动的字幕生成、翻译和嵌入工具",
-            "date_modified": "2025-10-06T14:16:07.000Z"
-        },
-        {
-            "id": "https://github.com/meshery/meshery",
-            "content_html": "Meshery 是一个开源的云原生管理平台，旨在简化 Kubernetes 及其他云原生技术的部署、管理和观察。它提供了一个图形化界面，帮助用户可视化和操作复杂的微服务环境。Meshery 支持多种服务网格（如 Istio、Linkerd），并能进行性能测试和配置验证，是开发者运维云原生应用、优化其架构和性能的强大助手。 [<a href=\"https://news.ycombinator.com/item?id=45491687\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/meshery/meshery",
-            "title": "Meshery, the Cloud Native Manager",
-            "date_modified": "2025-10-06T14:15:46.000Z"
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=45491685",
-            "content_html": "这是一则发布在 Hacker News 上的简短帖子，作者表达了对社区或其他方面的感激之情。帖子内容通常是个人化的，可能是感谢某位用户提供的帮助、某个开源项目的贡献，或是对社区支持的一种回馈。这种帖子在 HN 上偶尔出现，体现了社区中互助和友善的一面，内容简洁但真诚，旨在传递积极的情感和认可。 [<a href=\"https://news.ycombinator.com/item?id=45491685\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45491685",
-            "title": "一则感谢信",
-            "date_modified": "2025-10-06T14:15:32.000Z"
-        },
-        {
-            "id": "https://arxiv.org/abs/2509.13397",
-            "content_html": "这篇学术论文探讨了在研究中使用大型语言模型来生成或模拟人类数据时所面临的一个关键问题：分析灵活性。作者指出，研究者可以通过多种方式对 LLM 进行提示和微调，这种灵活性可能导致“P-hacking”或类似问题，即有意或无意地调整模型以得到期望的结果，从而损害研究的科学性和可复现性。论文呼吁建立更严格的规范和报告标准。 [<a href=\"https://news.ycombinator.com/item?id=45491682\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2509.13397",
-            "title": "使用 LLM 模拟人类数据时分析灵活性的威胁",
-            "date_modified": "2025-10-06T14:15:19.000Z"
-        },
-        {
-            "id": "https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-311/",
-            "content_html": "这篇文章是一篇哲学与技术思辨的短文。核心论点是：对于笛卡尔“我思故我在”这样的经典哲学命题，现代技术发展的回应不应停留在口头或文字上的辩论，而应通过创造和实践来“超越”它。作者认为，构建出能自主思考、学习甚至创造新事物的 AI 系统，本身就是一种强有力的“实现”，它以一种全新的方式回答了关于意识、存在和智能的根本问题，超越了传统哲学的框架。 [<a href=\"https://news.ycombinator.com/item?id=45491677\" target=\"_blank\">评论</a>]",
-            "url": "https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-311/",
-            "title": "你不用反驳笛卡尔，你通过实现来超越他",
-            "date_modified": "2025-10-06T14:14:54.000Z"
-        },
-        {
-            "id": "https://github.com/bagofwords1/bagofwords",
-            "content_html": "Bagofwords 是一个开源的 AI 数据层，旨在解决大型语言模型与各种数据源之间的连接问题。它提供了一个统一的接口，让开发者可以轻松地将任何 LLM（如 GPT 系列）连接到不同类型的数据库、API 或文件系统。通过这个中间件，LLM 可以安全、高效地读取和写入数据，从而构建功能更强大的数据驱动型 AI 应用，简化了后端集成的复杂性。 [<a href=\"https://news.ycombinator.com/item?id=45491675\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/bagofwords1/bagofwords",
-            "title": "Show HN: 我构建了一个连接任何LLM与任何数据源的开源AI数据层",
-            "date_modified": "2025-10-06T14:14:49.000Z"
-        },
-        {
-            "id": "https://www.gorbes.io/",
-            "content_html": "Gorbes 是一个概念性的网站，它模仿福布斯富豪榜，但其排名标准不是个人财富，而是一个人为他人创造的价值。该平台试图通过量化个人或组织在知识、工具、社区服务等方面的贡献，来提供一个不同于传统财富衡量的价值评估体系。它旨在引发公众对于“价值”定义的思考，鼓励人们关注和认可那些对社会有积极影响但未必带来巨大财富的创造者。 [<a href=\"https://news.ycombinator.com/item?id=45491674\" target=\"_blank\">评论</a>]",
-            "url": "https://www.gorbes.io/",
-            "title": "Show HN: Gorbes – Forbes 排名财富，Gorbes 排名为他人创造的价值",
-            "date_modified": "2025-10-06T14:14:22.000Z"
         }
     ]
 }
