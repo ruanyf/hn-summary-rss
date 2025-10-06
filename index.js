@@ -174,6 +174,7 @@ function sterilizeJSON(str) {
     .replaceAll(': "', 'quoteBEGIN')
     .replaceAll('："', 'quoteBEGIN')
     .replaceAll('： "', 'quoteBEGIN')
+    .replaceAll(':&quot;', 'quoteBEGIN')
     .replaceAll('"}', 'quoteBracesEND')
     .replaceAll(/"\s+}/g, 'quoteBracesEND')
     .replaceAll('",', 'quoteCommaEND')
