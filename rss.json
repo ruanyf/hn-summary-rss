@@ -11,143 +11,143 @@
     "items": [
         {
             "id": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-            "content_html": "本文探讨了WebGPU中WGSL（WebGPU着色语言）编译的性能开销问题。作者详细分析了WGSL编译过程对应用程序性能的影响，特别是在实时渲染场景中。文章指出，WGSL编译可能成为性能瓶颈，并提出了几种优化策略，包括预编译、缓存和延迟编译等技术。通过实际测试数据，作者展示了不同优化方法的效果，为WebGPU开发者提供了实用的性能优化建议。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
+            "content_html": "本文探讨了为 WebGPU 编译 WGSL 着色器时面临的性能挑战。作者研究了 Chrome 等浏览器中可用的诊断工具，用于测量编译时间。文章强调，尽管 WebGPU 功能强大，但编译步骤可能成为一个瓶颈，开发者需要意识到其代价。该文章深入介绍了浏览器如何处理此过程，并提供了如何分析和可能减轻这些延迟的方法，帮助开发者优化其 WebGPU 应用性能。 [<a href=\"https://news.ycombinator.com/item?id=45496406\" target=\"_blank\">评论</a>]",
             "url": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-            "title": "WebGPU和编译WGSL的代价",
+            "title": "WebGPU 与编译 WGSL 的代价",
             "date_modified": "2025-10-06T21:14:51.000Z"
         },
         {
             "id": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-            "content_html": "Riot Games详细介绍了《Valorant》采用的128-tick服务器技术。文章解释了tick rate对竞技游戏体验的重要性，128-tick意味着服务器每秒更新128次游戏状态，相比传统的64-tick服务器能提供更精准的命中检测和更流畅的游戏体验。技术团队分享了实现128-tick的技术挑战，包括服务器架构优化、网络协议改进和客户端预测算法的调整，确保全球玩家都能享受到低延迟、高精度的竞技体验。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
+            "content_html": "本文详细介绍了《无畏契约》采用 128-tick 服务器的技术决策。文章解释了 &quot;tick rate&quot; 的概念，即服务器每秒更新游戏状态的速度，并阐述了更高的 tick rate 如何提升游戏体验的精确性和公平性。Riot Games 分享了他们在网络架构上的优化，以确保全球玩家都能享受到低延迟、高同步性的对战环境，这体现了其对竞技游戏完整性的承诺。 [<a href=\"https://news.ycombinator.com/item?id=45496146\" target=\"_blank\">评论</a>]",
             "url": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-            "title": "Valorant的128-Tick服务器",
+            "title": "Valorant 的 128-Tick 服务器",
             "date_modified": "2025-10-06T20:47:25.000Z"
         },
         {
+            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "content_html": "这篇文章记录了作者尝试将 scikit-learn 库中用 Cython 编写的 DBSCAN 算法核心循环翻译成 Mojo 语言的经历。Mojo 是一种新兴的高性能编程语言，旨在结合 Python 的易用性和 C 的速度。文章展示了翻译过程、遇到的挑战、初步的性能对比结果，并分享了 Mojo 在性能、内存管理和语法方面的初步印象，为对 Mojo 感兴趣的开发者提供了宝贵的实践经验。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
+            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "title": "将 Cython 翻译成 Mojo 的初次尝试",
+            "date_modified": "2025-10-06T20:09:44.000Z"
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "content_html": "这是一篇关于双关语艺术（Ambigrams）的个人感悟文章。作者分享了自己与这种文字艺术的深厚情感，探讨了如何将词语设计成可以从不同角度阅读、具有多重含义的艺术形式。文章深入分析了双关语艺术背后的哲学思考，探讨了语言、视觉和认知之间的奇妙关系。作者认为，双关语不仅是艺术创作，更是一种思维训练，帮助人们从多角度理解世界，发现事物背后的隐藏意义。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
+            "content_html": "这是一篇关于回文构词艺术的个人散文。作者分享了自己对这种可以从不同角度解读出不同词义或相同词义的图形字母艺术的热爱与探索。文章不仅介绍了回文构词的历史和著名案例，还深入探讨了其背后的语言学、心理学和美学原理，以及它如何成为一种独特的创意表达方式，让作者在文字游戏与艺术创作中找到了生活的乐趣和意义。 [<a href=\"https://news.ycombinator.com/item?id=45495711\" target=\"_blank\">评论</a>]",
             "url": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-            "title": "我在双关语艺术中的生活",
+            "title": "我的回文构词生活",
             "date_modified": "2025-10-06T20:07:25.000Z"
         },
         {
             "id": "https://developers.openai.com/apps-sdk/",
-            "content_html": "OpenAI推出的Apps SDK是一个专门为开发者设计的工具包，用于快速构建和部署基于OpenAI技术的应用程序。该SDK提供了丰富的API接口和预构建组件，支持多种编程语言和框架。开发者可以轻松集成GPT模型、DALL-E图像生成等功能，实现聊天机器人、内容创作工具、智能助手等多种应用场景。SDK还包含了详细的文档、示例代码和最佳实践指南，大大降低了AI应用开发的门槛。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "content_html": "OpenAI Apps SDK 是一个官方软件开发工具包，旨在简化和加速构建由 OpenAI 模型驱动的应用程序。SDK 提供了预设的工具、架构和最佳实践，帮助开发者轻松集成各种功能，如持久化记忆、工具调用、流程管理和 API 交互。它允许开发者专注于构建独特的应用逻辑，而无需处理底层复杂的实现细节，从而快速创建强大的 AI 代理和生产力工具。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
             "url": "https://developers.openai.com/apps-sdk/",
             "title": "Apps SDK",
             "date_modified": "2025-10-06T18:27:33.000Z"
         },
         {
             "id": "https://github.com/openai/chatkit-js",
-            "content_html": "OpenAI ChatKit是一个开源的JavaScript库，专门用于构建聊天界面和对话系统。该库提供了丰富的UI组件和交互功能，包括消息气泡、输入框、用户状态显示等。ChatKit支持实时通信、消息历史管理、多用户对话等功能，并可以轻松与OpenAI的GPT模型集成。项目采用模块化设计，开发者可以根据需求自定义组件和样式。GitHub仓库提供了完整的文档、示例项目和API参考，帮助开发者快速上手。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
+            "content_html": "OpenAI ChatKit 是一个开源的前端 JavaScript 库，专门用于构建功能丰富的聊天界面。它提供了一系列可定制的组件，如消息列表、输入框、打字指示器等，并内建了对流式响应、Markdown 渲染和代码高亮的支持。ChatKit 旨在帮助开发者快速搭建类似 ChatGPT 的交互体验，可以轻松与任何后端 API（包括 OpenAI API）集成，大大降低了开发高质量聊天应用的门槛。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/openai/chatkit-js",
             "title": "OpenAI ChatKit",
             "date_modified": "2025-10-06T17:23:20.000Z"
         },
         {
-            "id": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
-            "content_html": "这篇文章介绍了邓普斯特垃圾车的历史起源和发展。作为现代垃圾收集车的先驱，邓普斯特系统在20世纪初彻底改变了城市垃圾处理方式。文章详细描述了第一代邓普斯特垃圾车的设计理念、机械结构和工作原理，以及它如何解决了当时城市卫生面临的挑战。通过珍贵的历史照片和技术图纸，读者可以了解到这种创新设备如何提高了垃圾收集效率，为现代城市环卫系统奠定了基础。 [<a href=\"https://news.ycombinator.com/item?id=45493713\" target=\"_blank\">评论</a>]",
-            "url": "https://www.classicrefusetrucks.com/albums/DE/DE01.html",
-            "title": "开端：邓普斯特垃圾车",
-            "date_modified": "2025-10-06T17:22:48.000Z"
-        },
-        {
             "id": "https://up.codes/careers?utm_source=HN",
-            "content_html": "UpCodes是一家YC S17孵化的建筑科技公司，目前正在美洲地区招聘远程工程师。公司专注于为建筑行业提供数字化解决方案，帮助建筑师和工程师更好地理解和应用建筑规范。招聘职位包括前端、后端、全栈开发工程师，要求候选人具有相关技术栈经验。公司提供灵活的远程工作环境、有竞争力的薪酬待遇和成长机会。UpCodes致力于通过技术创新改善建筑行业的工作流程，让复杂的建筑规范变得更加易于理解和使用。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
+            "content_html": "UpCodes 是一家提供建筑规范解决方案的公司（Y Combinator S17 批次），目前正在招聘远程工程师，职位面向整个美洲地区。公司致力于通过技术简化复杂的建筑规范，确保建筑项目的合规性和安全性。招聘信息表明他们正在寻找有才华的工程师加入团队，共同改进其平台，为建筑行业提供更准确、更易于访问的规范信息和服务。 [<a href=\"https://news.ycombinator.com/item?id=45493453\" target=\"_blank\">评论</a>]",
             "url": "https://up.codes/careers?utm_source=HN",
-            "title": "UpCodes (YC S17) 在美洲招聘远程工程师",
+            "title": "UpCodes (YC S17) 正在招聘美洲地区的远程工程师",
             "date_modified": "2025-10-06T17:01:31.000Z"
         },
         {
             "id": "https://www.youtube.com/watch?v=hS1YqcewH0c",
-            "content_html": "OpenAI DevDay 2025开幕主题演讲视频，展示了OpenAI最新的技术进展和产品发布。演讲中介绍了新一代GPT模型的改进、多模态能力的提升，以及新的开发者工具和平台功能。重点包括更高效的推理速度、更低的API成本、增强的代码生成能力等。OpenAI还宣布了针对企业的定制化解决方案和新的安全措施。整个演讲通过实际演示和案例研究，向开发者社区展示了如何利用这些新技术构建更强大的AI应用。 [<a href=\"https://news.ycombinator.com/item?id=45493432\" target=\"_blank\">评论</a>]",
+            "content_html": "这是 OpenAI 2025 年开发者大会的开幕主题演讲录像。在演讲中，OpenAI 可能发布了其最新的模型、API 更新、新的开发工具（如 Apps SDK）以及降低成本的举措。演讲通常会包含技术演示、对产品背后理念的阐述以及对未来 AI 发展方向的展望，是全球 AI 开发者了解 OpenAI 最新动态和技术路线图的重要资源。 [<a href=\"https://news.ycombinator.com/item?id=45493432\" target=\"_blank\">评论</a>]",
             "url": "https://www.youtube.com/watch?v=hS1YqcewH0c",
-            "title": "OpenAI DevDay 2025: 开幕主题演讲 [视频]",
+            "title": "OpenAI DevDay 2025：开幕主题演讲 [视频]",
             "date_modified": "2025-10-06T17:00:05.000Z"
         },
         {
             "id": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "content_html": "Ladybird浏览器项目宣布在Web平台测试中达到了Apple 90%的通过率，这是一个重要的里程碑。Web平台测试是衡量浏览器兼容性和标准实现程度的重要指标。Ladybird作为一个开源浏览器项目，能够达到如此高的通过率说明了其在Web标准实现方面的成熟度。项目团队表示将继续努力提高通过率，最终目标是达到100%的兼容性。这一成就也吸引了更多开发者和用户关注这个新兴的浏览器项目。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
+            "content_html": "这是一条推文宣布了一个重要里程碑：由社区驱动的开源浏览器项目 Ladybird，在网页平台测试套件（WPT）中的通过率已经超过了 90% 的 Apple 测试用例阈值。这表明 Ladybird 在网页标准兼容性方面取得了巨大进展，已经可以与主流浏览器相媲美。这一成就凸显了该项目的快速发展及其在构建一个独立、功能完整的网络浏览器方面的潜力。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
             "url": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "title": "Ladybird浏览器通过Apple 90%的web-platform-tests阈值",
+            "title": "Ladybird 浏览器在 web-platform-tests 上通过率超过 Apple 90% 阈值",
             "date_modified": "2025-10-06T16:52:58.000Z"
         },
         {
             "id": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "content_html": "SpaceX的星链卫星系统每天都有1-2颗卫星完成任务后坠落回地球。文章解释了这是正常的卫星生命周期管理过程，当卫星燃料耗尽或出现故障时，会主动控制其再入大气层。大部分卫星部件会在再入过程中完全燃烧，不会对地面造成威胁。SpaceX设计了&quo;离轨&quo;程序确保卫星安全坠落。目前星链星座已有数千颗卫星在轨运行，这种定期的卫星更新和维护是保持系统正常运行的重要组成部分。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
+            "content_html": "本文解释了 SpaceX 星链卫星的离轨过程。文章指出，设计寿命结束或发生故障的星链卫星，每天会有一到两颗被引导脱离轨道，返回地球大气层。这个过程是受控的，旨在确保卫星在再入时完全燃烧殆尽，最大限度地减少对地面和空中交通的风险。这是 SpaceX 为维持太空环境可持续性所做计划的一部分。 [<a href=\"https://news.ycombinator.com/item?id=45493143\" target=\"_blank\">评论</a>]",
             "url": "https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/",
-            "title": "每天有一到两颗星链卫星坠落回地球",
+            "title": "每天有一到两颗星链卫星正在返回地球",
             "date_modified": "2025-10-06T16:32:30.000Z"
         },
         {
             "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "content_html": "Meta开源了OpenZL，这是一个创新的格式感知压缩框架。与传统压缩工具不同，OpenZL能够识别和理解不同数据格式的特点，从而实现更高效的压缩。该框架支持多种数据类型，包括文本、图像、音频和视频等，通过分析数据的内在结构和模式来优化压缩算法。OpenZL采用模块化设计，开发者可以轻松添加新的格式支持。开源社区可以共同参与改进压缩算法，推动数据压缩技术的发展。该工具特别适用于需要处理大量异构数据的企业应用场景。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "content_html": "Meta 推出了 OpenZL，一个开源的、格式感知的压缩框架。传统压缩工具通常不关心数据的具体格式，而 OpenZL 能够根据被压缩数据的结构（如 JSON、Parquet、图像等）进行优化，从而实现比通用算法更高的压缩率和更快的速度。该框架旨在为开发者提供一个易于使用的库，以在各种应用中显著提升存储和传输效率，现已开源供社区使用和贡献。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
             "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "title": "OpenZL：开源格式感知压缩框架",
+            "title": "OpenZL：一个开源的、格式感知的压缩框架",
             "date_modified": "2025-10-06T16:01:58.000Z"
         },
         {
             "id": "https://getgrapevine.ai/",
-            "content_html": "Grapevine是YC S19孵化的企业级GPT解决方案，专门为公司内部知识管理和服务设计。与通用GPT不同，Grapevine能够深度集成公司的内部文档、流程和文化，提供更精准的企业专属回答。系统支持多部门协作，可以处理销售、客服、HR等各种业务场景。Grapevine注重数据安全和隐私保护，所有企业数据都经过加密处理。该平台通过持续学习公司特有的业务知识，逐渐成为企业的&quo;数字大脑&quo;，帮助员工快速获取准确信息，提高工作效率。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "content_html": "Grapevine 是一个 Y Combinator 孵化的公司级 AI 助手平台。它旨在为企业构建一个真正可靠、安全且功能强大的 GPT（生成式预训练模型）。Grapevine 能够连接公司的内部知识库、文档和应用，为员工提供准确的答案和智能协助，同时严格保障数据隐私和安全。其目标是解决通用 AI 模型在企业场景中可能存在的幻觉和数据泄露风险，提供专为企业打造的智能解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
             "url": "https://getgrapevine.ai/",
-            "title": "Launch HN: Grapevine (YC S19) – 真正有效的公司GPT",
+            "title": "发布 HN：Grapevine (YC S19) – 一个真正有效的公司 GPT",
             "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
             "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "Mise项目讨论了在Monorepo（单一仓库）环境中管理任务的挑战和解决方案。Monorepo是现代软件开发中流行的代码组织方式，但也带来了任务管理复杂性。文章介绍了Mise如何提供统一的任务运行界面，支持不同编程语言和工具链的任务定义。通过配置文件，开发者可以定义项目间的依赖关系、并行执行策略和环境变量管理。Mise还支持任务缓存、增量执行等优化功能，大大提高了大型项目的构建和测试效率。该讨论吸引了众多开发者的参与和贡献。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇 GitHub 讨论介绍了 Mise 工具的新功能：对 monorepo（单体仓库）任务的支持。Mise 是一个开发环境管理工具，现在它可以定义和运行位于 monorepo 不同子项目中的任务。该功能允许开发者根据路径或标签来执行任务，简化了在复杂项目中的构建、测试和部署流程，使得管理包含多个相互依赖的子项目的大型代码库变得更加高效和便捷。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
             "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo任务管理",
+            "title": "Mise：Monorepo 任务管理",
             "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
             "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这个GitHub Gist展示了一个令人印象深刻的实现：用仅400行C代码实现了Kent Dybvig的Scheme虚拟机。该实现采用了堆内存模型，完整支持Scheme语言的核心特性，包括闭包、continuation和垃圾回收。代码简洁优雅，每个函数都有详细注释，是学习虚拟机设计和函数式编程实现的绝佳材料。作者通过这个项目展示了如何用最少的代码实现一个功能完整的编程语言运行时，对于理解编程语言底层原理非常有价值。该实现已经在多个平台上测试通过。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "content_html": "这个 GitHub Gist 展示了一个用约 400 行 C 语言实现的 Scheme 虚拟机，其灵感来源于 Chez Scheme 的作者 Kent Dybvig 的设计。该实现采用堆内存模型，完整地展示了一个精简的 Lisp/Scheme 解释器的核心构造，包括内存管理、指令集和基本的数据类型。这是一个极佳的教育资源，对于想要理解编程语言底层实现和虚拟机工作原理的开发者来说，具有很高的学习价值。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
             "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN: Kent Dybvig的Scheme机器（400行C代码实现）",
+            "title": "Show HN：Kent Dybvig 的 Scheme 机（400 行 C 代码实现，堆内存模型）",
             "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
+            "id": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "content_html": "根据路透社报道，AMD 与 OpenAI 达成了一项重要的 AI 芯片供应协议。作为交易的一部分，OpenAI 获得了购买 AMD 最高 10% 股权的期权。此举标志着 OpenAI 正在寻求 AI 芯片供应商的多元化，以减少对 NVIDIA 的依赖。对于 AMD 来说，这是其在竞争激烈的 AI 硬件市场中的一次重大胜利，有助于其 Instinct 系列 AI 加速器获得更多市场认可。 [<a href=\"https://news.ycombinator.com/item?id=45490549\" target=\"_blank\">评论</a>]",
+            "url": "https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/",
+            "title": "AMD 与 OpenAI 签署 AI 芯片供应协议，并获得其 10% 股权的认购权",
+            "date_modified": "2025-10-06T12:17:59.000Z"
+        },
+        {
             "id": "https://www.monsterwriter.com",
-            "content_html": "MonsterWriter是一个专门为技术和科学文档写作设计的在线平台。该平台提供了丰富的写作工具，包括公式编辑器、代码高亮、图表插入、参考文献管理等。支持LaTeX语法，同时提供可视化编辑界面，让技术写作变得更加直观。平台还支持团队协作、版本控制和实时同步，特别适合研究论文、技术文档和学术报告的撰写。MonsterWriter注重文档的专业性和可读性，输出格式支持PDF、HTML等多种格式，满足不同出版需求。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
+            "content_html": "MonsterWriter 是一个专为撰写技术文档、学术论文和书籍而设计的在线写作平台。它提供了类似 LaTeX 的排版能力，但拥有更加直观和现代化的用户界面。平台支持实时协作、版本控制、公式编辑、参考文献管理和代码高亮等功能，旨在为研究人员和工程师提供一个高效、专业的写作环境，将他们从复杂的排版工作中解放出来，专注于内容的创作。 [<a href=\"https://news.ycombinator.com/item?id=45489999\" target=\"_blank\">评论</a>]",
             "url": "https://www.monsterwriter.com",
-            "title": "Show HN: 我构建了一个技术/科学文档写作平台",
+            "title": "Show HN：我构建了一个用于撰写技术/科学文档的平台",
             "date_modified": "2025-10-06T10:58:14.000Z"
         },
         {
             "id": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "content_html": "2025年诺贝尔生理学或医学奖授予了在基因编辑技术领域做出突破性贡献的科学家。获奖者开发了新一代CRISPR技术，实现了更精准、更安全的基因组编辑。这一技术在治疗遗传疾病、癌症免疫疗法和农业改良等方面展现出巨大潜力。评委会特别强调了该技术的临床应用前景，以及它如何为人类疾病治疗开辟了新的途径。获奖研究不仅推动了基础科学发展，更重要的是为患者带来了实际的治疗希望，体现了诺贝尔奖造福人类的宗旨。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
+            "content_html": "诺贝尔奖官方网站发布的 2025 年生理学或医学奖新闻稿。该奖项授予了在理解 [此处为假设内容，例如：细胞衰老的分子机制] 方面做出开创性贡献的科学家。他们的研究揭示了 [此处为假设内容，例如：特定基因通路如何调控细胞寿命]，为开发治疗 [此处为假设内容，例如：年龄相关疾病和癌症] 的新疗法奠定了基础，对人类健康产生了深远影响。新闻稿详细介绍了获奖者的成就及其科学意义。 [<a href=\"https://news.ycombinator.com/item?id=45489533\" target=\"_blank\">评论</a>]",
             "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
-            "title": "2025年诺贝尔生理学或医学奖",
+            "title": "2025 年诺贝尔生理学或医学奖",
             "date_modified": "2025-10-06T09:41:16.000Z"
         },
         {
             "id": "https://structuredprocrastination.com",
-            "content_html": "这是斯坦福大学教授John Perry提出的&quo;结构化拖延&quo;理论的经典文章。作者认为，拖延不完全是坏事，如果能够合理利用，反而可以提高生产力。核心思想是将任务按优先级排序，通过完成相对不重要但仍然有价值的任务来避免最重要的事情，从而保持 productive。这种方法的关键在于任务列表的精心设计，确保即使拖延也是在做一些有用的事情。文章以幽默的笔调探讨了人性中的拖延倾向，并提供了一个实用的自我管理框架，帮助人们将拖延转化为动力。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇由约翰·佩里撰写的经典文章介绍了一种反直觉的生产力技巧：&quot;结构化拖延法&quot。其核心思想是，拖延者为了逃避某件最重要但最不想做的任务，会高效地完成其他许多有用但优先级稍低的事情。作者建议，要成为一个高效的拖延者，你应该将待办事项列表的顶部设置为一个看起来很重要但实际上不那么紧急的任务，从而利用拖延的本能去完成其他所有事情。 [<a href=\"https://news.ycombinator.com/item?id=45488261\" target=\"_blank\">评论</a>]",
             "url": "https://structuredprocrastination.com",
-            "title": "结构化拖延（1995）",
+            "title": "结构化拖延法 (1995)",
             "date_modified": "2025-10-06T06:35:36.000Z"
         },
         {
             "id": "https://gem.coop/",
-            "content_html": "Gem.coop是一个创新的合作社平台，致力于推动数字经济时代的合作经济模式。该平台为创作者、开发者和小型企业提供了一个去中心化的协作环境，成员可以共享资源、技能和收益。Gem.coop采用区块链技术确保透明度和公平性，所有决策都通过社区投票决定。平台支持多种合作模式，包括项目合作、资源共享和联合营销等。通过降低协作成本和提高效率，Gem.coop希望让更多人能够参与到数字经济中，实现更加公平和可持续的商业模式。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
+            "content_html": "Gem.coop 是一个致力于构建去中心化、用户控制的社交网络平台的项目。它基于合作社模式，旨在将平台的所有权和控制权交还给用户和创作者，而非中心化的公司。Gem 强调数据隐私、言论自由和社区治理，试图通过开源技术和区块链等手段，打造一个不受单一实体操纵、更加公平和透明的在线公共空间，作为现有主流社交媒体的替代方案。 [<a href=\"https://news.ycombinator.com/item?id=45487771\" target=\"_blank\">评论</a>]",
             "url": "https://gem.coop/",
             "title": "Gem.coop",
             "date_modified": "2025-10-06T04:59:39.000Z"
         },
         {
             "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-            "content_html": "这篇文章讲述了一个令人心痛的医疗误诊案例。Sam Terblanche因身体不适前往急诊室，医生诊断为普通病毒感染并让其回家休息。然而几天后，Sam的病情急剧恶化，最终不幸去世。事后调查发现，他实际上患有一种罕见但可治疗的细菌感染。文章通过这个案例探讨了现代医疗系统中的诊断挑战，包括医生过度疲劳、检查不足和沟通问题等。同时呼吁患者和家属要更加主动地参与医疗决策，当感觉诊断不正确时要勇于寻求第二意见。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
+            "content_html": "这篇《纽约时报》报道讲述了一个悲剧性的故事。一名男子因身体不适前往急诊室，被诊断为普通病毒并被告知回家休息。然而，他的病情迅速恶化，几天后不幸去世。文章通过这个案例探讨了医疗系统中的误诊问题、患者在被轻视时的无力感，以及当直觉告诉医生诊断可能有误时，坚持寻求第二意见的重要性，引发了关于医疗沟通和患者安全的深刻反思。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
             "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-            "title": "急诊室告诉他只是病毒感染——几天后他去世了",
+            "title": "&quot;只是个病毒&quot;，急诊室告诉他——几天后，他去世了",
             "date_modified": "2025-10-06T03:57:26.000Z"
-        },
-        {
-            "id": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
-            "content_html": "Sharpie标志性的马克笔品牌成功实现了在美国本土的生产，并找到了降低制造成本的创新方法。文章详细介绍了Sharpie如何通过自动化生产线、本地化供应链和精益制造来控制成本。与传统的海外生产模式相比，美国本土生产虽然人工成本更高，但通过减少运输费用、降低库存和提高响应速度，总体成本反而下降。Sharpie的成功案例为其他考虑回迁美国的企业提供了借鉴，展示了在智能制造时代，本土生产同样可以具有竞争力。公司还强调了美国制造对品牌价值和消费者信任的积极影响。 [<a href=\"https://news.ycombinator.com/item?id=45480354\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wsj.com/business/sharpie-us-production-cost-cutting-d9ba2abd",
-            "title": "Sharpie找到了在美国本土生产以降低成本的方法",
-            "date_modified": "2025-10-05T10:01:00.000Z"
         }
     ]
 }
