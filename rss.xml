@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 08:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 09:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[苏黎世选民禁止使用噪音吹叶机]]></title>
-            <link>https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192</link>
-            <guid isPermaLink="false">https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192</guid>
-            <pubDate>Mon, 06 Oct 2025 07:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[苏黎世选民投票禁止使用汽油动力吹叶机，该措施旨在减少噪音和空气污染。这是瑞士城市中限制这类园艺工具的最新举措。环保人士称赞这一决定，而园艺行业则担忧这可能增加工作成本和时间。 [<a href="https://news.ycombinator.com/item?id=45488729" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[爱钱哈维 - 免费成人视觉小说和金融游戏]]></title>
+            <link>https://lovemoneyharvey.com</link>
+            <guid isPermaLink="false">https://lovemoneyharvey.com</guid>
+            <pubDate>Mon, 06 Oct 2025 09:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个结合了成人视觉小说元素和金融教育游戏的内容。玩家可能在游戏中学习金融知识，同时体验成人主题的故事。游戏可能包含投资决策、财务管理等元素，通过互动的方式教授金融概念。 [<a href="https://news.ycombinator.com/item?id=45489451" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[撞锤RAM - 机密计算的低成本插卡攻击]]></title>
-            <link>https://batteringram.eu/</link>
-            <guid isPermaLink="false">https://batteringram.eu/</guid>
-            <pubDate>Mon, 06 Oct 2025 07:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[撞锤RAM研究揭示了针对机密计算的新型低成本插卡攻击方法。该技术允许攻击者通过物理插卡拦截和修改处理中的数据，从而绕过现有的安全机制。研究团队提出了一系列防御措施，并呼吁业界加强硬件安全防护。 [<a href="https://news.ycombinator.com/item?id=45488713" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[EasyOS: 一个实验性的Linux发行版]]></title>
+            <link>https://easyos.org/</link>
+            <guid isPermaLink="false">https://easyos.org/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[EasyOS是一个轻量级、易于使用的Linux发行版，旨在降低Linux的使用门槛。它可能具有友好的用户界面、简化的安装过程和良好的硬件兼容性。这个项目可能是为了探索Linux在桌面环境中的新可能性，或者为Linux初学者提供一个友好的入门选择。 [<a href="https://news.ycombinator.com/item?id=45489440" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FSF四十周年：推出开创性新项目并选举新主席]]></title>
-            <link>https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign</link>
-            <guid isPermaLink="false">https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign</guid>
-            <pubDate>Mon, 06 Oct 2025 07:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[自由软件基金会(FSF)庆祝成立四十周年，同时宣布了新主席和新项目。该基金会致力于推动自由软件运动，强调用户自由和软件透明度。新总统承诺将继续倡导开放源代码和数字自由，同时启动了一项针对软件自由的新的全球运动。 [<a href="https://news.ycombinator.com/item?id=45488605" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Granite-4.0-Micro: 一个能在浏览器中运行的34亿参数大语言模型]]></title>
+            <link>https://huggingface.co/spaces/ibm-granite/Granite-4.0-WebGPU</link>
+            <guid isPermaLink="false">https://huggingface.co/spaces/ibm-granite/Granite-4.0-WebGPU</guid>
+            <pubDate>Mon, 06 Oct 2025 09:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[Granite-4.0-Micro是IBM开发的一个小型化大语言模型，具有34亿参数，设计用于在普通网页浏览器中运行。这可能通过WebGPU技术实现，使AI模型能够在客户端执行，减少对云端计算的依赖。这种轻量级模型可能适用于各种需要本地AI功能的应用场景，同时保持相对较高的性能。 [<a href="https://news.ycombinator.com/item?id=45489421" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Flightcontrol：AWS平台即服务]]></title>
-            <link>https://www.flightcontrol.dev/</link>
-            <guid isPermaLink="false">https://www.flightcontrol.dev/</guid>
-            <pubDate>Mon, 06 Oct 2025 07:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[Flightcontrol是一个AWS平台即服务(PaaS)解决方案，旨在简化云应用部署。它提供自动化部署、监控和扩展功能，让开发者专注于代码而非基础设施。该平台与现有AWS服务无缝集成，支持多种编程语言和框架。 [<a href="https://news.ycombinator.com/item?id=45488441" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN: 如何创建你自己的自定义去中心化彩票]]></title>
+            <link>https://LotteryHouse.Me</link>
+            <guid isPermaLink="false">https://LotteryHouse.Me</guid>
+            <pubDate>Mon, 06 Oct 2025 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[这个项目可能展示了如何使用区块链技术构建一个去中心化的彩票系统。用户可能通过智能合约进行公平、透明的抽奖活动，确保结果不可篡改。该平台可能提供自定义选项，允许创建不同规则和奖励机制的彩票游戏，同时保持去中心化的特性。 [<a href="https://news.ycombinator.com/item?id=45489375" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[结构性拖延]]></title>
-            <link>https://structuredprocrastination.com</link>
-            <guid isPermaLink="false">https://structuredprocrastination.com</guid>
-            <pubDate>Mon, 06 Oct 2025 06:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[结构性拖延是一种心理策略，建议人们通过完成高价值任务来避免处理不重要的任务。该方法基于观察人们倾向于完成重要任务以避免被视为不够负责。网站提供关于如何利用人类拖延倾向提高生产力的一系列见解和技巧。 [<a href="https://news.ycombinator.com/item?id=45488261" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Cerebras撤回IPO申请]]></title>
+            <link>https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm</link>
+            <guid isPermaLink="false">https://www.sec.gov/Archives/edgar/data/2021728/000119312525230382/d886849drw.htm</guid>
+            <pubDate>Mon, 06 Oct 2025 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[Cerebras是一家开发AI芯片的公司，原本计划进行首次公开募股(IPO)，但现在撤回了相关申请。这可能意味着公司决定暂缓或改变其上市计划，可能是由于市场条件变化、公司战略调整或其他财务考虑。Cerebras以其大型AI芯片WSE-1和WSE-2闻名，专为深度学习工作负载设计。 [<a href="https://news.ycombinator.com/item?id=45489374" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Gem.coop]]></title>
-            <link>https://gem.coop/</link>
-            <guid isPermaLink="false">https://gem.coop/</guid>
-            <pubDate>Mon, 06 Oct 2025 04:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[Gem.coop是一个全球能源合作社联盟，致力于为会员提供可持续和可负担的能源解决方案。该平台结合了可再生能源技术、区块链金融和社区所有权模式，创造了一个全新的能源生态系统，使普通消费者能够成为能源生产者和销售者。 [<a href="https://news.ycombinator.com/item?id=45487771" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Django: 一个统治所有数据库的ORM]]></title>
+            <link>https://www.paulox.net/2025/10/06/django-orm-comparison/</link>
+            <guid isPermaLink="false">https://www.paulox.net/2025/10/06/django-orm-comparison/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能比较了Django框架的对象关系映射(ORM)功能与其他ORM工具，强调了Django ORM的灵活性和强大之处。Django ORM允许开发者使用Python代码而不是SQL查询来操作数据库，支持多种数据库后端，并且提供了高级抽象功能，如数据迁移、查询集和关系管理等。 [<a href="https://news.ycombinator.com/item?id=45489347" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在Linux上运行的CHERI]]></title>
-            <link>https://lwn.net/Articles/1037974/</link>
-            <guid isPermaLink="false">https://lwn.net/Articles/1037974/</guid>
-            <pubDate>Mon, 06 Oct 2025 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[CHERI(Capability Hardware Enhanced RISC Instructions)是一种新型处理器扩展，为Linux系统提供内存安全功能。该技术通过 capabilities 和 bounds 实现细粒度的内存控制，有效防止常见的内存漏洞攻击。文章探讨了这种技术与Linux集成的技术细节和潜在影响。 [<a href="https://news.ycombinator.com/item?id=45487629" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[理解面向对象编程]]></title>
+            <link>https://understandingoop.com/</link>
+            <guid isPermaLink="false">https://understandingoop.com/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[这个网站可能是一个全面的面向对象编程(OOP)学习资源，涵盖OOP的基本概念，如封装、继承、多态和抽象。它可能通过实例和练习来帮助读者理解这些概念，并展示如何在不同编程语言中应用面向对象的原则，适合初学者和希望加深OOP知识的专业人士。 [<a href="https://news.ycombinator.com/item?id=45489337" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[急诊科告诉他只是病毒。几天后，他死了]]></title>
-            <link>https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</link>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html</guid>
-            <pubDate>Mon, 06 Oct 2025 03:57:26 GMT</pubDate>
-            <content:encoded><![CDATA[萨姆·特布兰奇因类似流感的症状前往急诊室，医生最初诊断为普通病毒感染并让他回家。几天后，他的病情急剧恶化，最终因严重并发症去世。该案例引发了人们对医疗系统中潜在失误和病毒症状评估不足的关注，强调了对轻微症状也应保持警惕的重要性。 [<a href="https://news.ycombinator.com/item?id=45487519" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[&apos;最好&apos;的大学不会永远是最好的]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2025/10/ivy-league-schools-prestige/684454/</link>
+            <guid isPermaLink="false">https://www.theatlantic.com/ideas/archive/2025/10/ivy-league-schools-prestige/684454/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能探讨了大学排名和声望的动态变化，特别关注常春藤盟校等精英机构。作者可能分析了影响大学地位的各种因素，如研究产出、教学质量、创新能力和校友网络等，并讨论了大学如何适应不断变化的高等教育环境和社会需求。 [<a href="https://news.ycombinator.com/item?id=45489334" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[已存档1万亿个网页]]></title>
-            <link>https://blog.archive.org/trillion/</link>
-            <guid isPermaLink="false">https://blog.archive.org/trillion/</guid>
-            <pubDate>Mon, 06 Oct 2025 03:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[互联网档案馆宣布已存档1万亿个网页，这是数字保存史上的一个重要里程碑。这一成就归功于其网页抓取技术、存储基础设施和全球合作伙伴网络。存档不仅保存了历史，也为研究人员、历史学家和公众提供了宝贵的数字遗产，同时面临着数据增长和保存长期可持续性的挑战。 [<a href="https://news.ycombinator.com/item?id=45487476" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[加密货币现状(2021)]]></title>
+            <link>https://zerophilosophy.substack.com/p/crypto-current</link>
+            <guid isPermaLink="false">https://zerophilosophy.substack.com/p/crypto-current</guid>
+            <pubDate>Mon, 06 Oct 2025 09:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能发表于2021年，回顾了当时加密货币市场的发展状况、主要趋势和挑战。它可能分析了比特币、以太坊等主流加密货币的表现，讨论了DeFi(去中心化金融)的兴起，以及NFT市场的爆发，同时也可能提到了监管环境和机构投资者对加密资产的日益关注。 [<a href="https://news.ycombinator.com/item?id=45489329" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[查找附近的自动车牌阅读器(ALPR)]]></title>
-            <link>https://deflock.me/</link>
-            <guid isPermaLink="false">https://deflock.me/</guid>
-            <pubDate>Mon, 06 Oct 2025 03:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[Deflock.me是一个地图服务，帮助用户查找附近的自动车牌阅读器(ALPR)位置。该平台基于用户提交的数据构建，提供实时可视化显示政府机构和私人公司部署的监控摄像头网络。该服务旨在提高公众对这些监控技术的认识，促进关于隐私权和公共安全之间平衡的讨论。 [<a href="https://news.ycombinator.com/item?id=45487452" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[用Python构建你自己的AI代理的完整代码]]></title>
+            <link>https://thenewaiorder.substack.com/p/how-to-code-an-ai-agent-text-to-sql</link>
+            <guid isPermaLink="false">https://thenewaiorder.substack.com/p/how-to-code-an-ai-agent-text-to-sql</guid>
+            <pubDate>Mon, 06 Oct 2025 09:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能提供了使用Python编程语言构建AI代理的详细教程和完整代码示例。AI代理可能能够理解自然语言查询，将其转换为SQL命令，并与数据库交互。文章可能涵盖了从环境设置、模型选择到实现推理和决策逻辑的完整流程，适合希望创建自定义AI解决方案的开发者。 [<a href="https://news.ycombinator.com/item?id=45489325" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[为什么大型语言模型对海马emoji感到恐慌？]]></title>
-            <link>https://vgel.me/posts/seahorse/</link>
-            <guid isPermaLink="false">https://vgel.me/posts/seahorse/</guid>
-            <pubDate>Mon, 06 Oct 2025 02:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[研究人员发现大型语言模型(LLMs)对海马emoji(🐎)表现出异常反应，经常在文本中不恰当地插入或修改该符号。这种现象可能与训练数据中的特定偏见或关联有关，揭示了AI系统中的潜在盲点和异常行为。该研究强调了LLMs并非完美理解符号和语境，仍存在不可预测的怪异行为。 [<a href="https://news.ycombinator.com/item?id=45487044" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[一个告诉你USB-C线缆是否损坏的终端命令]]></title>
+            <link>https://kau.sh/blog/usbi/</link>
+            <guid isPermaLink="false">https://kau.sh/blog/usbi/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能介绍了一个可以在终端中执行的命令，用于检测USB-C线缆是否工作正常或存在故障。这个命令可能利用Linux内核的USB子系统信息，读取线缆的详细规格和状态，包括支持的数据传输速率、供电能力等关键参数，帮助用户识别劣质或损坏的USB-C线缆。 [<a href="https://news.ycombinator.com/item?id=45489317" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我应该选择Ada、SPARK或Rust而不是C/C++吗？(2024)]]></title>
-            <link>https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</link>
-            <guid isPermaLink="false">https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c</guid>
-            <pubDate>Mon, 06 Oct 2025 01:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章比较了Ada、SPARK和Rust作为C/C++替代品的优缺点。Ada/SPARK在关键安全领域表现卓越，提供强大的静态分析和形式化验证能力。Rust则通过其所有权系统提供内存安全，同时保持高性能。文章根据项目类型、安全需求和团队背景提供了选择这些语言的具体建议。 [<a href="https://news.ycombinator.com/item?id=45486829" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Opus 4.1在Max计划上减少12倍，Sonnet 4.5被认为存在延迟]]></title>
+            <link>https://github.com/anthropics/claude-code/issues/8449</link>
+            <guid isPermaLink="false">https://github.com/anthropics/claude-code/issues/8449</guid>
+            <pubDate>Mon, 06 Oct 2025 09:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[这可能是一个GitHub问题讨论，涉及Anthropic的Claude模型在不同计划上的性能变化。讨论可能指出Opus 4.1在Max计划上出现了显著的性能下降(减少12倍)，而Sonnet 4.5版本则被用户报告存在响应延迟问题。这可能是模型更新引起的性能问题，或者是基础设施变更导致的用户体验下降。 [<a href="https://news.ycombinator.com/item?id=45489316" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[基于规则的专家系统：Mycin实验(1984)]]></title>
-            <link>https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</link>
-            <guid isPermaLink="false">https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm</guid>
-            <pubDate>Sun, 05 Oct 2025 23:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[MYCIN是1980年代开发的基于规则的专家系统，专门用于诊断血液感染和推荐抗生素治疗。该系统通过医学专家知识库推理，准确率甚至超过初级医生。MYCIN项目不仅是人工智能的重要里程碑，还开创了知识表示和不确定性推理的新方法，影响了后来的专家系统发展。 [<a href="https://news.ycombinator.com/item?id=45486306" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Neutts-air - 开源的设备端文本转语音系统]]></title>
+            <link>https://github.com/neuphonic/neutts-air</link>
+            <guid isPermaLink="false">https://github.com/neuphonic/neutts-air</guid>
+            <pubDate>Mon, 06 Oct 2025 09:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[Neutts-air是一个开源项目，提供在本地设备上运行的文本转语音(TTS)解决方案。它可能旨在提供一个轻量级、高效的TTS系统，不需要依赖云端服务，从而保护用户隐私并减少延迟。该项目可能支持多种语言，并提供良好的语音质量和可定制的语音参数，适用于各种应用场景，如辅助技术、内容创作和自动化系统。 [<a href="https://news.ycombinator.com/item?id=45489311" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[德国为50万个阳台安装太阳能电池板]]></title>
-            <link>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</link>
-            <guid isPermaLink="false">https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</guid>
-            <pubDate>Sun, 05 Oct 2025 22:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[德国实施了创新的太阳能推广计划，已为约50万个阳台安装小型太阳能电池板。这种分布式能源解决方案降低了安装门槛，允许租户和公寓住户参与能源转型。该项目结合了政府补贴、技术创新和社区参与，为城市可再生能源利用提供了成功范例。 [<a href="https://news.ycombinator.com/item?id=45485806" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Wasm中的Cap&apos;n Proto]]></title>
+            <link>https://mikel.xyz/posts/capnp-in-wasm/</link>
+            <guid isPermaLink="false">https://mikel.xyz/posts/capnp-in-wasm/</guid>
+            <pubDate>Mon, 06 Oct 2025 09:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能探讨了如何将Cap&apos;n Proto(一种高效的数据序列化协议)与WebAssembly(Wasm)结合使用。Cap&apos;n Proto以其高性能和低延迟著称，而Wasm允许在浏览器中运行原生性能的代码。这种结合可能为Web应用提供更高效的数据传输和序列化方案，特别适合需要高性能数据交换的实时应用和游戏。 [<a href="https://news.ycombinator.com/item?id=45489309" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[著名制琴师肯·帕克去世]]></title>
-            <link>https://kenparkerarchtops.com</link>
-            <guid isPermaLink="false">https://kenparkerarchtops.com</guid>
-            <pubDate>Sun, 05 Oct 2025 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[著名制琴师肯·帕克(Ken Parker)去世，他是乐器设计领域的创新者，以其革命性的弓形吉他设计而闻名。帕克的乐器融合了艺术美学和技术创新，影响了现代乐器制造。他的独特设计理念和手工工艺为吉他界留下了持久遗产，音乐界和制琴师纷纷表示哀悼。 [<a href="https://news.ycombinator.com/item?id=45485736" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN: Youcomic.org: AI驱动的单步漫画创作平台]]></title>
+            <link>https://youcomic.org</link>
+            <guid isPermaLink="false">https://youcomic.org</guid>
+            <pubDate>Mon, 06 Oct 2025 09:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[Youcomic.org是一个利用人工智能技术简化漫画创作过程的平台。用户可能只需输入简单的文本提示或选择基本的创意方向，AI就能生成完整的漫画内容，包括角色设计、场景构建和对话编写。该平台可能旨在降低漫画创作的技术门槛，让没有专业绘图技能的用户也能创作出高质量的漫画内容。 [<a href="https://news.ycombinator.com/item?id=45489286" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Toybox：一站式Linux命令行]]></title>
-            <link>https://github.com/landley/toybox</link>
-            <guid isPermaLink="false">https://github.com/landley/toybox</guid>
-            <pubDate>Sun, 05 Oct 2025 19:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[Toybox是一个开源的一站式Linux命令行工具集合，旨在替代传统的GNU核心工具。它用C语言编写，代码简洁高效，适合嵌入式系统和资源受限环境。该项目提供了超过300个标准Unix工具的实现，强调小体积、高性能和与POSIX标准的兼容性。 [<a href="https://news.ycombinator.com/item?id=45484284" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[关怀软件理念]]></title>
+            <link>https://arachnoid.com/careware/index.html</link>
+            <guid isPermaLink="false">https://arachnoid.com/careware/index.html</guid>
+            <pubDate>Mon, 06 Oct 2025 09:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[关怀软件是一种软件分发理念，强调开发者与用户之间的互惠关系。与传统的免费软件或商业软件不同，关怀软件不强制收费或要求捐赠，而是鼓励用户在使用软件后，如果觉得有帮助，可以考虑以自己的方式回馈社会，比如帮助他人、参与慈善活动或创造有价值的作品。这种模式强调的是软件的社会价值和使用者的道德责任，而非直接的商业利益。 [<a href="https://news.ycombinator.com/item?id=45489280" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GPT-OSS泄露了关于OpenAI训练数据的哪些信息]]></title>
-            <link>https://fi-le.net/oss/</link>
-            <guid isPermaLink="false">https://fi-le.net/oss/</guid>
-            <pubDate>Sun, 05 Oct 2025 18:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[研究人员分析了GPT-OSS数据集，发现其中可能包含OpenAI训练数据中的专有代码和受版权保护的文本。这些泄露的见解暴露了AI训练过程中对知识产权处理的问题，以及大规模数据集隐私保护措施的不足。该研究引发了关于AI训练数据来源和道德使用的辩论。 [<a href="https://news.ycombinator.com/item?id=45483924" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[QA-use-MCP: 用于端到端测试的MCP]]></title>
+            <link>https://www.npmjs.com/package/@desplega.ai/qa-use-mcp</link>
+            <guid isPermaLink="false">https://www.npmjs.com/package/@desplega.ai/qa-use-mcp</guid>
+            <pubDate>Mon, 06 Oct 2025 09:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[QA-use-MCP是一个npm包，可能为软件测试提供工具，特别是用于端到端(E2E)测试。MCP可能代表某种测试框架或协议。这个包可能允许测试人员编写自动化测试脚本，模拟真实用户场景，验证应用程序的各个功能是否按预期工作，确保软件质量并减少手动测试的工作量。 [<a href="https://news.ycombinator.com/item?id=45489274" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[大火摧毁韩国政府云存储系统，无可用备份]]></title>
-            <link>https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</link>
-            <guid isPermaLink="false">https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936</guid>
-            <pubDate>Sun, 05 Oct 2025 17:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[韩国政府国家情报和研究服务(NIRS)的云存储系统发生火灾，导致关键数据完全丢失，且没有可用备份。这一事件引发了人们对公共部门数据管理实践的严重担忧。调查显示，该系统缺乏适当的数据备份策略和灾难恢复计划，导致政府机构面临重大服务中断和数据丢失风险。 [<a href="https://news.ycombinator.com/item?id=45483386" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[轻量级OpenAPI查看器]]></title>
+            <link>https://swagger.vibecodinghub.org</link>
+            <guid isPermaLink="false">https://swagger.vibecodinghub.org</guid>
+            <pubDate>Mon, 06 Oct 2025 08:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个轻量级的OpenAPI规范查看工具，可能帮助开发者可视化和理解API文档。OpenAPI规范是一种标准化的RESTful API描述格式，允许开发者清晰地定义API的端点、参数、请求和响应格式。这个查看器可能提供交互式界面，使开发者能够轻松浏览API功能，测试端点，并集成开发工作流，提高API开发和使用的效率。 [<a href="https://news.ycombinator.com/item?id=45489268" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NFS四十周年 - 回顾太阳微系统网络文件系统]]></title>
-            <link>https://nfs40.online/</link>
-            <guid isPermaLink="false">https://nfs40.online/</guid>
-            <pubDate>Sun, 05 Oct 2025 15:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[网络文件系统(NFS)迎来四十周年纪念，回顾了由太阳微系统开发的这一重要网络协议的发展历程。NFS彻底改变了分布式计算和文件共享，使不同计算机系统能够无缝访问远程文件。随着云存储和分布式技术的发展，NFS仍在继续演变，为现代数据基础设施提供基础支持。 [<a href="https://news.ycombinator.com/item?id=45482467" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Boost.Bloom中的批量操作]]></title>
+            <link>http://bannalia.blogspot.com/2025/10/bulk-operations-in-boostbloom.html</link>
+            <guid isPermaLink="false">http://bannalia.blogspot.com/2025/10/bulk-operations-in-boostbloom.html</guid>
+            <pubDate>Mon, 06 Oct 2025 08:59:16 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章可能讨论了C++库Boost.Bloom中的批量操作实现。布隆过滤器是一种空间效率高的概率数据结构，用于测试元素是否在集合中。Boost.Bloom可能是Boost库的一个扩展，提供了布隆过滤器的C++实现。文章可能探讨了如何优化布隆过滤器的批量操作，如批量插入、批量查询和批量删除，以提高数据处理的效率。 [<a href="https://news.ycombinator.com/item?id=45489263" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[QNX操作系统]]></title>
-            <link>https://www.abortretry.fail/p/the-qnx-operating-system</link>
-            <guid isPermaLink="false">https://www.abortretry.fail/p/the-qnx-operating-system</guid>
-            <pubDate>Sun, 05 Oct 2025 14:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[QNX是一个实时操作系统(RTOS)，以其微内核架构和高可靠性而闻名。它广泛应用于汽车电子、工业控制和关键基础设施领域。QNX的模块化设计和严格内存管理使其成为需要高可用性和确定性的系统的理想选择，尽管其商业许可模式限制了某些开源应用场景。 [<a href="https://news.ycombinator.com/item?id=45481892" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[展示HN: Aikoa - 适用于工作与生活的简约待办事项网页应用]]></title>
+            <link>https://aikoa.app</link>
+            <guid isPermaLink="false">https://aikoa.app</guid>
+            <pubDate>Mon, 06 Oct 2025 08:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[Aikoa是一个简约设计的待办事项管理应用，特别注重工作与生活的平衡管理。它可能提供直观的用户界面，帮助用户分类和组织不同领域的任务，如工作项目、个人目标和家庭责任。应用可能强调时间管理和优先级设置功能，帮助用户更有效地利用时间，减少压力，提高生活质量。其极简设计理念旨在减少认知负担，让用户专注于任务本身。 [<a href="https://news.ycombinator.com/item?id=45489228" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
