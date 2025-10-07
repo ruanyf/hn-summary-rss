@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://github.com/hunvreus/devpush",
-            "content_html": "Devpush 是一个开源的部署平台，类似于 Vercel。它允许用户轻松部署应用程序，支持多种编程语言，并且可以自行托管。项目旨在提供一个开放、灵活的替代方案，让开发者能够在自己的服务器上拥有类似 Vercel 的体验，而无需依赖商业服务。它通过 Docker 容器化应用，并使用 Nginx 进行反向代理。 [<a href=\"https://news.ycombinator.com/item?id=45501279\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/hunvreus/devpush",
-            "title": "类似 Vercel，但开源且支持所有语言",
-            "date_modified": "2025-10-07T10:07:50.000Z"
+            "id": "https://www.bbc.com/future/article/20251006-the-typhoon-proof-wind-farms-powering-chinas-coast",
+            "content_html": "这篇文章讲述了中国沿海地区建设抗台风风力发电场的故事。这些风力发电场采用了先进的设计技术，能够承受强台风的冲击。文章介绍了这些风力发电场如何通过技术创新，如浮动式基础和智能控制系统，来应对极端天气条件，为中国沿海地区提供清洁能源。这些项目展示了中国在可再生能源领域的技术实力，以及在应对气候变化方面的积极努力。 [<a href=\"https://news.ycombinator.com/item?id=45501793\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bbc.com/future/article/20251006-the-typhoon-proof-wind-farms-powering-chinas-coast",
+            "title": "为中国海岸提供电力的&quot;抗台风&quot;风力发电场",
+            "date_modified": "2025-10-07T11:23:04.000Z"
         },
         {
-            "id": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-            "content_html": "2025 年诺贝尔物理学奖授予了约翰·克拉克、米歇尔·德沃雷和约翰·马丁尼斯，以表彰他们在量子信息科学领域的开创性贡献。他们的研究重点是开发基于超导电路的量子比特，这是构建量子计算机的关键技术。他们的工作使得对量子态的精确测量和控制成为可能，为量子计算和量子信息处理的发展奠定了坚实的基础。 [<a href=\"https://news.ycombinator.com/item?id=45501189\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-            "title": "诺贝尔物理学奖授予约翰·克拉克、米歇尔·德沃雷和约翰·马丁尼斯",
-            "date_modified": "2025-10-07T09:50:49.000Z"
+            "id": "https://lwn.net/ml/all/aOQVeVYY6zadPjln@nand.local/",
+            "content_html": "这篇文章总结了2025年Git贡献者峰会的主要内容。会议讨论了Git项目的最新发展，包括性能优化、新功能开发、社区建设等议题。参与者分享了各自在Git生态系统中的经验，探讨了未来Git的发展方向，以及如何更好地服务开发者社区。峰会还涉及了Git在大型项目中的应用挑战，以及如何改进用户体验和工作流程。 [<a href=\"https://news.ycombinator.com/item?id=45501790\" target=\"_blank\">评论</a>]",
+            "url": "https://lwn.net/ml/all/aOQVeVYY6zadPjln@nand.local/",
+            "title": "2025年Git贡献者峰会笔记",
+            "date_modified": "2025-10-07T11:22:06.000Z"
         },
         {
-            "id": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-            "content_html": "这篇文章以荷兰画家蒙德里安的几何画作为类比，生动地介绍了函数式编程中的&quot;光学&quot;概念。光学是一种用于聚焦和操作嵌套数据结构（如记录和代数数据类型）部分的抽象工具。文章通过直观的例子，解释了 Lens、Prism 和 Iso 等光学类型如何工作，帮助开发者理解如何在不编写样板代码的情况下，优雅地访问和更新深层嵌套的数据。 [<a href=\"https://news.ycombinator.com/item?id=45501114\" target=\"_blank\">评论</a>]",
-            "url": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-            "title": "蒙德里安式函数光学入门",
-            "date_modified": "2025-10-07T09:35:53.000Z"
+            "id": "https://www.generalcatalyst.com/stories/software-for-hardware",
+            "content_html": "这篇文章探讨了如何通过软件技术来控制和优化硬件设备，实现物理世界的数字化。文章介绍了各种传感器、物联网设备和控制系统的应用，展示了软件如何赋予传统硬件新的功能，提高效率并创造新的商业价值。作者认为，这种软硬件融合的趋势正在改变传统制造业，推动工业4.0的发展，并为创新企业带来新的机遇。 [<a href=\"https://news.ycombinator.com/item?id=45501781\" target=\"_blank\">评论</a>]",
+            "url": "https://www.generalcatalyst.com/stories/software-for-hardware",
+            "title": "硬件软件化——数字化物理世界",
+            "date_modified": "2025-10-07T11:21:01.000Z"
         },
         {
-            "id": "https://redis.io/blog/security-advisory-cve-2025-49844/",
-            "content_html": "Redis 官方发布了一个安全公告，警告存在一个严重漏洞 CVE-2025-49844。该漏洞是一个&quot;释放后利用&quot;类型，在特定条件下可能被利用来执行远程代码。受影响的版本包括 Redis 7.0.0 至 7.2.5。官方强烈建议所有用户立即升级到 Redis 7.2.6 或更高版本以修复此问题。该漏洞的发现者被感谢，并提醒用户如果无法立即升级，应采取其他缓解措施。 [<a href=\"https://news.ycombinator.com/item?id=45501099\" target=\"_blank\">评论</a>]",
-            "url": "https://redis.io/blog/security-advisory-cve-2025-49844/",
-            "title": "Redis CVE-2025-49844：释放后利用可能导致远程代码执行",
-            "date_modified": "2025-10-07T09:33:50.000Z"
+            "id": "https://www.cnn.com/2025/10/07/politics/china-chatgpt-surveillance",
+            "content_html": "这篇报道声称，疑似中国特工使用ChatGPT来帮助撰写大规模监控提案。文章详细描述了这些操作如何利用AI工具来生成看似专业的监控方案，并讨论了这对国际关系和技术伦理的影响。报道引用了多个情报来源，指出这种做法可能违反了AI服务的使用条款，并引发了关于AI技术滥用的担忧。 [<a href=\"https://news.ycombinator.com/item?id=45501776\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnn.com/2025/10/07/politics/china-chatgpt-surveillance",
+            "title": "涉嫌中国特工使用ChatGPT塑造大规模监控提案",
+            "date_modified": "2025-10-07T11:20:13.000Z"
         },
         {
-            "id": "https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213",
-            "content_html": "本文探讨了当前智能眼镜热潮可能即将面临的反噬。作者认为，尽管像 Meta Ray-Ban 这样的产品在技术上有进步，但它们引发了严重的隐私担忧，因为用户可能在他人不知情的情况下进行录制。随着这些设备的普及，公众对其社交和隐私影响的警惕性会提高，可能导致社会抵触情绪、使用场所限制，甚至立法监管，最终形成一股&quot;反弹&quot;浪潮。 [<a href=\"https://news.ycombinator.com/item?id=45501073\" target=\"_blank\">评论</a>]",
-            "url": "https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213",
-            "title": "准备好，智能眼镜的反弹即将到来",
-            "date_modified": "2025-10-07T09:29:28.000Z"
+            "id": "https://medium.com/@FuturistAI/the-dragon-hatchling-a-neural-network-that-thinks-like-a-brain-and-runs-on-your-gpu-af037123286b",
+            "content_html": "这篇文章介绍了一种名为&quot;龙之雏形&quot;的新型神经网络架构，它模仿人脑的工作方式，但可以在普通GPU上运行。文章详细解释了这种网络的设计原理、性能优势，以及它如何在不同应用场景中表现出色。作者声称这种架构在处理复杂任务时更加高效，同时保持了较低的计算资源需求，为AI技术的普及提供了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45501753\" target=\"_blank\">评论</a>]",
+            "url": "https://medium.com/@FuturistAI/the-dragon-hatchling-a-neural-network-that-thinks-like-a-brain-and-runs-on-your-gpu-af037123286b",
+            "title": "龙之雏形：像大脑一样思考的神经网络（可在你的GPU上运行）",
+            "date_modified": "2025-10-07T11:16:51.000Z"
         },
         {
-            "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "content_html": "德勤会计师事务所同意向澳大利亚政府退还一笔 44 万美元的报告费用。原因是该公司在制作一份关于人工智能的报告时，未经授权使用了人工智能工具。此举违反了合同中关于工作交付标准的要求，凸显了在专业服务领域使用 AI 时面临的合规性和透明度挑战。事件引发了关于如何规范 AI 在咨询和政府合同中应用的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45500485\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "title": "德勤在 44 万美元的报告中使用 AI 后将向澳大利亚政府退款",
-            "date_modified": "2025-10-07T07:51:57.000Z"
+            "id": "https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
+            "content_html": "这篇文章报道了Redis数据库中发现的一个存在13年之久的严重漏洞，该漏洞可能允许攻击者执行远程代码。文章详细描述了漏洞的技术细节、潜在影响，以及开发团队如何修复这个问题。这个漏洞被评级为10级（最高级别），影响了大量使用Redis的应用程序，促使安全专家建议用户立即更新到最新版本。 [<a href=\"https://news.ycombinator.com/item?id=45501744\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/",
+            "title": "Redis中存在13年之久的10级漏洞可能导致远程代码执行",
+            "date_modified": "2025-10-07T11:15:46.000Z"
         },
         {
-            "id": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
-            "content_html": "蒙特利尔大学的一项研究表明，胎儿在出生前就能对外语的声音进行学习和区分。研究人员通过追踪孕妇的胎儿发现，当反复播放一种外语的特定音节时，胎儿出生后的大脑反应显示出对这种语言的熟悉度。这一发现揭示了人类语言学习的惊人早期阶段，表明子宫内的语言环境可能对婴儿未来的语言能力发展产生微妙而重要的影响。 [<a href=\"https://news.ycombinator.com/item?id=45499730\" target=\"_blank\">评论</a>]",
-            "url": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
-            "title": "出生前学习外语",
-            "date_modified": "2025-10-07T05:43:56.000Z"
+            "id": "https://ninjadoc.ai",
+            "content_html": "这个网站介绍了一个新的API服务，它可以为文档中的每个答案提供精确的边界框位置。这个工具特别适用于需要精确定位文档内容的场景，如OCR处理、文档分析等。该API能够识别文档中的文本、图像、表格等元素，并返回它们在页面上的确切坐标，帮助开发者构建更智能的文档处理应用。 [<a href=\"https://news.ycombinator.com/item?id=45501737\" target=\"_blank\">评论</a>]",
+            "url": "https://ninjadoc.ai",
+            "title": "我正在构建一个为每个答案提供边界框的API",
+            "date_modified": "2025-10-07T11:14:42.000Z"
         },
         {
-            "id": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
-            "content_html": "加州通过了一项新法律，要求像 Netflix 和 Hulu 这样的流媒体服务必须确保其广告的音量不会比周围的节目内容更大。这项旨在解决观众长期以来抱怨的&quot;喧闹广告&quot;问题的法案，将使加州的音量控制标准与联邦通信委员会对传统电视广播的规定保持一致。法律要求流媒体平台在技术上采取措施，防止广告音量突然飙升，以改善用户的观看体验。 [<a href=\"https://news.ycombinator.com/item?id=45499281\" target=\"_blank\">评论</a>]",
-            "url": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
-            "title": "加州法律迫使 Netflix、Hulu 降低广告音量",
-            "date_modified": "2025-10-07T04:03:49.000Z"
+            "id": "https://substack.com/home/post/p-175510532",
+            "content_html": "这篇文章讨论了为什么ChatGPT等AI工具不会完全取代人类作家。作者强调了创造力、情感表达和独特视角的重要性，认为这些是人类写作的核心价值，AI难以复制。文章指出，虽然AI可以辅助写作过程，但真正的文学作品需要人类的生活体验、情感深度和原创思维，这些是当前AI技术无法达到的。 [<a href=\"https://news.ycombinator.com/item?id=45501731\" target=\"_blank\">评论</a>]",
+            "url": "https://substack.com/home/post/p-175510532",
+            "title": "ChatGPT不会取代作家",
+            "date_modified": "2025-10-07T11:13:58.000Z"
         },
         {
-            "id": "https://pdoc.dev/",
-            "content_html": "Pdoc 是一个简单易用的工具，用于自动为 Python 项目生成清晰美观的 HTML API 文档。它直接从代码的 docstrings 中提取信息，无需任何额外的配置文件或标记语言。Pdoc 支持现代 Python 语法，能智能地渲染类型提示、数据类，并且可以与 Markdown 完美集成。其输出结果响应式设计，易于浏览，是快速创建和托管项目文档的理想选择。 [<a href=\"https://news.ycombinator.com/item?id=45499170\" target=\"_blank\">评论</a>]",
-            "url": "https://pdoc.dev/",
-            "title": "Pdoc – 为 Python 项目生成 API 文档",
-            "date_modified": "2025-10-07T03:40:41.000Z"
+            "id": "https://www.cnn.com/2025/10/07/climate/chemicals-plastic-wristbands-phthalates-bisphenols",
+            "content_html": "这篇报道讲述了三名CNN记者在不同大洲佩戴化学追踪手环的实验。手环检测到了各种有害化学物质，包括邻苯二甲酸盐和双酚类物质，揭示了日常环境中化学污染的普遍性。实验结果显示，无论身处何地，人们都可能接触到这些潜在有害的化学物质，引发了关于化学品监管和公众健康保护的讨论。 [<a href=\"https://news.ycombinator.com/item?id=45501716\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnn.com/2025/10/07/climate/chemicals-plastic-wristbands-phthalates-bisphenols",
+            "title": "三大洲的三名CNN记者佩戴化学追踪手环",
+            "date_modified": "2025-10-07T11:12:43.000Z"
         },
         {
-            "id": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-            "content_html": "物理学家发现，古老的折纸艺术为解决一个关于材料特性的长期难题提供了新思路。研究团队利用三角褶皱的折纸图案，创造出一种具有特殊机械性能的&quot;超材料&quot;。这种材料的结构使其在受到挤压时表现出独特的、可预测的响应，从而帮助科学家们更好地理解和设计具有特定力学行为的材料。这项成果不仅展示了折纸在科学中的应用价值，也为材料科学开辟了新的研究方向。 [<a href=\"https://news.ycombinator.com/item?id=45498469\" target=\"_blank\">评论</a>]",
-            "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-            "title": "折纸图案解决了一个重大物理学难题",
-            "date_modified": "2025-10-07T01:34:32.000Z"
+            "id": "https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html",
+            "content_html": "这篇文章详细分析了美国政府对谷歌的反垄断诉讼，双方在广告技术领域的争论焦点。文章解释了谷歌的市场地位、政府的指控内容，以及谷歌的辩护观点。核心争议在于谷歌是否滥用其在数字广告市场的主导地位，以及其行为是否损害了竞争和消费者利益。案件的结果可能对整个科技行业产生深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45501714\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html",
+            "title": "美国诉谷歌案：双方争论要点",
+            "date_modified": "2025-10-07T11:12:10.000Z"
         },
         {
-            "id": "https://thecascade.dev/article/least-amount-of-css/",
-            "content_html": "这篇文章探讨了创建一个视觉上可接受且功能正常的现代网站到底需要多少 CSS。作者通过逐步添加样式，从零开始构建一个简单的博客布局，最终得出结论：仅需非常少量的 CSS（大约 200-300 行），就能实现清晰的排版、合理的间距、响应式设计和良好的可读性。文章强调了优先考虑内容和用户体验，而非过度设计的理念，并提供了一份基础样式清单，展示了简约设计的力量。 [<a href=\"https://news.ycombinator.com/item?id=45497624\" target=\"_blank\">评论</a>]",
-            "url": "https://thecascade.dev/article/least-amount-of-css/",
-            "title": "构建一个体面网站所需的最少 CSS (2023)",
-            "date_modified": "2025-10-06T23:47:24.000Z"
+            "id": "https://medium.com/@akshitdayal99/the-missing-piece-that-makes-ai-actually-work-in-production-22e9eb724fd9",
+            "content_html": "这篇文章为初学者提供了在生产环境中有效部署AI系统的实用指南。作者分享了关键的技术考虑、最佳实践和常见陷阱，帮助读者避免AI项目在实际应用中失败。文章强调了数据质量、模型监控、可扩展性和用户体验的重要性，并提供了具体的实施建议和工具推荐。 [<a href=\"https://news.ycombinator.com/item?id=45501700\" target=\"_blank\">评论</a>]",
+            "url": "https://medium.com/@akshitdayal99/the-missing-piece-that-makes-ai-actually-work-in-production-22e9eb724fd9",
+            "title": "在生产环境中让AI发挥作用的初学者指南",
+            "date_modified": "2025-10-07T11:11:01.000Z"
         },
         {
-            "id": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
-            "content_html": "微软正在积极封堵允许用户在安装或设置 Windows 11 时跳过 Microsoft 账户登录的已知漏洞。过去，用户可以通过多种方法（如断网或使用特定命令）来创建本地账户。然而，近期的 Windows 更新和系统改动，使这些绕过方法变得更困难或失效。此举表明微软正加大力度推动用户使用其在线账户服务，以便更深度地整合云存储、应用商店和其他生态系统功能。 [<a href=\"https://news.ycombinator.com/item?id=45497384\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
-            "title": "微软正在修补更多让你无需 MS 账户即可使用 Windows 11 的漏洞",
-            "date_modified": "2025-10-06T23:15:26.000Z"
+            "id": "https://news.ycombinator.com/item?id=45501689",
+            "content_html": "这个Hacker News讨论串分享了从Jenkins迁移到GitLab的经验。参与者讨论了迁移的动机、过程中遇到的挑战、解决方案，以及迁移后的好处。主要话题包括CI/CD流程的重新设计、插件兼容性问题、团队培训需求，以及GitLab集成开发环境的优势。讨论为考虑类似迁移的团队提供了宝贵的参考。 [<a href=\"https://news.ycombinator.com/item?id=45501689\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45501689",
+            "title": "从Jenkins迁移到GitLab",
+            "date_modified": "2025-10-07T11:09:52.000Z"
         },
         {
-            "id": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-            "content_html": "Google DeepMind 推出了 CodeMender，一个专门用于自动修复代码安全漏洞的 AI 代理。它能够分析代码库，识别潜在的安全风险（如 SQL 注入、跨站脚本等），并自动生成修复补丁。CodeMender 结合了大型语言模型和形式化验证技术，旨在提供一个比传统静态分析工具更准确、更自动化的解决方案。该工具旨在帮助开发者更高效地维护软件安全，减少人为疏忽导致的安全漏洞。 [<a href=\"https://news.ycombinator.com/item?id=45496533\" target=\"_blank\">评论</a>]",
-            "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-            "title": "CodeMender：一个用于代码安全的 AI 代理",
-            "date_modified": "2025-10-06T21:28:56.000Z"
+            "id": "https://markgreville.ie/2025/10/06/how-to-make-your-ai-twin/",
+            "content_html": "这篇文章提供了创建个人AI分身的详细教程。作者介绍了所需的技术工具、训练数据准备、模型微调过程，以及如何让AI分身更好地模仿个人的语言风格和思维方式。文章涵盖了从数据收集到模型部署的完整流程，并讨论了AI分身在个人助理、内容创作等领域的应用前景。 [<a href=\"https://news.ycombinator.com/item?id=45501682\" target=\"_blank\">评论</a>]",
+            "url": "https://markgreville.ie/2025/10/06/how-to-make-your-ai-twin/",
+            "title": "如何制作你的AI分身",
+            "date_modified": "2025-10-07T11:08:57.000Z"
         },
         {
-            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "content_html": "这篇博客记录了作者首次尝试将一个 Cython 编写的性能关键代码片段翻译成 Mojo 语言的经历。作者选择了 scikit-learn 库中 DBSCAN 算法的内层循环作为目标。文章详细比较了 Cython 和 Mojo 在语法、性能和开发体验上的差异，分享了在翻译过程中遇到的挑战和解决方案。虽然实验性质浓厚，但这篇记录为关注新兴 Mojo 语言及其在科学计算领域应用的开发者提供了宝贵的参考。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
-            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-            "title": "将 Cython 翻译成 Mojo，初次尝试",
-            "date_modified": "2025-10-06T20:09:44.000Z"
+            "id": "https://beincrypto.com/vercel-israel-netanyahu-selfie-backlash-web3-competition/",
+            "content_html": "这篇文章报道了Vercel CEO与被国际刑警组织通缉的以色列总理内塔尼亚胡合影引发的争议。文章讨论了这一事件对Vercel品牌和Web3社区的影响，以及科技公司在政治敏感问题上面临的挑战。事件引发了关于企业社会责任、政治中立性和用户反应的广泛讨论。 [<a href=\"https://news.ycombinator.com/item?id=45501677\" target=\"_blank\">评论</a>]",
+            "url": "https://beincrypto.com/vercel-israel-netanyahu-selfie-backlash-web3-competition/",
+            "title": "Vercel CEO与被国际刑警组织通缉的罪犯合影",
+            "date_modified": "2025-10-07T11:08:30.000Z"
         },
         {
-            "id": "https://developers.openai.com/apps-sdk/",
-            "content_html": "OpenAI 推出了全新的 Apps SDK（软件开发工具包），旨在帮助开发者更轻松地构建和集成基于其模型的应用程序。该 SDK 提供了预构建的工具、库和 API 封装，简化了从设置到部署的整个开发流程。它支持多种编程语言，并包含用于身份验证、数据管理和错误处理的最佳实践，使开发者能够专注于构建应用的核心逻辑，而不是处理底层的基础设施细节。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
-            "url": "https://developers.openai.com/apps-sdk/",
-            "title": "Apps SDK",
-            "date_modified": "2025-10-06T18:27:33.000Z"
+            "id": "https://www.possibleworldwikis.com/",
+            "content_html": "这个网站介绍了一个创新项目，创建虚构世界的生成式维基。用户可以探索各种虚构设定、角色和故事，所有内容都由AI生成，形成丰富的想象世界。项目展示了AI在创意内容生成方面的潜力，为作家、游戏设计师和创意工作者提供了灵感来源，同时也为普通用户提供了一个探索想象空间的平台。 [<a href=\"https://news.ycombinator.com/item?id=45501674\" target=\"_blank\">评论</a>]",
+            "url": "https://www.possibleworldwikis.com/",
+            "title": "展示HN：可能世界维基——虚构的生成式维基",
+            "date_modified": "2025-10-07T11:08:04.000Z"
         },
         {
-            "id": "https://github.com/openai/chatkit-js",
-            "content_html": "OpenAI 开源了 ChatKit，一个用于构建强大对话式用户界面的 JavaScript 库。ChatKit 提供了一套模块化的组件和钩子，旨在简化创建聊天机器人和 AI 助手的前端开发过程。它处理了消息流管理、状态同步、打字指示器和历史记录等复杂功能，允许开发者快速构建响应迅速、交互流畅的聊天体验，并能轻松与 OpenAI 的 API 或其他后端服务集成。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/openai/chatkit-js",
-            "title": "OpenAI ChatKit",
-            "date_modified": "2025-10-06T17:23:20.000Z"
+            "id": "https://www.youtube.com/watch?v=5gh5PCghfbs",
+            "content_html": "这个YouTube视频讲述了1970年7月31日，英国皇家海军正式结束了长达200多年的朗姆酒配给传统。视频回顾了这一历史事件的文化意义和影响，包括海军官兵的反应、传统仪式的终结，以及这一变化对海军文化的影响。视频通过历史影像和访谈，展现了一个时代的结束。 [<a href=\"https://news.ycombinator.com/item?id=45501638\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=5gh5PCghfbs",
+            "title": "1970年：黑朗姆酒日（英国海军朗姆酒配给制的终结）[视频]",
+            "date_modified": "2025-10-07T11:02:57.000Z"
         },
         {
-            "id": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "content_html": "由 Andreas Kling 发布的消息显示，由社区驱动的网络浏览器项目 Ladybird 在 Web 平台测试套件中的通过率首次超过了 90% 的 Apple Safari 基准。这是一个重要的里程碑，表明 Ladybird 在实现 Web 标准的兼容性方面取得了巨大进步。该项目旨在创建一个独立、开源且注重性能与简洁的浏览器，这一成就证明了其开发团队的努力正获得实质性回报。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
-            "url": "https://twitter.com/awesomekling/status/1974781722953953601",
-            "title": "Ladybird 在 web-platform-tests 上通过 Apple 90% 的门槛",
-            "date_modified": "2025-10-06T16:52:58.000Z"
+            "id": "https://forms.md",
+            "content_html": "这个网站展示了一个开源的Typeform替代品，提供了类似的表单创建和交互功能，但完全免费和开源。项目旨在为开发者提供一个灵活的表单解决方案，支持自定义样式、逻辑跳转、数据收集等功能。与商业产品不同，这个工具注重隐私保护和用户数据控制，适合对数据安全有高要求的组织使用。 [<a href=\"https://news.ycombinator.com/item?id=45501636\" target=\"_blank\">评论</a>]",
+            "url": "https://forms.md",
+            "title": "展示HN：非AI的开源Typeform克隆",
+            "date_modified": "2025-10-07T11:02:46.000Z"
         },
         {
-            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "content_html": "Meta 推出了开源压缩框架 OpenZL。该框架的核心特点是&quot;格式感知&quot;，它能根据不同的数据类型（如图片、文本等）自动选择最优的压缩算法，从而实现比传统通用压缩工具更高的效率和压缩率。OpenZL 旨在简化高性能压缩库的开发，并利用硬件加速来进一步提升速度，为开发者处理特定格式数据提供了强大而灵活的工具。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
-            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "title": "OpenZL：一个开源的、可感知格式的压缩框架",
-            "date_modified": "2025-10-06T16:01:58.000Z"
+            "id": "https://www.youtube.com/watch?v=A7DEhW-mjdc",
+            "content_html": "这个YouTube视频介绍了Android应用开发者的身份验证流程，包括账户注册、应用发布权限获取、以及Google Play商店的合规要求。视频详细解释了开发者账号的申请步骤、费用结构、审核流程，以及如何确保应用符合Google的政策要求。对于想要进入Android开发领域的新手来说，这是一个实用的指南。 [<a href=\"https://news.ycombinator.com/item?id=45501634\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=A7DEhW-mjdc",
+            "title": "Android开发者验证[视频]",
+            "date_modified": "2025-10-07T11:02:27.000Z"
         },
         {
-            "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "这是一篇关于 Mise（一个开发环境管理工具）的 GitHub 讨论，主题是如何在 Monorepo（单体仓库）项目中管理和运行任务。讨论探讨了 Mise 当前处理任务的方式，并提出了改进建议，例如如何更好地定义任务依赖、在不同子目录中执行任务以及并行化任务。这次社区互动旨在为 Mise 增加更强大的 Monorepo 支持，使其成为管理复杂项目工作流的更佳选择。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo 任务",
-            "date_modified": "2025-10-06T14:07:46.000Z"
+            "id": "https://www.theguardian.com/music/2025/oct/07/experts-find-music-english-composer-henry-purcell",
+            "content_html": "这篇文章报道了音乐专家发现了英国巴洛克时期作曲家亨利·普赛尔的更多作品。这些新发现的手稿为研究这位伟大作曲家提供了宝贵的资料。专家们通过对比分析确认了这些作品的真实性，它们展现了普赛尔独特的音乐风格和创新精神，为巴洛克音乐研究增添了重要内容。 [<a href=\"https://news.ycombinator.com/item?id=45501627\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theguardian.com/music/2025/oct/07/experts-find-music-english-composer-henry-purcell",
+            "title": "&quot;几乎闻所未闻&quot;：专家发现更多英国作曲家亨利·普赛尔的作品",
+            "date_modified": "2025-10-07T11:00:57.000Z"
         },
         {
-            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "content_html": "这个 GitHub Gist 展示了一个用大约 400 行 C 语言实现的、受 Kent Dybvig 设计启发的 Scheme 虚拟机。该项目特别实现了堆内存模型，用于管理对象的分配和垃圾回收。尽管代码量很小，但它包含了执行 Scheme 程序所需的核心组件，如读取-求值-打印循环（REPL）、基本数据类型和操作。这是一个极佳的学习资源，展示了如何用最少的代码构建一个功能性的 Lisp 方言解释器。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
-            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-            "title": "Show HN: Kent Dybvig 的 Scheme 机，400 行 C 语言实现（堆内存模型）",
-            "date_modified": "2025-10-06T14:06:29.000Z"
+            "id": "https://richardreis.me/amazon",
+            "content_html": "这篇文章深入分析了亚马逊公司历史上的成功决策和失败尝试，从AWS到Fire Phone，从Kindle到Amazon Go，总结了亚马逊创新策略的经验教训。作者探讨了亚马逊如何通过实验文化、长期思维和客户至上理念取得成功，同时也分析了其失败项目的共同特征，为其他企业提供了有价值的参考。 [<a href=\"https://news.ycombinator.com/item?id=45501593\" target=\"_blank\">评论</a>]",
+            "url": "https://richardreis.me/amazon",
+            "title": "亚马逊的成功与失败",
+            "date_modified": "2025-10-07T10:56:17.000Z"
         }
     ]
 }
