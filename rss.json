@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://scheme.fail/",
-            "content_html": "Loko Scheme 是一个 Scheme 编译器，它可以将 Scheme 代码编译成高性能的本地二进制文件，能够在没有操作系统的裸机硬件上运行。它旨在提供一个完整的、自包含的 Scheme 系统，并专注于优化和性能，适用于系统级编程和嵌入式开发。该项目展示了如何在资源受限的环境下实现功能完备的 Lisp 方言。 [<a href=\"https://news.ycombinator.com/item?id=45500422\" target=\"_blank\">评论</a>]",
-            "url": "https://scheme.fail/",
-            "title": "Loko Scheme：裸机优化 Scheme 编译器",
-            "date_modified": "2025-10-07T07:41:59.000Z"
+            "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+            "content_html": "德勤公司因在一份价值44万澳元的政府报告中未经授权使用人工智能工具，同意向澳大利亚政府退款。该报告由德勤为阿尔巴尼斯政府撰写，旨在评估人工智能的使用情况。然而，德勤在合同未明确允许的情况下使用了AI，违反了合同条款。此事在内部审查后被发现，引发了对大型咨询公司在政府项目中使用AI的透明度和合规性的担忧。德勤已为此次失误道歉，并承诺加强内部管控。 [<a href=\"https://news.ycombinator.com/item?id=45500485\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+            "title": "德勤在44万美元的报告中使用AI后，将向澳大利亚政府退款",
+            "date_modified": "2025-10-07T07:51:57.000Z"
         },
         {
-            "id": "https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html",
-            "content_html": "本文章是海洋渲染系列的第一部分，专注于海浪的物理模拟。文章详细介绍了如何使用数学模型（如基于统计的海浪谱和快速傅里叶变换FFT）来生成逼真的海洋表面。它解释了从风速和风向等参数出发，计算出海面高度场的过程，这是实现真实感海洋视觉效果的基础。 [<a href=\"https://news.ycombinator.com/item?id=45500419\" target=\"_blank\">评论</a>]",
-            "url": "https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html",
-            "title": "海洋渲染，第一部分——模拟",
-            "date_modified": "2025-10-07T07:41:09.000Z"
+            "id": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
+            "content_html": "蒙特利尔大学的一项新研究表明，胎儿在出生前就能感知和学习母语之外的语言。研究人员通过播放短篇故事来追踪胎儿的神经反应，发现他们能够区分并适应外语的语音节奏。这项发现挑战了以往认为婴儿在出生后才开始语言学习的观点，表明语言学习的起点可能要早得多。这为理解早期语言发育机制提供了新视角，并可能对双语教育和早期干预产生深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45499730\" target=\"_blank\">评论</a>]",
+            "url": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
+            "title": "出生前学习外语",
+            "date_modified": "2025-10-07T05:43:56.000Z"
         },
         {
-            "id": "https://www.project-syndicate.org/onpoint/economic-and-social-benefits-of-declining-fertility-rates-by-adair-turner-2025-10",
-            "content_html": "本文作者 Adair Turner 认为，渐进的人口下降并非一场危机，反而可能带来经济和社会上的益处。文章指出，下降的生育率可以减轻环境压力，提高人均资本存量，从而可能提升生产力和生活水平。同时，这也为女性提供了更多职业发展机会，有助于促进性别平等，社会应适应而非抵制这一趋势。 [<a href=\"https://news.ycombinator.com/item?id=45500400\" target=\"_blank\">评论</a>]",
-            "url": "https://www.project-syndicate.org/onpoint/economic-and-social-benefits-of-declining-fertility-rates-by-adair-turner-2025-10",
-            "title": "支持渐进人口下降的理由",
-            "date_modified": "2025-10-07T07:38:27.000Z"
+            "id": "https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/",
+            "content_html": "一位结核病专家在文章中讲述了自己被NIH命令停止功能增益研究的经历。他旨在通过基因改造使结核菌变得更致命，以更好地理解其毒力并开发疫苗。然而，NIH认为该研究过于危险，可能被滥用或意外泄漏，构成生物安全风险。作者对此决定感到失望，认为这阻碍了对重大传染病的科学研究。该事件再次引发了关于功能增益研究潜在风险与科学价值之间平衡的激烈辩论。 [<a href=\"https://news.ycombinator.com/item?id=45499710\" target=\"_blank\">评论</a>]",
+            "url": "https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/",
+            "title": "美国国立卫生研究院（NIH）命令我停止我的“危险”功能增益研究",
+            "date_modified": "2025-10-07T05:39:27.000Z"
         },
         {
-            "id": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
-            "content_html": "本文主张，初学者应该以“计算优先”而非传统“图形优先”的心态来学习GPU编程。作者认为，从通用计算（如CUDA或OpenCL）入手，能帮助学习者更好地理解GPU的并行架构、内存模型和执行模型，而不是一开始就被复杂的图形渲染管线所困扰。这种方法能建立更坚实的基础，使学习图形编程变得更加容易。 [<a href=\"https://news.ycombinator.com/item?id=45500387\" target=\"_blank\">评论</a>]",
-            "url": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
-            "title": "以计算优先的心态学习GPU编程的理由",
-            "date_modified": "2025-10-07T07:37:18.000Z"
+            "id": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
+            "content_html": "加州通过并实施了一项新法律，要求流媒体服务如Netflix和Hulu必须确保其广告音量与正常节目内容保持一致，不得突然调高。该法案旨在解决长期困扰观众的广告声浪过大的问题。法律规定，广告的峰值音量不能超过节目平均音量。此举被视为消费者权益的一次胜利，加州成为美国首个对此类问题进行立法的州，预计将对整个流媒体行业的广告播放标准产生影响。 [<a href=\"https://news.ycombinator.com/item?id=45499281\" target=\"_blank\">评论</a>]",
+            "url": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
+            "title": "加州法律迫使Netflix、Hulu降低广告音量",
+            "date_modified": "2025-10-07T04:03:49.000Z"
         },
         {
-            "id": "https://systemsapproach.org/2025/10/06/fitting-it-all-in-your-head/",
-            "content_html": "本文探讨了在构建和设计复杂系统时，开发者如何在脑中形成完整的系统模型。它强调了理解系统各部分之间相互作用的重要性，并分享了如何通过抽象、模块化和清晰的接口设计来管理复杂性，从而让整个系统的运作方式能够被有效地理解和掌握。 [<a href=\"https://news.ycombinator.com/item?id=45500386\" target=\"_blank\">评论</a>]",
-            "url": "https://systemsapproach.org/2025/10/06/fitting-it-all-in-your-head/",
-            "title": "系统方法：将一切融入脑海",
-            "date_modified": "2025-10-07T07:37:08.000Z"
+            "id": "https://pdoc.dev/",
+            "content_html": "pdoc是一个现代化的命令行工具和库，用于自动从Python源代码中生成简洁美观的HTML API文档。它能够直接导入你的代码，提取函数签名、类定义、模块文档字符串以及类型提示，并将其组织成一个易于浏览的网站。pdoc无需复杂的配置，支持Markdown格式的文档，并能自动交叉引用链接。它旨在为开发者提供一个快速、简单且无依赖的方式来创建和维护项目文档。 [<a href=\"https://news.ycombinator.com/item?id=45499170\" target=\"_blank\">评论</a>]",
+            "url": "https://pdoc.dev/",
+            "title": "Pdoc – 为Python项目生成API文档",
+            "date_modified": "2025-10-07T03:40:41.000Z"
         },
         {
-            "id": "https://beyond.addy.ie/",
-            "content_html": "这是一份关于如何有效利用AI进行软件开发的实用指南。它超越了简单的“氛围式编程”（即依赖AI生成代码而不求甚解），提出了一个结构化的框架，指导开发者如何将AI作为强大的助手来提高编码、调试、重构和学习新技术的效率，同时强调理解AI生成内容的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45500319\" target=\"_blank\">评论</a>]",
-            "url": "https://beyond.addy.ie/",
-            "title": "超越氛围式编程：AI辅助开发的实用指南",
-            "date_modified": "2025-10-07T07:27:36.000Z"
+            "id": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+            "content_html": "物理学家们从古老的折纸艺术中获得灵感，解决了一个关于材料刚度的长期谜题。研究发现，通过在薄片材料上引入特定的折纸图案，可以精确控制其力学特性，使其在保持轻便的同时获得极高的刚度和强度。这一突破性发现不仅解释了自然界中某些结构（如昆虫翅膀）为何如此坚固，也为设计更轻、更强的航空航天材料、机器人结构和建筑穹顶提供了全新的数学模型和工程方法。 [<a href=\"https://news.ycombinator.com/item?id=45498469\" target=\"_blank\">评论</a>]",
+            "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+            "title": "折纸图案解决了一个重大物理学谜题",
+            "date_modified": "2025-10-07T01:34:32.000Z"
         },
         {
-            "id": "https://joelchrono.xyz/blog/when-a-tool-becomes-a-hobby/",
-            "content_html": "作者在文中探讨了当一个起初为解决特定问题而使用的工具，逐渐演变成一种爱好的过程。文章描述了从单纯地使用工具到开始深入探究其内部原理、自定义配置、甚至为其开发扩展的心理转变。这种转变体现了技术人员对技术的热情以及从使用者到创造者的身份演变。 [<a href=\"https://news.ycombinator.com/item?id=45500292\" target=\"_blank\">评论</a>]",
-            "url": "https://joelchrono.xyz/blog/when-a-tool-becomes-a-hobby/",
-            "title": "当一个工具成为一种爱好",
-            "date_modified": "2025-10-07T07:22:41.000Z"
+            "id": "https://thecascade.dev/article/least-amount-of-css/",
+            "content_html": "这篇文章探讨了创建一个视觉上可接受且功能正常的网站所需的最少CSS代码量。作者通过实验，仅使用非常基础的CSS属性（如字体、颜色、间距和布局）来构建一个简单的网页，旨在展示核心样式的重要性。文章强调了在现代网页开发中，开发者可以摆脱沉重的框架和复杂的样式表，回归基础，用最少的代码实现清晰、可读的界面。这对于性能优化和快速原型设计具有启发意义。 [<a href=\"https://news.ycombinator.com/item?id=45497624\" target=\"_blank\">评论</a>]",
+            "url": "https://thecascade.dev/article/least-amount-of-css/",
+            "title": "一个体面网站所需的最少CSS（2023）",
+            "date_modified": "2025-10-06T23:47:24.000Z"
         },
         {
-            "id": "https://www.rokalise.dev/",
-            "content_html": "这篇文章提出了一种使用自然语言（如英文句子）作为国际化键的方法，以替代传统的简短、抽象的键。作者认为，这种方法能让开发者更直观地理解翻译条目的上下文，同时也使得大型语言模型（AI）能够更准确地参与翻译和审查过程，从而简化了本地化工作流，提高了翻译质量。 [<a href=\"https://news.ycombinator.com/item?id=45500280\" target=\"_blank\">评论</a>]",
-            "url": "https://www.rokalise.dev/",
-            "title": "自然语言键使国际化对我们和AI都变得可行",
-            "date_modified": "2025-10-07T07:20:54.000Z"
+            "id": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+            "content_html": "微软正在积极封堵允许用户在安装或设置Windows 11时跳过创建和使用微软账户（MSA）的漏洞。此前，用户可以通过一些特定操作或第三方工具来绕过强制登录微软账户的要求，直接使用本地账户。现在，微软通过系统更新修复了这些已知的绕过方法，进一步收紧了对其账户体系的控制。此举旨在推动用户更多地使用其云服务，但也引起了一些注重隐私和希望拥有完全控制权的用户的不满。 [<a href=\"https://news.ycombinator.com/item?id=45497384\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+            "title": "微软正在修复更多让你无需微软账户即可使用Windows 11的漏洞",
+            "date_modified": "2025-10-06T23:15:26.000Z"
         },
         {
-            "id": "https://mexicoair.zohodesk.com/portal/en/kb/articles/c%C3%B3mo-hablo-con-una-persona-en-volaris-airlines",
-            "content_html": "该页面是墨西哥航空公司 Volaris 的客户支持指南。它提供了多种与客服代表取得联系的方法，包括电话、在线聊天、社交媒体和机场柜台。文章详细列出了不同国家和地区的联系电话号码，并指导用户如何根据自身需求选择最合适的联系方式以解决机票预订、航班变更等问题。 [<a href=\"https://news.ycombinator.com/item?id=45500278\" target=\"_blank\">评论</a>]",
-            "url": "https://mexicoair.zohodesk.com/portal/en/kb/articles/c%C3%B3mo-hablo-con-una-persona-en-volaris-airlines",
-            "title": "Rtreter",
-            "date_modified": "2025-10-07T07:20:53.000Z"
+            "id": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+            "content_html": "网络安全公司Wiz的研究团队在Redis中发现了一个名为“RediShell”的严重远程代码执行漏洞（CVE-2025-49844）。该漏洞允许攻击者在特定条件下，无需身份验证即可在Redis服务器上执行任意命令，从而完全控制服务器。漏洞的根源在于Redis对某些输入的处理逻辑存在缺陷。由于Redis被广泛用作缓存、消息队列和数据库，该漏洞的影响范围巨大。研究人员已披露细节，并敦促所有Redis用户立即更新到已修复此漏洞的最新版本。 [<a href=\"https://news.ycombinator.com/item?id=45497027\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+            "title": "RediShell：Redis中的严重远程代码执行漏洞",
+            "date_modified": "2025-10-06T22:30:12.000Z"
         },
         {
-            "id": "https://www.youtube.com/watch?v=bCLZCzE_us0",
-            "content_html": "这是一个关于2002年科幻电影《 Simone》（中文译名《虚拟女一号》或《西蒙妮》）的视频。影片讲述了一位走投无路的电影导演，在意外创造出一个完美的虚拟女演员后，如何利用她来重振事业，并引发了一系列关于真实、虚拟与身份认同的探讨。视频内容可能是电影预告片、片段或影评解说。 [<a href=\"https://news.ycombinator.com/item?id=45500276\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=bCLZCzE_us0",
-            "title": "S1M0NE [视频]",
-            "date_modified": "2025-10-07T07:20:49.000Z"
+            "id": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+            "content_html": "DeepMind推出了CodeMender，一个专门用于修复代码安全漏洞的AI代理。它利用大型语言模型的能力，能够自动检测代码中的安全缺陷（如缓冲区溢出、SQL注入等），并生成安全的修复补丁。与传统静态分析工具不同，CodeMender能理解代码上下文，提出更精准、更少破坏性的修复方案。该工具旨在帮助开发者在开发早期发现并解决安全问题，提高软件的整体安全性，减少被黑客攻击的风险。 [<a href=\"https://news.ycombinator.com/item?id=45496533\" target=\"_blank\">评论</a>]",
+            "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+            "title": "CodeMender：一个用于代码安全的AI代理",
+            "date_modified": "2025-10-06T21:28:56.000Z"
         },
         {
-            "id": "https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness",
-            "content_html": "本文探讨了“此在”或“在场感”这一概念，通过历史和文学的视角，分析了人们如何体验和描述特定地点的独特氛围。作者认为，这种“此在感”是一种深刻而难以言喻的体验，它超越了简单的物理描述，与个人记忆、情感和历史叙事紧密相连，是构成我们与世界关系的重要部分。 [<a href=\"https://news.ycombinator.com/item?id=45500266\" target=\"_blank\">评论</a>]",
-            "url": "https://www.lrb.co.uk/the-paper/v47/n18/erin-maglaque/thishereness",
-            "title": "Thishereness",
-            "date_modified": "2025-10-07T07:19:56.000Z"
+            "id": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "content_html": "这篇文章记录了作者首次尝试将scikit-learn库中一个用Cython编写的核心算法（DBSCAN的内部循环）翻译成Mojo语言的实践过程。Mojo是一种新兴的、旨在结合Python易用性和C/C++性能的编程语言。作者详细比较了两种语言的语法特性、性能表现以及翻译过程中遇到的挑战。这次尝试不仅是对Mojo语言能力的一次探索，也为将高性能Python库中的关键部分迁移到Mojo以获得更高性能提供了宝贵的经验和见解。 [<a href=\"https://news.ycombinator.com/item?id=45495738\" target=\"_blank\">评论</a>]",
+            "url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+            "title": "将Cython翻译成Mojo，初次尝试",
+            "date_modified": "2025-10-06T20:09:44.000Z"
         },
         {
-            "id": "https://www.fastcompany.com/91416282/quantum-computing-is-a-path-to-energy-efficient-ai",
-            "content_html": "本文探讨了量子计算在解决人工智能高能耗问题上的潜力。作者认为，传统计算机在处理复杂AI模型时面临物理极限，而量子计算的并行处理能力和独特算法有望以更低的能耗完成相同的计算任务。尽管量子计算仍处于早期阶段，但它为未来实现更可持续、更高效的AI提供了一条充满希望的道路。 [<a href=\"https://news.ycombinator.com/item?id=45500249\" target=\"_blank\">评论</a>]",
-            "url": "https://www.fastcompany.com/91416282/quantum-computing-is-a-path-to-energy-efficient-ai",
-            "title": "量子计算是通往节能AI的路径",
-            "date_modified": "2025-10-07T07:17:04.000Z"
+            "id": "https://developers.openai.com/apps-sdk/",
+            "content_html": "OpenAI推出了其全新的Apps SDK，这是一个官方软件开发工具包，旨在简化和加速开发者构建与OpenAI平台集成的应用程序。该SDK提供了一套预构建的工具、库和API接口，使开发者能够更轻松地管理身份验证、处理API调用、集成GPT模型功能以及构建自定义AI驱动的应用。它支持多种编程语言，旨在降低开发门槛，让开发者可以专注于创新和核心业务逻辑，而不是处理繁琐的底层实现细节。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "url": "https://developers.openai.com/apps-sdk/",
+            "title": "Apps SDK",
+            "date_modified": "2025-10-06T18:27:33.000Z"
         },
         {
-            "id": "https://www.artificialintelligencemadesimple.com/p/what-55-billion-chatbot-visits-actually",
-            "content_html": "基于对55亿次聊天机器人访问数据的分析，本文指出聊天机器人市场并非“赢家通吃”的局面。数据显示，用户会根据不同需求使用多个不同的聊天机器人，市场呈现出多元化的竞争格局。文章认为，专业化和垂直领域的聊天机器人仍有巨大的发展空间，而非仅仅由少数几个通用型巨头主导。 [<a href=\"https://news.ycombinator.com/item?id=45500200\" target=\"_blank\">评论</a>]",
-            "url": "https://www.artificialintelligencemadesimple.com/p/what-55-billion-chatbot-visits-actually",
-            "title": "聊天机器人市场并非赢家通吃",
-            "date_modified": "2025-10-07T07:08:50.000Z"
+            "id": "https://github.com/openai/chatkit-js",
+            "content_html": "OpenAI ChatKit是一个开源的JavaScript库，专为构建功能丰富的聊天界面而设计。它提供了一套高度可定制的UI组件和实用工具，让开发者能够快速创建类似ChatGPT的对话式用户体验。该库集成了消息显示、输入框、流式响应、代码高亮、错误处理等常见聊天功能，并与OpenAI的API紧密集成。ChatKit旨在节省前端开发时间，帮助开发者轻松地将强大的对话能力嵌入到自己的Web应用中。 [<a href=\"https://news.ycombinator.com/item?id=45493718\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/openai/chatkit-js",
+            "title": "OpenAI ChatKit",
+            "date_modified": "2025-10-06T17:23:20.000Z"
         },
         {
-            "id": "https://www.nytimes.com/2025/10/06/us/politics/michael-ellis-cia-trump.html",
-            "content_html": "《纽约时报》报道，美国中央情报局（CIA）副局长迈克尔·埃利斯已将自己任命为该机构的最高法律官员，即总法律顾问。此举引发了关于政府内部权力制衡和潜在利益冲突的担忧，因为总法律顾问本应独立提供法律建议，而由一名高级运营官员兼任此职可能会影响其法律判断的独立性。 [<a href=\"https://news.ycombinator.com/item?id=45500198\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nytimes.com/2025/10/06/us/politics/michael-ellis-cia-trump.html",
-            "title": "CIA副局长已将自己任命为该机构最高法律官员",
-            "date_modified": "2025-10-07T07:08:06.000Z"
+            "id": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "content_html": "由社区驱动的网络浏览器项目Ladybird取得了重要里程碑，其在Web平台测试（WPT）中的通过率首次超过了90%，达到了与苹果Safari浏览器相当的水平。WPT是衡量浏览器对Web标准兼容性的关键指标。这一成就表明Ladybird在渲染引擎、JavaScript支持和标准实现方面已日趋成熟，能够正确显示绝大多数现代网站。这对于一个独立于主流引擎（如Blink或Gecko）的新项目来说，是技术和社区协作上的巨大成功。 [<a href=\"https://news.ycombinator.com/item?id=45493358\" target=\"_blank\">评论</a>]",
+            "url": "https://twitter.com/awesomekling/status/1974781722953953601",
+            "title": "Ladybird浏览器在Web平台测试中通过Apple 90%的门槛",
+            "date_modified": "2025-10-06T16:52:58.000Z"
         },
         {
-            "id": "https://medium.com/@alexwang_thoughts/so-ai-made-you-a-superman-a4d8900f8f08",
-            "content_html": "作者在文章中对“AI能将人类变成超人”的观点进行了反思。他认为，虽然AI极大地提升了我们的能力，但它更像是一个强大的“外骨骼”或“副驾驶”，而不是赋予我们超能力。真正的进步来自于我们如何学会与AI协作，利用它来增强我们的创造力和判断力，而不是被动地依赖它，从而避免自身核心技能的退化。 [<a href=\"https://news.ycombinator.com/item?id=45500188\" target=\"_blank\">评论</a>]",
-            "url": "https://medium.com/@alexwang_thoughts/so-ai-made-you-a-superman-a4d8900f8f08",
-            "title": "所以，AI让你成了超人？",
-            "date_modified": "2025-10-07T07:06:19.000Z"
+            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "content_html": "Meta开源了OpenZL，一个创新的、格式感知的压缩框架。传统的压缩算法（如Gzip）将数据视为无意义的字节流，而OpenZL能够理解特定文件格式（如JSON、Parquet）的结构和语义。通过利用这些知识，它可以实现比通用算法高得多的压缩率和更快的速度。该框架设计为可扩展的，允许开发者为新的数据格式添加支持。OpenZL旨在为大数据处理、存储和传输场景提供更高效的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "title": "OpenZL：一个开源的格式感知压缩框架",
+            "date_modified": "2025-10-06T16:01:58.000Z"
         },
         {
-            "id": "https://2026.oshwa.org/",
-            "content_html": "这是2026年开放硬件峰会的官方网站。该峰会是开放源代码硬件领域的重要年度活动，汇集了工程师、设计师、学者和爱好者，共同分享和讨论开放硬件的设计、制造、认证和商业化等议题。网站提供了关于峰会日期、地点、演讲嘉宾征集和参会注册等信息。 [<a href=\"https://news.ycombinator.com/item?id=45500177\" target=\"_blank\">评论</a>]",
-            "url": "https://2026.oshwa.org/",
-            "title": "2026年开放硬件峰会",
-            "date_modified": "2025-10-07T07:04:11.000Z"
+            "id": "https://getgrapevine.ai/",
+            "content_html": "Grapevine是一个由Y Combinator孵化的企业级AI平台，旨在为公司提供一个真正有效、可信赖的内部GPT。与其他通用聊天机器人不同，Grapevine能够安全地连接到公司的内部数据源（如文档、Slack、Jira等），为员工提供基于私有知识库的精准回答。它强调数据安全、访问控制和答案的可追溯性，确保信息准确无误。Grapevine的目标是成为企业内部的知识中心，提高信息检索效率，辅助决策。 [<a href=\"https://news.ycombinator.com/item?id=45492564\" target=\"_blank\">评论</a>]",
+            "url": "https://getgrapevine.ai/",
+            "title": "Launch HN: Grapevine (YC S19) – 一个真正有效的公司级GPT",
+            "date_modified": "2025-10-06T15:39:59.000Z"
         },
         {
-            "id": "https://github.com/alchemy-run/alchemy",
-            "content_html": "Alchemy 是一个开源项目，它提出并实现了“基础设施即TypeScript”的理念。它允许开发者使用TypeScript语言来定义和管理云基础设施（如AWS、GCP等资源）。通过利用TypeScript的类型系统和编程能力，Alchemy旨在提供比传统YAML或DSL更安全、更灵活、更易于维护的基础设施即代码解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45500146\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/alchemy-run/alchemy",
-            "title": "基础设施即TypeScript",
-            "date_modified": "2025-10-07T06:59:20.000Z"
+            "id": "https://github.com/jdx/mise/discussions/6564",
+            "content_html": "这篇GitHub讨论帖探讨了在Mise工具中为Monorepo（单一代码库）管理任务的新功能或改进方案。Mise是一个开发环境管理器。讨论的中心议题是如何让Mise更有效地处理包含多个子项目的大型代码库中的任务定义和执行。社区成员提出了各种想法，例如根据项目路径自动发现任务、支持任务间的依赖关系定义以及在不同子项目中并行运行任务等。该讨论旨在为Mise增加强大的Monorepo支持，以适应现代软件开发的复杂需求。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/jdx/mise/discussions/6564",
+            "title": "Mise：Monorepo任务",
+            "date_modified": "2025-10-06T14:07:46.000Z"
         },
         {
-            "id": "https://www.exakat.io/weird-operators-in-php/",
-            "content_html": "本文梳理了PHP编程语言中一些不常见或容易被误解的运算符。文章通过实例解释了这些“奇怪”运算符（如错误控制符@、 spaceship运算符<=>、null合并运算符??等）的具体用法和工作原理，帮助开发者更深入地理解PHP的语法细节，编写出更简洁和高效的代码。 [<a href=\"https://news.ycombinator.com/item?id=45500142\" target=\"_blank\">评论</a>]",
-            "url": "https://www.exakat.io/weird-operators-in-php/",
-            "title": "PHP中的奇怪运算符",
-            "date_modified": "2025-10-07T06:59:02.000Z"
+            "id": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "content_html": "这是一个GitHub Gist，展示了一个精简的Scheme语言解释器的实现，由知名Scheme研究者Kent Dybvig设计，并用大约400行C语言代码编写。该实现特别之处在于其清晰的堆内存模型，展示了如何手动管理内存，包括对象的分配和垃圾回收。这个项目是学习编程语言实现、解释器设计以及内存管理机制的绝佳范例。它将复杂的概念浓缩在极简的代码中，为初学者和研究者提供了宝贵的学习材料。 [<a href=\"https://news.ycombinator.com/item?id=45491609\" target=\"_blank\">评论</a>]",
+            "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+            "title": "Show HN: Kent Dybvig的Scheme机（400行C语言实现，堆内存模型）",
+            "date_modified": "2025-10-06T14:06:29.000Z"
         },
         {
-            "id": "https://walkingtheworld.substack.com/p/interview-with-a-young-mongolian",
-            "content_html": "这是一篇访谈录，记录了作者与一位蒙古年轻人的对话。内容涵盖了现代蒙古年轻人的生活、文化、职业选择、对未来的看法以及蒙古在传统与现代之间的平衡。访谈提供了第一手的视角，让读者了解当代蒙古社会的变迁和年轻一代所面临的机遇与挑战。 [<a href=\"https://news.ycombinator.com/item?id=45500129\" target=\"_blank\">评论</a>]",
-            "url": "https://walkingtheworld.substack.com/p/interview-with-a-young-mongolian",
-            "title": "与一位蒙古年轻人的访谈（2023）",
-            "date_modified": "2025-10-07T06:57:47.000Z"
+            "id": "https://healeycodes.com/compiling-a-forth",
+            "content_html": "这篇文章详细记录了作者从零开始为Forth语言创建一个编译器的全过程。Forth是一种独特的、基于栈的、可扩展的编程语言。文章从解释Forth的核心概念开始，逐步介绍了词法分析、语法分析、代码生成等编译器的基本阶段。作者使用清晰的代码示例，展示了如何将Forth的“单词”翻译成可执行的机器指令。这不仅是一份技术教程，也是一次对编程语言底层原理的深入探索，适合对编译器构造感兴趣的开发者。 [<a href=\"https://news.ycombinator.com/item?id=45491470\" target=\"_blank\">评论</a>]",
+            "url": "https://healeycodes.com/compiling-a-forth",
+            "title": "编译一个Forth",
+            "date_modified": "2025-10-06T13:52:50.000Z"
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Data_furnace",
-            "content_html": "“数据熔炉”是一种将计算设备（如服务器）产生的废热用于建筑物供暖的概念。通过将服务器集群集成到住宅或办公楼中，其运行时产生的热量可以被直接回收利用，为空间供暖或热水系统提供能源。这种设计旨在提高数据中心的能源效率，减少对传统供暖系统的依赖，实现能源的循环利用。 [<a href=\"https://news.ycombinator.com/item?id=45500119\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Data_furnace",
-            "title": "今日所学：数据熔炉",
-            "date_modified": "2025-10-07T06:56:16.000Z"
+            "id": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "content_html": "这篇文章讲述了一个悲剧性的医疗误诊案例。一名年轻人萨姆·特布兰什感到不适，急诊室医生诊断为普通病毒，让他回家休息。然而，他的病情迅速恶化，几天后不幸去世。事后发现，他感染的是一种罕见但可治疗的严重细菌感染。文章通过这个案例，深刻探讨了医疗系统中存在的认知偏见、沟通不畅以及对患者主诉不够重视的问题，呼吁提高诊断准确性，避免类似悲剧重演。 [<a href=\"https://news.ycombinator.com/item?id=45487519\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+            "title": "急诊室告诉他只是个病毒——几天后，他去世了",
+            "date_modified": "2025-10-06T03:57:26.000Z"
         }
     ]
 }
