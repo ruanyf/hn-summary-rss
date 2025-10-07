@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://writing.samsonhu.com/why-im-pursuing-amateur-motorcycle-racing/",
-            "content_html": "这篇文章是作者的个人叙述，分享了他追求业余摩托车比赛的原因。文章追溯了作者从童年对速度的迷恋，到最终决定投身这项充满挑战的运动的历程。他探讨了摩托车比赛带来的激情、精神集中以及与同好者建立的深厚联系，认为这不仅仅是一项运动，更是一种自我发现和成长的方式。 [<a href=\"https://news.ycombinator.com/item?id=45499727\" target=\"_blank\">评论</a>]",
-            "url": "https://writing.samsonhu.com/why-im-pursuing-amateur-motorcycle-racing/",
-            "title": "我为什么追求业余摩托车比赛",
-            "date_modified": "2025-10-07T05:43:05.000Z"
+            "id": "https://platform.openai.com/docs/models/gpt-5-pro",
+            "content_html": "GPT-5 Pro是OpenAI最新推出的高级语言模型，具有更强的推理能力、更长的上下文窗口和更准确的输出。该模型在复杂任务处理、多语言理解和代码生成方面都有显著提升，特别适合企业级应用和专业开发场景。相比前代产品，GPT-5 Pro在准确性和可靠性方面有重大改进，降低了幻觉现象的发生率。 [<a href=\"https://news.ycombinator.com/item?id=45499978\" target=\"_blank\">评论</a>]",
+            "url": "https://platform.openai.com/docs/models/gpt-5-pro",
+            "title": "GPT-5 Pro",
+            "date_modified": "2025-10-07T06:32:20.000Z"
         },
         {
-            "id": "https://www.cnn.com/2025/10/03/science/ant-yogurt-scientists-michelin-restaurant-intl-scli",
-            "content_html": "科学家们利用特定蚂蚁物种体内的微生物来发酵牛奶，成功制作出一种新型酸奶。这种具有独特风味的酸奶随后在一家米其林星级餐厅中被提供给食客品尝。该项目旨在探索昆虫世界中未开发的生物多样性，以寻找新的食物来源和发酵剂，为未来可持续食品的发展提供了创新的思路。 [<a href=\"https://news.ycombinator.com/item?id=45499721\" target=\"_blank\">评论</a>]",
-            "url": "https://www.cnn.com/2025/10/03/science/ant-yogurt-scientists-michelin-restaurant-intl-scli",
-            "title": "科学家用蚂蚁制作酸奶，米其林星级餐厅的食客品尝了它",
-            "date_modified": "2025-10-07T05:41:46.000Z"
+            "id": "https://mazzo.li/posts/value-speculation.html",
+            "content_html": "这篇文章探讨了一种名为值推测的优化技术，通过预测数据值来提前处理，从而绕过L1缓存的限制。作者详细介绍了如何在不等待内存加载的情况下，基于历史数据模式推测可能的值，推测正确时可以显著提升性能。这种技术特别适用于具有可预测数据模式的场景，为高性能计算提供了新的优化思路。 [<a href=\"https://news.ycombinator.com/item?id=45499965\" target=\"_blank\">评论</a>]",
+            "url": "https://mazzo.li/posts/value-speculation.html",
+            "title": "通过值推测超越L1缓存 (2021)",
+            "date_modified": "2025-10-07T06:28:59.000Z"
         },
         {
-            "id": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe/",
-            "content_html": "这篇文章阐述了OpenAI致力于推动欧洲人工智能（AI）应用的战略。文章强调了AI在经济、公共服务和社会领域的巨大潜力，并介绍了OpenAI与欧洲各国政府、企业和研究机构的合作。公司计划通过提供工具、资源和政策支持，帮助欧洲充分利用AI技术，确保其在全球AI发展中保持竞争力，同时负责任地推进AI的部署。 [<a href=\"https://news.ycombinator.com/item?id=45499717\" target=\"_blank\">评论</a>]",
-            "url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe/",
-            "title": "加速欧洲的AI应用",
-            "date_modified": "2025-10-07T05:41:12.000Z"
+            "id": "https://github.com/cennest/ground-cite",
+            "content_html": "GroundCite是一个开源工具包，专门用于解决Gemini API中引用链接失效的问题。该工具通过智能检测和修复机制，自动识别并更新损坏的引用，确保生成的AI回答中的链接可访问性。它支持批量处理，并提供详细的修复报告，对于依赖Gemini API进行内容生成的开发者来说是一个实用的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45499961\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/cennest/ground-cite",
+            "title": "Show HN: GroundCite-修复Gemini API引用问题的开源包",
+            "date_modified": "2025-10-07T06:28:24.000Z"
         },
         {
-            "id": "https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/",
-            "content_html": "一位结核病专家在文章中讲述了他的研究团队因进行功能获得研究而被美国国立卫生研究院（NIH）下令停止的经历。他认为，这类研究对于理解病原体、开发疫苗和治疗方法至关重要，但同时也承认其潜在风险。文章探讨了科学研究的边界、政府监管的必要性以及科学家在追求知识与保障公共安全之间的两难困境。 [<a href=\"https://news.ycombinator.com/item?id=45499710\" target=\"_blank\">评论</a>]",
-            "url": "https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/",
-            "title": "美国国立卫生研究院（NIH）命令我停止我的&quot;危险&quot;功能获得研究",
-            "date_modified": "2025-10-07T05:39:27.000Z"
+            "id": "https://github.com/nao1215/horcrux",
+            "content_html": "Horcrux是一个跨平台的文件加密分割工具，灵感来源于哈利波特中的魂器概念。它可以将单个文件分割成多个加密片段，需要收集所有片段才能还原原始文件。该工具支持Node.js和React Native环境，提供了AES-256加密算法，适合用于安全文件存储和分布式备份场景。 [<a href=\"https://news.ycombinator.com/item?id=45499960\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/nao1215/horcrux",
+            "title": "Show HN: Horcrux: 为Node和React Native设计的文件加密分割工具",
+            "date_modified": "2025-10-07T06:28:05.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45499709",
-            "content_html": "这篇Hacker News讨论帖的标题指出，OpenAI与英伟达及其他科技公司的数据中心投资交易总额可能高达1万亿美元。这个数字被认为远超美国军方的年度预算。评论区的讨论聚焦于这一巨额投资的来源、可行性、对科技行业的影响以及可能带来的地缘政治和经济后果，质疑其资金筹集的可持续性。 [<a href=\"https://news.ycombinator.com/item?id=45499709\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45499709",
-            "title": "OpenAI与英伟达等公司的交易规模远超美国军方预算",
-            "date_modified": "2025-10-07T05:39:26.000Z"
+            "id": "https://TrueSize.net",
+            "content_html": "Truesize.net是一个交互式地图网站，允许用户比较各国在去除墨卡托投影扭曲后的真实大小。用户可以将一个国家拖到另一个国家上进行直观的大小对比，纠正了传统地图上由于投影变形造成的认知偏差。该网站教育意义强，帮助人们更准确地理解世界各国的实际面积比例。 [<a href=\"https://news.ycombinator.com/item?id=45499920\" target=\"_blank\">评论</a>]",
+            "url": "https://TrueSize.net",
+            "title": "Truesize.net – 无墨卡托扭曲探索国家真实大小",
+            "date_modified": "2025-10-07T06:23:04.000Z"
         },
         {
-            "id": "https://www.ft.com/content/5f6f78af-aed9-43a5-8e31-2df7851ceb67",
-            "content_html": "《金融时报》报道，OpenAI正与包括英伟达、AMD和甲骨文在内的科技巨头谈判，计划通过一项高达1万亿美元的交易来为其AI基础设施提供支持。这笔旨在构建大规模数据中心和计算能力的投资规模空前，但引发了外界对其资金来源、未来营收能力以及商业模式的严重质疑和担忧。 [<a href=\"https://news.ycombinator.com/item?id=45499697\" target=\"_blank\">评论</a>]",
-            "url": "https://www.ft.com/content/5f6f78af-aed9-43a5-8e31-2df7851ceb67",
-            "title": "OpenAI的1万亿美元交易：英伟达、AMD、甲骨文的庞大规模引发营收和资金质疑",
-            "date_modified": "2025-10-07T05:36:39.000Z"
+            "id": "https://github.com/Comamoca/hinoto",
+            "content_html": "Hinoto是一个现代化的Web框架，使用类型安全的Gleam语言编写，专为多种JavaScript运行时环境设计。该框架提供了简洁的API设计，支持服务器端渲染和客户端渲染，具有良好的性能和开发体验。Hinoto充分利用了Gleam的类型系统优势，为Web开发提供了更高的代码安全性和可维护性。 [<a href=\"https://news.ycombinator.com/item?id=45499909\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/Comamoca/hinoto",
+            "title": "Hinoto – 用Gleam编写的多JavaScript运行时Web框架",
+            "date_modified": "2025-10-07T06:21:10.000Z"
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Rule_30",
-            "content_html": "规则30是由斯蒂芬·沃尔夫拉姆提出的一维元胞自动机规则。它以其简单的生成规则和能够产生极其复杂、看似随机的图案而闻名。尽管其演化过程是完全确定的，但其输出在统计上与真正的随机序列无法区分。规则30已被用于随机数生成器，并在混沌理论和复杂性科学中作为经典案例被广泛研究。 [<a href=\"https://news.ycombinator.com/item?id=45499677\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Rule_30",
-            "title": "规则30",
-            "date_modified": "2025-10-07T05:33:43.000Z"
+            "id": "https://www.youtube.com/watch?v=ejbTKtgSZI0",
+            "content_html": "这个视频展示了LLVM-MOS项目，该项目成功地将现代C/C++编译器技术应用到经典的6502处理器上。6502是1970年代的8位处理器，广泛应用于早期计算机和游戏机。项目通过LLVM编译器基础设施，让开发者可以使用现代编程语言为这些复古硬件编写程序，连接了现代软件工程与经典计算机硬件。 [<a href=\"https://news.ycombinator.com/item?id=45499908\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=ejbTKtgSZI0",
+            "title": "LLVM-MOS: 在经典6502上运行现代C/C++ [视频]",
+            "date_modified": "2025-10-07T06:20:46.000Z"
         },
         {
-            "id": "https://blog.robbowley.net/2025/10/02/why-ai-wont-work-as-a-software-development-abstraction/",
-            "content_html": "本文论证了AI不适合作为软件开发的高级抽象层。作者认为，软件开发需要精确性、可预测性和可维护性，而当前AI模型（如大语言模型）的概率性本质使其无法保证输出的正确性和一致性。AI可以成为辅助工具，但其固有的不确定性和&quot;幻觉&quot;问题使其难以取代传统的、确定性强的编程范式和抽象。 [<a href=\"https://news.ycombinator.com/item?id=45499675\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.robbowley.net/2025/10/02/why-ai-wont-work-as-a-software-development-abstraction/",
-            "title": "为什么AI不能作为软件开发的抽象层",
-            "date_modified": "2025-10-07T05:33:32.000Z"
+            "id": "https://www.telegraph.co.uk/business/2025/10/06/why-you-should-be-worried-about-the-great-ai-bubble/",
+            "content_html": "这篇文章探讨了当前AI投资热潮可能形成的泡沫。作者指出，尽管AI技术确实具有革命性潜力，但市场对AI的过度投资和期望可能导致类似互联网泡沫的破裂。文章分析了AI公司的估值过高、实际应用有限、以及基础设施成本等问题，提醒投资者需要理性看待AI技术的发展前景。 [<a href=\"https://news.ycombinator.com/item?id=45499868\" target=\"_blank\">评论</a>]",
+            "url": "https://www.telegraph.co.uk/business/2025/10/06/why-you-should-be-worried-about-the-great-ai-bubble/",
+            "title": "我们都应该担心巨大的AI泡沫",
+            "date_modified": "2025-10-07T06:09:13.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45499664",
-            "content_html": "这是一个Hacker News的&quot;Show HN&quot;帖子，作者展示了他开发的第一个音频插件。该插件的设计理念是极简主义，力求功能精简、无冗余，并且整个项目的源代码（LOC）控制在1000行以内。帖子引发了关于轻量级软件设计、音频开发入门以及代码简洁性的讨论。 [<a href=\"https://news.ycombinator.com/item?id=45499664\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45499664",
-            "title": "Show HN: 我完成的第一个音频插件，极简，代码少于1000行",
-            "date_modified": "2025-10-07T05:30:56.000Z"
+            "id": "https://www.cnx-software.com/2025/10/07/wafer-space-lets-you-design-your-custom-silicon-just-for-7-per-die/",
+            "content_html": "Wafer.space推出了一项创新服务，允许个人开发者和小企业以7美元每芯片的价格设计定制硅片。该平台通过众筹模式汇集多个设计到同一个晶圆上，大幅降低了ASIC芯片的制造成本。用户可以使用在线设计工具创建自己的芯片，适合IoT设备、专用算法加速器等应用场景，让定制芯片变得平民化。 [<a href=\"https://news.ycombinator.com/item?id=45499866\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnx-software.com/2025/10/07/wafer-space-lets-you-design-your-custom-silicon-just-for-7-per-die/",
+            "title": "Wafer.space让您的定制硅片仅需7美元/芯片(众筹)",
+            "date_modified": "2025-10-07T06:08:45.000Z"
         },
         {
-            "id": "https://techxplore.com/news/2025-10-solar-energy-world-cheapest-source.html",
-            "content_html": "一项最新研究证实，太阳能已成为全球范围内成本最低的电力来源。报告指出，得益于技术进步、规模化生产和供应链优化，太阳能光伏的发电成本在过去十年中大幅下降，已低于化石燃料（如煤炭和天然气）以及其他可再生能源。这一趋势正在加速全球能源结构的转型，推动向清洁能源的过渡。 [<a href=\"https://news.ycombinator.com/item?id=45499645\" target=\"_blank\">评论</a>]",
-            "url": "https://techxplore.com/news/2025-10-solar-energy-world-cheapest-source.html",
-            "title": "研究发现，太阳能现已成为全球最便宜的电力来源",
-            "date_modified": "2025-10-07T05:26:58.000Z"
+            "id": "https://akshatjiwannotes.blogspot.com/2025/08/can-you-compress-water-and-turn-it-solid.html",
+            "content_html": "这篇文章探讨了压缩水使其凝固的物理学问题。作者解释了水的独特性质：在通常条件下，压力增大时水的凝固点反而降低，这是由于水的密度异常现象。只有在极高的压力下（超过地球核心压力的数倍），水才可能被压缩成固相。文章深入分析了水的分子结构和相图，展示了水这种常见物质的复杂物理特性。 [<a href=\"https://news.ycombinator.com/item?id=45499859\" target=\"_blank\">评论</a>]",
+            "url": "https://akshatjiwannotes.blogspot.com/2025/08/can-you-compress-water-and-turn-it-solid.html",
+            "title": "你能压缩水并将其变成固体吗？",
+            "date_modified": "2025-10-07T06:07:55.000Z"
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Strategy_of_tension",
-            "content_html": "紧张战略是一种政治策略，指通过制造或操纵社会紧张局势、暴力事件和公众恐慌，来达到特定的政治目的。通常，该策略由国家内部或外部的权力机构（如情报部门）秘密实施，旨在通过嫁祸给政治对手或极端团体，为推行更严厉的安保法律、集权或镇压异见提供借口，从而动摇和改变政治格局。 [<a href=\"https://news.ycombinator.com/item?id=45499637\" target=\"_blank\">评论</a>]",
-            "url": "https://en.wikipedia.org/wiki/Strategy_of_tension",
-            "title": "紧张战略",
-            "date_modified": "2025-10-07T05:25:15.000Z"
+            "id": "https://shape-of-code.com/2025/09/14/iso-c-committee-has-a-new-chief-sheep-herder/",
+            "content_html": "ISO C++标准化委员会任命了新的主席，这位领导者将负责协调全球C++标准的制定工作。文章介绍了新主席的背景和经验，以及未来C++语言发展的方向。新主席需要在保持语言稳定性的同时，推动技术创新，平衡各个公司和开发者的需求，这对C++生态系统的健康发展至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45499853\" target=\"_blank\">评论</a>]",
+            "url": "https://shape-of-code.com/2025/09/14/iso-c-committee-has-a-new-chief-sheep-herder/",
+            "title": "ISO C++委员会有了新的首席牧羊人",
+            "date_modified": "2025-10-07T06:07:05.000Z"
         },
         {
-            "id": "https://vectifyai.notion.site/agentic-retrieval",
-            "content_html": "这篇文章探讨了&quot;智能体检索&quot;这一新兴概念。它描述了一种超越传统搜索和问答的AI系统，该系统能像智能代理一样主动理解用户意图，分解复杂任务，并自主地执行多步骤的信息检索、整合和内容生成。文章以Claude Code和PageIndex为例，展示了这种代理式方法如何为用户提供更精准、更动态的答案。 [<a href=\"https://news.ycombinator.com/item?id=45499612\" target=\"_blank\">评论</a>]",
-            "url": "https://vectifyai.notion.site/agentic-retrieval",
-            "title": "从Claude Code到PageIndex：智能体检索的兴起",
-            "date_modified": "2025-10-07T05:18:21.000Z"
+            "id": "https://www.youtube.com/watch?v=5J3tYU_-IZI",
+            "content_html": "这个视频介绍了Kakeya猜想的最新突破性证明，这是一个困扰数学家近一个世纪的几何问题。Kakeya猜想涉及如何在极小的区域内旋转一个单位线段的问题，与调和分析、几何测度论等多个数学领域相关。视频通俗易懂地解释了该猜想的重要性以及证明过程的关键步骤，展示了数学研究的深度和美感。 [<a href=\"https://news.ycombinator.com/item?id=45499837\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=5J3tYU_-IZI",
+            "title": "百年一遇的证明：Kakeya猜想",
+            "date_modified": "2025-10-07T06:04:48.000Z"
         },
         {
-            "id": "https://gotopia.tech/articles/122/functional-programming-through-the-lens-of-a-philosopher-and-linguist",
-            "content_html": "这篇文章是一篇关于作者个人徒步旅行经历的随笔。作者通过分享他在世界各地行走的体验，反思了行走这一简单行为对个人身心健康、创造力以及与自然和世界连接的深远影响。文章描绘了行走带来的宁静、观察力和思考深度，将其视为一种探索自我和周围环境的强大方式。 [<a href=\"https://news.ycombinator.com/item?id=45499607\" target=\"_blank\">评论</a>]",
-            "url": "https://gotopia.tech/articles/122/functional-programming-through-the-lens-of-a-philosopher-and-linguist",
-            "title": "行走世界",
-            "date_modified": "2025-10-07T05:17:37.000Z"
+            "id": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/",
+            "content_html": "GPT-Image-1-Mini是OpenAI最新推出的图像生成模型，是GPT-Image系列的小型版本。该模型在保持高质量图像生成能力的同时，大幅降低了计算资源需求，使其更适合在普通设备上运行。文章介绍了该模型的技术特点、应用场景以及与竞争对手的对比，展示了AI图像生成技术的最新进展和普及趋势。 [<a href=\"https://news.ycombinator.com/item?id=45499824\" target=\"_blank\">评论</a>]",
+            "url": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/",
+            "title": "GPT-Image-1-Mini",
+            "date_modified": "2025-10-07T06:00:55.000Z"
         },
         {
-            "id": "https://jeremymaluf.com/walking/",
-            "content_html": "Gabriel Operator是一个无代码平台，被称为&quot;自动驾驶网站&quot;。它允许用户通过简单的配置，让网站自动执行各种重复性的在线任务，例如数据抓取、表单填写、网站监控和信息汇总等。该工具旨在为非技术人员提供自动化能力，无需编写代码即可创建一个能按预定计划工作的网络机器人。 [<a href=\"https://news.ycombinator.com/item?id=45499598\" target=\"_blank\">评论</a>]",
-            "url": "https://jeremymaluf.com/walking/",
-            "title": "一个能自动完成你重复性任务的&quot;自动驾驶网站&quot;（无代码）",
-            "date_modified": "2025-10-07T05:16:42.000Z"
+            "id": "https://priotime.app",
+            "content_html": "PrioTimeApp是一款极简设计的时间管理和生产力应用，专注于帮助用户通过优先级来组织任务。该应用没有复杂的功能，只提供核心的任务排序和完成追踪功能，界面简洁直观。用户可以快速添加任务、设置优先级、标记完成状态，适合那些希望用最简单方式提高工作效率的用户。 [<a href=\"https://news.ycombinator.com/item?id=45499816\" target=\"_blank\">评论</a>]",
+            "url": "https://priotime.app",
+            "title": "Show HN: PrioTimeApp – 简单的优先级驱动生产力应用",
+            "date_modified": "2025-10-07T05:58:27.000Z"
         },
         {
-            "id": "https://gabrieloperator.com",
-            "content_html": "本文探讨了计算架构的未来发展方向：存内计算。传统计算中，数据在内存和处理器之间来回移动，消耗大量时间和能源。存内计算技术通过在内存芯片内部直接进行数据处理，打破了这一瓶颈，有望大幅提升计算速度和能效。文章认为，这将是继冯·诺依曼架构之后的又一次重大计算革命。 [<a href=\"https://news.ycombinator.com/item?id=45499576\" target=\"_blank\">评论</a>]",
-            "url": "https://gabrieloperator.com",
-            "title": "下一次计算革命：将处理带入内存内部",
-            "date_modified": "2025-10-07T05:12:40.000Z"
+            "id": "https://github.com/SylvanFranklin/nonsense",
+            "content_html": "这个开源项目能够自动生成看起来像数学论文但实际上毫无意义的文档。它通过组合数学术语、公式结构和学术写作模式，创造出外观逼真的伪学术论文。该项目的目的是为了帮助人们识别和防范学术欺诈，同时也揭示了当前学术评价体系中可能存在的问题，具有教育和警示意义。 [<a href=\"https://news.ycombinator.com/item?id=45499814\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/SylvanFranklin/nonsense",
+            "title": "无意义数学论文生成器",
+            "date_modified": "2025-10-07T05:58:15.000Z"
         },
         {
-            "id": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
-            "content_html": "这篇arXiv论文提出了&quot;CMOS 2.0&quot;的概念，旨在重新定义摩尔定律终结后的半导体技术发展路径。文章探讨了超越传统晶体管缩放的新方向，包括三维集成、新材料、新器件结构（如CFET）和异构集成等。CMOS 2.0旨在通过系统级创新和架构变革，继续推动计算性能、能效和功能密度的提升。 [<a href=\"https://news.ycombinator.com/item?id=45499560\" target=\"_blank\">评论</a>]",
-            "url": "https://www.computer.org/publications/tech-news/insider-membership-news/the-next-computing-revolution",
-            "title": "CMOS 2.0 – 重新定义缩放的未来",
-            "date_modified": "2025-10-07T05:07:47.000Z"
+            "id": "https://www.bloomberg.com/news/articles/2025-10-06/turkey-eyes-us-rare-earths-deal-after-china-russia-talks-slow\\",
+            "content_html": "土耳其正在积极寻求与美国建立稀土合作关系，此前与中国和俄罗斯的稀土谈判进展缓慢。稀土元素对现代科技产业至关重要，包括电动汽车、智能手机和军事装备等领域。文章分析了地缘政治因素对稀土供应链的影响，以及土耳其作为潜在稀土生产国的战略价值，这反映了全球资源竞争的新格局。 [<a href=\"https://news.ycombinator.com/item?id=45499811\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-06/turkey-eyes-us-rare-earths-deal-after-china-russia-talks-slow\\",
+            "title": "土耳其在中俄谈判放缓后寻求美国稀土交易",
+            "date_modified": "2025-10-07T05:57:50.000Z"
         },
         {
-            "id": "https://arxiv.org/abs/2510.04535",
-            "content_html": "英伟达、迪士尼和谷歌等科技巨头联合宣布，将开源的&quot;牛顿引擎&quot;贡献给Linux基金会。牛顿引擎是一个高性能、模块化的通用物理模拟引擎，广泛应用于电影特效、游戏开发和科学计算。将其开源并置于Linux基金会管理下，旨在促进协作，加速其发展，并确保其作为开放标准长期服务于整个行业。 [<a href=\"https://news.ycombinator.com/item?id=45499558\" target=\"_blank\">评论</a>]",
-            "url": "https://arxiv.org/abs/2510.04535",
-            "title": "英伟达、迪士尼、谷歌将开源牛顿引擎贡献给Linux基金会",
-            "date_modified": "2025-10-07T05:07:40.000Z"
+            "id": "https://www.youtube.com/watch?v=SVc4HANu7uM",
+            "content_html": "这个视频展示了一个成本仅15美元的DIY解决方案，用于解决显示器或电视支架的平衡问题。制作者详细介绍了所需材料、制作步骤和安装过程，这个解决方案简单有效，适合动手能力不强的普通用户。视频获得了大量关注，因为它解决了许多人遇到的实际问题，体现了开源分享精神和实用创新的结合。 [<a href=\"https://news.ycombinator.com/item?id=45499808\" target=\"_blank\">评论</a>]",
+            "url": "https://www.youtube.com/watch?v=SVc4HANu7uM",
+            "title": "Show HN: 我用15美元的DIY技巧解决了支架平衡问题",
+            "date_modified": "2025-10-07T05:57:24.000Z"
         },
         {
-            "id": "https://www.phoronix.com/news/Linux-Foundation-Newton",
-            "content_html": "德勤公司同意向澳大利亚政府退款，因为其使用AI生成的一份报告中包含了大量不准确的信息，即&quot;AI幻觉&quot;。该报告本应用于评估政府项目，但其内容的可靠性受到严重质疑。此事件突显了在专业领域过度依赖当前AI技术的风险，以及建立严格的人工智能内容审核和验证流程的必要性。 [<a href=\"https://news.ycombinator.com/item?id=45499550\" target=\"_blank\">评论</a>]",
-            "url": "https://www.phoronix.com/news/Linux-Foundation-Newton",
-            "title": "德勤将因一份充满AI幻觉的报告向澳大利亚政府退款",
-            "date_modified": "2025-10-07T05:05:52.000Z"
+            "id": "https://longbets.org/1/",
+            "content_html": "2002年，Lotus公司创始人Mitch Kapor与Ray Kurzweil就AI发展速度打赌2万美元。Kapor预测在2029年前没有任何AI系统能够通过图灵测试，而Kurzweil则持相反观点。这个长期赌注反映了当时对AI发展速度的不同看法，现在回看这个赌约，可以帮助我们理解AI技术发展的实际轨迹和早期预测的准确性。 [<a href=\"https://news.ycombinator.com/item?id=45499803\" target=\"_blank\">评论</a>]",
+            "url": "https://longbets.org/1/",
+            "title": "2002年，Mitch Kapor打赌2万美元AI在2029年前不会通过图灵测试",
+            "date_modified": "2025-10-07T05:56:43.000Z"
         },
         {
-            "id": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
-            "content_html": "SysLinuxOS是一个基于Debian的Linux发行版，专为系统集成商和系统管理员设计。它预装了大量用于网络诊断、系统监控、硬件测试、安全分析和数据恢复的工具。该发行版的目标是提供一个开箱即用、功能强大的工作环境，简化IT专业人员的日常维护和故障排除任务。 [<a href=\"https://news.ycombinator.com/item?id=45499549\" target=\"_blank\">评论</a>]",
-            "url": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
-            "title": "SysLinuxOS：面向系统集成商和管理员的基于Debian的发行版",
-            "date_modified": "2025-10-07T05:05:48.000Z"
+            "id": "https://www.nbcnews.com/news/us-news/faa-reports-staffing-issues-airports-government-shutdown-continues-rcna236049",
+            "content_html": "美国联邦航空管理局报告称，由于政府持续停摆，多个机场出现严重的人员配置问题。空中交通管制员和安全检查人员数量不足，导致航班延误和取消增加。文章详细分析了这一状况对航空安全和经济的潜在影响，以及停摆对关键基础设施服务造成的连锁反应，凸显了政府职能中断的现实后果。 [<a href=\"https://news.ycombinator.com/item?id=45499777\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nbcnews.com/news/us-news/faa-reports-staffing-issues-airports-government-shutdown-continues-rcna236049",
+            "title": "FAA报告政府持续停摆导致机场人员配置问题",
+            "date_modified": "2025-10-07T05:52:53.000Z"
         },
         {
-            "id": "https://syslinuxos.com/",
-            "content_html": "",
-            "url": "https://syslinuxos.com/",
-            "title": "SysLinuxOS: Debian-based distribution for system integrators and administrators",
-            "date_modified": "2025-10-07T05:03:12.000Z"
+            "id": "https://mmervecerit.substack.com/p/coming-soon",
+            "content_html": "这篇文章探讨了在AI陪伴技术普及背景下，儿童社交发展的新挑战。作者分析了孩子们可能形成的基于AI的虚拟社交圈，以及这种&quot;无形的AI小圈子&quot;对传统社交技能的影响。文章讨论了家长如何引导孩子在享受AI便利的同时，保持健康的人际交往能力，反映了数字时代育儿的复杂性。 [<a href=\"https://news.ycombinator.com/item?id=45499736\" target=\"_blank\">评论</a>]",
+            "url": "https://mmervecerit.substack.com/p/coming-soon",
+            "title": "AI陪伴时代的育儿：无形的AI小圈子",
+            "date_modified": "2025-10-07T05:44:44.000Z"
         }
     ]
 }
