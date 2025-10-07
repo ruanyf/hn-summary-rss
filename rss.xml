@@ -4,148 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Tue, 07 Oct 2025 04:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 04:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[普希金任务：揭露国际珍本图书盗窃案背后的窃贼]]></title>
+            <title><![CDATA[冯德莱恩在聊天控制 2.0 中回避透明度问题]]></title>
+            <link>https://reclaimthenet.org/eu-chat-control-von-der-leyen-signal-messages-transparency-scandal</link>
+            <guid isPermaLink="false">https://reclaimthenet.org/eu-chat-control-von-der-leyen-signal-messages-transparency-scandal</guid>
+            <pubDate>Tue, 07 Oct 2025 04:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[欧盟委员会主席乌苏拉·冯德莱恩因拒绝提供关于其使用 Signal 应用进行官方通讯的细节而受到批评，这发生在备受争议的 &quot;聊天控制 2.0&quot; 计划的背景下。该计划旨在扫描私人通信以查找儿童性虐待材料（CSAM），但被广泛批评为对隐私和加密的威胁。冯德莱恩的回避态度加深了人们对欧盟高层决策缺乏透明度的担忧，引发了关于问责制和数字权利的辩论。 [<a href="https://news.ycombinator.com/item?id=45499446" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[美国唱片业协会：Telegram 和 Discord 是臭名昭著的发布前音乐盗版中心]]></title>
+            <link>https://torrentfreak.com/riaa-telegram-discord-are-notorious-hubs-for-pre-release-music-piracy/</link>
+            <guid isPermaLink="false">https://torrentfreak.com/riaa-telegram-discord-are-notorious-hubs-for-pre-release-music-piracy/</guid>
+            <pubDate>Tue, 07 Oct 2025 04:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[美国唱片业协会（RIAA）在其提交给美国贸易代表办公室的报告中指出，通讯应用 Telegram 和 Discord 已成为发布前音乐盗版的臭名昭著的中心。RIAA 称，这些平台上的私密频道和服务器被用于大规模传播未经授权的泄露音乐，对唱片业造成了巨大损失。该组织强调了这些平台在打击盗版方面面临的挑战，并呼吁采取更有效的措施来遏制此类非法活动。 [<a href="https://news.ycombinator.com/item?id=45499442" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Juno：将全栈 Web 应用部署为单个 WebAssembly 工件]]></title>
+            <link>https://github.com/junobuild/juno</link>
+            <guid isPermaLink="false">https://github.com/junobuild/juno</guid>
+            <pubDate>Tue, 07 Oct 2025 04:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[Juno 是一个开源平台，旨在简化 Web 应用的部署和托管流程。它允许开发者将整个全栈应用（包括前端、后端、数据库和用户认证）编译成单一的 WebAssembly 工件。这种 &quot;单块式&quot; 部署模型旨在降低基础设施的复杂性，提高开发效率，并利用 WebAssembly 的安全性和便携性，让应用可以在边缘网络上高效运行。 [<a href="https://news.ycombinator.com/item?id=45499441" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[中国电动汽车巨头比亚迪在英国销量激增 880%]]></title>
+            <link>https://www.bbc.co.uk/news/articles/c3w5jl2jgqwo</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3w5jl2jgqwo</guid>
+            <pubDate>Tue, 07 Oct 2025 04:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[中国电动汽车制造商比亚迪报告称，其今年在英国的销量实现了惊人的 880% 的增长。这一显著增长得益于其扩大了车型供应，包括 Atto 3、海豚和海豹等车型，并建立了更广泛的经销商网络。尽管基数相对较小，但这一数据反映出中国电动汽车品牌在欧洲市场的影响力正迅速扩大，对传统汽车制造商构成了日益激烈的竞争。 [<a href="https://news.ycombinator.com/item?id=45499433" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[无忧的宇宙层次结构]]></title>
+            <link>https://www.jonmsterling.com/01HX/index.xml</link>
+            <guid isPermaLink="false">https://www.jonmsterling.com/01HX/index.xml</guid>
+            <pubDate>Tue, 07 Oct 2025 04:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章（或其 RSS 摘要）探讨了在数学或计算机科学中构建层次结构的一种简化方法。作者 Jonathan Sterling 可能提出了一种名为 &quot;无忧的宇宙层次结构&quot; 的理论或框架，旨在减少在处理复杂系统（如类型理论、范畴论或软件架构）中的层次关系时的认知负担。其核心思想可能是通过某种抽象或自动化，让开发者或研究者能更直观、更轻松地管理和理解嵌套结构。 [<a href="https://news.ycombinator.com/item?id=45499409" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[反应式变压器研究论文]]></title>
+            <link>https://huggingface.co/papers/2510.03561</link>
+            <guid isPermaLink="false">https://huggingface.co/papers/2510.03561</guid>
+            <pubDate>Tue, 07 Oct 2025 04:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[这篇发布在 Hugging Face 上的论文提出了 &quot;反应式变压器&quot;（Reactive Transformer）模型。该模型可能旨在改进传统 Transformer 架构，使其能够更动态地响应输入数据的变化或环境反馈。论文可能详细描述了模型的结构、训练方法，以及在特定任务（如对话系统、实时决策或强化学习）上的实验结果，展示了其在处理需要适应性反应的任务上的优势。 [<a href="https://news.ycombinator.com/item?id=45499392" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AppLovin 因其数据收集做法受到 SEC 调查]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-06/applovin-has-been-probed-by-sec-over-data-collection-practices</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-06/applovin-has-been-probed-by-sec-over-data-collection-practices</guid>
+            <pubDate>Tue, 07 Oct 2025 04:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[移动游戏和广告科技公司 AppLovin 透露，它正在接受美国证券交易委员会（SEC）的调查，调查焦点集中在其数据收集和用户隐私保护做法上。监管机构可能正在审查该公司如何收集、使用和共享用户数据，以及其向投资者和公众披露的相关信息是否充分。此消息可能导致该公司面临监管风险和潜在的法律后果。 [<a href="https://news.ycombinator.com/item?id=45499372" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[普希金任务：揭露国际珍本书盗窃案背后的窃贼]]></title>
             <link>https://www.theguardian.com/books/2025/oct/07/the-pushkin-job-unmasking-the-thieves-behind-an-international-rare-books-heist</link>
             <guid isPermaLink="false">https://www.theguardian.com/books/2025/oct/07/the-pushkin-job-unmasking-the-thieves-behind-an-international-rare-books-heist</guid>
             <pubDate>Tue, 07 Oct 2025 04:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了莫斯科普希金博物馆发生的一起重大珍本盗窃案。作者深入调查了这起案件，揭露了一个国际盗窃团伙的运作模式。文章追踪了调查人员的脚步，从犯罪现场到跨国追捕，最终揭开了这些窃贼的身份，并记录了珍贵书籍被寻回的过程。故事充满了悬疑和国际色彩，堪称一出真实版的盗窃大案。 [<a href="https://news.ycombinator.com/item?id=45499357" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇《卫报》的文章详细报道了一起针对俄罗斯莫斯科普希金博物馆的国际珍本书盗窃案。文章揭露了涉案窃贼的身份、作案手法以及这个跨国犯罪网络的运作方式。这起案件涉及多本极其珍贵的古籍和手稿，其复杂的侦破过程和国际合作凸显了保护文化遗产所面临的挑战。故事充满了悬疑和侦探元素，展现了文物犯罪的阴暗面。 [<a href="https://news.ycombinator.com/item?id=45499357" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bash换行：再次通过ProxyCommand利用SSH]]></title>
+            <title><![CDATA[Bash 换行符：再次通过 ProxyCommand 利用 SSH (CVE-2025-61984)]]></title>
             <link>https://dgl.cx/2025/10/bash-a-newline-ssh-proxycommand-cve-2025-61984</link>
             <guid isPermaLink="false">https://dgl.cx/2025/10/bash-a-newline-ssh-proxycommand-cve-2025-61984</guid>
             <pubDate>Tue, 07 Oct 2025 04:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[本文详细介绍了CVE-2025-61984漏洞，该漏洞允许攻击者通过SSH的ProxyCommand选项执行任意代码。文章解释了攻击者如何利用bash处理换行符的特性，在SSH客户端配置中注入恶意命令。这是一种对已知攻击技术的变体利用，绕过了某些安全防护。作者提供了漏洞的技术细节、复现方法以及建议的修复措施，提醒用户尽快更新OpenSSH和相关软件以防范风险。 [<a href="https://news.ycombinator.com/item?id=45499345" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章披露了一个新的 SSH 安全漏洞（CVE-2025-61984）。该漏洞源于 Bash 对换行符的处理方式，当与 SSH 的 ProxyCommand 指令结合使用时，可能被利用来执行任意代码。攻击者可以通过精心构造的命令，注入恶意指令，从而在目标系统上获得远程代码执行权限。文章解释了漏洞的技术细节、影响范围，并提供了缓解措施和补丁信息。 [<a href="https://news.ycombinator.com/item?id=45499345" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Unblur Image AI：图片去模糊工具]]></title>
+            <title><![CDATA[Unblur Image AI]]></title>
             <link>https://unblurimg.ai/</link>
             <guid isPermaLink="false">https://unblurimg.ai/</guid>
             <pubDate>Tue, 07 Oct 2025 04:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[Unblur Image AI是一个利用人工智能技术来修复模糊图片的在线工具。用户只需上传模糊的图像，该AI就能自动分析并增强图片的清晰度和细节。它适用于各种类型的模糊，如失焦、运动模糊或低分辨率图像。网站强调其操作简便、效果显著，旨在为普通用户和专业人士提供一个快速、高效的图片锐化解决方案。 [<a href="https://news.ycombinator.com/item?id=45499341" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Unblur Image AI 是一个在线工具，使用人工智能技术来修复和锐化模糊的图片。用户只需上传模糊的图像，该服务的 AI 算法就会分析图像内容，自动去除模糊效果，恢复细节和清晰度。它适用于修复因相机抖动、失焦或运动等原因造成的模糊照片，为个人和专业人士提供了一个简单易用的图像增强解决方案。 [<a href="https://news.ycombinator.com/item?id=45499341" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Transformer与大脑模型之间的缺失环节]]></title>
+            <title><![CDATA[Transformer 与大脑模型之间缺失的一环]]></title>
             <link>https://arxiv.org/abs/2509.26507</link>
             <guid isPermaLink="false">https://arxiv.org/abs/2509.26507</guid>
             <pubDate>Tue, 07 Oct 2025 04:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[这篇研究论文探讨了人工智能领域的Transformer架构与神经科学中大脑模型之间的潜在联系。作者提出，Transformer的某些机制，如注意力机制，可能为理解大脑处理信息（尤其是语言和序列处理）的方式提供了新的计算框架。论文旨在弥合深度学习模型与认知神经科学之间的理论鸿沟，为构建更符合大脑工作原理的AI模型提供思路。 [<a href="https://news.ycombinator.com/item?id=45499338" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇发表在 arXiv 上的论文探讨了人工智能领域的 Transformer 架构与神经科学中建立的大脑模型之间的联系。作者可能指出了当前两者之间的理论差异，并提出了一个 &quot;缺失的一环&quot;——一个新的概念或模型，试图弥合深度学习模型与生物神经网络认知功能之间的鸿沟。该研究有助于启发更接近大脑工作原理的新 AI 架构。 [<a href="https://news.ycombinator.com/item?id=45499338" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[OpenAI AgentKit]]></title>
             <link>https://openai.com/index/introducing-agentkit/</link>
             <guid isPermaLink="false">https://openai.com/index/introducing-agentkit/</guid>
             <pubDate>Tue, 07 Oct 2025 04:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI发布了AgentKit，一个用于构建和测试AI智能体的开源框架。该工具包提供了一套标准化的组件和接口，帮助开发者更轻松地创建能够自主完成复杂任务的AI代理。AgentKit支持与OpenAI的模型集成，并提供了调试、评估和部署智能体的工具，旨在推动AI智能体技术的研究与应用，降低开发门槛。 [<a href="https://news.ycombinator.com/item?id=45499321" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[OpenAI 推出了 AgentKit，这是一个开源框架，旨在简化和加速 AI 代理（Agent）的开发。它提供了一套标准化的工具、模板和最佳实践，让开发者能够更轻松地构建、测试和部署能够执行复杂任务、使用工具并与环境交互的 AI 代理。AgentKit 的目标是降低创建高级 AI 应用的门槛，推动代理技术的普及和创新。 [<a href="https://news.ycombinator.com/item?id=45499321" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[可再生能源超过煤炭，成为最大的电力来源]]></title>
+            <title><![CDATA[可再生能源超越煤炭，成为最大的电力来源]]></title>
             <link>https://www.bbc.com/news/articles/cx2rz08en2po</link>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2rz08en2po</guid>
             <pubDate>Tue, 07 Oct 2025 04:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[根据国际能源署（IEA）的报告，全球可再生能源发电量首次超过煤炭，成为最大的电力来源。这一里程碑式的转变主要得益于太阳能和风能发电的快速增长。报告指出，可再生能源的扩张是应对气候变化的关键，预计其占比在未来几年将持续上升，标志着全球能源结构正在发生根本性变革。 [<a href="https://news.ycombinator.com/item?id=45499320" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[根据一份行业报告，可再生能源（如风能、太阳能和水力发电）在全球发电量中的占比已首次超过煤炭，成为最大的电力来源。这一里程碑式的转变标志着全球能源结构正在发生根本性变化，主要得益于可再生能源成本的下降和各国对气候变化的关注。尽管进展显著，但报告也强调，为实现气候目标，仍需加速摆脱对化石燃料的依赖。 [<a href="https://news.ycombinator.com/item?id=45499320" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sysinternals]]></title>
             <link>https://learn.microsoft.com/en-us/sysinternals/</link>
             <guid isPermaLink="false">https://learn.microsoft.com/en-us/sysinternals/</guid>
             <pubDate>Tue, 07 Oct 2025 04:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Sysinternals是微软提供的一套高级系统实用工具集，用于管理、诊断和排查Windows系统的各种问题。它包含了众多著名的工具，如Process Explorer（进程管理器）、Autoruns（启动项管理器）和ProcMon（进程监视器）等。这些工具为IT专业人士和高级用户提供了深入洞察Windows内部运作的能力，是系统管理和安全分析的利器。 [<a href="https://news.ycombinator.com/item?id=45499318" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Sysinternals 是微软提供的一套高级系统实用工具集，最初由 Mark Russinovich 和 Bryce Cogswell 开发。这些工具旨在帮助 IT 专业人员、开发者和高级用户管理、诊断和故障排除 Windows 系统及应用。它包括著名的 Process Explorer、Autoruns、ProcMon 等工具，提供了对系统内部运作的深入洞察和控制能力，是 Windows 系统管理的强大辅助。 [<a href="https://news.ycombinator.com/item?id=45499318" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fly.io Twitter Hacked]]></title>
+            <title><![CDATA[Fly.io Twitter 被黑]]></title>
             <link>https://twitter.com/roncohen/status/1975411731892404647</link>
             <guid isPermaLink="false">https://twitter.com/roncohen/status/1975411731892404647</guid>
             <pubDate>Tue, 07 Oct 2025 04:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[Fly.io的官方推特账号被盗。公司发布警告，请用户不要点击该账号发布的任何链接，并表示正在紧急处理此事。这是一个典型的社交媒体安全事件，提醒用户注意辨别官方信息来源，警惕来自被盗账号的钓鱼链接。公司通常会迅速夺回控制权并发布安全公告。 [<a href="https://news.ycombinator.com/item?id=45499287" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Fly.io 的首席执行官 Ron Cohen 在其 X（原 Twitter）账号上宣布，公司的官方 Twitter 账户遭到黑客入侵。他警告用户不要点击该账户发布的任何链接，并表示团队正在处理此事。这起事件再次凸显了社交媒体账户面临的安全风险，即使是技术公司的官方账号也可能成为攻击目标。 [<a href="https://news.ycombinator.com/item?id=45499287" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[年轻人正爱上旧技术]]></title>
+            <title><![CDATA[加州法律迫使 Netflix、Hulu 降低广告音量]]></title>
             <link>https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</link>
             <guid isPermaLink="false">https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</guid>
             <pubDate>Tue, 07 Oct 2025 04:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了一种趋势：越来越多的年轻人开始青睐和使用老式技术产品，如翻盖手机、数码相机、MP3播放器等。文章分析了这种现象背后的原因，包括对过度互联的数字生活的厌倦、对复古美学的追求、以及对科技产品更简单、专注体验的渴望。这种复古风潮被视为对现代智能手机主导文化的一种温和反抗。 [<a href="https://news.ycombinator.com/item?id=45499281" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[美国加利福尼亚州通过了一项新法律，要求流媒体服务如 Netflix 和 Hulu 必须确保其广告的音量不得高于周围节目的音量。这项被称为 &quot;CALM Act&quot; 的法案旨在解决长期以来观众抱怨的在线广告突然大声播放的问题。法律生效后，违反规定的流媒体平台将面临处罚，以保障用户的观看体验。 [<a href="https://news.ycombinator.com/item?id=45499281" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Centerview Partners将因初级银行家长时间工作而面临审判]]></title>
+            <title><![CDATA[年轻人正迷上老技术]]></title>
             <link>https://www.wsj.com/tech/personal-tech/flip-phone-digital-camera-28a118dd</link>
             <guid isPermaLink="false">https://www.wsj.com/tech/personal-tech/flip-phone-digital-camera-28a118dd</guid>
             <pubDate>Tue, 07 Oct 2025 03:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[投资银行Centerview Partners将面临审判，其被指控未能保护初级银行家免受过度工作的侵害。此案源于一名前员工的死亡，其家人将死因归咎于极端的工作压力和长时间工作。该审判引起了金融业对工作文化、员工福利和法律责任的广泛关注，可能对整个行业的工作规范产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45499201" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[《华尔街日报》的一篇文章报道了一种新趋势：越来越多的年轻人开始对翻盖手机、数码相机、MP3 播放器等 &quot;老技术&quot; 产生浓厚兴趣。这种现象被认为是他们对无处不在的智能手机和复杂社交媒体所引发的数字疲劳的一种反抗。通过使用这些功能单一、设计复古的设备，年轻人寻求一种更简单、更专注、更具真实感的科技体验。 [<a href="https://news.ycombinator.com/item?id=45499201" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Pdoc – 为Python项目生成API文档]]></title>
+            <title><![CDATA[Centerview Partners 将因初级银行家工作至午夜后的长时间而面临审判]]></title>
             <link>https://www.ft.com/content/550bc2e0-2869-4a5d-a677-a66f4c35a7b9</link>
             <guid isPermaLink="false">https://www.ft.com/content/550bc2e0-2869-4a5d-a677-a66f4c35a7b9</guid>
             <pubDate>Tue, 07 Oct 2025 03:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[Pdoc是一个用于Python项目的文档生成工具，能够自动从代码中的docstrings生成清晰、美观的HTML API文档。它支持现代Python语法，无需复杂的配置即可使用。Pdoc会智能地解析模块、类、函数和方法，并将其组织成易于导航的网站。对于希望快速为Python库或项目创建专业文档的开发者来说，这是一个非常方便的工具。 [<a href="https://news.ycombinator.com/item?id=45499191" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[英国投行 Centerview Partners 将面临审判，其被指控未能保护初级银行员工免受过长工作时间的侵害。案件焦点是一名初级银行家声称其经常被要求工作到午夜之后，这对他的身心健康造成了损害。此案凸显了金融行业普遍存在的过度工作文化，并可能对整个行业的劳动规范产生重要影响。 [<a href="https://news.ycombinator.com/item?id=45499191" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[公司以每吨不足一美分的价格竞标美国十多年来最大的煤炭销售]]></title>
+            <title><![CDATA[Pdoc – 为 Python 项目生成 API 文档]]></title>
             <link>https://pdoc.dev/</link>
             <guid isPermaLink="false">https://pdoc.dev/</guid>
             <pubDate>Tue, 07 Oct 2025 03:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[在一项美国政府十多年来最大的公共土地煤炭销售中，一家公司以每吨不足一美分的惊人低价中标。此次在蒙大拿州的煤炭销售引发了巨大争议。批评者认为，这标志着联邦煤炭资产被严重低估，损害了纳税人的利益，并与环境目标背道而驰，凸显出公共资源定价机制的深层次问题。 [<a href="https://news.ycombinator.com/item?id=45499170" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Pdoc 是一个命令行工具和库，用于自动为 Python 项目生成简洁易读的 API 文档。它能直接从 Python 源代码中的 docstrings 提取信息，并将其渲染成一个静态的 HTML 网站。Pdoc 的特点是使用简单、输出美观，并且支持 Markdown 格式，让开发者可以轻松地为他们的代码库创建和维护专业级的文档，无需复杂的配置。 [<a href="https://news.ycombinator.com/item?id=45499170" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我为Linux做的第一个贡献]]></title>
+            <title><![CDATA[公司以每吨不到一美分的价格竞标美国十多年来最大的煤炭销售]]></title>
             <link>https://apnews.com/article/trump-coal-sales-public-lands-montana-b2dbbdc81e7afbf24947b9a4b32fa417</link>
             <guid isPermaLink="false">https://apnews.com/article/trump-coal-sales-public-lands-montana-b2dbbdc81e7afbf24947b9a4b32fa417</guid>
             <pubDate>Tue, 07 Oct 2025 03:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章详细记录了作者第一次向Linux内核贡献代码的经历。作者分享了自己发现一个内核bug、分析问题、编写补丁、然后通过邮件列表与社区开发者沟通、最终让补丁被接受的全过程。文章不仅包含了技术细节，还分享了个人的心路历程，为希望参与开源项目尤其是像Linux这样大型项目的初学者提供了宝贵的经验和鼓励。 [<a href="https://news.ycombinator.com/item?id=45499162" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[对遥远恒星红移的另一种解释]]></title>
-            <link>https://vkoskiv.com/first-linux-patch/</link>
-            <guid isPermaLink="false">https://vkoskiv.com/first-linux-patch/</guid>
-            <pubDate>Tue, 07 Oct 2025 03:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[该链接指向一个Hacker News讨论串，主题是关于遥远恒星红移现象的一种非主流解释。帖子作者可能提出了一种不同于宇宙膨胀理论的模型，例如光子在漫长传播过程中因某种原因失去能量。讨论区内的用户则从物理学、天文学等角度对此进行了辩论，探讨了该理论的合理性与传统大爆炸理论的证据。 [<a href="https://news.ycombinator.com/item?id=45499145" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 我做了一个免费工具，告诉你最适合你的发型]]></title>
-            <link>https://news.ycombinator.com/item?id=45499128</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45499128</guid>
-            <pubDate>Tue, 07 Oct 2025 03:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个名为HaircutAI的免费在线工具。用户上传自己的照片后，该工具利用人工智能技术，为其分析和推荐最适合的发型。它旨在帮助人们在决定新发型前进行虚拟试看，避免剪发后的后悔。网站展示了多种发型效果，并强调其便捷性和免费使用的特点。 [<a href="https://news.ycombinator.com/item?id=45499128" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GPT 1 Thinking]]></title>
-            <link>https://haircutai.app</link>
-            <guid isPermaLink="false">https://haircutai.app</guid>
-            <pubDate>Tue, 07 Oct 2025 03:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[这条推特分享了一张图片，内容是关于早期GPT模型（或类似模型）生成文本时的&quot;思考过程&quot;或内部权重变化。它可能以可视化的方式展示了模型在生成下一个词时不同神经元或路径的激活程度，让人们对大型语言模型的内部工作机制有了一个直观的、简化的理解。这引发了人们对AI可解释性的讨论。 [<a href="https://news.ycombinator.com/item?id=45499124" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apple发布的Temporal Swift SDK]]></title>
-            <link>https://twitter.com/andrew_n_carr/status/1974625322609049803/photo/1</link>
-            <guid isPermaLink="false">https://twitter.com/andrew_n_carr/status/1974625322609049803/photo/1</guid>
-            <pubDate>Tue, 07 Oct 2025 03:31:25 GMT</pubDate>
-            <content:encoded><![CDATA[苹果公司开源了Temporal的Swift SDK。Temporal是一个用于构建可靠、可扩展的分布式应用程序的开源框架。这个新的SDK允许Swift开发者能够轻松地将Temporal的协调和工作流功能集成到他们的应用中，从而简化编写复杂异步任务和长期运行流程的过程。这是苹果在服务器端Swift生态系统和开发者工具方面的重要贡献。 [<a href="https://news.ycombinator.com/item?id=45499122" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[RedOS本月动态 – 2025年9月]]></title>
-            <link>https://github.com/apple/swift-temporal-sdk</link>
-            <guid isPermaLink="false">https://github.com/apple/swift-temporal-sdk</guid>
-            <pubDate>Tue, 07 Oct 2025 03:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[这是Redox操作系统项目2025年9月的开发进展报告。报告总结了过去一个月内在系统内核、驱动程序、用户空间应用和软件包管理等方面的主要更新和改进。内容包括已实现的新功能、修复的bug、性能优化以及社区贡献。对于关注这个用Rust语言编写的Unix-like操作系统项目的开发者和用户来说，这是了解其最新动态的重要来源。 [<a href="https://news.ycombinator.com/item?id=45499108" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[中大西洋口音]]></title>
-            <link>https://www.redox-os.org/news/this-month-250930/</link>
-            <guid isPermaLink="false">https://www.redox-os.org/news/this-month-250930/</guid>
-            <pubDate>Tue, 07 Oct 2025 03:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了&quot;中大西洋口音&quot;，一种20世纪上半叶在美国上流社会和好莱坞黄金时代电影中流行的人工口音。这种口音混合了美式英语和英式Received Pronunciation（公认发音）的特点，并非任何地区的自然口音。文章探讨了其起源、流行原因以及最终的衰落，认为它代表了一个特定时代的社会阶层和文化印记。 [<a href="https://news.ycombinator.com/item?id=45499074" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Mid-Atlantic Accent]]></title>
-            <link>https://literaryashland.org/?p=10803</link>
-            <guid isPermaLink="false">https://literaryashland.org/?p=10803</guid>
-            <pubDate>Tue, 07 Oct 2025 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[在美国十多年来最大规模的联邦煤炭销售中，一家公司以每吨不到一美分的极低价格成功竞标，获得了在蒙大拿州开采大量煤炭的权利。这一超低报价引发了环保组织和公众的强烈批评，他们认为这不仅低估了公共资源的价值，还加剧了对气候变化的负面影响，并反映了政府土地管理政策的问题。 [<a href="https://news.ycombinator.com/item?id=45499162" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
