@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
-            "content_html": "本文探讨了3M公司如何应对其PFAS（全氟烷基物质）制造遗产所带来的环境挑战。文章详细描述了3M在处理这些被称为&quot;永久化学物质&quot;的污染物方面的策略转变，包括公司承诺停止生产PFAS产品、投入数十亿美元用于环境清理以及开发更安全的替代品。报道还分析了3M如何通过法律和解和技术创新来减轻其环境责任，同时保持业务竞争力。这一转型被视为化工行业应对环境责任的重要案例研究。 [<a href=\"https://news.ycombinator.com/item?id=45502748\" target=\"_blank\">评论</a>]",
-            "url": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
-            "title": "3M可能摆脱有毒化学物质PFAS的制造遗产",
-            "date_modified": "2025-10-07T13:22:04.000Z"
+            "id": "https://www.slashit.app/",
+            "content_html": "该网站介绍了一款名为 Slash 的生产力工具，旨在通过键盘快捷键、文本扩展和自动化来提升工作效率。它强调，真正的生产力并非来自打字速度，而是来自减少重复性任务和鼠标点击。用户可以通过自定义命令和代码片段，快速启动应用、插入文本或执行复杂操作，从而将更多时间专注于创造性工作。该工具的理念是：更聪明地工作，而不是更辛苦地工作。 [<a href=\"https://news.ycombinator.com/item?id=45502982\" target=\"_blank\">评论</a>]",
+            "url": "https://www.slashit.app/",
+            "title": "打字快不等于生产力高",
+            "date_modified": "2025-10-07T13:43:05.000Z"
         },
         {
-            "id": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
-            "content_html": "GRISP团队宣布Erlang编程语言的ARM32架构即时编译（JIT）实现正式发布。这一突破性进展为Erlang在嵌入式系统和物联网设备上的性能带来了显著提升。文章详细介绍了JIT编译器的工作原理、性能基准测试结果以及与解释器模式的对比。新实现的JIT编译器能够将Erlang字节码动态编译为本地ARM32机器码，大幅提高了执行效率，特别适合资源受限的嵌入式环境。这一里程碑式的开发为Erlang生态系统在嵌入式领域的应用开辟了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45502543\" target=\"_blank\">评论</a>]",
-            "url": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
-            "title": "Erlang ARM32 JIT诞生",
-            "date_modified": "2025-10-07T13:00:25.000Z"
+            "id": "https://www.zima.run/",
+            "content_html": "Zima 是一款面向硬件工程的开源工具，名为 Blueprintor。它提供了一个可视化的、类似 CAD 的界面，用于设计电子硬件项目。用户可以通过图形化操作来创建电路板布局，而无需手动编写复杂的代码或设计文件。该工具旨在自动化从设计到生产的整个流程，能够生成制造所需的文件（如 Gerber 文件），从而降低硬件开发的门槛，让更多人能够参与硬件创新。 [<a href=\"https://news.ycombinator.com/item?id=45502979\" target=\"_blank\">评论</a>]",
+            "url": "https://www.zima.run/",
+            "title": "Show HN: 用于硬件工程的 Blueprintor",
+            "date_modified": "2025-10-07T13:42:49.000Z"
         },
         {
-            "id": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
-            "content_html": "高通公司宣布收购开源硬件平台Arduino，此举旨在加速开发者对物联网技术的访问和创新。收购完成后，Arduino将继续保持其开源精神，同时获得高通在芯片技术、5G连接和AI处理方面的强大支持。这一战略合并将使Arduino用户能够更容易地创建高性能的物联网解决方案，从简单的原型到复杂的商业部署。高通表示，此次收购将推动边缘计算和智能设备的发展，为全球数百万开发者提供更强大的工具和平台。 [<a href=\"https://news.ycombinator.com/item?id=45502541\" target=\"_blank\">评论</a>]",
-            "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
-            "title": "高通将收购Arduino",
-            "date_modified": "2025-10-07T13:00:08.000Z"
+            "id": "https://fossforce.com/2025/10/coming-a-repairable-printer-with-refillable-ink-cartridges/",
+            "content_html": "这篇文章介绍了一款即将推出的新型打印机，其核心卖点是可维修性和使用可再填充墨盒。这款由 MUNBYN 公司开发的打印机，旨在对抗当前打印机行业 &quot;剃刀与刀片&quot; 的商业模式，即廉价出售打印机但通过昂贵的、一次性的墨盒牟利。该打印机将提供维修手册和备用零件，允许用户自行修理，并支持墨水重复加注，从而大大降低了长期使用成本和电子垃圾。这被视为消费者权益和环保主义的一次胜利。 [<a href=\"https://news.ycombinator.com/item?id=45502975\" target=\"_blank\">评论</a>]",
+            "url": "https://fossforce.com/2025/10/coming-a-repairable-printer-with-refillable-ink-cartridges/",
+            "title": "即将推出：一款可维修且墨盒可再填充的打印机",
+            "date_modified": "2025-10-07T13:42:23.000Z"
         },
         {
-            "id": "https://www.lua.org/doc/cola.pdf",
-            "content_html": "这份PDF文档深入探讨了Lua编程语言的发展历程和最新演进。文章从Lua的起源开始，详细介绍了其设计哲学、语言特性的演进过程以及在不同应用领域的成功案例。文档特别关注了Lua在游戏开发、嵌入式系统和脚本编程方面的应用，展示了语言如何通过简洁而强大的设计原则保持其活力。作者还讨论了Lua社区的发展、标准库的扩展以及未来可能的改进方向，为理解这门轻量级编程语言的独特魅力提供了全面的视角。 [<a href=\"https://news.ycombinator.com/item?id=45502502\" target=\"_blank\">评论</a>]",
-            "url": "https://www.lua.org/doc/cola.pdf",
-            "title": "Lua的演变，继续[PDF]",
-            "date_modified": "2025-10-07T12:54:14.000Z"
+            "id": "https://developer.apple.com/documentation/appmigrationkit",
+            "content_html": "这是苹果公司官方的开发者文档页面，介绍了 AppMigrationKit 框架。该框架旨在帮助开发者简化用户从旧设备迁移到新设备时的应用数据迁移过程。通过使用这个工具包，应用可以无缝地将用户的重要数据、设置和偏好从一个设备转移到另一个设备，从而提升用户体验，减少因更换设备而导致的数据丢失或重新配置的麻烦。这对于保持用户连续性和满意度至关重要。 [<a href=\"https://news.ycombinator.com/item?id=45502966\" target=\"_blank\">评论</a>]",
+            "url": "https://developer.apple.com/documentation/appmigrationkit",
+            "title": "AppMigrationKit",
+            "date_modified": "2025-10-07T13:41:21.000Z"
         },
         {
-            "id": "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada",
-            "content_html": "YC S22孵化公司Provision正在加拿大多伦多招聘全栈软件工程师。该公司专注于为企业提供创新的供应链管理解决方案，利用现代技术栈优化库存管理和物流效率。职位要求应聘者具备扎实的编程基础，熟悉前后端开发技术，并有构建可扩展系统的经验。公司提供有竞争力的薪酬、股权激励以及在快速成长环境中工作的机会。这是一个加入YC孵化公司、参与解决真实世界商业挑战的绝佳机会，特别适合希望在创业环境中成长的开发者。 [<a href=\"https://news.ycombinator.com/item?id=45502387\" target=\"_blank\">评论</a>]",
-            "url": "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada",
-            "title": "Provision (YC S22)正在招聘",
-            "date_modified": "2025-10-07T12:41:40.000Z"
+            "id": "https://link.springer.com/article/10.1007/s11422-024-10244-0",
+            "content_html": "这是一篇学术文章，探讨了幼儿在进入正式的学校科学教育之前，他们对世界的认知和理解方式。研究关注儿童早期的自然好奇心、探索行为以及他们如何形成对科学现象的初步概念。文章分析了这些早期经验与学校所教授的结构化科学知识之间可能存在的联系或冲突，旨在为如何更好地设计早期科学教育、衔接儿童的已有认知提供理论依据和实践建议。 [<a href=\"https://news.ycombinator.com/item?id=45502959\" target=\"_blank\">评论</a>]",
+            "url": "https://link.springer.com/article/10.1007/s11422-024-10244-0",
+            "title": "幼儿的世界及其与学校科学的相遇",
+            "date_modified": "2025-10-07T13:40:36.000Z"
         },
         {
-            "id": "https://www.lesswrong.com/posts/wEebEiPpEwjYvnyqq/when-money-is-abundant-knowledge-is-the-real-wealth",
-            "content_html": "这篇文章探讨了在现代经济中，当物质资源相对充裕时，知识如何成为真正的财富形式。作者认为，在信息和数字时代，获取和应用知识的能力比传统的金融资本更具价值。文章分析了知识经济的特征，包括知识的非竞争性、网络效应以及指数级增长潜力。作者还讨论了个人和组织如何在知识经济中获得竞争优势，强调了终身学习、跨学科思维和有效信息处理的重要性。这篇2020年的文章对理解当代价值创造和财富积累的新模式提供了深刻见解。 [<a href=\"https://news.ycombinator.com/item?id=45502377\" target=\"_blank\">评论</a>]",
-            "url": "https://www.lesswrong.com/posts/wEebEiPpEwjYvnyqq/when-money-is-abundant-knowledge-is-the-real-wealth",
-            "title": "当金钱充裕时，知识才是真正的财富（2020）",
-            "date_modified": "2025-10-07T12:40:36.000Z"
+            "id": "https://news.ycombinator.com/item?id=45502945",
+            "content_html": "这个 Hacker News 帖子介绍了一个名为 OfficeX 的开源项目。它是一个点对点（P2P）的协作工作空间，其最大特点是能够被嵌入到任何现有的应用程序中。这意味着开发者可以轻松地为他们的应用添加实时协作功能，如文档编辑、聊天和任务管理，而无需依赖中心化的服务器。该项目旨在提供一种去中心化、隐私友好的协作解决方案，引发了开发者社区对其技术实现和潜在应用场景的讨论。 [<a href=\"https://news.ycombinator.com/item?id=45502945\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45502945",
+            "title": "OfficeX – 一款可嵌入任何应用的开源点对点工作空间",
+            "date_modified": "2025-10-07T13:39:09.000Z"
         },
         {
-            "id": "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm",
-            "content_html": "这个GitHub项目通过一系列性能测试试图证明macOS的APFS文件系统在处理大量小文件时存在性能问题。项目使用Git和pnpm作为测试场景，展示了APFS在某些操作下相比其他文件系统的性能劣势。开发者提供了详细的测试方法、基准测试结果和性能分析数据，特别关注文件创建、删除和元数据操作的速度。项目引起了开发者社区的广泛关注，促使人们重新审视APFS的设计权衡。虽然苹果官方尚未回应，但这个项目为macOS用户提供了文件系统性能优化的实用建议。 [<a href=\"https://news.ycombinator.com/item?id=45502173\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm",
-            "title": "disk-perf-git-and-pnpm旨在证明macOS上的APFS存在问题",
-            "date_modified": "2025-10-07T12:14:16.000Z"
+            "id": "https://arxiv.org/abs/2509.26507",
+            "content_html": "这篇 arXiv 论文介绍了一个名为 &quot;龙之幼崽&quot; 的新型小型语言模型（SLM）。该模型以其在极小参数量（低于十亿）下仍保持强大性能而著称。论文详细阐述了其创新的架构设计和高效的训练方法，使其在多项基准测试中能够与一些更大规模的模型相媲美。研究者们展示了该模型在资源受限环境（如移动设备或边缘计算）中的应用潜力，为高效、低成本的人工智能部署提供了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45502942\" target=\"_blank\">评论</a>]",
+            "url": "https://arxiv.org/abs/2509.26507",
+            "title": "龙之幼崽",
+            "date_modified": "2025-10-07T13:39:01.000Z"
         },
         {
-            "id": "https://www.seangoedecke.com/ai-research-with-codex/",
-            "content_html": "作者分享了自己使用GPT-5-Codex进行AI研究的体验，发现这个AI模型在某些方面展现出了超越人类研究员的能力。文章详细描述了作者如何利用Codex进行代码生成、实验设计和数据分析，以及AI在提出创新假设和优化研究流程方面的表现。作者承认，虽然AI在创造力和直觉判断上仍有局限，但在数据处理速度、模式识别和系统性思维方面确实表现出色。这篇反思性文章探讨了AI辅助研究的未来前景，以及人类研究员应该如何调整角色以适应这一新技术范式。 [<a href=\"https://news.ycombinator.com/item?id=45501326\" target=\"_blank\">评论</a>]",
-            "url": "https://www.seangoedecke.com/ai-research-with-codex/",
-            "title": "GPT-5-Codex是比我更好的AI研究员",
-            "date_modified": "2025-10-07T10:16:29.000Z"
+            "id": "https://www.macrumors.com/2025/10/07/apple-blue-screen-of-death-ad/",
+            "content_html": "这篇报道介绍了苹果公司发布的一则新的幽默广告。广告中，一位 Windows PC 用户正准备进行一项重要工作，但电脑却突然出现了标志性的“蓝屏死机”界面，导致工作被迫中断。与此同时，旁边的 Mac 用户则流畅地完成了任务。这则广告通过夸张和对比的方式，延续了苹果长期以来嘲讽 Windows 系统不稳定性的营销策略，旨在强调 Mac 电脑的可靠性和卓越的用户体验。 [<a href=\"https://news.ycombinator.com/item?id=45502940\" target=\"_blank\">评论</a>]",
+            "url": "https://www.macrumors.com/2025/10/07/apple-blue-screen-of-death-ad/",
+            "title": "苹果在幽默的新“蓝屏死机”广告中嘲讽 Windows PC",
+            "date_modified": "2025-10-07T13:38:51.000Z"
         },
         {
-            "id": "https://github.com/hunvreus/devpush",
-            "content_html": "DevPush是一个开源的部署平台，旨在提供类似Vercel的体验，但支持所有编程语言和框架。这个项目允许开发者轻松部署各种类型的应用程序，包括静态网站、后端服务和全栈应用。DevPush支持自动构建、持续集成、域名管理以及SSL证书自动化等功能。与Vercel等商业平台不同，DevPush允许用户在自己的基础设施上部署，提供更大的控制权和成本优势。项目正在积极开发中，已经支持多种主流编程语言和框架，为开发者社区提供了一个真正开放和灵活的部署解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45501279\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/hunvreus/devpush",
-            "title": "类似Vercel，但开源且支持所有语言",
-            "date_modified": "2025-10-07T10:07:50.000Z"
+            "id": "https://news.ycombinator.com/item?id=45502935",
+            "content_html": "这个 Hacker News 帖子的标题本身是一个关于发型（飞机头）的链接，通常与科技社区的核心主题无关。帖子的内容很可能是一个玩笑或测试，因为 Hacker News 的用户主要讨论技术、科学和创业。因此，评论区的焦点并非发型本身，而是围绕为何此类帖子会出现在首页、社区内容标准的演变以及用户对非技术内容的反应展开的元讨论，充满了社区的自嘲和反思。 [<a href=\"https://news.ycombinator.com/item?id=45502935\" target=\"_blank\">评论</a>]",
+            "url": "https://news.ycombinator.com/item?id=45502935",
+            "title": "2025年飞机头发型：最佳款式、渐变与 tapered",
+            "date_modified": "2025-10-07T13:38:26.000Z"
         },
         {
-            "id": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-            "content_html": "2025年诺贝尔物理学奖授予了在量子计算和量子通信领域做出突破性贡献的三位科学家。他们的研究为实用化量子计算机的发展奠定了理论基础，并解决了量子信息传输中的关键挑战。获奖者的工作包括开发量子纠错算法、实现长距离量子纠缠以及构建稳定量子比特系统的方法。这些成就不仅推动了基础物理学的前沿，也为量子技术的实际应用开辟了道路，在密码学、药物研发和材料科学等领域具有革命性潜力。诺贝尔委员会强调了这些研究对未来信息社会发展的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45501189\" target=\"_blank\">评论</a>]",
-            "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-            "title": "2025年诺贝尔物理学奖",
-            "date_modified": "2025-10-07T09:50:49.000Z"
+            "id": "https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-332/",
+            "content_html": "这篇文章提出了一个关于通用人工智能（AGI）的非传统观点。作者认为，AGI 不会以一个单一的、集中的“超级智能”形式出现，而是已经以一个去中心化的、类似“生命最后共同祖先”（LUCA）的网络模式存在。这个网络由全球无数的计算设备、算法和人类用户共同构成，通过互联网相互连接、协同进化，集体展现出智能行为。文章旨在引导读者从一个更宏观、更系统的角度理解人工智能的发展。 [<a href=\"https://news.ycombinator.com/item?id=45502931\" target=\"_blank\">评论</a>]",
+            "url": "https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-332/",
+            "title": "AGI 已以 LUCA 网络模式存在，而非作为单一超级智能降临",
+            "date_modified": "2025-10-07T13:38:19.000Z"
         },
         {
-            "id": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-            "content_html": "这篇文章以荷兰画家蒙德里安的几何抽象艺术为比喻，生动介绍了函数式编程中的光学（Optics）概念。作者通过将复杂的数据结构操作类比为蒙德里安的矩形构图，帮助读者理解Lens、Prism和Traversal等抽象概念。文章采用循序渐进的方式，从基本的getter/setter操作开始，逐步引入更高级的组合和变换技术。每个概念都配有清晰的代码示例和视觉化的解释，使这些抽象的函数式编程概念变得更加直观易懂。这种独特的教学方法为学习函数式编程提供了一个新颖而有效的视角。 [<a href=\"https://news.ycombinator.com/item?id=45501114\" target=\"_blank\">评论</a>]",
-            "url": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-            "title": "蒙德里安函数光学入门",
-            "date_modified": "2025-10-07T09:35:53.000Z"
+            "id": "https://whats-the-prompt.wrbl.xyz/",
+            "content_html": "这是一个交互式网页应用，旨在帮助用户学习和理解如何为 AI 图像生成模型（如 Midjourney 或 Stable Diffusion）编写有效的提示词。该应用通过展示一系列图像及其对应的提示词，让用户猜测或学习关键词与最终视觉效果之间的关系。它通过游戏化的方式，教授用户如何使用描述性词语、风格指定、参数设置等技巧，从而更精确地控制 AI 生成图像的内容和风格，提升创作能力。 [<a href=\"https://news.ycombinator.com/item?id=45502904\" target=\"_blank\">评论</a>]",
+            "url": "https://whats-the-prompt.wrbl.xyz/",
+            "title": "一个用于学习图像生成提示词的应用",
+            "date_modified": "2025-10-07T13:36:22.000Z"
         },
         {
-            "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "content_html": "德勤会计师事务所因在一份价值44万美元的政府报告中不当使用人工智能工具，同意向澳大利亚政府退款。事件起因是德勤在为阿尔巴尼斯政府准备的政策分析报告中使用了未经授权的AI工具，导致报告内容出现事实错误和误导性信息。调查发现，德勤未能适当审查AI生成的内容，违反了合同约定的质量控制标准。这一事件引发了对咨询公司使用AI工具的监管讨论，澳大利亚政府表示将加强对承包商使用AI技术的监督。德勤承诺将改进内部流程，确保未来AI使用的合规性和准确性。 [<a href=\"https://news.ycombinator.com/item?id=45500485\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-            "title": "德勤在44万美元报告中使用AI后向澳大利亚政府退款",
-            "date_modified": "2025-10-07T07:51:57.000Z"
+            "id": "https://seriot.ch/resources/Print_to_Play_PagedOut_007.pdf",
+            "content_html": "这篇 PDF 文章来自 Paged Out 杂志，主题是“即印即玩”。它探讨了如何利用现代工具和技术（如编程、3D 打印和激光切割）来快速设计和制造自定义的桌面游戏。作者通过一个具体的例子，展示了从构思、设计数字文件到最终打印和组装出实体游戏棋盘和配件的全过程。这篇文章鼓励创客和游戏爱好者动手实践，将数字创意转化为可触摸的娱乐产品。 [<a href=\"https://news.ycombinator.com/item?id=45502898\" target=\"_blank\">评论</a>]",
+            "url": "https://seriot.ch/resources/Print_to_Play_PagedOut_007.pdf",
+            "title": "Paged Out 杂志中的“即印即玩”文章 [pdf]",
+            "date_modified": "2025-10-07T13:36:02.000Z"
         },
         {
-            "id": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
-            "content_html": "加州通过新法律，要求Netflix、Hulu等流媒体平台降低广告音量，解决长期困扰用户的&quot;广告音量突增&quot;问题。该法案规定流媒体服务必须确保广告音量不超过节目正常音量的标准，违者将面临罚款。这项立法回应了消费者多年来的投诉，许多用户反映广告音量明显大于节目内容，造成听觉不适。法律要求平台在2026年前全面合规，并采用标准化的音量测量技术。此举被视为保护消费者权益的重要措施，其他州也在考虑类似立法。流媒体公司表示将配合新法规，但担心技术实施可能带来的额外成本。 [<a href=\"https://news.ycombinator.com/item?id=45499281\" target=\"_blank\">评论</a>]",
-            "url": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
-            "title": "加州法律迫使Netflix和Hulu降低广告音量",
-            "date_modified": "2025-10-07T04:03:49.000Z"
+            "id": "https://seriot.ch/projects/edge_matching_puzzles.html",
+            "content_html": "这个页面是关于“拼边谜题”的项目介绍和展示。拼边谜题是一种平铺益智游戏，玩家需要将一组方块拼接在一起，要求相邻方块边缘的颜色或图案必须匹配。该页面收集了多种此类谜题的实例，包括它们的设计、规则和解法。它不仅展示了这些谜题的艺术性和数学趣味，还可能提供了一些生成谜题的算法或在线玩这些谜题的工具，是逻辑和数学爱好者的一个有趣资源。 [<a href=\"https://news.ycombinator.com/item?id=45502875\" target=\"_blank\">评论</a>]",
+            "url": "https://seriot.ch/projects/edge_matching_puzzles.html",
+            "title": "拼边谜题",
+            "date_modified": "2025-10-07T13:34:32.000Z"
         },
         {
-            "id": "https://pdoc.dev/",
-            "content_html": "Pdoc是一个专门为Python项目设计的API文档生成工具，能够自动从代码中的docstring生成清晰、美观的HTML文档。该工具支持现代Python语法，包括类型注解、异步函数和数据类等特性。Pdoc的输出文档具有响应式设计，支持深色模式，并提供智能搜索功能。与其他文档工具不同，Pdoc专注于生成简洁的API参考文档，避免了复杂的配置过程。它可以直接从GitHub仓库读取代码，支持实时预览，并能够跨模块链接文档。Pdoc已成为Python开发者社区备受欢迎的文档解决方案，特别适合快速生成和维护项目API文档。 [<a href=\"https://news.ycombinator.com/item?id=45499170\" target=\"_blank\">评论</a>]",
-            "url": "https://pdoc.dev/",
-            "title": "Pdoc - 为Python项目生成API文档",
-            "date_modified": "2025-10-07T03:40:41.000Z"
+            "id": "https://tuta.com/blog/open-letter-against-chat-control",
+            "content_html": "这封由加密邮件服务商 Tuta 牵头的公开信，旨在强烈反对欧盟提出的“聊天控制”法案。该法案要求所有数字通信服务（如邮件、即时消息）必须扫描用户消息，以检测和报告儿童虐待内容。公开信认为，这种大规模监控措施将破坏所有公民的数字隐私和通信安全，为大规模审查创造滑坡谬误，且对实际阻止犯罪效果甚微。信中呼吁欧盟政策制定者放弃该计划，以保护欧洲的基本价值观和民主未来。 [<a href=\"https://news.ycombinator.com/item?id=45502835\" target=\"_blank\">评论</a>]",
+            "url": "https://tuta.com/blog/open-letter-against-chat-control",
+            "title": "欧洲的未来岌岌可危：反对“聊天控制”的公开信",
+            "date_modified": "2025-10-07T13:30:10.000Z"
         },
         {
-            "id": "https://thecascade.dev/article/least-amount-of-css/",
-            "content_html": "这篇文章探讨了如何用最少的CSS代码创建视觉上吸引人的网站。作者通过一系列实验证明，仅需几十行精心设计的CSS就能实现现代化的网站外观。文章分享了关于颜色搭配、字体选择、间距管理和响应式布局的核心原则，展示了如何通过CSS变量和灵活的布局系统最大化代码效率。作者还介绍了一些实用的CSS技巧，如使用现代布局属性、优雅的动画效果和智能的媒体查询。这篇文章为开发者提供了构建轻量级、高性能网站的实用指南，证明了优秀的设计不一定需要复杂的代码。 [<a href=\"https://news.ycombinator.com/item?id=45497624\" target=\"_blank\">评论</a>]",
-            "url": "https://thecascade.dev/article/least-amount-of-css/",
-            "title": "创建美观网站所需的最少CSS（2023）",
-            "date_modified": "2025-10-06T23:47:24.000Z"
+            "id": "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers",
+            "content_html": "这篇博客文章分析了高通公司收购 Arduino 这一事件对全球创客和爱好者社区的影响。作者探讨了这次收购的潜在利弊。一方面，高通的资源和实力可能会为 Arduino 带来更强大的处理器和更先进的技术，推动其性能发展。另一方面，社区也担心这可能导致 Arduino 平台变得更加封闭、商业化，偏离其最初开源、易用和亲民的理念，从而影响其作为教育和快速原型工具的普及性。 [<a href=\"https://news.ycombinator.com/item?id=45502815\" target=\"_blank\">评论</a>]",
+            "url": "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers",
+            "title": "高通收购 Arduino – 对创客们意味着什么",
+            "date_modified": "2025-10-07T13:28:31.000Z"
         },
         {
-            "id": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
-            "content_html": "安全研究团队发现了Redis数据库中的一个关键远程代码执行漏洞（CVE-2025-49844），命名为RediShell。该漏洞允许攻击者在特定条件下执行任意代码，对使用Redis的系统构成严重威胁。文章详细分析了漏洞的技术原理，包括触发条件、攻击向量以及潜在影响。研究人员提供了概念验证代码，展示了如何利用此漏洞获得服务器控制权。Redis团队已发布安全补丁，强烈建议所有用户立即更新。文章还提供了临时的缓解措施和检测方法，帮助管理员保护他们的Redis实例免受攻击。这一发现再次强调了数据库安全的重要性。 [<a href=\"https://news.ycombinator.com/item?id=45497027\" target=\"_blank\">评论</a>]",
-            "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
-            "title": "RediShell：Redis中的关键远程代码执行漏洞",
-            "date_modified": "2025-10-06T22:30:12.000Z"
+            "id": "https://dnsk.work/blog/ai-model-collapse-design-tools/",
+            "content_html": "这篇文章探讨了“AI 模型崩溃”这一现象，特别是在设计工具领域。模型崩溃指的是当人工智能模型主要用由其他 AI 生成的内容进行训练时，其输出质量会逐渐退化、变得同质化和缺乏创造力的过程。文章警告说，如果设计师过度依赖 AI 工具，而这些工具又不断学习彼此的作品，设计领域可能会陷入一个“近亲繁殖”的循环，导致原创性和多样性的丧失，最终损害整个创意生态系统的健康。 [<a href=\"https://news.ycombinator.com/item?id=45502787\" target=\"_blank\">评论</a>]",
+            "url": "https://dnsk.work/blog/ai-model-collapse-design-tools/",
+            "title": "AI 模型崩溃：当你的设计工具开始吞噬自己的输出时会发生什么",
+            "date_modified": "2025-10-07T13:25:45.000Z"
         },
         {
-            "id": "https://developers.openai.com/apps-sdk/",
-            "content_html": "OpenAI推出了全新的应用程序SDK，为开发者提供了更便捷的方式来集成OpenAI的各种AI功能到他们的应用中。这个SDK支持多种编程语言，包括Python、JavaScript、Java等，提供了统一的API接口来访问GPT模型、DALL-E图像生成和 Whisper语音识别等服务。SDK包含了丰富的功能，如自动重试机制、流式响应处理、异步调用支持和错误处理。文档详细介绍了如何快速上手，提供了完整的代码示例和最佳实践指南。这个工具包大大降低了开发AI应用的门槛，使开发者能够专注于应用逻辑而不是底层API的复杂性。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
-            "url": "https://developers.openai.com/apps-sdk/",
-            "title": "应用程序SDK",
-            "date_modified": "2025-10-06T18:27:33.000Z"
+            "id": "https://hardwork.party/netflix-invisible-frame",
+            "content_html": "这个项目展示了一个名为“隐形广告牌”的创意装置。它利用一个特制的、高反射率的屏幕框架，在特定角度和光照条件下，能将背景环境完美反射，使得屏幕本身看起来像是“消失”或“隐形”的。当屏幕播放内容时，影像仿佛悬浮在空中，与周围环境融为一体，创造出极具视觉冲击力的效果。该项目是数字艺术和物理装置结合的一个有趣例子，探索了显示技术的新可能性。 [<a href=\"https://news.ycombinator.com/item?id=45502786\" target=\"_blank\">评论</a>]",
+            "url": "https://hardwork.party/netflix-invisible-frame",
+            "title": "隐形广告牌 (2021)",
+            "date_modified": "2025-10-07T13:25:42.000Z"
         },
         {
-            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "content_html": "Facebook（现Meta）开源了OpenZL，一个创新的格式感知压缩框架，能够根据数据类型自动选择最优的压缩算法。与传统压缩工具不同，OpenZL能够识别数据格式（如JSON、Protocol Buffers、图像等），并应用最适合该格式的压缩策略。该框架支持可插拔的压缩器架构，允许开发者添加自定义压缩算法。测试显示，OpenZL在各种数据类型上都能提供比通用压缩工具更好的压缩率和性能。Meta已经在内部大规模使用该框架，处理每天数PB的数据。开源版本包含了完整的文档、性能基准测试和集成示例，为开发者社区提供了一个强大的数据压缩解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
-            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-            "title": "OpenZL：开源格式感知压缩框架",
-            "date_modified": "2025-10-06T16:01:58.000Z"
+            "id": "https://wiki.tcl-lang.org/page/Showcase",
+            "content_html": "这是 Tcl 编程语言官方维基上的一个展示页面。它汇集了大量使用 Tcl 语言及其相关工具（如 Tk 图形界面工具包）开发的项目和应用案例。这些案例涵盖了从软件开发、系统管理、网络编程到科学计算、教育软件等多个领域。通过展示这些实际应用，该页面旨在体现 Tcl 语言简洁、强大和高度可扩展的特点，为新学习者提供灵感，并为有经验的开发者提供参考。 [<a href=\"https://news.ycombinator.com/item?id=45502784\" target=\"_blank\">评论</a>]",
+            "url": "https://wiki.tcl-lang.org/page/Showcase",
+            "title": "Tcl 语言展示",
+            "date_modified": "2025-10-07T13:25:33.000Z"
         },
         {
-            "id": "https://github.com/jdx/mise/discussions/6564",
-            "content_html": "这个GitHub讨论探讨了Mise工具在管理Monorepo（单一代码库）项目中的任务管理功能。Mise是一个现代化的开发环境管理工具，最近增加了对Monorepo工作流的强大支持。讨论中详细介绍了如何使用Mise定义和执行跨多个子项目的任务，包括依赖管理、并行执行和任务依赖关系处理。开发者分享了实际使用案例，展示了Mise如何简化大型项目的构建、测试和部署流程。讨论还涵盖了与其他Monorepo工具（如Nx、Turborepo）的对比，强调了Mise的简洁性和灵活性。这个话题对于管理复杂代码库的开发团队具有很高的实用价值。 [<a href=\"https://news.ycombinator.com/item?id=45491621\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/jdx/mise/discussions/6564",
-            "title": "Mise：Monorepo任务",
-            "date_modified": "2025-10-06T14:07:46.000Z"
+            "id": "https://dl.acm.org/doi/10.1145/3769106",
+            "content_html": "这是一篇发表在 ACM 上的学术综述文章，系统性地回顾了音乐生成领域（特别是人工智能音乐）的评估方法。文章讨论了评估生成音乐质量所面临的挑战，如音乐的主观性、创造性和风格多样性。它梳理并比较了现有的评估指标，包括客观指标（如音频特征匹配）和主观评估（如听众听感测试），并探讨了如何建立一个更全面、更可靠的评估框架，以推动音乐生成AI研究的健康发展。 [<a href=\"https://news.ycombinator.com/item?id=45502769\" target=\"_blank\">评论</a>]",
+            "url": "https://dl.acm.org/doi/10.1145/3769106",
+            "title": "音乐生成系统评估综述",
+            "date_modified": "2025-10-07T13:24:15.000Z"
         },
         {
-            "id": "https://healeycodes.com/compiling-a-forth",
-            "content_html": "这篇文章详细介绍了如何从零开始构建一个Forth编程语言编译器。作者以实践为导向，逐步讲解了Forth语言的核心概念、编译器的设计原理以及实现细节。文章涵盖了词法分析、语法解析、代码生成等编译器的基本组件，特别关注Forth独特的栈操作和后缀表示法。作者提供了完整的代码示例，展示了如何用现代编程语言实现一个功能完整的Forth编译器。文章还讨论了优化技术和扩展可能性，为读者理解编译器构造和Forth语言特性提供了宝贵的资源。这个教程既是编译器设计的入门指南，也是对Forth这门独特编程语言的深入探索。 [<a href=\"https://news.ycombinator.com/item?id=45491470\" target=\"_blank\">评论</a>]",
-            "url": "https://healeycodes.com/compiling-a-forth",
-            "title": "编译一个Forth",
-            "date_modified": "2025-10-06T13:52:50.000Z"
+            "id": "https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html",
+            "content_html": "这篇 CNBC 报道确认了高通公司已正式收购意大利开源硬件平台 Arduino。文章指出，此次收购是高通在物联网和机器人领域战略布局的一部分。通过整合 Arduino 在全球创客和教育领域的庞大生态系统，高通希望将其强大的处理器技术（如 Snapdragon）引入更广泛的硬件开发市场。此举旨在加速从工业设备到消费机器人的各类创新产品的开发，同时也引发了业界对 Arduino 未来开源方向和商业模式的关注。 [<a href=\"https://news.ycombinator.com/item?id=45502758\" target=\"_blank\">评论</a>]",
+            "url": "https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html",
+            "title": "高通收购意大利硬件公司 Arduino",
+            "date_modified": "2025-10-07T13:23:40.000Z"
         }
     ]
 }
