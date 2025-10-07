@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Tue, 07 Oct 2025 13:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 14:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[打字快不等于生产力高]]></title>
-            <link>https://www.slashit.app/</link>
-            <guid isPermaLink="false">https://www.slashit.app/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[该网站介绍了一款名为 Slash 的生产力工具，旨在通过键盘快捷键、文本扩展和自动化来提升工作效率。它强调，真正的生产力并非来自打字速度，而是来自减少重复性任务和鼠标点击。用户可以通过自定义命令和代码片段，快速启动应用、插入文本或执行复杂操作，从而将更多时间专注于创造性工作。该工具的理念是：更聪明地工作，而不是更辛苦地工作。 [<a href="https://news.ycombinator.com/item?id=45502982" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[我的智能扫地机器人背叛我的那一天]]></title>
+            <link>https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/</link>
+            <guid isPermaLink="false">https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[作者讲述了他家智能扫地机器人突然失控的经历。机器人无视预设的清扫计划，在深夜反复启动，并发出奇怪的声音。经过一番排查，作者发现是固件更新后出现了Bug，或者可能是网络连接问题导致的异常行为。这篇文章以幽默的笔触探讨了智能家居设备可能带来的意外烦恼和安全隐患，提醒我们在享受科技便利的同时，也要警惕其潜在的风险。 [<a href="https://news.ycombinator.com/item?id=45503560" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN: 用于硬件工程的 Blueprintor]]></title>
-            <link>https://www.zima.run/</link>
-            <guid isPermaLink="false">https://www.zima.run/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[Zima 是一款面向硬件工程的开源工具，名为 Blueprintor。它提供了一个可视化的、类似 CAD 的界面，用于设计电子硬件项目。用户可以通过图形化操作来创建电路板布局，而无需手动编写复杂的代码或设计文件。该工具旨在自动化从设计到生产的整个流程，能够生成制造所需的文件（如 Gerber 文件），从而降低硬件开发的门槛，让更多人能够参与硬件创新。 [<a href="https://news.ycombinator.com/item?id=45502979" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Arduino 发布 UNO Q – 基于 Qualcomm 的高性能 Linux 设备]]></title>
+            <link>https://www.hackster.io/news/qualcomm-acquires-arduino-launches-the-new-arduino-uno-q-single-board-computer-57d91d83e890</link>
+            <guid isPermaLink="false">https://www.hackster.io/news/qualcomm-acquires-arduino-launches-the-new-arduino-uno-q-single-board-computer-57d91d83e890</guid>
+            <pubDate>Tue, 07 Oct 2025 14:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[Arduino 宣布推出 UNO Q，这是一款基于高通芯片的高性能单板计算机，运行 Linux 系统。此举标志着 Arduino 从传统的微控制器平台向更强大的计算平台迈进。文章还提到，高通公司对 Arduino 进行了战略投资，双方将合作推动物联网和嵌入式开发。UNO Q 旨在为开发者和爱好者提供更强的处理能力，同时保持 Arduino 生态系统的易用性。 [<a href="https://news.ycombinator.com/item?id=45503553" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[即将推出：一款可维修且墨盒可再填充的打印机]]></title>
-            <link>https://fossforce.com/2025/10/coming-a-repairable-printer-with-refillable-ink-cartridges/</link>
-            <guid isPermaLink="false">https://fossforce.com/2025/10/coming-a-repairable-printer-with-refillable-ink-cartridges/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了一款即将推出的新型打印机，其核心卖点是可维修性和使用可再填充墨盒。这款由 MUNBYN 公司开发的打印机，旨在对抗当前打印机行业 &quot;剃刀与刀片&quot; 的商业模式，即廉价出售打印机但通过昂贵的、一次性的墨盒牟利。该打印机将提供维修手册和备用零件，允许用户自行修理，并支持墨水重复加注，从而大大降低了长期使用成本和电子垃圾。这被视为消费者权益和环保主义的一次胜利。 [<a href="https://news.ycombinator.com/item?id=45502975" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[红帽数据泄露事件升级，犯罪分子合作策划“数TB”的勒索阴谋]]></title>
+            <link>https://www.theregister.com/2025/10/07/red_hat_breach_new_claims/</link>
+            <guid isPermaLink="false">https://www.theregister.com/2025/10/07/red_hat_breach_new_claims/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[红帽公司的数据泄露事件进一步升级。据报道，多个犯罪团伙正在合作，利用窃取的数据策划一场涉及数TB数据的大规模勒索活动。这些犯罪分子声称掌握了大量敏感信息，并威胁红帽公司支付赎金，否则将公开数据。此事件凸显了即使是大型科技公司也面临着严峻的网络安全威胁，以及网络犯罪日益组织化和协作化的趋势。 [<a href="https://news.ycombinator.com/item?id=45503534" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AppMigrationKit]]></title>
-            <link>https://developer.apple.com/documentation/appmigrationkit</link>
-            <guid isPermaLink="false">https://developer.apple.com/documentation/appmigrationkit</guid>
-            <pubDate>Tue, 07 Oct 2025 13:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[这是苹果公司官方的开发者文档页面，介绍了 AppMigrationKit 框架。该框架旨在帮助开发者简化用户从旧设备迁移到新设备时的应用数据迁移过程。通过使用这个工具包，应用可以无缝地将用户的重要数据、设置和偏好从一个设备转移到另一个设备，从而提升用户体验，减少因更换设备而导致的数据丢失或重新配置的麻烦。这对于保持用户连续性和满意度至关重要。 [<a href="https://news.ycombinator.com/item?id=45502966" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[从第一性原理看 Tokenization（分词）]]></title>
+            <link>https://ggrigorev.me/posts/tokenizer-superbpe/</link>
+            <guid isPermaLink="false">https://ggrigorev.me/posts/tokenizer-superbpe/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[本文深入浅出地解释了自然语言处理中的 Tokenization（分词）概念。作者从第一性原理出发，引导读者理解为什么需要分词，以及如何从头开始构建一个分词器，特别是介绍了 BPE（字节对编码）算法及其变体 SuPEBPE。文章通过代码示例和清晰的逻辑，帮助读者掌握这一基础但至关重要的 NLP 技术，揭开了大型语言模型数据预处理的神秘面纱。 [<a href="https://news.ycombinator.com/item?id=45503533" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[幼儿的世界及其与学校科学的相遇]]></title>
-            <link>https://link.springer.com/article/10.1007/s11422-024-10244-0</link>
-            <guid isPermaLink="false">https://link.springer.com/article/10.1007/s11422-024-10244-0</guid>
-            <pubDate>Tue, 07 Oct 2025 13:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇学术文章，探讨了幼儿在进入正式的学校科学教育之前，他们对世界的认知和理解方式。研究关注儿童早期的自然好奇心、探索行为以及他们如何形成对科学现象的初步概念。文章分析了这些早期经验与学校所教授的结构化科学知识之间可能存在的联系或冲突，旨在为如何更好地设计早期科学教育、衔接儿童的已有认知提供理论依据和实践建议。 [<a href="https://news.ycombinator.com/item?id=45502959" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[马萨诸塞州司机对行人 hybrid beacons 感到困惑]]></title>
+            <link>https://www.umass.edu/news/article/crosswalk-confusion-massachusetts-drivers-flummoxed-pedestrian-hybrid-beacons-umass</link>
+            <guid isPermaLink="false">https://www.umass.edu/news/article/crosswalk-confusion-massachusetts-drivers-flummoxed-pedestrian-hybrid-beacons-umass</guid>
+            <pubDate>Tue, 07 Oct 2025 14:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[马萨诸塞大学的研究发现，许多司机对行人过街的 &quot;Hybrid Beacons&quot;（混合信号灯）感到困惑。这种信号灯平时保持黑暗，只有在行人按下按钮时才会亮起，指示车辆停车让行。然而，调查显示，大量司机不了解其工作原理，导致其在信号灯亮起时未能正确停车，构成交通安全隐患。研究呼吁加强对这类新型交通设施的公众教育和宣传。 [<a href="https://news.ycombinator.com/item?id=45503532" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OfficeX – 一款可嵌入任何应用的开源点对点工作空间]]></title>
-            <link>https://news.ycombinator.com/item?id=45502945</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45502945</guid>
-            <pubDate>Tue, 07 Oct 2025 13:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[这个 Hacker News 帖子介绍了一个名为 OfficeX 的开源项目。它是一个点对点（P2P）的协作工作空间，其最大特点是能够被嵌入到任何现有的应用程序中。这意味着开发者可以轻松地为他们的应用添加实时协作功能，如文档编辑、聊天和任务管理，而无需依赖中心化的服务器。该项目旨在提供一种去中心化、隐私友好的协作解决方案，引发了开发者社区对其技术实现和潜在应用场景的讨论。 [<a href="https://news.ycombinator.com/item?id=45502945" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[用 Klarna 为我的 Doritos Locos Tacos 融资]]></title>
+            <link>https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos</link>
+            <guid isPermaLink="false">https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos</guid>
+            <pubDate>Tue, 07 Oct 2025 14:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[作者以一种风趣的方式记录了自己使用 Klarna（一种先买后付的金融服务）购买一份快餐的经历。文章深入探讨了 Klarna 这类金融科技应用的商业模式、用户体验及其背后可能隐藏的债务风险。作者通过一次小小的消费，引出对现代消费金融、信贷便利性与个人财务责任之间关系的思考，揭示了数字支付工具如何潜移默化地影响我们的消费习惯。 [<a href="https://news.ycombinator.com/item?id=45503527" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[龙之幼崽]]></title>
-            <link>https://arxiv.org/abs/2509.26507</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.26507</guid>
-            <pubDate>Tue, 07 Oct 2025 13:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[这篇 arXiv 论文介绍了一个名为 &quot;龙之幼崽&quot; 的新型小型语言模型（SLM）。该模型以其在极小参数量（低于十亿）下仍保持强大性能而著称。论文详细阐述了其创新的架构设计和高效的训练方法，使其在多项基准测试中能够与一些更大规模的模型相媲美。研究者们展示了该模型在资源受限环境（如移动设备或边缘计算）中的应用潜力，为高效、低成本的人工智能部署提供了新的可能性。 [<a href="https://news.ycombinator.com/item?id=45502942" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[为编译代码创建高性能的 Python 绑定]]></title>
+            <link>https://kylebarron.dev/blog/fast-python-bindings/</link>
+            <guid isPermaLink="false">https://kylebarron.dev/blog/fast-python-bindings/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[本文详细介绍了如何为 C/C++ 或 Rust 等编译语言编写的高性能代码创建 Python 绑定。作者比较了多种主流工具，如 PyBind11、Cython、PyO3 和 cffi，分析了它们在性能、易用性和功能上的差异。文章提供了基准测试结果，并给出了在不同场景下选择最佳工具的建议。对于希望在 Python 中调用底层代码以提升性能的开发者来说，这是一份非常实用的指南。 [<a href="https://news.ycombinator.com/item?id=45503522" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[苹果在幽默的新“蓝屏死机”广告中嘲讽 Windows PC]]></title>
-            <link>https://www.macrumors.com/2025/10/07/apple-blue-screen-of-death-ad/</link>
-            <guid isPermaLink="false">https://www.macrumors.com/2025/10/07/apple-blue-screen-of-death-ad/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道介绍了苹果公司发布的一则新的幽默广告。广告中，一位 Windows PC 用户正准备进行一项重要工作，但电脑却突然出现了标志性的“蓝屏死机”界面，导致工作被迫中断。与此同时，旁边的 Mac 用户则流畅地完成了任务。这则广告通过夸张和对比的方式，延续了苹果长期以来嘲讽 Windows 系统不稳定性的营销策略，旨在强调 Mac 电脑的可靠性和卓越的用户体验。 [<a href="https://news.ycombinator.com/item?id=45502940" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: llms.py – 本地 OpenAI 聊天 UI、客户端和服务器]]></title>
+            <link>https://servicestack.net/posts/llms-py-ui</link>
+            <guid isPermaLink="false">https://servicestack.net/posts/llms-py-ui</guid>
+            <pubDate>Tue, 07 Oct 2025 14:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[llms.py 是一个开源项目，提供了一个在本地运行的、类似 OpenAI ChatGPT 的用户界面。它包含客户端和服务器端，允许用户通过简洁的 Web 界面与本地部署的各种大型语言模型进行交互。该项目旨在简化本地 LLM 的使用和测试流程，支持多种模型后端，为开发者和爱好者提供了一个轻量级、易于部署的私有聊天解决方案，保护了数据隐私。 [<a href="https://news.ycombinator.com/item?id=45503474" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025年飞机头发型：最佳款式、渐变与 tapered]]></title>
-            <link>https://news.ycombinator.com/item?id=45502935</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45502935</guid>
-            <pubDate>Tue, 07 Oct 2025 13:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[这个 Hacker News 帖子的标题本身是一个关于发型（飞机头）的链接，通常与科技社区的核心主题无关。帖子的内容很可能是一个玩笑或测试，因为 Hacker News 的用户主要讨论技术、科学和创业。因此，评论区的焦点并非发型本身，而是围绕为何此类帖子会出现在首页、社区内容标准的演变以及用户对非技术内容的反应展开的元讨论，充满了社区的自嘲和反思。 [<a href="https://news.ycombinator.com/item?id=45502935" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: Partijgedrag – 基于公共数据构建的荷兰政治投票指南]]></title>
+            <link>https://github.com/van-sprundel/partijgedrag</link>
+            <guid isPermaLink="false">https://github.com/van-sprundel/partijgedrag</guid>
+            <pubDate>Tue, 07 Oct 2025 14:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个开源项目，旨在基于公开数据构建一个荷兰政治投票指南。它通过分析荷兰各政党的投票记录和政策立场，帮助用户了解不同政党之间的异同，并找到与自己观点最匹配的政党。项目数据来源于官方公开记录，提供了一个透明、数据驱动的政治参与工具，让选民在选举时能做出更明智的决定。 [<a href="https://news.ycombinator.com/item?id=45503463" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AGI 已以 LUCA 网络模式存在，而非作为单一超级智能降临]]></title>
-            <link>https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-332/</link>
-            <guid isPermaLink="false">https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-332/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:38:19 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章提出了一个关于通用人工智能（AGI）的非传统观点。作者认为，AGI 不会以一个单一的、集中的“超级智能”形式出现，而是已经以一个去中心化的、类似“生命最后共同祖先”（LUCA）的网络模式存在。这个网络由全球无数的计算设备、算法和人类用户共同构成，通过互联网相互连接、协同进化，集体展现出智能行为。文章旨在引导读者从一个更宏观、更系统的角度理解人工智能的发展。 [<a href="https://news.ycombinator.com/item?id=45502931" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[实用工程：天线塔的基座 [视频]]]></title>
+            <link>https://www.youtube.com/watch?v=3nDdLiXS5wk</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=3nDdLiXS5wk</guid>
+            <pubDate>Tue, 07 Oct 2025 14:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[这个视频由 Practical Engineering 频道制作，详细介绍了天线塔基座的设计和建造原理。视频解释了不同类型的基座（如混凝土基础）如何承受巨大的风荷载和塔身重量，并通过动画和实例展示了工程师如何确保这些高耸结构的稳定性。内容涵盖了地质勘察、力学分析和施工过程，是了解土木工程在通信基础设施中应用的绝佳资料。 [<a href="https://news.ycombinator.com/item?id=45503424" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[一个用于学习图像生成提示词的应用]]></title>
-            <link>https://whats-the-prompt.wrbl.xyz/</link>
-            <guid isPermaLink="false">https://whats-the-prompt.wrbl.xyz/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个交互式网页应用，旨在帮助用户学习和理解如何为 AI 图像生成模型（如 Midjourney 或 Stable Diffusion）编写有效的提示词。该应用通过展示一系列图像及其对应的提示词，让用户猜测或学习关键词与最终视觉效果之间的关系。它通过游戏化的方式，教授用户如何使用描述性词语、风格指定、参数设置等技巧，从而更精确地控制 AI 生成图像的内容和风格，提升创作能力。 [<a href="https://news.ycombinator.com/item?id=45502904" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[测试]]></title>
+            <link>https://news.ycombinator.com/submit</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/submit</guid>
+            <pubDate>Tue, 07 Oct 2025 14:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[此链接指向 Hacker News 的提交页面，用于分享新的链接和开启讨论。该页面本身没有可供总结的文章内容，主要包含一个用于输入 URL、标题和文本的提交表单，以及一些社区准则。它是用户向 Hacker News 社区贡献内容的入口。 [<a href="https://news.ycombinator.com/item?id=45503421" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Paged Out 杂志中的“即印即玩”文章 [pdf]]]></title>
-            <link>https://seriot.ch/resources/Print_to_Play_PagedOut_007.pdf</link>
-            <guid isPermaLink="false">https://seriot.ch/resources/Print_to_Play_PagedOut_007.pdf</guid>
-            <pubDate>Tue, 07 Oct 2025 13:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[这篇 PDF 文章来自 Paged Out 杂志，主题是“即印即玩”。它探讨了如何利用现代工具和技术（如编程、3D 打印和激光切割）来快速设计和制造自定义的桌面游戏。作者通过一个具体的例子，展示了从构思、设计数字文件到最终打印和组装出实体游戏棋盘和配件的全过程。这篇文章鼓励创客和游戏爱好者动手实践，将数字创意转化为可触摸的娱乐产品。 [<a href="https://news.ycombinator.com/item?id=45502898" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[美国最高法院允许强制谷歌进行应用商店改革的命令]]></title>
+            <link>https://www.reuters.com/sustainability/boards-policy-regulation/us-supreme-court-allows-order-forcing-google-make-app-store-reforms-2025-10-06/</link>
+            <guid isPermaLink="false">https://www.reuters.com/sustainability/boards-policy-regulation/us-supreme-court-allows-order-forcing-google-make-app-store-reforms-2025-10-06/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[美国最高法院允许一项针对谷歌应用商店的反垄断命令生效。该命令源于 Epic Games 对谷歌的诉讼，要求谷歌向第三方应用商店开放其 Google Play 商店，并允许应用内使用其他支付系统，以打破其垄断地位。谷歌曾请求暂缓执行该命令，但最高法院的拒绝意味着谷歌必须遵守这些改革措施，这可能会对整个安卓应用生态系统产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45503415" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[拼边谜题]]></title>
-            <link>https://seriot.ch/projects/edge_matching_puzzles.html</link>
-            <guid isPermaLink="false">https://seriot.ch/projects/edge_matching_puzzles.html</guid>
-            <pubDate>Tue, 07 Oct 2025 13:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[这个页面是关于“拼边谜题”的项目介绍和展示。拼边谜题是一种平铺益智游戏，玩家需要将一组方块拼接在一起，要求相邻方块边缘的颜色或图案必须匹配。该页面收集了多种此类谜题的实例，包括它们的设计、规则和解法。它不仅展示了这些谜题的艺术性和数学趣味，还可能提供了一些生成谜题的算法或在线玩这些谜题的工具，是逻辑和数学爱好者的一个有趣资源。 [<a href="https://news.ycombinator.com/item?id=45502875" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[GitHub 会暴露你的哪些信息：姓名、位置等等]]></title>
+            <link>https://mobeigi.com/blog/security/osint/what-github-exposes-about-you/</link>
+            <guid isPermaLink="false">https://mobeigi.com/blog/security/osint/what-github-exposes-about-you/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了 GitHub 上可能泄露的个人隐私信息。作者指出，即使用户设置了个人资料为私有，其提交记录、组织成员关系、已加星标和关注的项目等公开活动仍可能暴露其真实姓名、地理位置、雇主甚至个人习惯。文章通过开源情报（OSINT）技术演示了如何收集和分析这些信息，并提供了保护隐私的建议，提醒开发者注意数字足迹。 [<a href="https://news.ycombinator.com/item?id=45503386" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[欧洲的未来岌岌可危：反对“聊天控制”的公开信]]></title>
-            <link>https://tuta.com/blog/open-letter-against-chat-control</link>
-            <guid isPermaLink="false">https://tuta.com/blog/open-letter-against-chat-control</guid>
-            <pubDate>Tue, 07 Oct 2025 13:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[这封由加密邮件服务商 Tuta 牵头的公开信，旨在强烈反对欧盟提出的“聊天控制”法案。该法案要求所有数字通信服务（如邮件、即时消息）必须扫描用户消息，以检测和报告儿童虐待内容。公开信认为，这种大规模监控措施将破坏所有公民的数字隐私和通信安全，为大规模审查创造滑坡谬误，且对实际阻止犯罪效果甚微。信中呼吁欧盟政策制定者放弃该计划，以保护欧洲的基本价值观和民主未来。 [<a href="https://news.ycombinator.com/item?id=45502835" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[一种更好的在手机上编程的方式]]></title>
+            <link>https://phoneide.vercel.app/</link>
+            <guid isPermaLink="false">https://phoneide.vercel.app/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个名为 PhoneIDE 的 Web 应用，旨在提供一种在手机上更优的编程体验。它通过优化的界面设计，解决了在移动设备小屏幕上编写代码的诸多痛点，如代码补全、语法高亮和文件管理等。该应用允许用户直接在浏览器中创建、编辑和运行代码项目，支持多种语言，为需要在移动端进行轻量级开发或学习的用户提供了便利。 [<a href="https://news.ycombinator.com/item?id=45503379" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[高通收购 Arduino – 对创客们意味着什么]]></title>
-            <link>https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers</link>
-            <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-–-what-it-means-makers</guid>
-            <pubDate>Tue, 07 Oct 2025 13:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章分析了高通公司收购 Arduino 这一事件对全球创客和爱好者社区的影响。作者探讨了这次收购的潜在利弊。一方面，高通的资源和实力可能会为 Arduino 带来更强大的处理器和更先进的技术，推动其性能发展。另一方面，社区也担心这可能导致 Arduino 平台变得更加封闭、商业化，偏离其最初开源、易用和亲民的理念，从而影响其作为教育和快速原型工具的普及性。 [<a href="https://news.ycombinator.com/item?id=45502815" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[人类祖先在90万年前几乎灭绝]]></title>
+            <link>https://www.scientificamerican.com/article/human-ancestors-nearly-went-extinct-900-000-years-ago/</link>
+            <guid isPermaLink="false">https://www.scientificamerican.com/article/human-ancestors-nearly-went-extinct-900-000-years-ago/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[一项新的基因研究显示，人类祖先在大约90万年前经历了一次严重的种群瓶颈，濒临灭绝。通过对现代非洲人群的基因组进行分析，科学家推断出当时繁殖个体的数量锐减至仅约1280人，并持续了超过10万年。这次 &quot;大断层&quot;事件可能是由气候剧变、资源枯竭等因素导致的，这一发现为了解人类演化史上的关键时期提供了新的视角。 [<a href="https://news.ycombinator.com/item?id=45503370" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AI 模型崩溃：当你的设计工具开始吞噬自己的输出时会发生什么]]></title>
-            <link>https://dnsk.work/blog/ai-model-collapse-design-tools/</link>
-            <guid isPermaLink="false">https://dnsk.work/blog/ai-model-collapse-design-tools/</guid>
-            <pubDate>Tue, 07 Oct 2025 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了“AI 模型崩溃”这一现象，特别是在设计工具领域。模型崩溃指的是当人工智能模型主要用由其他 AI 生成的内容进行训练时，其输出质量会逐渐退化、变得同质化和缺乏创造力的过程。文章警告说，如果设计师过度依赖 AI 工具，而这些工具又不断学习彼此的作品，设计领域可能会陷入一个“近亲繁殖”的循环，导致原创性和多样性的丧失，最终损害整个创意生态系统的健康。 [<a href="https://news.ycombinator.com/item?id=45502787" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[ClickHouse 延长 C 轮融资并扩大领导团队以推动增长]]></title>
+            <link>https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team</link>
+            <guid isPermaLink="false">https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team</guid>
+            <pubDate>Tue, 07 Oct 2025 14:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[开源列式数据库 ClickHouse 宣布延长其 C 轮融资，并借此机会扩大其领导团队。新融资将用于加速产品开发、拓展全球市场以及加强社区建设。公司任命了新的高管来负责工程、产品和市场等关键领域。此举表明 ClickHouse 在高性能数据分析领域的强劲发展势头，以及其商业化进程的稳步推进，旨在满足日益增长的企业级数据实时分析需求。 [<a href="https://news.ycombinator.com/item?id=45503367" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[隐形广告牌 (2021)]]></title>
-            <link>https://hardwork.party/netflix-invisible-frame</link>
-            <guid isPermaLink="false">https://hardwork.party/netflix-invisible-frame</guid>
-            <pubDate>Tue, 07 Oct 2025 13:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[这个项目展示了一个名为“隐形广告牌”的创意装置。它利用一个特制的、高反射率的屏幕框架，在特定角度和光照条件下，能将背景环境完美反射，使得屏幕本身看起来像是“消失”或“隐形”的。当屏幕播放内容时，影像仿佛悬浮在空中，与周围环境融为一体，创造出极具视觉冲击力的效果。该项目是数字艺术和物理装置结合的一个有趣例子，探索了显示技术的新可能性。 [<a href="https://news.ycombinator.com/item?id=45502786" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: 双摆玩具 - 交互式浏览器模拟]]></title>
+            <link>https://bigjobby.com/pendulum/</link>
+            <guid isPermaLink="false">https://bigjobby.com/pendulum/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个在浏览器中运行的交互式双摆物理模拟项目。用户可以通过拖拽摆的初始位置，直观地观察双摆系统产生的混沌运动。该模拟器基于真实的物理定律，实时渲染摆的运动轨迹，展示了初始条件的微小变化如何导致后续运动的巨大差异。它是一个有趣且富有教育意义的工具，可以帮助人们直观理解混沌理论的基本概念。 [<a href="https://news.ycombinator.com/item?id=45503332" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Tcl 语言展示]]></title>
-            <link>https://wiki.tcl-lang.org/page/Showcase</link>
-            <guid isPermaLink="false">https://wiki.tcl-lang.org/page/Showcase</guid>
-            <pubDate>Tue, 07 Oct 2025 13:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[这是 Tcl 编程语言官方维基上的一个展示页面。它汇集了大量使用 Tcl 语言及其相关工具（如 Tk 图形界面工具包）开发的项目和应用案例。这些案例涵盖了从软件开发、系统管理、网络编程到科学计算、教育软件等多个领域。通过展示这些实际应用，该页面旨在体现 Tcl 语言简洁、强大和高度可扩展的特点，为新学习者提供灵感，并为有经验的开发者提供参考。 [<a href="https://news.ycombinator.com/item?id=45502784" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: Tambo-AI – 开源、模型无关的 OpenAI ChatKit 替代品]]></title>
+            <link>https://github.com/tambo-ai/tambo</link>
+            <guid isPermaLink="false">https://github.com/tambo-ai/tambo</guid>
+            <pubDate>Tue, 07 Oct 2025 14:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[Tambo-AI 是一个开源项目，旨在提供一个模型无关的替代方案，以取代 OpenAI 的 ChatKit。它允许开发者轻松构建和部署聊天机器人，但可以自由选择后端使用的大型语言模型，而不必局限于 OpenAI 的模型。该框架提供了管理对话历史、处理工具调用和自定义指令等功能，为需要灵活性和控制权的开发者提供了一个强大的、可自托管的聊天应用开发基础。 [<a href="https://news.ycombinator.com/item?id=45503318" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[音乐生成系统评估综述]]></title>
-            <link>https://dl.acm.org/doi/10.1145/3769106</link>
-            <guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3769106</guid>
-            <pubDate>Tue, 07 Oct 2025 13:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[这是一篇发表在 ACM 上的学术综述文章，系统性地回顾了音乐生成领域（特别是人工智能音乐）的评估方法。文章讨论了评估生成音乐质量所面临的挑战，如音乐的主观性、创造性和风格多样性。它梳理并比较了现有的评估指标，包括客观指标（如音频特征匹配）和主观评估（如听众听感测试），并探讨了如何建立一个更全面、更可靠的评估框架，以推动音乐生成AI研究的健康发展。 [<a href="https://news.ycombinator.com/item?id=45502769" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[代理之间的交接 vs. 流程图，结合 OpenAI 的可视化构建器来看]]></title>
+            <link>https://blog.rowboatlabs.com/handoffs-vs-flowcharts-for-agents-in-light-of-openais-visual-builder/</link>
+            <guid isPermaLink="false">https://blog.rowboatlabs.com/handoffs-vs-flowcharts-for-agents-in-light-of-openais-visual-builder/</guid>
+            <pubDate>Tue, 07 Oct 2025 14:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[本文探讨了在构建 AI 代理时两种不同的设计模式：&quot;交接&quot;（Handoffs）和 &quot;流程图&quot;（Flowcharts）。作者以 OpenAI 新推出的可视化构建器为背景，分析了两种模式的优缺点。交接模式更灵活，适合动态任务；流程图模式更结构化，易于理解和调试。文章讨论了如何根据具体需求选择合适的架构，并展望了未来 AI 代理设计的发展方向。 [<a href="https://news.ycombinator.com/item?id=45503268" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[高通收购意大利硬件公司 Arduino]]></title>
-            <link>https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html</guid>
-            <pubDate>Tue, 07 Oct 2025 13:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[这篇 CNBC 报道确认了高通公司已正式收购意大利开源硬件平台 Arduino。文章指出，此次收购是高通在物联网和机器人领域战略布局的一部分。通过整合 Arduino 在全球创客和教育领域的庞大生态系统，高通希望将其强大的处理器技术（如 Snapdragon）引入更广泛的硬件开发市场。此举旨在加速从工业设备到消费机器人的各类创新产品的开发，同时也引发了业界对 Arduino 未来开源方向和商业模式的关注。 [<a href="https://news.ycombinator.com/item?id=45502758" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Ask HN: 为什么 ICANN 允许无限期停放域名？]]></title>
+            <link>https://news.ycombinator.com/item?id=45503253</link>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45503253</guid>
+            <pubDate>Tue, 07 Oct 2025 14:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个在 Hacker News 上的提问，探讨为什么 ICANN（互联网名称与数字地址分配机构）允许域名被无限期停放。讨论中，用户们提出了多种观点，包括域名投资的商业模式、ICANN 的政策初衷、以及域名停放对互联网生态的影响。有人认为这是一种合法的商业行为，也有人认为它导致了优质域名资源的浪费，并讨论了可能的解决方案，如对长期停放的域名征收重税。 [<a href="https://news.ycombinator.com/item?id=45503253" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
