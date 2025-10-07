@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Tue, 07 Oct 2025 11:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 11:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[为中国海岸提供电力的&quot;抗台风&quot;风力发电场]]></title>
-            <link>https://www.bbc.com/future/article/20251006-the-typhoon-proof-wind-farms-powering-chinas-coast</link>
-            <guid isPermaLink="false">https://www.bbc.com/future/article/20251006-the-typhoon-proof-wind-farms-powering-chinas-coast</guid>
-            <pubDate>Tue, 07 Oct 2025 11:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讲述了中国沿海地区建设抗台风风力发电场的故事。这些风力发电场采用了先进的设计技术，能够承受强台风的冲击。文章介绍了这些风力发电场如何通过技术创新，如浮动式基础和智能控制系统，来应对极端天气条件，为中国沿海地区提供清洁能源。这些项目展示了中国在可再生能源领域的技术实力，以及在应对气候变化方面的积极努力。 [<a href="https://news.ycombinator.com/item?id=45501793" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[英国削减成本上升背后的隐秘驱动力]]></title>
+            <link>https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/</link>
+            <guid isPermaLink="false">https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/</guid>
+            <pubDate>Tue, 07 Oct 2025 10:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[英国削减成本上升的一个主要原因是输电网络的不可用。当电网因维护或故障而无法使用时，风力发电场等可再生能源被迫减少发电，这被称为削减。这不仅浪费了清洁能源，还导致消费者需要支付巨额的削减补偿费用，而这些费用本可以通过更好的网络规划和管理来避免。 [<a href="https://news.ycombinator.com/item?id=45501488" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025年Git贡献者峰会笔记]]></title>
-            <link>https://lwn.net/ml/all/aOQVeVYY6zadPjln@nand.local/</link>
-            <guid isPermaLink="false">https://lwn.net/ml/all/aOQVeVYY6zadPjln@nand.local/</guid>
-            <pubDate>Tue, 07 Oct 2025 11:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章总结了2025年Git贡献者峰会的主要内容。会议讨论了Git项目的最新发展，包括性能优化、新功能开发、社区建设等议题。参与者分享了各自在Git生态系统中的经验，探讨了未来Git的发展方向，以及如何更好地服务开发者社区。峰会还涉及了Git在大型项目中的应用挑战，以及如何改进用户体验和工作流程。 [<a href="https://news.ycombinator.com/item?id=45501790" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[MacBook 屏幕开合角度传感器]]></title>
+            <link>https://github.com/samhenrigold/LidAngleSensor</link>
+            <guid isPermaLink="false">https://github.com/samhenrigold/LidAngleSensor</guid>
+            <pubDate>Tue, 07 Oct 2025 10:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[这是一个用于 macOS 的开源应用程序，它可以访问并读取 MacBook 内置的屏幕开合角度传感器数据。开发者可以利用这个工具获取笔记本盖子的精确角度，从而创建各种自动化脚本或实现与设备物理状态相关的自定义功能。 [<a href="https://news.ycombinator.com/item?id=45501459" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[硬件软件化——数字化物理世界]]></title>
-            <link>https://www.generalcatalyst.com/stories/software-for-hardware</link>
-            <guid isPermaLink="false">https://www.generalcatalyst.com/stories/software-for-hardware</guid>
-            <pubDate>Tue, 07 Oct 2025 11:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何通过软件技术来控制和优化硬件设备，实现物理世界的数字化。文章介绍了各种传感器、物联网设备和控制系统的应用，展示了软件如何赋予传统硬件新的功能，提高效率并创造新的商业价值。作者认为，这种软硬件融合的趋势正在改变传统制造业，推动工业4.0的发展，并为创新企业带来新的机遇。 [<a href="https://news.ycombinator.com/item?id=45501781" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[类似 Vercel，但开源且支持所有语言]]></title>
+            <link>https://github.com/hunvreus/devpush</link>
+            <guid isPermaLink="false">https://github.com/hunvreus/devpush</guid>
+            <pubDate>Tue, 07 Oct 2025 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[Devpush 是一个开源的平台即服务项目，其目标是提供一个类似于 Vercel 的部署体验。与 Vercel 不同，它致力于支持所有编程语言和框架，而不仅仅是前端或特定的 JavaScript 生态系统。这使得开发者能够使用统一的、简化的工作流程来部署各种类型的应用程序。 [<a href="https://news.ycombinator.com/item?id=45501279" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[涉嫌中国特工使用ChatGPT塑造大规模监控提案]]></title>
-            <link>https://www.cnn.com/2025/10/07/politics/china-chatgpt-surveillance</link>
-            <guid isPermaLink="false">https://www.cnn.com/2025/10/07/politics/china-chatgpt-surveillance</guid>
-            <pubDate>Tue, 07 Oct 2025 11:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道声称，疑似中国特工使用ChatGPT来帮助撰写大规模监控提案。文章详细描述了这些操作如何利用AI工具来生成看似专业的监控方案，并讨论了这对国际关系和技术伦理的影响。报道引用了多个情报来源，指出这种做法可能违反了AI服务的使用条款，并引发了关于AI技术滥用的担忧。 [<a href="https://news.ycombinator.com/item?id=45501776" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[2025年诺贝尔物理学奖]]></title>
+            <link>https://www.nobelprize.org/prizes/physics/2025/popular-information/</link>
+            <guid isPermaLink="false">https://www.nobelprize.org/prizes/physics/2025/popular-information/</guid>
+            <pubDate>Tue, 07 Oct 2025 09:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025年诺贝尔物理学奖授予了 John J. Hopfield 和 Geoffrey E. Hinton，以表彰他们在基于人工神经网络的机器学习方面的基础性发现和发明。他们的工作始于1980年代，利用统计物理学的工具为神经网络奠定了理论基础，最终引爆了当今的人工智能革命。Hopfield 创建了 associative memory，而 Hinton 则发明了 Boltzmann machine。 [<a href="https://news.ycombinator.com/item?id=45501189" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[龙之雏形：像大脑一样思考的神经网络（可在你的GPU上运行）]]></title>
-            <link>https://medium.com/@FuturistAI/the-dragon-hatchling-a-neural-network-that-thinks-like-a-brain-and-runs-on-your-gpu-af037123286b</link>
-            <guid isPermaLink="false">https://medium.com/@FuturistAI/the-dragon-hatchling-a-neural-network-that-thinks-like-a-brain-and-runs-on-your-gpu-af037123286b</guid>
-            <pubDate>Tue, 07 Oct 2025 11:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章介绍了一种名为&quot;龙之雏形&quot;的新型神经网络架构，它模仿人脑的工作方式，但可以在普通GPU上运行。文章详细解释了这种网络的设计原理、性能优势，以及它如何在不同应用场景中表现出色。作者声称这种架构在处理复杂任务时更加高效，同时保持了较低的计算资源需求，为AI技术的普及提供了新的可能性。 [<a href="https://news.ycombinator.com/item?id=45501753" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[蒙德里安函数式光学入门]]></title>
+            <link>http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html</link>
+            <guid isPermaLink="false">http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html</guid>
+            <pubDate>Tue, 07 Oct 2025 09:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章通过一个有趣的类比——用蒙德里安的画作来解释函数式编程中的“光学”概念。它将复杂的数据结构（如嵌套记录）比作蒙德里安的画布，而“光学”则像画笔，允许你以一种声明式和组合的方式，深入、聚焦并修改数据结构中的特定部分，而无需处理繁琐的样板代码。文章旨在让这个抽象概念变得直观易懂。 [<a href="https://news.ycombinator.com/item?id=45501114" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Redis中存在13年之久的10级漏洞可能导致远程代码执行]]></title>
-            <link>https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/</link>
-            <guid isPermaLink="false">https://www.theregister.com/2025/10/06/perfect_10_redis_rce_lurking/</guid>
-            <pubDate>Tue, 07 Oct 2025 11:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了Redis数据库中发现的一个存在13年之久的严重漏洞，该漏洞可能允许攻击者执行远程代码。文章详细描述了漏洞的技术细节、潜在影响，以及开发团队如何修复这个问题。这个漏洞被评级为10级（最高级别），影响了大量使用Redis的应用程序，促使安全专家建议用户立即更新到最新版本。 [<a href="https://news.ycombinator.com/item?id=45501744" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[系好安全带，智能眼镜的反弹即将到来]]></title>
+            <link>https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213</link>
+            <guid isPermaLink="false">https://gizmodo.com/buckle-up-the-smart-glasses-backlash-is-coming-2000668213</guid>
+            <pubDate>Tue, 07 Oct 2025 09:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[随着 Meta Ray-Ban 等智能眼镜的普及，文章预测一场公众反弹即将到来。虽然这些设备提供了便利，但其内置摄像头和麦克风引发的隐私担忧日益加剧。人们开始在社交场合对佩戴者感到不安，担心被秘密录音或录像。这种社交摩擦和对监控的恐惧，可能会阻碍智能眼镜成为像智能手机一样的普遍设备，并引发更广泛的抵制。 [<a href="https://news.ycombinator.com/item?id=45501073" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[我正在构建一个为每个答案提供边界框的API]]></title>
-            <link>https://ninjadoc.ai</link>
-            <guid isPermaLink="false">https://ninjadoc.ai</guid>
-            <pubDate>Tue, 07 Oct 2025 11:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站介绍了一个新的API服务，它可以为文档中的每个答案提供精确的边界框位置。这个工具特别适用于需要精确定位文档内容的场景，如OCR处理、文档分析等。该API能够识别文档中的文本、图像、表格等元素，并返回它们在页面上的确切坐标，帮助开发者构建更智能的文档处理应用。 [<a href="https://news.ycombinator.com/item?id=45501737" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[德勤在44万澳元报告中使用AI后向澳大利亚政府退款]]></title>
+            <link>https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</link>
+            <guid isPermaLink="false">https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</guid>
+            <pubDate>Tue, 07 Oct 2025 07:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[咨询巨头德勤公司被发现其向澳大利亚政府提交的一份价值44万澳元的报告中，部分内容由人工智能生成。此事曝光后，德勤同意向政府退款。该事件引发了关于专业服务行业中人工智能使用的伦理和透明度问题的担忧，特别是当客户（如此处的政府）为人工专业知识和分析支付高额费用时。 [<a href="https://news.ycombinator.com/item?id=45500485" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ChatGPT不会取代作家]]></title>
-            <link>https://substack.com/home/post/p-175510532</link>
-            <guid isPermaLink="false">https://substack.com/home/post/p-175510532</guid>
-            <pubDate>Tue, 07 Oct 2025 11:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章讨论了为什么ChatGPT等AI工具不会完全取代人类作家。作者强调了创造力、情感表达和独特视角的重要性，认为这些是人类写作的核心价值，AI难以复制。文章指出，虽然AI可以辅助写作过程，但真正的文学作品需要人类的生活体验、情感深度和原创思维，这些是当前AI技术无法达到的。 [<a href="https://news.ycombinator.com/item?id=45501731" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[出生前学习外语]]></title>
+            <link>https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born</link>
+            <guid isPermaLink="false">https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born</guid>
+            <pubDate>Tue, 07 Oct 2025 05:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[蒙特利尔大学的一项研究表明，胎儿在子宫内就能学习并区分外语的声音。研究人员通过向孕妇播放一种陌生语言的音频，并在婴儿出生后测量其对这种语言的神经反应，发现胎儿确实能够感知和学习。这揭示了人类语言学习的起点比之前认为的要早得多，为早期语言发展提供了新的见解。 [<a href="https://news.ycombinator.com/item?id=45499730" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[三大洲的三名CNN记者佩戴化学追踪手环]]></title>
-            <link>https://www.cnn.com/2025/10/07/climate/chemicals-plastic-wristbands-phthalates-bisphenols</link>
-            <guid isPermaLink="false">https://www.cnn.com/2025/10/07/climate/chemicals-plastic-wristbands-phthalates-bisphenols</guid>
-            <pubDate>Tue, 07 Oct 2025 11:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[这篇报道讲述了三名CNN记者在不同大洲佩戴化学追踪手环的实验。手环检测到了各种有害化学物质，包括邻苯二甲酸盐和双酚类物质，揭示了日常环境中化学污染的普遍性。实验结果显示，无论身处何地，人们都可能接触到这些潜在有害的化学物质，引发了关于化学品监管和公众健康保护的讨论。 [<a href="https://news.ycombinator.com/item?id=45501716" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[加州法律迫使 Netflix、Hulu 降低广告音量]]></title>
+            <link>https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</link>
+            <guid isPermaLink="false">https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</guid>
+            <pubDate>Tue, 07 Oct 2025 04:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[加州通过并签署了一项新法律，要求 Netflix 和 Hulu 等流媒体服务确保其广告音量不会高于节目本身的音量。这项被称为 &quot;CALM Act&quot; 的法规旨在解决观众长期以来抱怨的“广告轰炸”问题，即广告突然以大得多的音量播放，提升观看体验。该法律将联邦广播电视的标准扩展到了流媒体平台。 [<a href="https://news.ycombinator.com/item?id=45499281" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美国诉谷歌案：双方争论要点]]></title>
-            <link>https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html</link>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html</guid>
-            <pubDate>Tue, 07 Oct 2025 11:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细分析了美国政府对谷歌的反垄断诉讼，双方在广告技术领域的争论焦点。文章解释了谷歌的市场地位、政府的指控内容，以及谷歌的辩护观点。核心争议在于谷歌是否滥用其在数字广告市场的主导地位，以及其行为是否损害了竞争和消费者利益。案件的结果可能对整个科技行业产生深远影响。 [<a href="https://news.ycombinator.com/item?id=45501714" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Pdoc – 为 Python 项目生成 API 文档]]></title>
+            <link>https://pdoc.dev/</link>
+            <guid isPermaLink="false">https://pdoc.dev/</guid>
+            <pubDate>Tue, 07 Oct 2025 03:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[Pdoc 是一个简单易用的命令行工具和库，用于为 Python 项目自动生成 API 文档。它可以直接从代码中的 docstrings 提取信息，并将其渲染成一个清晰、美观且可导航的静态 HTML 网站。Pdoc 无需复杂的配置，支持 Markdown 格式，并能自动处理类型提示、继承关系和模块结构，是开发者快速生成项目文档的理想选择。 [<a href="https://news.ycombinator.com/item?id=45499170" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[在生产环境中让AI发挥作用的初学者指南]]></title>
-            <link>https://medium.com/@akshitdayal99/the-missing-piece-that-makes-ai-actually-work-in-production-22e9eb724fd9</link>
-            <guid isPermaLink="false">https://medium.com/@akshitdayal99/the-missing-piece-that-makes-ai-actually-work-in-production-22e9eb724fd9</guid>
-            <pubDate>Tue, 07 Oct 2025 11:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章为初学者提供了在生产环境中有效部署AI系统的实用指南。作者分享了关键的技术考虑、最佳实践和常见陷阱，帮助读者避免AI项目在实际应用中失败。文章强调了数据质量、模型监控、可扩展性和用户体验的重要性，并提供了具体的实施建议和工具推荐。 [<a href="https://news.ycombinator.com/item?id=45501700" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[折纸模式解决一个重大物理学难题]]></title>
+            <link>https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/</link>
+            <guid isPermaLink="false">https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/</guid>
+            <pubDate>Tue, 07 Oct 2025 01:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[物理学家们利用折纸艺术中的模式，为理解一种被称为“机械非互易性”的奇特材料特性提供了关键。这些材料在受力时，其内部能量的传播方向会因力的方向不同而不同，具有 &quot;单向阀&quot; 特性。通过研究特定的折纸结构（如 Miura-ori），科学家们发现了其几何形状如何导致这种非互易行为，为设计新型机械超材料和机器人开辟了新途径。 [<a href="https://news.ycombinator.com/item?id=45498469" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[从Jenkins迁移到GitLab]]></title>
-            <link>https://news.ycombinator.com/item?id=45501689</link>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=45501689</guid>
-            <pubDate>Tue, 07 Oct 2025 11:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[这个Hacker News讨论串分享了从Jenkins迁移到GitLab的经验。参与者讨论了迁移的动机、过程中遇到的挑战、解决方案，以及迁移后的好处。主要话题包括CI/CD流程的重新设计、插件兼容性问题、团队培训需求，以及GitLab集成开发环境的优势。讨论为考虑类似迁移的团队提供了宝贵的参考。 [<a href="https://news.ycombinator.com/item?id=45501689" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[一个体面网站所需的最少 CSS (2023)]]></title>
+            <link>https://thecascade.dev/article/least-amount-of-css/</link>
+            <guid isPermaLink="false">https://thecascade.dev/article/least-amount-of-css/</guid>
+            <pubDate>Mon, 06 Oct 2025 23:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了创建一个视觉上“体面”或“好看”的网站所需的最低 CSS 代码量。作者通过实践，仅用极少的 CSS 规则（如字体、间距、颜色和布局）就构建了一个简洁且可读性强的网站。文章强调，现代开发者常常过度依赖庞大的框架，而回归基础，用最少的样式实现核心设计原则，同样能创造出优雅高效的用户界面。 [<a href="https://news.ycombinator.com/item?id=45497624" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[如何制作你的AI分身]]></title>
-            <link>https://markgreville.ie/2025/10/06/how-to-make-your-ai-twin/</link>
-            <guid isPermaLink="false">https://markgreville.ie/2025/10/06/how-to-make-your-ai-twin/</guid>
-            <pubDate>Tue, 07 Oct 2025 11:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章提供了创建个人AI分身的详细教程。作者介绍了所需的技术工具、训练数据准备、模型微调过程，以及如何让AI分身更好地模仿个人的语言风格和思维方式。文章涵盖了从数据收集到模型部署的完整流程，并讨论了AI分身在个人助理、内容创作等领域的应用前景。 [<a href="https://news.ycombinator.com/item?id=45501682" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[微软正在修补更多让你无需微软账户即可使用 Windows 11 的漏洞]]></title>
+            <link>https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</link>
+            <guid isPermaLink="false">https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</guid>
+            <pubDate>Mon, 06 Oct 2025 23:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[微软正在积极修补 Windows 11 中的漏洞，这些漏洞允许用户在安装或设置过程中跳过创建和登录微软账户的步骤，从而使用本地账户。尽管许多用户出于隐私偏好希望使用本地账户，但微软正通过系统更新逐步关闭这些已知的工作方法，以推动用户向其云服务和生态系统迁移。 [<a href="https://news.ycombinator.com/item?id=45497384" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Vercel CEO与被国际刑警组织通缉的罪犯合影]]></title>
-            <link>https://beincrypto.com/vercel-israel-netanyahu-selfie-backlash-web3-competition/</link>
-            <guid isPermaLink="false">https://beincrypto.com/vercel-israel-netanyahu-selfie-backlash-web3-competition/</guid>
-            <pubDate>Tue, 07 Oct 2025 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了Vercel CEO与被国际刑警组织通缉的以色列总理内塔尼亚胡合影引发的争议。文章讨论了这一事件对Vercel品牌和Web3社区的影响，以及科技公司在政治敏感问题上面临的挑战。事件引发了关于企业社会责任、政治中立性和用户反应的广泛讨论。 [<a href="https://news.ycombinator.com/item?id=45501677" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[RediShell：Redis 中的严重远程代码执行漏洞]]></title>
+            <link>https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</link>
+            <guid isPermaLink="false">https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</guid>
+            <pubDate>Mon, 06 Oct 2025 22:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[网络安全公司 Wiz 发现了 Redis 数据库中的一个严重漏洞，并将其命名为 RediShell。该漏洞（CVE-2025-49844）允许攻击者在特定配置的 Redis 服务器上执行任意代码，从而完全控制服务器。此漏洞的严重性在于它绕过了 Redis 的安全模型，影响了众多依赖 Redis 的应用。Wiz 建议用户立即更新到最新版本的 Redis 以修复此风险。 [<a href="https://news.ycombinator.com/item?id=45497027" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：可能世界维基——虚构的生成式维基]]></title>
-            <link>https://www.possibleworldwikis.com/</link>
-            <guid isPermaLink="false">https://www.possibleworldwikis.com/</guid>
-            <pubDate>Tue, 07 Oct 2025 11:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站介绍了一个创新项目，创建虚构世界的生成式维基。用户可以探索各种虚构设定、角色和故事，所有内容都由AI生成，形成丰富的想象世界。项目展示了AI在创意内容生成方面的潜力，为作家、游戏设计师和创意工作者提供了灵感来源，同时也为普通用户提供了一个探索想象空间的平台。 [<a href="https://news.ycombinator.com/item?id=45501674" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[CodeMender：用于代码安全的 AI 智能体]]></title>
+            <link>https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</link>
+            <guid isPermaLink="false">https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</guid>
+            <pubDate>Mon, 06 Oct 2025 21:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[Google DeepMind 推出了一款名为 CodeMender 的 AI 智能体，专门用于发现和修复代码中的安全漏洞。它能够像人类安全工程师一样，分析代码中的潜在弱点，并自动生成安全、可靠的补丁来修复这些问题。CodeMender 旨在成为开发者的安全助手，将繁琐的代码审计和修复过程自动化，从而提高软件的整体安全性。 [<a href="https://news.ycombinator.com/item?id=45496533" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1970年：黑朗姆酒日（英国海军朗姆酒配给制的终结）[视频]]]></title>
-            <link>https://www.youtube.com/watch?v=5gh5PCghfbs</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=5gh5PCghfbs</guid>
-            <pubDate>Tue, 07 Oct 2025 11:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[这个YouTube视频讲述了1970年7月31日，英国皇家海军正式结束了长达200多年的朗姆酒配给传统。视频回顾了这一历史事件的文化意义和影响，包括海军官兵的反应、传统仪式的终结，以及这一变化对海军文化的影响。视频通过历史影像和访谈，展现了一个时代的结束。 [<a href="https://news.ycombinator.com/item?id=45501638" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Apps SDK]]></title>
+            <link>https://developers.openai.com/apps-sdk/</link>
+            <guid isPermaLink="false">https://developers.openai.com/apps-sdk/</guid>
+            <pubDate>Mon, 06 Oct 2025 18:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[OpenAI 发布了其官方的 Apps SDK，这是一个新的工具包，旨在简化开发者构建和部署基于 OpenAI 模型的应用程序的过程。该 SDK 提供了预构建的组件、集成和最佳实践，帮助开发者更快速地创建功能丰富的 AI 应用，例如自定义聊天机器人或工作流自动化工具，而无需处理复杂的底层 API 调用和状态管理。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[展示HN：非AI的开源Typeform克隆]]></title>
-            <link>https://forms.md</link>
-            <guid isPermaLink="false">https://forms.md</guid>
-            <pubDate>Tue, 07 Oct 2025 11:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[这个网站展示了一个开源的Typeform替代品，提供了类似的表单创建和交互功能，但完全免费和开源。项目旨在为开发者提供一个灵活的表单解决方案，支持自定义样式、逻辑跳转、数据收集等功能。与商业产品不同，这个工具注重隐私保护和用户数据控制，适合对数据安全有高要求的组织使用。 [<a href="https://news.ycombinator.com/item?id=45501636" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[OpenZL：一个开源的格式感知压缩框架]]></title>
+            <link>https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</guid>
+            <pubDate>Mon, 06 Oct 2025 16:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[Meta 开源了一个名为 OpenZL 的新型压缩框架。其核心特点是“格式感知”，意味着它能够根据待压缩数据的特定格式（如 JSON、Parquet 或图像）进行优化，从而实现比传统通用压缩算法（如 Gzip）更高的压缩率和更快的速度。该框架为开发者提供了一套灵活的工具，以在各种应用中高效地处理和压缩结构化数据。 [<a href="https://news.ycombinator.com/item?id=45492803" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Android开发者验证[视频]]]></title>
-            <link>https://www.youtube.com/watch?v=A7DEhW-mjdc</link>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=A7DEhW-mjdc</guid>
-            <pubDate>Tue, 07 Oct 2025 11:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[这个YouTube视频介绍了Android应用开发者的身份验证流程，包括账户注册、应用发布权限获取、以及Google Play商店的合规要求。视频详细解释了开发者账号的申请步骤、费用结构、审核流程，以及如何确保应用符合Google的政策要求。对于想要进入Android开发领域的新手来说，这是一个实用的指南。 [<a href="https://news.ycombinator.com/item?id=45501634" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Mise：Monorepo 任务]]></title>
+            <link>https://github.com/jdx/mise/discussions/6564</link>
+            <guid isPermaLink="false">https://github.com/jdx/mise/discussions/6564</guid>
+            <pubDate>Mon, 06 Oct 2025 14:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[这篇 GitHub 讨论探讨了在 Mise（一个开发环境管理工具）中管理 monorepo（单体仓库）任务的新功能或想法。Mise 旨在统一管理项目依赖（如 Node.js, Python 版本）和任务运行。讨论的中心是如何让 Mise 更好地理解 monorepo 的结构，允许用户从仓库根目录定义和运行针对特定子包的任务，从而简化大型项目的构建和测试流程。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[&quot;几乎闻所未闻&quot;：专家发现更多英国作曲家亨利·普赛尔的作品]]></title>
-            <link>https://www.theguardian.com/music/2025/oct/07/experts-find-music-english-composer-henry-purcell</link>
-            <guid isPermaLink="false">https://www.theguardian.com/music/2025/oct/07/experts-find-music-english-composer-henry-purcell</guid>
-            <pubDate>Tue, 07 Oct 2025 11:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章报道了音乐专家发现了英国巴洛克时期作曲家亨利·普赛尔的更多作品。这些新发现的手稿为研究这位伟大作曲家提供了宝贵的资料。专家们通过对比分析确认了这些作品的真实性，它们展现了普赛尔独特的音乐风格和创新精神，为巴洛克音乐研究增添了重要内容。 [<a href="https://news.ycombinator.com/item?id=45501627" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[Show HN: Kent Dybvig 的 Scheme 机器（400行C代码实现，基于堆内存模型）]]></title>
+            <link>https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</link>
+            <guid isPermaLink="false">https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</guid>
+            <pubDate>Mon, 06 Oct 2025 14:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[这个 Gist 展示了一个用约 400 行 C 代码实现的 Scheme 解释器，其灵感来自 Kent Dybvig（Chez Scheme 的作者）的设计。该实现简洁而优雅，特别之处在于它采用了基于堆的内存模型来管理函数调用和变量，而不是传统的基于栈的模型。这为理解高级语言的实现，特别是垃圾回收和闭包等概念，提供了一个非常清晰和有教育意义的参考。 [<a href="https://news.ycombinator.com/item?id=45491609" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[亚马逊的成功与失败]]></title>
-            <link>https://richardreis.me/amazon</link>
-            <guid isPermaLink="false">https://richardreis.me/amazon</guid>
-            <pubDate>Tue, 07 Oct 2025 10:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章深入分析了亚马逊公司历史上的成功决策和失败尝试，从AWS到Fire Phone，从Kindle到Amazon Go，总结了亚马逊创新策略的经验教训。作者探讨了亚马逊如何通过实验文化、长期思维和客户至上理念取得成功，同时也分析了其失败项目的共同特征，为其他企业提供了有价值的参考。 [<a href="https://news.ycombinator.com/item?id=45501593" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[编译一个 Forth]]></title>
+            <link>https://healeycodes.com/compiling-a-forth</link>
+            <guid isPermaLink="false">https://healeycodes.com/compiling-a-forth</guid>
+            <pubDate>Mon, 06 Oct 2025 13:52:50 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章详细记录了作者从零开始为 Forth 语言编写一个编译器的过程。Forth 是一种独特的、基于堆栈的编程语言。文章涵盖了编译器设计的基本步骤，包括词法分析、语法分析，以及如何将 Forth 的后缀表示法翻译成机器可执行的代码。这是一篇优秀的实践教程，展示了构建一个简单但功能完备的语言编译器的核心思想。 [<a href="https://news.ycombinator.com/item?id=45491470" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
