@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Mon, 06 Oct 2025 23:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 02:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[美国总统被敦促'抵制压力'，不要对谷歌和Ticketmaster手软]]></title>
-            <link>https://nypost.com/2025/10/06/business/trump-urged-to-double-down-on-antitrust-crackdown-resist-pressures-to-settle-in-plea-from-business-groups/</link>
-            <guid isPermaLink="false">https://nypost.com/2025/10/06/business/trump-urged-to-double-down-on-antitrust-crackdown-resist-pressures-to-settle-in-plea-from-business-groups/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[商业团体致信特朗普总统，敦促他继续对谷歌和Ticketmaster等科技巨头进行反垄断打击，不要屈服于和解压力。信中强调，这些公司的垄断行为损害了市场竞争和消费者利益，需要坚决执法。多个商业协会联合呼吁政府保持强硬立场，确保公平竞争环境，防止大型科技公司滥用市场支配地位。这封信反映了商界对科技垄断问题的持续关注和对政府监管行动的支持。 [<a href="https://news.ycombinator.com/item?id=45497585" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[关于非那雄胺导致抑郁和自杀倾向的分析性综述]]></title>
+            <link>https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/</link>
+            <guid isPermaLink="false">https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/</guid>
+            <pubDate>Tue, 07 Oct 2025 00:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[本文回顾了关于非那雄胺（一种用于治疗脱发和前列腺增生的药物）与抑郁、自杀风险之间关联的研究。文章分析了现有证据，包括病例报告、观察性研究和临床试验，探讨了潜在的生物学机制，并指出虽然存在关联，但因果关系尚不明确，需要更多研究。医生在开处方时应告知患者这些潜在的心理健康风险。 [<a href="https://news.ycombinator.com/item?id=45497818" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[你可能不需要VPN]]></title>
-            <link>https://stevesrantsnraves.blogspot.com/2024/09/why-you-probably-dont-need-vpn.html</link>
-            <guid isPermaLink="false">https://stevesrantsnraves.blogspot.com/2024/09/why-you-probably-dont-need-vpn.html</guid>
-            <pubDate>Mon, 06 Oct 2025 23:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[文章探讨了VPN服务的实际必要性，指出大多数普通用户在日常使用中并不真正需要VPN。作者分析了VPN的常见使用场景，如隐私保护、绕过地理限制等，认为现代浏览器和网站已经提供了足够的安全加密。文章还提到VPN可能带来的性能损失和成本问题，建议用户根据实际需求选择，而不是盲目跟风。对于一般浏览和购物，HTTPS已经提供了足够的保护。 [<a href="https://news.ycombinator.com/item?id=45497578" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[构建一个体面网站所需的最少 CSS (2023)]]></title>
+            <link>https://thecascade.dev/article/least-amount-of-css/</link>
+            <guid isPermaLink="false">https://thecascade.dev/article/least-amount-of-css/</guid>
+            <pubDate>Mon, 06 Oct 2025 23:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了如何用最少的 CSS 代码创建一个视觉上美观且功能正常的网站。作者通过一个实例，展示了仅使用现代 CSS 的少数核心特性（如 Flexbox、Grid、自定义属性等），就能实现良好的排版、布局和基本的交互效果，强调了简约设计的原则和现代 CSS 的强大功能。 [<a href="https://news.ycombinator.com/item?id=45497624" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[使用低秩适配器微调小型语言模型以模拟用户行为]]></title>
-            <link>https://arxiv.org/abs/2509.09689</link>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.09689</guid>
-            <pubDate>Mon, 06 Oct 2025 23:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[这篇研究论文提出了一种使用低秩适配器（LoRA）技术来微调小型语言模型的新方法，旨在有效模拟特定用户的行为模式。研究者通过在预训练模型上添加低秩矩阵，实现了参数高效的个性化适配，大幅降低了计算成本。实验结果表明，该方法在用户行为预测任务中表现出色，能够捕捉用户的语言偏好和交互模式。这项技术为个性化AI助手和推荐系统提供了新的解决方案，在保持模型性能的同时显著减少了训练资源需求。 [<a href="https://news.ycombinator.com/item?id=45497568" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Komorebi：Windows平铺式窗口管理器]]></title>
-            <link>https://github.com/LGUG2Z/komorebi</link>
-            <guid isPermaLink="false">https://github.com/LGUG2Z/komorebi</guid>
-            <pubDate>Mon, 06 Oct 2025 23:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[Komorebi是一个专为Windows系统设计的平铺式窗口管理器，提供了类似Linux环境下i3或Sway的窗口管理体验。该工具支持键盘快捷键操作，可以自动排列和管理窗口，提高工作效率。Komorebi具有高度可配置性，用户可以自定义布局、快捷键和工作区设置。它支持多显示器环境，并提供API接口供其他应用程序集成。作为开源项目，Komorebi为Windows用户带来了强大的窗口管理功能，特别适合开发者和需要同时处理多个窗口的专业用户。 [<a href="https://news.ycombinator.com/item?id=45497551" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025东京电玩展便携式游戏设备观察总结]]></title>
-            <link>https://boilingsteam.com/portable-gaming-take-away-from-tokyo-game-show-2025/</link>
-            <guid isPermaLink="false">https://boilingsteam.com/portable-gaming-take-away-from-tokyo-game-show-2025/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025年东京电玩展展示了便携式游戏设备的最新发展趋势。各大厂商纷纷推出新一代掌机，强调性能提升和续航优化。Steam Deck的竞争对手们带来了更轻薄的机身设计，同时保持了强大的游戏性能。展会还突出了云游戏在便携设备上的应用，以及跨平台游戏体验的改善。日本厂商特别注重本地化游戏内容和独特的游戏玩法创新。整体来看，便携式游戏市场正朝着更专业化、多样化的方向发展，为玩家提供更丰富的移动游戏选择。 [<a href="https://news.ycombinator.com/item?id=45497528" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[拉里·埃里森是特朗普美国中的'影子总统']]></title>
-            <link>https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/</link>
-            <guid isPermaLink="false">https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[文章深入分析了甲骨文公司创始人拉里·埃里森在特朗普政府中的影响力。作为科技界的重要人物，埃里森通过其政治捐款和商业网络，在政策制定中发挥着重要作用。报道揭示了埃里森与政府官员的密切关系，特别是在科技政策和数据安全领域的决策影响。文章探讨了这种科技巨头与政治权力结合的现象，以及其对民主治理的潜在影响。埃里森被描述为在幕后施加影响的重要人物，其商业利益与政策制定之间的界限变得模糊。 [<a href="https://news.ycombinator.com/item?id=45497511" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI与AMD宣布计算合作，标志着AI繁荣新阶段]]></title>
-            <link>https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42</link>
-            <guid isPermaLink="false">https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42</guid>
-            <pubDate>Mon, 06 Oct 2025 23:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI与AMD达成重要合作协议，标志着AI芯片市场格局的重大变化。根据协议，AMD将为OpenAI提供定制化的AI芯片解决方案，减少对NVIDIA的依赖。这一合作反映了AI行业对供应链多元化的迫切需求，以及降低计算成本的持续努力。AMD的加入将为AI训练和推理提供更多选择，促进市场竞争。分析师认为，这一交易将加速AI技术的普及，为更多企业提供可负担的AI计算能力。这也预示着AI硬件市场进入更加多元化的竞争阶段。 [<a href="https://news.ycombinator.com/item?id=45497497" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[哈马斯据报要求释放参与10月7日大屠杀的武装分子]]></title>
-            <link>https://www.telegraph.co.uk/world-news/2025/10/06/hamas-demand-release-oct-7-attackers-exchange-for-hostages/</link>
-            <guid isPermaLink="false">https://www.telegraph.co.uk/world-news/2025/10/06/hamas-demand-release-oct-7-attackers-exchange-for-hostages/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[据报道，哈马斯在停火谈判中提出要求释放参与去年10月7日袭击事件的武装分子，作为交换人质的条件。这一要求引起了国际社会的强烈反应，多国政府表示难以接受。谈判陷入僵局，人道主义危机持续加剧。以色列方面坚决拒绝释放被认定为恐怖分子的袭击参与者。这一争议凸显了冲突各方在核心问题上的深刻分歧，也使和平进程面临新的挑战。国际调解方正努力寻找折中方案，但前景不容乐观。 [<a href="https://news.ycombinator.com/item?id=45497487" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Passt – 插入简单Socket传输]]></title>
-            <link>https://passt.top/passt/about/</link>
-            <guid isPermaLink="false">https://passt.top/passt/about/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[Passt是一个轻量级的网络传输工具，提供了简单的Socket传输解决方案。该项目旨在为容器和虚拟机环境提供高效的网络连接，同时保持最小的资源占用。Passt支持TCP和UDP协议，能够处理复杂的网络场景。它特别适合在无根容器环境中使用，提供了传统网络栈的替代方案。项目强调安全性和性能，通过优化的网络路径减少延迟。Passt的开源特性使其能够被广泛采用和定制，为现代云计算和容器化部署提供了灵活的网络解决方案。 [<a href="https://news.ycombinator.com/item?id=45497474" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 希尔伯特空间中的随机梯度]]></title>
-            <link>https://zenodo.org/records/17282291</link>
-            <guid isPermaLink="false">https://zenodo.org/records/17282291</guid>
-            <pubDate>Mon, 06 Oct 2025 23:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[这项研究探讨了在希尔伯特空间中应用随机梯度下降算法的理论基础和实际应用。研究者扩展了传统的欧几里得空间中的优化方法，将其推广到更一般的希尔伯特空间框架下。论文详细分析了算法的收敛性、稳定性和计算效率。这项工作对函数优化、机器学习和信号处理等领域具有重要意义，特别是在处理无限维问题时提供了新的理论工具。研究还包含了数值实验，验证了理论分析的正确性，并展示了在实际问题中的应用潜力。 [<a href="https://news.ycombinator.com/item?id=45497464" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI新应用惹怒用户]]></title>
-            <link>https://www.sfgate.com/tech/article/openai-sora-video-copyright-wall-21087396.php</link>
-            <guid isPermaLink="false">https://www.sfgate.com/tech/article/openai-sora-video-copyright-wall-21087396.php</guid>
-            <pubDate>Mon, 06 Oct 2025 23:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI推出的新应用Sora引发了用户强烈不满，主要原因是版权保护措施过于严格。用户反映该视频生成工具设置了过多的使用限制，包括内容审核机制和版权检测墙，严重影响了创作自由。许多创作者表示，这些限制使得工具的实际应用价值大打折扣。OpenAI方面表示，这些措施是为了防止版权侵权和不当内容生成，但用户认为过于保守。这一事件引发了关于AI工具版权保护与创作自由平衡的广泛讨论，也反映了AI公司在法律风险控制方面的谨慎态度。 [<a href="https://news.ycombinator.com/item?id=45497453" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 混沌加速器的人生]]></title>
-            <link>https://juanpabloaj.com/2025/10/06/life-as-an-accelerator-of-caos/</link>
-            <guid isPermaLink="false">https://juanpabloaj.com/2025/10/06/life-as-an-accelerator-of-caos/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[这篇博客文章以独特视角探讨了生活中混沌与秩序的关系。作者将人生比作混沌加速器，认为不确定性实际上是成长和创新的催化剂。文章分享了个人的经历，说明如何在不稳定的环境中找到机会和意义。作者强调，接受混沌并学会在其中导航，比追求完美的秩序更能带来真实的成长。文章还提供了实用的心理技巧，帮助读者在面对不确定性时保持平衡。这篇反思性文章为现代人在快速变化的世界中寻找立足点提供了新的思考框架。 [<a href="https://news.ycombinator.com/item?id=45497446" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sora 2本地测试环境]]></title>
-            <link>https://github.com/alasano/sora-2-playground</link>
-            <guid isPermaLink="false">https://github.com/alasano/sora-2-playground</guid>
-            <pubDate>Mon, 06 Oct 2025 23:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[Sora 2本地测试环境是一个开源项目，为开发者提供了在本地环境中测试和实验Sora 2视频生成模型的工具。该项目简化了模型部署流程，提供了友好的用户界面和API接口。开发者可以通过这个测试环境快速验证视频生成效果，调整参数，并进行性能测试。项目包含了详细的文档和示例代码，降低了使用门槛。这个本地测试环境特别适合研究人员和开发者进行原型开发和实验，避免了云端部署的复杂性和成本。项目持续更新，跟进Sora模型的最新功能。 [<a href="https://news.ycombinator.com/item?id=45497439" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[软饮料消费与非酒精性脂肪肝病风险增加相关]]></title>
-            <link>https://www.sciencedirect.com/science/article/pii/S1665268124003491</link>
-            <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1665268124003491</guid>
-            <pubDate>Mon, 06 Oct 2025 23:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[最新研究揭示了软饮料消费与非酒精性脂肪肝病（NAFLD）之间的强关联。研究发现，经常饮用含糖软饮料的人群患NAFLD的风险显著增加。研究分析了大量样本数据，考虑了年龄、性别、BMI等多种影响因素。结果表明，即使是适量饮用软饮料也可能增加肝脏脂肪积累的风险。研究者建议减少软饮料摄入，选择更健康的饮品替代。这项研究为公共健康政策提供了重要参考，强调了饮食干预在预防代谢性疾病中的重要性。研究还呼吁食品工业减少产品中的糖分含量。 [<a href="https://news.ycombinator.com/item?id=45497430" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2倍性能提升，节省30万美元：用Rust重写关键服务的案例研究]]></title>
-            <link>https://wxiaoyun.com/blog/rust-rewrite-case-study/</link>
-            <guid isPermaLink="false">https://wxiaoyun.com/blog/rust-rewrite-case-study/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[这个案例研究详细介绍了使用Rust语言重写关键服务的成功经验。项目实现了性能翻倍，同时节省了30万美元的运营成本。文章对比了原系统（使用Python/Node.js）与Rust版本在内存使用、CPU利用率和响应时间等方面的差异。Rust的内存安全特性和零成本抽象带来了显著的性能提升。团队分享了迁移过程中的挑战和解决方案，包括并发处理、错误处理和生态系统选择。案例还讨论了Rust在团队中的学习曲线和长期维护优势。这个成功案例为其他考虑Rust迁移的团队提供了宝贵的实践经验。 [<a href="https://news.ycombinator.com/item?id=45497426" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI DevDay直播：奥特曼评论演示公司'奇怪'的股价波动]]></title>
-            <link>https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html</guid>
-            <pubDate>Mon, 06 Oct 2025 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[在OpenAI开发者大会上，CEO奥特曼就演示合作伙伴公司的异常股价波动发表了评论。他称这些股价变动为&quot;奇怪&quot;，强调OpenAI不参与市场投机。大会展示了多项新技术和产品更新，包括改进的API和新的开发者工具。奥特曼还与前苹果设计师乔尼·艾维讨论了AI产品设计的未来。现场演示了多个实际应用案例，展示了OpenAI技术的最新进展。大会吸引了全球开发者的关注，讨论了AI伦理、安全和商业化等热门话题。奥特曼重申了OpenAI对负责任AI发展的承诺。 [<a href="https://news.ycombinator.com/item?id=45497394" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[从引擎到纳米芯片：物理学家重新定义热传导方式]]></title>
-            <link>https://phys.org/news/2025-10-nanochips-physicists-redefine.html</link>
-            <guid isPermaLink="false">https://phys.org/news/2025-10-nanochips-physicists-redefine.html</guid>
-            <pubDate>Mon, 06 Oct 2025 23:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[物理学家在热传导研究方面取得突破性进展，重新定义了从宏观引擎到纳米芯片尺度的热传递机制。研究团队发现了新的热传导定律，适用于不同尺度的系统。这一发现对纳米技术的发展具有重要意义，特别是在芯片散热和热管理方面。研究结合了理论分析和实验验证，揭示了量子效应在纳米尺度热传导中的关键作用。这项成果有望推动更高效的能源转换设备和更快的计算芯片设计。研究还预测了在极端条件下的热传导行为，为未来技术发展提供了理论基础。 [<a href="https://news.ycombinator.com/item?id=45497385" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[微软正在修补更多让你无需微软账户即可使用Windows 11的漏洞]]></title>
+            <title><![CDATA[微软正在修补更多允许你无需 MS 账户即可使用 Windows 11 的漏洞]]></title>
             <link>https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</link>
             <guid isPermaLink="false">https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</guid>
             <pubDate>Mon, 06 Oct 2025 23:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[微软继续加强对Windows 11本地账户绕过方法的封堵，修复了多个允许用户跳过微软账户登录的漏洞。这些措施包括更新安装程序和改进账户验证流程。微软表示，这些改动是为了提高安全性和提供更好的用户体验。然而，一些用户对强制使用微软账户的做法表示不满，认为这限制了隐私和自主权。技术社区不断寻找新的绕过方法，形成了持续的猫鼠游戏。这一争议反映了软件厂商在安全控制和用户自主权之间的平衡难题。微软的做法也引发了关于数字主权和数据隐私的广泛讨论。 [<a href="https://news.ycombinator.com/item?id=45497384" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[微软正在采取措施，封堵用户在安装或设置 Windows 11 时跳过创建微软账户的漏洞。此前，用户可以通过一些特定方法（如断开网络或使用特定命令）来仅创建本地账户。微软通过更新系统安装流程，使得这些绕过方法失效，推动用户更多地使用其在线服务生态。 [<a href="https://news.ycombinator.com/item?id=45497384" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Servo GTK]]></title>
-            <link>https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/</link>
-            <guid isPermaLink="false">https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[Servo GTK项目宣布了重要进展，将Servo浏览器引擎与GTK工具包集成，为Linux桌面环境提供了新的渲染选项。这个集成利用了Servo的并行渲染架构和GTK的成熟界面框架，提供了高性能的网页浏览体验。项目重点优化了内存使用和渲染速度，特别适合资源受限的环境。开发者介绍了API设计和插件架构，便于应用集成。Servo GTK还支持现代Web标准，包括CSS Grid和WebAssembly。这个开源项目为浏览器多样性和Linux生态系统发展贡献力量，为用户提供了除主流浏览器外的更多选择。 [<a href="https://news.ycombinator.com/item?id=45497380" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[RediShell：Redis 中的严重远程代码执行漏洞]]></title>
+            <link>https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</link>
+            <guid isPermaLink="false">https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</guid>
+            <pubDate>Mon, 06 Oct 2025 22:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[安全公司 Wiz 发现了 Redis 数据库中的一个严重远程代码执行漏洞，编号为 CVE-2025-49844，并将其命名为 RediShell。该漏洞允许攻击者在特定条件下，无需身份验证即可在 Redis 服务器上执行任意命令，从而完全控制服务器。文章详细解释了漏洞的原理和利用方式，并建议用户尽快升级到最新版本的 Redis 以修复此漏洞。 [<a href="https://news.ycombinator.com/item?id=45497027" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[T-Mobile即将开始逐步淘汰LTE]]></title>
-            <link>https://tmo.report/2025/10/exclusive-t-mobile-to-begin-lte-phase-out/</link>
-            <guid isPermaLink="false">https://tmo.report/2025/10/exclusive-t-mobile-to-begin-lte-phase-out/</guid>
-            <pubDate>Mon, 06 Oct 2025 23:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[T-Mobile宣布计划开始逐步淘汰LTE网络，为5G和未来技术腾出频谱资源。这一过渡将分阶段进行，首先从覆盖重叠的区域开始。运营商表示，LTE用户将需要升级到支持5G的设备，但会提供多种过渡方案和优惠措施。T Mobile强调，5G网络提供了更好的速度、延迟和容量优势。这一举措反映了行业向5G全面转型的趋势。分析师认为，这将加速5G普及和新技术应用的部署。T-Mobile承诺在过渡期间保持服务质量，并为受影响的客户提供支持。整个淘汰过程预计需要2-3年时间完成。 [<a href="https://news.ycombinator.com/item?id=45497379" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[CodeMender：一个用于代码安全的 AI 代理]]></title>
+            <link>https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</link>
+            <guid isPermaLink="false">https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</guid>
+            <pubDate>Mon, 06 Oct 2025 21:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[DeepMind 推出了 CodeMender，一个专为代码安全设计的 AI 代理。它能够自动检测、定位并修复代码中的安全漏洞。文章称，CodeMender 在多个基准测试中表现出色，能有效帮助开发者提升代码安全性，减少因漏洞导致的风险。其目标是成为开发者的 &quot;安全助手&quot;，将繁琐的安全审计工作自动化。 [<a href="https://news.ycombinator.com/item?id=45496533" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WebGPU 和编译 WGSL 的代价]]></title>
+            <link>https://hugodaniel.com/posts/webgpu-diagnostics/</link>
+            <guid isPermaLink="false">https://hugodaniel.com/posts/webgpu-diagnostics/</guid>
+            <pubDate>Mon, 06 Oct 2025 21:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[本文深入探讨了 WebGPU API 中着色器语言（WGSL）的编译过程及其性能开销。作者分析了浏览器将 WGSL 代码转换为 GPU 可执行指令的各个阶段，并讨论了不同浏览器的实现差异。文章指出，编译 WGSL 可能成为性能瓶颈，并提供了一些诊断工具和优化策略，帮助开发者理解和减少这一开销。 [<a href="https://news.ycombinator.com/item?id=45496406" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Valorant 的 128-Tick 服务器 (2020)]]></title>
+            <link>https://technology.riotgames.com/news/valorants-128-tick-servers</link>
+            <guid isPermaLink="false">https://technology.riotgames.com/news/valorants-128-tick-servers</guid>
+            <pubDate>Mon, 06 Oct 2025 20:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇来自拳头游戏的技术博客详细解释了《Valorant》为何选择使用 128-tick 服务器。文章阐述了 tick rate（服务器更新频率）对竞技射击游戏体验的影响，解释了更高的 tick rate 如何提供更精确、更一致的玩家交互和命中判定。Riot Games 通过自研的服务器架构和网络优化，确保了在全球范围内提供低延迟、高精度的 128-tick 体验。 [<a href="https://news.ycombinator.com/item?id=45496146" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[被阻止为 lodash 贡献代码]]></title>
+            <link>https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</link>
+            <guid isPermaLink="false">https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[作者讲述了自己尝试为流行的 JavaScript 库 lodash 贡献代码却被项目维护者阻止的经历。文章详细描述了作者提交的 pull request 内容、与维护者的沟通过程，以及最终被组织封禁的结果。作者借此探讨了开源社区中沟通、贡献门槛以及维护者与贡献者之间可能存在的矛盾。 [<a href="https://news.ycombinator.com/item?id=45496005" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[将 Cython 翻译成 Mojo 的初次尝试]]></title>
+            <link>https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</link>
+            <guid isPermaLink="false">https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[本文记录了作者尝试将 scikit-learn 库中用 Cython 编写的 DBSCAN 算法核心循环翻译成 Mojo 语言的实践过程。文章对比了 Cython 和 Mojo 的语法特性、性能表现和开发体验，分享了在翻译过程中遇到的挑战和解决方案。这次尝试旨在探索 Mojo 作为 Python 高性能计算替代方案的潜力。 [<a href="https://news.ycombinator.com/item?id=45495738" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[我在双重含义文字艺术中的生活]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/</link>
+            <guid isPermaLink="false">https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/</guid>
+            <pubDate>Mon, 06 Oct 2025 20:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了 &quot;Ambigram&quot;（双重含义文字或回文构词法）这种艺术形式，即一个词或短语可以从不同角度（如旋转180度）读出相同或不同的含义。作者分享了自己对 ambigram 的迷恋、创作经历以及这种艺术如何融合了语言学、设计和哲学思考，展现了文字游戏的奇妙魅力。 [<a href="https://news.ycombinator.com/item?id=45495711" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apps SDK]]></title>
+            <link>https://developers.openai.com/apps-sdk/</link>
+            <guid isPermaLink="false">https://developers.openai.com/apps-sdk/</guid>
+            <pubDate>Mon, 06 Oct 2025 18:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[OpenAI 推出了 Apps SDK，这是一个旨在简化构建自定义 AI 应用的软件开发工具包。该 SDK 提供了一套工具和库，帮助开发者快速集成 OpenAI 的模型，管理用户认证、数据处理和应用状态。它旨在降低开发门槛，让开发者能更专注于应用逻辑本身，从而构建功能丰富的 AI 驱动应用。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI ChatKit]]></title>
+            <link>https://github.com/openai/chatkit-js</link>
+            <guid isPermaLink="false">https://github.com/openai/chatkit-js</guid>
+            <pubDate>Mon, 06 Oct 2025 17:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[OpenAI ChatKit 是一个开源的 JavaScript 库，旨在帮助开发者快速构建功能丰富的聊天界面。它提供了预构建的 UI 组件（如消息气泡、输入框、会话列表）、消息处理逻辑和与 OpenAI API 的集成，支持流式响应、工具调用等高级功能。该库旨在简化聊天应用的前端开发流程。 [<a href="https://news.ycombinator.com/item?id=45493718" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UpCodes (YC S17) 正在招聘美洲地区的远程工程师]]></title>
+            <link>https://up.codes/careers?utm_source=HN</link>
+            <guid isPermaLink="false">https://up.codes/careers?utm_source=HN</guid>
+            <pubDate>Mon, 06 Oct 2025 17:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[UpCodes，一家 Y Combinator S17 孵化的公司，正在招聘美洲地区的远程工程师。该公司专注于为建筑行业提供规范管理和协作平台。招聘信息详细介绍了职位要求、技术栈（如 React, Python, Go 等）以及公司文化，旨在寻找对改变传统行业充满热情的软件工程师加入其团队。 [<a href="https://news.ycombinator.com/item?id=45493453" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ladybird 浏览器在 web-platform-tests 上通过率达到 Apple 90% 的阈值]]></title>
+            <link>https://twitter.com/awesomekling/status/1974781722953953601</link>
+            <guid isPermaLink="false">https://twitter.com/awesomekling/status/1974781722953953601</guid>
+            <pubDate>Mon, 06 Oct 2025 16:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[这条推文宣布，由社区驱动的 Ladybird 浏览器项目在 Web 平台测试套件中的通过率已经达到了 90%，这个成绩与苹果的 Safari 浏览器持平。这是一个重要的里程碑，表明 Ladybird 在实现对 Web 标准的兼容性方面取得了显著进展，缩小了与主流浏览器的差距。 [<a href="https://news.ycombinator.com/item?id=45493358" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OpenZL：一个开源的、格式感知的压缩框架]]></title>
+            <link>https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</guid>
+            <pubDate>Mon, 06 Oct 2025 16:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[Meta 开源了 OpenZL，一个新型的压缩框架。与传统压缩工具不同，OpenZL 是 &quot;格式感知&quot;的，它能根据被压缩数据的特定格式（如 JSON, Parquet）进行优化，从而实现比通用压缩算法更高的压缩率和更快的速度。该框架旨在为大数据处理和存储场景提供更高效的解决方案。 [<a href="https://news.ycombinator.com/item?id=45492803" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[发布 HN：Grapevine (YC S19) – 一个真正有效的公司 GPT]]></title>
+            <link>https://getgrapevine.ai/</link>
+            <guid isPermaLink="false">https://getgrapevine.ai/</guid>
+            <pubDate>Mon, 06 Oct 2025 15:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[Grapevine 是一个 Y Combinator 孵化的公司，推出了一个专为企业设计的 GPT 平台。该平台强调 &quot;真正有效&quot;，通过深度集成公司内部的知识库（如文档、Slack 消息、代码库），为员工提供准确、上下文相关的答案，旨在成为一个智能的企业内部知识助手，提升信息检索和决策效率。 [<a href="https://news.ycombinator.com/item?id=45492564" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mise：Monorepo 任务]]></title>
+            <link>https://github.com/jdx/mise/discussions/6564</link>
+            <guid isPermaLink="false">https://github.com/jdx/mise/discussions/6564</guid>
+            <pubDate>Mon, 06 Oct 2025 14:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[这篇 GitHub 讨论探讨了在 Mise（一个开发环境管理工具）中管理 monorepo（单体仓库）任务的功能需求和设计思路。用户和开发者交流了如何定义、运行和组织 monorepo 中不同子项目的任务，包括依赖关系、并行执行等。讨论旨在为 Mise 添加更强大、更灵活的 monorepo 支持功能。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN：Kent Dybvig 的 Scheme 虚拟机（堆内存模型）的 400 行 C 语言实现]]></title>
+            <link>https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</link>
+            <guid isPermaLink="false">https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</guid>
+            <pubDate>Mon, 06 Oct 2025 14:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[这个 GitHub Gist 展示了一个用约 400 行 C 语言实现的 Scheme 虚拟机，其设计灵感来自 Kent Dybvig（Chez Scheme 的作者）的工作。该实现采用了堆内存模型，能够解释执行 Scheme 语言的一个核心子集。这是一个极简但功能完整的教学性项目，展示了如何从底层构建一个 Lisp 方言的解释器。 [<a href="https://news.ycombinator.com/item?id=45491609" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AMD 与 OpenAI 签署 AI 芯片供应协议，并获得其 10% 股权的认购权]]></title>
+            <link>https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</link>
+            <guid isPermaLink="false">https://www.reuters.com/business/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-take-10-stake-2025-10-06/</guid>
+            <pubDate>Mon, 06 Oct 2025 12:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[据路透社报道，AMD 与 OpenAI 签署了一项协议，将为 OpenAI 提供 AI 芯片。作为交易的一部分，OpenAI 还授予 AMD 一项期权，允许其收购 OpenAI 最高 10% 的股份。这笔交易标志着 AMD 在与英伟达竞争的 AI 芯片市场中取得了重大突破，也反映了 OpenAI 寻求芯片供应商多元化的战略。 [<a href="https://news.ycombinator.com/item?id=45490549" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show HN：我构建了一个用于撰写技术/科学文档的平台]]></title>
+            <link>https://www.monsterwriter.com</link>
+            <guid isPermaLink="false">https://www.monsterwriter.com</guid>
+            <pubDate>Mon, 06 Oct 2025 10:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[作者发布了名为 MonsterWriter 的在线平台，专为撰写技术文档、科学论文和报告而设计。该平台专注于提供清晰的写作体验、高效的版本控制、无缝的图表和公式集成，以及多种格式的导出功能（如 LaTeX, PDF, Word）。其目标是解决传统写作工具在技术写作场景中的痛点，提高科研人员和技术作者的写作效率。 [<a href="https://news.ycombinator.com/item?id=45489999" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
