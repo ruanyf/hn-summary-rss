@@ -4,149 +4,149 @@
         <title>Hacker News 中文摘要 Feed</title>
         <link>https://hn.wangbase.com</link>
         <description>Hacker News 文章链接的中文摘要</description>
-        <lastBuildDate>Tue, 07 Oct 2025 12:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 13:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Provision (YC S22) 正在招聘]]></title>
+            <title><![CDATA[3M可能摆脱有毒化学物质PFAS的制造遗产]]></title>
+            <link>https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/</guid>
+            <pubDate>Tue, 07 Oct 2025 13:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[本文探讨了3M公司如何应对其PFAS（全氟烷基物质）制造遗产所带来的环境挑战。文章详细描述了3M在处理这些被称为&quot;永久化学物质&quot;的污染物方面的策略转变，包括公司承诺停止生产PFAS产品、投入数十亿美元用于环境清理以及开发更安全的替代品。报道还分析了3M如何通过法律和解和技术创新来减轻其环境责任，同时保持业务竞争力。这一转型被视为化工行业应对环境责任的重要案例研究。 [<a href="https://news.ycombinator.com/item?id=45502748" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Erlang ARM32 JIT诞生]]></title>
+            <link>https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3</link>
+            <guid isPermaLink="false">https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3</guid>
+            <pubDate>Tue, 07 Oct 2025 13:00:25 GMT</pubDate>
+            <content:encoded><![CDATA[GRISP团队宣布Erlang编程语言的ARM32架构即时编译（JIT）实现正式发布。这一突破性进展为Erlang在嵌入式系统和物联网设备上的性能带来了显著提升。文章详细介绍了JIT编译器的工作原理、性能基准测试结果以及与解释器模式的对比。新实现的JIT编译器能够将Erlang字节码动态编译为本地ARM32机器码，大幅提高了执行效率，特别适合资源受限的嵌入式环境。这一里程碑式的开发为Erlang生态系统在嵌入式领域的应用开辟了新的可能性。 [<a href="https://news.ycombinator.com/item?id=45502543" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[高通将收购Arduino]]></title>
+            <link>https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i</link>
+            <guid isPermaLink="false">https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i</guid>
+            <pubDate>Tue, 07 Oct 2025 13:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[高通公司宣布收购开源硬件平台Arduino，此举旨在加速开发者对物联网技术的访问和创新。收购完成后，Arduino将继续保持其开源精神，同时获得高通在芯片技术、5G连接和AI处理方面的强大支持。这一战略合并将使Arduino用户能够更容易地创建高性能的物联网解决方案，从简单的原型到复杂的商业部署。高通表示，此次收购将推动边缘计算和智能设备的发展，为全球数百万开发者提供更强大的工具和平台。 [<a href="https://news.ycombinator.com/item?id=45502541" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lua的演变，继续[PDF]]]></title>
+            <link>https://www.lua.org/doc/cola.pdf</link>
+            <guid isPermaLink="false">https://www.lua.org/doc/cola.pdf</guid>
+            <pubDate>Tue, 07 Oct 2025 12:54:14 GMT</pubDate>
+            <content:encoded><![CDATA[这份PDF文档深入探讨了Lua编程语言的发展历程和最新演进。文章从Lua的起源开始，详细介绍了其设计哲学、语言特性的演进过程以及在不同应用领域的成功案例。文档特别关注了Lua在游戏开发、嵌入式系统和脚本编程方面的应用，展示了语言如何通过简洁而强大的设计原则保持其活力。作者还讨论了Lua社区的发展、标准库的扩展以及未来可能的改进方向，为理解这门轻量级编程语言的独特魅力提供了全面的视角。 [<a href="https://news.ycombinator.com/item?id=45502502" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Provision (YC S22)正在招聘]]></title>
             <link>https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada</link>
             <guid isPermaLink="false">https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada</guid>
             <pubDate>Tue, 07 Oct 2025 12:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[Provision 是一家 Y Combinator S22 孵化的公司，目前正在招聘全职全栈软件工程师。该职位要求在加拿大多伦多现场工作。作为一家初创公司，Provision 正在积极扩充其技术团队，寻找有经验的开发者来帮助构建和扩展他们的产品平台。这个机会适合想要加入早期创业公司、影响产品方向并获得股权激励的工程师。求职者需要具备全栈开发经验，熟悉现代 Web 技术栈，并能够在快节奏的创业环境中工作。 [<a href="https://news.ycombinator.com/item?id=45502387" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[YC S22孵化公司Provision正在加拿大多伦多招聘全栈软件工程师。该公司专注于为企业提供创新的供应链管理解决方案，利用现代技术栈优化库存管理和物流效率。职位要求应聘者具备扎实的编程基础，熟悉前后端开发技术，并有构建可扩展系统的经验。公司提供有竞争力的薪酬、股权激励以及在快速成长环境中工作的机会。这是一个加入YC孵化公司、参与解决真实世界商业挑战的绝佳机会，特别适合希望在创业环境中成长的开发者。 [<a href="https://news.ycombinator.com/item?id=45502387" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[英国弃风成本上升背后的隐形推手：输电网络不可用性]]></title>
-            <link>https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/</link>
-            <guid isPermaLink="false">https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/</guid>
-            <pubDate>Tue, 07 Oct 2025 10:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[英国能源研究中心的最新研究表明，输电网络的不可用性是导致英国弃风成本上升的主要推手。当风力发电量超过电网输送能力时，运营商不得不关闭风力发电机，这就是所谓的&quot;弃风&quot;。研究显示，输电网络的限制和不可用性造成了巨大的经济损失和资源浪费。随着英国继续推进可再生能源转型，解决输电网络瓶颈问题变得尤为重要。专家建议需要加快输电基础设施的升级改造，提高网络的灵活性和可靠性，以最大限度地利用可再生能源，降低系统成本并实现碳中和目标。 [<a href="https://news.ycombinator.com/item?id=45501488" target="_blank">评论</a>]]]></content:encoded>
+            <title><![CDATA[当金钱充裕时，知识才是真正的财富（2020）]]></title>
+            <link>https://www.lesswrong.com/posts/wEebEiPpEwjYvnyqq/when-money-is-abundant-knowledge-is-the-real-wealth</link>
+            <guid isPermaLink="false">https://www.lesswrong.com/posts/wEebEiPpEwjYvnyqq/when-money-is-abundant-knowledge-is-the-real-wealth</guid>
+            <pubDate>Tue, 07 Oct 2025 12:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[这篇文章探讨了在现代经济中，当物质资源相对充裕时，知识如何成为真正的财富形式。作者认为，在信息和数字时代，获取和应用知识的能力比传统的金融资本更具价值。文章分析了知识经济的特征，包括知识的非竞争性、网络效应以及指数级增长潜力。作者还讨论了个人和组织如何在知识经济中获得竞争优势，强调了终身学习、跨学科思维和有效信息处理的重要性。这篇2020年的文章对理解当代价值创造和财富积累的新模式提供了深刻见解。 [<a href="https://news.ycombinator.com/item?id=45502377" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[类似 Vercel，但开源且支持所有语言]]></title>
+            <title><![CDATA[disk-perf-git-and-pnpm旨在证明macOS上的APFS存在问题]]></title>
+            <link>https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm</link>
+            <guid isPermaLink="false">https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm</guid>
+            <pubDate>Tue, 07 Oct 2025 12:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[这个GitHub项目通过一系列性能测试试图证明macOS的APFS文件系统在处理大量小文件时存在性能问题。项目使用Git和pnpm作为测试场景，展示了APFS在某些操作下相比其他文件系统的性能劣势。开发者提供了详细的测试方法、基准测试结果和性能分析数据，特别关注文件创建、删除和元数据操作的速度。项目引起了开发者社区的广泛关注，促使人们重新审视APFS的设计权衡。虽然苹果官方尚未回应，但这个项目为macOS用户提供了文件系统性能优化的实用建议。 [<a href="https://news.ycombinator.com/item?id=45502173" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GPT-5-Codex是比我更好的AI研究员]]></title>
+            <link>https://www.seangoedecke.com/ai-research-with-codex/</link>
+            <guid isPermaLink="false">https://www.seangoedecke.com/ai-research-with-codex/</guid>
+            <pubDate>Tue, 07 Oct 2025 10:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[作者分享了自己使用GPT-5-Codex进行AI研究的体验，发现这个AI模型在某些方面展现出了超越人类研究员的能力。文章详细描述了作者如何利用Codex进行代码生成、实验设计和数据分析，以及AI在提出创新假设和优化研究流程方面的表现。作者承认，虽然AI在创造力和直觉判断上仍有局限，但在数据处理速度、模式识别和系统性思维方面确实表现出色。这篇反思性文章探讨了AI辅助研究的未来前景，以及人类研究员应该如何调整角色以适应这一新技术范式。 [<a href="https://news.ycombinator.com/item?id=45501326" target="_blank">评论</a>]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[类似Vercel，但开源且支持所有语言]]></title>
             <link>https://github.com/hunvreus/devpush</link>
             <guid isPermaLink="false">https://github.com/hunvreus/devpush</guid>
             <pubDate>Tue, 07 Oct 2025 10:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[Devpush 是一个开源的部署平台，类似于 Vercel，但提供了更广泛的语言支持。这个项目旨在为开发者提供一个简单、高效的部署解决方案，支持多种编程语言和框架。与 Vercel 主要专注于 JavaScript 生态系统不同，Devpush 致力于成为一个通用的部署平台，让不同技术栈的开发者都能享受到现代化的部署体验。项目开源意味着社区可以参与贡献，自定义功能，并且不受商业限制。对于寻找 Vercel 替代方案或需要支持非 JavaScript 技术栈的开发者来说，Devpush 提供了一个有吸引力的选择。 [<a href="https://news.ycombinator.com/item?id=45501279" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[DevPush是一个开源的部署平台，旨在提供类似Vercel的体验，但支持所有编程语言和框架。这个项目允许开发者轻松部署各种类型的应用程序，包括静态网站、后端服务和全栈应用。DevPush支持自动构建、持续集成、域名管理以及SSL证书自动化等功能。与Vercel等商业平台不同，DevPush允许用户在自己的基础设施上部署，提供更大的控制权和成本优势。项目正在积极开发中，已经支持多种主流编程语言和框架，为开发者社区提供了一个真正开放和灵活的部署解决方案。 [<a href="https://news.ycombinator.com/item?id=45501279" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025年诺贝尔物理学奖]]></title>
             <link>https://www.nobelprize.org/prizes/physics/2025/popular-information/</link>
             <guid isPermaLink="false">https://www.nobelprize.org/prizes/physics/2025/popular-information/</guid>
             <pubDate>Tue, 07 Oct 2025 09:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025年诺贝尔物理学奖授予了在量子计算和量子信息领域做出突破性贡献的科学家们。获奖者们的开创性研究为量子计算机的发展奠定了理论基础，并展示了量子纠缠在信息处理中的巨大潜力。他们的工作不仅在基础物理学层面具有重要意义，更为实际应用开辟了道路，包括量子通信、量子传感和量子计算等前沿技术。评委会指出，这些研究成果正在推动第二次量子革命，有望彻底改变我们处理信息的方式，并在密码学、药物研发、材料科学等领域产生深远影响。这一奖项再次凸显了量子技术在现代科学和技术发展中的核心地位。 [<a href="https://news.ycombinator.com/item?id=45501189" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[2025年诺贝尔物理学奖授予了在量子计算和量子通信领域做出突破性贡献的三位科学家。他们的研究为实用化量子计算机的发展奠定了理论基础，并解决了量子信息传输中的关键挑战。获奖者的工作包括开发量子纠错算法、实现长距离量子纠缠以及构建稳定量子比特系统的方法。这些成就不仅推动了基础物理学的前沿，也为量子技术的实际应用开辟了道路，在密码学、药物研发和材料科学等领域具有革命性潜力。诺贝尔委员会强调了这些研究对未来信息社会发展的重要性。 [<a href="https://news.ycombinator.com/item?id=45501189" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[蒙德里安风格的函数式光学入门]]></title>
+            <title><![CDATA[蒙德里安函数光学入门]]></title>
             <link>http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html</link>
             <guid isPermaLink="false">http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html</guid>
             <pubDate>Tue, 07 Oct 2025 09:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章以荷兰画家蒙德里安的几何艺术风格为灵感，深入浅出地介绍了函数式光学的概念和应用。函数式光学是一种强大的编程抽象，用于处理嵌套数据结构的访问和修改，特别是在函数式编程中。文章通过直观的图形示例和代码演示，展示了如何使用光学来操作复杂的数据结构，如镜头、棱镜和遍历等概念。这种方法让原本复杂的函数式编程概念变得更加易于理解和掌握。作者强调，函数式光学不仅提高了代码的可读性和可维护性，还提供了更加声明式的数据处理方式。这篇文章适合想要深入学习函数式编程范式的开发者阅读。 [<a href="https://news.ycombinator.com/item?id=45501114" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章以荷兰画家蒙德里安的几何抽象艺术为比喻，生动介绍了函数式编程中的光学（Optics）概念。作者通过将复杂的数据结构操作类比为蒙德里安的矩形构图，帮助读者理解Lens、Prism和Traversal等抽象概念。文章采用循序渐进的方式，从基本的getter/setter操作开始，逐步引入更高级的组合和变换技术。每个概念都配有清晰的代码示例和视觉化的解释，使这些抽象的函数式编程概念变得更加直观易懂。这种独特的教学方法为学习函数式编程提供了一个新颖而有效的视角。 [<a href="https://news.ycombinator.com/item?id=45501114" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[德勤因在44万美元报告中使用AI向澳大利亚政府退款]]></title>
+            <title><![CDATA[德勤在44万美元报告中使用AI后向澳大利亚政府退款]]></title>
             <link>https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</link>
             <guid isPermaLink="false">https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report</guid>
             <pubDate>Tue, 07 Oct 2025 07:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[德勤会计师事务所同意向澳大利亚阿尔巴尼斯政府退还44万美元的咨询费用，原因是该公司在准备一份重要报告时未经授权使用了人工智能工具。这份报告涉及政府政策建议，但德勤被发现使用了AI生成部分内容，违反了合同规定中对人工分析和专业判断的要求。这一事件引发了对咨询行业使用AI工具的广泛讨论，特别是在涉及政府和敏感项目时的合规性问题。澳大利亚政府表示将加强对咨询服务提供商的监管，确保所有工作都符合专业标准和合同要求。德勤承认错误并承诺加强内部审查流程，防止类似事件再次发生。 [<a href="https://news.ycombinator.com/item?id=45500485" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[德勤会计师事务所因在一份价值44万美元的政府报告中不当使用人工智能工具，同意向澳大利亚政府退款。事件起因是德勤在为阿尔巴尼斯政府准备的政策分析报告中使用了未经授权的AI工具，导致报告内容出现事实错误和误导性信息。调查发现，德勤未能适当审查AI生成的内容，违反了合同约定的质量控制标准。这一事件引发了对咨询公司使用AI工具的监管讨论，澳大利亚政府表示将加强对承包商使用AI技术的监督。德勤承诺将改进内部流程，确保未来AI使用的合规性和准确性。 [<a href="https://news.ycombinator.com/item?id=45500485" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[加州法律迫使 Netflix、Hulu 降低广告音量]]></title>
+            <title><![CDATA[加州法律迫使Netflix和Hulu降低广告音量]]></title>
             <link>https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</link>
             <guid isPermaLink="false">https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663</guid>
             <pubDate>Tue, 07 Oct 2025 04:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[加州通过新法律，要求流媒体平台如 Netflix 和 Hulu 必须将广告音量降低到与节目内容相同的水平。这项被称为&quot;CALM Act&quot;的立法旨在解决长期困扰观众的广告音量突然变大的问题。法律要求所有在加州提供服务的流媒体平台必须在规定时间内调整其音频处理系统，确保广告音量不会超过节目平均音量。违反规定的公司将面临罚款。这项法案得到了消费者权益组织的广泛支持，认为这将显著改善观看体验。流媒体公司表示将遵守新规定，但同时也指出技术实现可能需要一些时间。这项法律可能会影响其他州考虑类似的消费者保护措施。 [<a href="https://news.ycombinator.com/item?id=45499281" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[加州通过新法律，要求Netflix、Hulu等流媒体平台降低广告音量，解决长期困扰用户的&quot;广告音量突增&quot;问题。该法案规定流媒体服务必须确保广告音量不超过节目正常音量的标准，违者将面临罚款。这项立法回应了消费者多年来的投诉，许多用户反映广告音量明显大于节目内容，造成听觉不适。法律要求平台在2026年前全面合规，并采用标准化的音量测量技术。此举被视为保护消费者权益的重要措施，其他州也在考虑类似立法。流媒体公司表示将配合新法规，但担心技术实施可能带来的额外成本。 [<a href="https://news.ycombinator.com/item?id=45499281" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Pdoc – 为 Python 项目生成 API 文档]]></title>
+            <title><![CDATA[Pdoc - 为Python项目生成API文档]]></title>
             <link>https://pdoc.dev/</link>
             <guid isPermaLink="false">https://pdoc.dev/</guid>
             <pubDate>Tue, 07 Oct 2025 03:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[Pdoc 是一个现代化的 Python 文档生成工具，能够自动从代码中的 docstring 生成美观的 API 文档。与其他文档工具相比，Pdoc 的优势在于简单易用、零配置、输出美观，并且支持现代 Python 特性。它可以智能地解析类型注解、继承关系、模块导入等信息，生成完整的文档网站。Pdoc 支持多种输出格式，包括静态 HTML 网站，可以轻松部署到 GitHub Pages 或其他静态托管服务。工具还支持自定义主题、搜索功能和交互式示例。对于 Python 开发者来说，Pdoc 提供了一个轻量级但功能强大的文档解决方案，特别适合中小型项目或需要快速生成文档的团队使用。 [<a href="https://news.ycombinator.com/item?id=45499170" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Pdoc是一个专门为Python项目设计的API文档生成工具，能够自动从代码中的docstring生成清晰、美观的HTML文档。该工具支持现代Python语法，包括类型注解、异步函数和数据类等特性。Pdoc的输出文档具有响应式设计，支持深色模式，并提供智能搜索功能。与其他文档工具不同，Pdoc专注于生成简洁的API参考文档，避免了复杂的配置过程。它可以直接从GitHub仓库读取代码，支持实时预览，并能够跨模块链接文档。Pdoc已成为Python开发者社区备受欢迎的文档解决方案，特别适合快速生成和维护项目API文档。 [<a href="https://news.ycombinator.com/item?id=45499170" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[折纸图案解决重大物理难题]]></title>
-            <link>https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/</link>
-            <guid isPermaLink="false">https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/</guid>
-            <pubDate>Tue, 07 Oct 2025 01:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[物理学家们发现，古老的折纸艺术为解决现代物理学中的复杂问题提供了新的思路。研究表明，通过分析折纸图案的几何和拓扑特性，科学家们能够更好地理解材料科学中的应力分布、能量传输和结构稳定性等问题。折纸的数学原理被应用于设计新型超材料、可展开结构和能量吸收系统。这项突破性研究不仅为长期存在的物理难题提供了优雅的解决方案，还催生了跨学科合作的新范式。研究人员相信，折纸启发的数学模型将在软体机器人、航空航天工程和生物医学设备等领域发挥重要作用。这一发现再次证明了传统智慧与现代科学结合的巨大潜力。 [<a href="https://news.ycombinator.com/item?id=45498469" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[打造美观网站所需的最少 CSS (2023)]]></title>
+            <title><![CDATA[创建美观网站所需的最少CSS（2023）]]></title>
             <link>https://thecascade.dev/article/least-amount-of-css/</link>
             <guid isPermaLink="false">https://thecascade.dev/article/least-amount-of-css/</guid>
             <pubDate>Mon, 06 Oct 2025 23:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章探讨了如何用最少的 CSS 代码创建一个视觉上令人满意的网站。作者通过实验和案例分析，展示了现代 CSS 特性如何让开发者用更少的代码实现更好的设计效果。文章重点介绍了 CSS Grid、Flexbox、自定义属性和容器查询等现代技术的威力。通过巧妙地运用这些特性，开发者可以避免冗余的样式代码，同时保持设计的灵活性和可维护性。作者提供了一些实用技巧，如使用 CSS 变量管理主题、利用现代布局系统减少媒体查询、以及选择合适的颜色和字体组合来增强视觉效果。这篇文章对于想要优化 CSS 代码量同时不牺牲设计质量的开发者来说非常有价值。 [<a href="https://news.ycombinator.com/item?id=45497624" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章探讨了如何用最少的CSS代码创建视觉上吸引人的网站。作者通过一系列实验证明，仅需几十行精心设计的CSS就能实现现代化的网站外观。文章分享了关于颜色搭配、字体选择、间距管理和响应式布局的核心原则，展示了如何通过CSS变量和灵活的布局系统最大化代码效率。作者还介绍了一些实用的CSS技巧，如使用现代布局属性、优雅的动画效果和智能的媒体查询。这篇文章为开发者提供了构建轻量级、高性能网站的实用指南，证明了优秀的设计不一定需要复杂的代码。 [<a href="https://news.ycombinator.com/item?id=45497624" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[微软正在修复更多允许你在没有 MS 账户的情况下使用 Windows 11 的漏洞]]></title>
-            <link>https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</link>
-            <guid isPermaLink="false">https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes</guid>
-            <pubDate>Mon, 06 Oct 2025 23:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[微软正在积极修补 Windows 11 系统中允许用户绕过 Microsoft 账户要求、使用本地账户的漏洞。这些漏洞长期以来被技术用户用来避免强制创建和使用 Microsoft 账户。微软最新的系统更新修复了多个已知的绕过方法，包括在设置过程中的某些特定操作序列。虽然微软表示这些修改是为了提高系统安全性和用户体验，但许多用户担心这进一步限制了他们对系统的控制权。技术社区一直在寻找新的绕过方法，但微软似乎决心加强账户政策的执行。这一变化反映了微软推动用户采用其云服务的战略，但也引发了对用户选择权和隐私的讨论。 [<a href="https://news.ycombinator.com/item?id=45497384" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[RediShell：Redis 中的关键远程代码执行漏洞]]></title>
+            <title><![CDATA[RediShell：Redis中的关键远程代码执行漏洞]]></title>
             <link>https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</link>
             <guid isPermaLink="false">https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844</guid>
             <pubDate>Mon, 06 Oct 2025 22:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[安全研究人员在 Redis 数据库中发现了一个严重的远程代码执行漏洞，被命名为 RediShell，编号为 CVE-2025-49844。这个漏洞允许攻击者在受影响的 Redis 服务器上执行任意代码，可能导致数据泄露、系统完全被控制等严重后果。漏洞的根源在于 Redis 处理某些特定命令时的逻辑缺陷，攻击者可以通过精心构造的请求来触发。影响范围包括多个 Redis 版本，数百万台服务器可能面临风险。Redis 团队已经发布了安全更新，强烈建议所有用户立即升级到最新版本。安全专家还建议采取额外的防护措施，如网络隔离、访问控制和监控异常活动，以降低被攻击的风险。 [<a href="https://news.ycombinator.com/item?id=45497027" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[安全研究团队发现了Redis数据库中的一个关键远程代码执行漏洞（CVE-2025-49844），命名为RediShell。该漏洞允许攻击者在特定条件下执行任意代码，对使用Redis的系统构成严重威胁。文章详细分析了漏洞的技术原理，包括触发条件、攻击向量以及潜在影响。研究人员提供了概念验证代码，展示了如何利用此漏洞获得服务器控制权。Redis团队已发布安全补丁，强烈建议所有用户立即更新。文章还提供了临时的缓解措施和检测方法，帮助管理员保护他们的Redis实例免受攻击。这一发现再次强调了数据库安全的重要性。 [<a href="https://news.ycombinator.com/item?id=45497027" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CodeMender：用于代码安全的 AI 代理]]></title>
-            <link>https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</link>
-            <guid isPermaLink="false">https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/</guid>
-            <pubDate>Mon, 06 Oct 2025 21:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[DeepMind 推出了 CodeMender，一个专门用于代码安全的 AI 代理。这个工具利用先进的机器学习技术来自动检测、分析和修复代码中的安全漏洞。CodeMender 能够识别常见的安全问题，如 SQL 注入、跨站脚本、缓冲区溢出等，并提供具体的修复建议。与传统静态分析工具不同，CodeMender 具有上下文理解能力，能够理解代码的业务逻辑，提供更准确的漏洞识别和修复方案。该工具支持多种编程语言，并可以集成到现有的开发工作流程中。DeepMind 表示，CodeMender 的目标是让安全成为开发生命周期中的自然组成部分，帮助开发者在编码阶段就发现和修复安全问题，而不是等到事后补救。 [<a href="https://news.ycombinator.com/item?id=45496533" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apps SDK]]></title>
+            <title><![CDATA[应用程序SDK]]></title>
             <link>https://developers.openai.com/apps-sdk/</link>
             <guid isPermaLink="false">https://developers.openai.com/apps-sdk/</guid>
             <pubDate>Mon, 06 Oct 2025 18:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI 推出了全新的 Apps SDK，为开发者提供了一套完整的工具来构建和部署 AI 驱动的应用程序。这个 SDK 简化了与 OpenAI API 的集成过程，提供了预构建的组件、模板和最佳实践，让开发者能够快速创建功能丰富的 AI 应用。SDK 支持多种编程语言和框架，包括 Python、JavaScript、TypeScript 等，并提供了强大的异步处理、错误处理和重试机制。开发者可以使用这个 SDK 构建各种类型的应用，从简单的聊天机器人到复杂的企业级 AI 解决方案。OpenAI 还提供了详细的文档、示例代码和开发者社区支持，帮助开发者充分利用其 AI 模型的能力。这个 SDK 的发布标志着 OpenAI 在降低 AI 应用开发门槛方面的重要进展。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[OpenAI推出了全新的应用程序SDK，为开发者提供了更便捷的方式来集成OpenAI的各种AI功能到他们的应用中。这个SDK支持多种编程语言，包括Python、JavaScript、Java等，提供了统一的API接口来访问GPT模型、DALL-E图像生成和 Whisper语音识别等服务。SDK包含了丰富的功能，如自动重试机制、流式响应处理、异步调用支持和错误处理。文档详细介绍了如何快速上手，提供了完整的代码示例和最佳实践指南。这个工具包大大降低了开发AI应用的门槛，使开发者能够专注于应用逻辑而不是底层API的复杂性。 [<a href="https://news.ycombinator.com/item?id=45494558" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ladybird 在 web-platform-tests 上通过 Apple 90% 的阈值]]></title>
-            <link>https://twitter.com/awesomekling/status/1974781722953953601</link>
-            <guid isPermaLink="false">https://twitter.com/awesomekling/status/1974781722953953601</guid>
-            <pubDate>Mon, 06 Oct 2025 16:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[Ladybird 浏览器项目在 Web 平台测试中取得了重要里程碑，通过了 Apple 在测试套件中设定的 90% 通过率阈值。这意味着 Ladybird 在网页标准兼容性方面已经达到了主流浏览器的水平。Web 平台测试是衡量浏览器对 HTML、CSS、JavaScript 等 Web 标准支持程度的重要基准。Ladybird 作为一个相对年轻的浏览器项目，能够在短时间内达到如此高的兼容性水平，展示了其开发团队的技术实力和项目的快速进展。这一成就不仅证明了 Ladybird 的技术可行性，也为挑战现有浏览器市场格局奠定了基础。开发团队表示将继续提高测试通过率，目标是在未来达到甚至超过主流浏览器的兼容性水平。 [<a href="https://news.ycombinator.com/item?id=45493358" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OpenZL：一个开源的格式感知压缩框架]]></title>
+            <title><![CDATA[OpenZL：开源格式感知压缩框架]]></title>
             <link>https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</link>
             <guid isPermaLink="false">https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/</guid>
             <pubDate>Mon, 06 Oct 2025 16:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[Meta 开源了 OpenZL，这是一个创新的格式感知压缩框架，能够根据不同数据格式的特点自动选择最优的压缩策略。与传统的通用压缩工具不同，OpenZL 通过深度学习模型来理解数据的内在结构和模式，从而实现更高的压缩率和更快的处理速度。该框架支持多种数据格式，包括文本、图像、音频和视频等，并且可以轻松扩展到新的格式。OpenZL 采用了模块化设计，开发者可以根据需要组合不同的压缩算法和优化策略。Meta 在内部大规模使用该框架，显著降低了存储成本和网络传输开销。开源后，OpenZL 有望成为大数据处理、云计算和内容分发等领域的标准压缩解决方案，推动整个行业在数据压缩技术方面的进步。 [<a href="https://news.ycombinator.com/item?id=45492803" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[Facebook（现Meta）开源了OpenZL，一个创新的格式感知压缩框架，能够根据数据类型自动选择最优的压缩算法。与传统压缩工具不同，OpenZL能够识别数据格式（如JSON、Protocol Buffers、图像等），并应用最适合该格式的压缩策略。该框架支持可插拔的压缩器架构，允许开发者添加自定义压缩算法。测试显示，OpenZL在各种数据类型上都能提供比通用压缩工具更好的压缩率和性能。Meta已经在内部大规模使用该框架，处理每天数PB的数据。开源版本包含了完整的文档、性能基准测试和集成示例，为开发者社区提供了一个强大的数据压缩解决方案。 [<a href="https://news.ycombinator.com/item?id=45492803" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mise：Monorepo 任务]]></title>
+            <title><![CDATA[Mise：Monorepo任务]]></title>
             <link>https://github.com/jdx/mise/discussions/6564</link>
             <guid isPermaLink="false">https://github.com/jdx/mise/discussions/6564</guid>
             <pubDate>Mon, 06 Oct 2025 14:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[Mise 项目正在讨论和开发针对 Monorepo 的任务管理功能。Monorepo 是一种将多个相关项目存储在单一代码库中的开发模式，虽然在代码共享和一致性方面有优势，但也带来了构建、测试和部署的复杂性。Mise 的新功能旨在简化 Monorepo 中的任务执行，包括依赖管理、并行构建、增量更新等。讨论中提到了支持多种任务运行器、智能缓存、以及与现有工具的兼容性等关键特性。社区成员积极分享了他们在 Monorepo 管理中的经验和需求，帮助开发团队确定功能的优先级。这些改进将使 Mise 成为管理大型代码库的更强大工具，特别适合采用微服务架构或多包发布策略的团队使用。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这个GitHub讨论探讨了Mise工具在管理Monorepo（单一代码库）项目中的任务管理功能。Mise是一个现代化的开发环境管理工具，最近增加了对Monorepo工作流的强大支持。讨论中详细介绍了如何使用Mise定义和执行跨多个子项目的任务，包括依赖管理、并行执行和任务依赖关系处理。开发者分享了实际使用案例，展示了Mise如何简化大型项目的构建、测试和部署流程。讨论还涵盖了与其他Monorepo工具（如Nx、Turborepo）的对比，强调了Mise的简洁性和灵活性。这个话题对于管理复杂代码库的开发团队具有很高的实用价值。 [<a href="https://news.ycombinator.com/item?id=45491621" target="_blank">评论</a>]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show HN：Kent Dybvig 的 Scheme 机器（400 行 C 语言实现，堆内存模型）]]></title>
-            <link>https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</link>
-            <guid isPermaLink="false">https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b</guid>
-            <pubDate>Mon, 06 Oct 2025 14:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[这是一个令人印象深刻的编程项目：Kent Dybvig 的 Scheme 虚拟机的完整实现，仅用了 400 行 C 代码。该项目采用堆内存模型，展示了如何用极简的代码实现一个功能完整的 Scheme 解释器。Kent Dybvig 是 Scheme 语言和 Chez Scheme 编译器的著名开发者，这个实现体现了他对语言设计的深刻理解。代码虽然简洁，但包含了 Scheme 的核心特性，如闭包、续传、垃圾回收等。这个项目不仅是学习虚拟机和解释器实现的绝佳材料，也展示了优雅的系统设计如何用最少的代码实现最大的功能。对于想要深入理解编程语言实现原理的开发者来说，这个项目提供了宝贵的学习资源，证明了优秀的设计可以用简洁的代码表达复杂的想法。 [<a href="https://news.ycombinator.com/item?id=45491609" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[编译一个 Forth]]></title>
+            <title><![CDATA[编译一个Forth]]></title>
             <link>https://healeycodes.com/compiling-a-forth</link>
             <guid isPermaLink="false">https://healeycodes.com/compiling-a-forth</guid>
             <pubDate>Mon, 06 Oct 2025 13:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[这篇文章详细介绍了如何从头开始构建一个 Forth 语言的编译器。Forth 是一种独特的栈式编程语言，以其简洁性和可扩展性著称。作者通过分步骤的教程，展示了词法分析、语法分析、代码生成等编译器各个阶段的实现过程。文章特别强调了 Forth 的独特之处，如字典结构、即时编译和后缀表示法等。实现过程中，作者使用 Python 作为宿主语言，但概念和算法可以应用到其他编程语言。这个项目不仅让读者理解 Forth 语言的工作原理，更重要的是提供了编译器构建的实践经验。文章包含了完整的代码示例和详细的解释，适合对编程语言和编译器技术感兴趣的开发者学习。通过这个过程，读者将深入理解编译器设计的基本概念。 [<a href="https://news.ycombinator.com/item?id=45491470" target="_blank">评论</a>]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[共同构建合成细胞]]></title>
-            <link>https://www.nature.com/articles/s41467-025-62778-8</link>
-            <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-62778-8</guid>
-            <pubDate>Sat, 04 Oct 2025 16:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[科学家们在合成生物学领域取得重大突破，成功开发出一种新的方法来共同构建合成细胞。这项研究代表了人工生命研究的重要进展，研究人员通过组合不同的生物分子和膜结构，创造出具有基本生命特征的人工细胞系统。这些合成细胞能够进行简单的代谢活动、响应环境刺激，甚至展现类似自组织的行为。研究团队采用了一种模块化的方法，允许不同的实验室贡献特定的细胞组件，然后在一个统一的框架下组装成功能性的合成细胞。这种协作模式加速了合成生物学的发展，为理解生命的基本原理提供了新的视角。未来，这项技术可能在药物递送、生物传感和绿色化学等领域发挥重要作用，为人类解决健康和环境问题提供创新的解决方案。 [<a href="https://news.ycombinator.com/item?id=45474397" target="_blank">评论</a>]]]></content:encoded>
+            <content:encoded><![CDATA[这篇文章详细介绍了如何从零开始构建一个Forth编程语言编译器。作者以实践为导向，逐步讲解了Forth语言的核心概念、编译器的设计原理以及实现细节。文章涵盖了词法分析、语法解析、代码生成等编译器的基本组件，特别关注Forth独特的栈操作和后缀表示法。作者提供了完整的代码示例，展示了如何用现代编程语言实现一个功能完整的Forth编译器。文章还讨论了优化技术和扩展可能性，为读者理解编译器构造和Forth语言特性提供了宝贵的资源。这个教程既是编译器设计的入门指南，也是对Forth这门独特编程语言的深入探索。 [<a href="https://news.ycombinator.com/item?id=45491470" target="_blank">评论</a>]]]></content:encoded>
         </item>
     </channel>
 </rss>
