@@ -10,144 +10,144 @@
     },
     "items": [
         {
-            "id": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
-            "content_html": "作者讲述了他家智能扫地机器人突然失控的经历。机器人无视预设的清扫计划，在深夜反复启动，并发出奇怪的声音。经过一番排查，作者发现是固件更新后出现了Bug，或者可能是网络连接问题导致的异常行为。这篇文章以幽默的笔触探讨了智能家居设备可能带来的意外烦恼和安全隐患，提醒我们在享受科技便利的同时，也要警惕其潜在的风险。 [<a href=\"https://news.ycombinator.com/item?id=45503560\" target=\"_blank\">评论</a>]",
-            "url": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
-            "title": "我的智能扫地机器人背叛我的那一天",
-            "date_modified": "2025-10-07T14:34:06.000Z"
+            "id": "https://mleverything.substack.com/p/gifted-children-are-special-needs",
+            "content_html": "这篇文章探讨了天才儿童也被视为特殊需求儿童的观点。作者指出，尽管天才儿童智力超群，但他们常常面临异步发展、情感强度高、感官敏感和完美主义等挑战。这些特质使他们在传统教育环境中难以适应，需要个性化的教育计划和心理支持。文章强调，社会和教育系统应认识到天才儿童的特殊需求，为他们提供适当的资源，以帮助他们充分发挥潜力，同时保持心理健康。忽视这些需求可能导致他们感到孤立、厌倦甚至出现行为问题。 [<a href=\"https://news.ycombinator.com/item?id=45503076\" target=\"_blank\">评论</a>]",
+            "url": "https://mleverything.substack.com/p/gifted-children-are-special-needs",
+            "title": "天才儿童也是特殊需求儿童",
+            "date_modified": "2025-10-07T13:52:32.000Z"
         },
         {
-            "id": "https://www.hackster.io/news/qualcomm-acquires-arduino-launches-the-new-arduino-uno-q-single-board-computer-57d91d83e890",
-            "content_html": "Arduino 宣布推出 UNO Q，这是一款基于高通芯片的高性能单板计算机，运行 Linux 系统。此举标志着 Arduino 从传统的微控制器平台向更强大的计算平台迈进。文章还提到，高通公司对 Arduino 进行了战略投资，双方将合作推动物联网和嵌入式开发。UNO Q 旨在为开发者和爱好者提供更强的处理能力，同时保持 Arduino 生态系统的易用性。 [<a href=\"https://news.ycombinator.com/item?id=45503553\" target=\"_blank\">评论</a>]",
-            "url": "https://www.hackster.io/news/qualcomm-acquires-arduino-launches-the-new-arduino-uno-q-single-board-computer-57d91d83e890",
-            "title": "Arduino 发布 UNO Q – 基于 Qualcomm 的高性能 Linux 设备",
-            "date_modified": "2025-10-07T14:33:40.000Z"
+            "id": "https://wiki.tcl-lang.org/page/Showcase",
+            "content_html": "Tcl 语言展示页面汇集了大量使用 Tcl 语言及其扩展（如 Tk）开发的项目和应用。这些项目涵盖了广泛的领域，包括软件开发工具（如 IDE 和调试器）、测试框架、网络应用、数据库接口、科学计算以及嵌入式系统控制等。该页面旨在展示 Tcl 语言的灵活性、强大功能及其在解决实际问题中的应用多样性，为开发者提供了丰富的参考和灵感，证明 Tcl 不仅仅是一门脚本语言，更是一个能够构建复杂应用的强大平台。 [<a href=\"https://news.ycombinator.com/item?id=45502784\" target=\"_blank\">评论</a>]",
+            "url": "https://wiki.tcl-lang.org/page/Showcase",
+            "title": "Tcl 语言展示",
+            "date_modified": "2025-10-07T13:25:33.000Z"
         },
         {
-            "id": "https://www.theregister.com/2025/10/07/red_hat_breach_new_claims/",
-            "content_html": "红帽公司的数据泄露事件进一步升级。据报道，多个犯罪团伙正在合作，利用窃取的数据策划一场涉及数TB数据的大规模勒索活动。这些犯罪分子声称掌握了大量敏感信息，并威胁红帽公司支付赎金，否则将公开数据。此事件凸显了即使是大型科技公司也面临着严峻的网络安全威胁，以及网络犯罪日益组织化和协作化的趋势。 [<a href=\"https://news.ycombinator.com/item?id=45503534\" target=\"_blank\">评论</a>]",
-            "url": "https://www.theregister.com/2025/10/07/red_hat_breach_new_claims/",
-            "title": "红帽数据泄露事件升级，犯罪分子合作策划“数TB”的勒索阴谋",
-            "date_modified": "2025-10-07T14:31:54.000Z"
+            "id": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
+            "content_html": "这篇彭博社的长篇报道深入探讨了 3M 公司如何应对其生产 PFAS（全氟和多氟烷基物质）所带来的巨大环境与法律遗留问题。文章详细分析了 3M 通过高达数百亿美元的和解协议来解决与饮用水污染相关的诉讼，并承诺停止生产这些被称为&quot;永久化学品&quot;的物质。报道探讨了这一转变对 3M 财务、声誉及其未来业务战略的影响，同时审视了监管机构和社区的反应。文章认为，尽管代价高昂，但此举可能是 3M 摆脱历史包袱、重塑企业形象的关键一步。 [<a href=\"https://news.ycombinator.com/item?id=45502748\" target=\"_blank\">评论</a>]",
+            "url": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
+            "title": "3M 或将摆脱有毒化学品 PFAS 的制造遗留问题",
+            "date_modified": "2025-10-07T13:22:04.000Z"
         },
         {
-            "id": "https://ggrigorev.me/posts/tokenizer-superbpe/",
-            "content_html": "本文深入浅出地解释了自然语言处理中的 Tokenization（分词）概念。作者从第一性原理出发，引导读者理解为什么需要分词，以及如何从头开始构建一个分词器，特别是介绍了 BPE（字节对编码）算法及其变体 SuPEBPE。文章通过代码示例和清晰的逻辑，帮助读者掌握这一基础但至关重要的 NLP 技术，揭开了大型语言模型数据预处理的神秘面纱。 [<a href=\"https://news.ycombinator.com/item?id=45503533\" target=\"_blank\">评论</a>]",
-            "url": "https://ggrigorev.me/posts/tokenizer-superbpe/",
-            "title": "从第一性原理看 Tokenization（分词）",
-            "date_modified": "2025-10-07T14:31:45.000Z"
+            "id": "https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e",
+            "content_html": "这篇《金融时报》的文章论述了美国当前的经济和科技战略已全面转向人工智能。文章指出，从政府政策、企业投资到学术研究，整个国家都在将资源大量投入 AI 领域，视其为维持全球竞争力和推动经济增长的核心引擎。这种&quot;豪赌&quot;体现在对芯片制造、数据中心建设和 AI 创业公司的巨额资金支持上。同时，文章也探讨了这种集中押注可能带来的风险，包括技术泡沫、就业结构冲击以及地缘政治紧张加剧，认为这是一场关乎美国未来几十年国运的战略抉择。 [<a href=\"https://news.ycombinator.com/item?id=45502706\" target=\"_blank\">评论</a>]",
+            "url": "https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e",
+            "title": "美国现在正将一切押注于人工智能",
+            "date_modified": "2025-10-07T13:18:33.000Z"
         },
         {
-            "id": "https://www.umass.edu/news/article/crosswalk-confusion-massachusetts-drivers-flummoxed-pedestrian-hybrid-beacons-umass",
-            "content_html": "马萨诸塞大学的研究发现，许多司机对行人过街的 &quot;Hybrid Beacons&quot;（混合信号灯）感到困惑。这种信号灯平时保持黑暗，只有在行人按下按钮时才会亮起，指示车辆停车让行。然而，调查显示，大量司机不了解其工作原理，导致其在信号灯亮起时未能正确停车，构成交通安全隐患。研究呼吁加强对这类新型交通设施的公众教育和宣传。 [<a href=\"https://news.ycombinator.com/item?id=45503532\" target=\"_blank\">评论</a>]",
-            "url": "https://www.umass.edu/news/article/crosswalk-confusion-massachusetts-drivers-flummoxed-pedestrian-hybrid-beacons-umass",
-            "title": "马萨诸塞州司机对行人 hybrid beacons 感到困惑",
-            "date_modified": "2025-10-07T14:31:45.000Z"
+            "id": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
+            "content_html": "这篇博客文章宣布了 Erlang/OTP 在 ARM32 架构上实现了即时编译（JIT）功能。这是一个重要的里程碑，因为它将显著提升 Erlang 程序在资源受限的嵌入式设备和物联网设备（如树莓派等基于 ARM32 的单板计算机）上的运行性能。文章解释了 JIT 的工作原理，即通过将字节码在运行时编译为本地机器码来减少解释执行的开销。作者分享了开发过程中的挑战和成果，并展示了性能基准测试的初步数据，表明新 JIT 能够带来数倍的性能提升，为 Erlang 在嵌入式领域的应用开辟了新的可能性。 [<a href=\"https://news.ycombinator.com/item?id=45502543\" target=\"_blank\">评论</a>]",
+            "url": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
+            "title": "Erlang ARM32 JIT 诞生",
+            "date_modified": "2025-10-07T13:00:25.000Z"
         },
         {
-            "id": "https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos",
-            "content_html": "作者以一种风趣的方式记录了自己使用 Klarna（一种先买后付的金融服务）购买一份快餐的经历。文章深入探讨了 Klarna 这类金融科技应用的商业模式、用户体验及其背后可能隐藏的债务风险。作者通过一次小小的消费，引出对现代消费金融、信贷便利性与个人财务责任之间关系的思考，揭示了数字支付工具如何潜移默化地影响我们的消费习惯。 [<a href=\"https://news.ycombinator.com/item?id=45503527\" target=\"_blank\">评论</a>]",
-            "url": "https://theahura.substack.com/p/tech-things-financing-my-klarna-doritos",
-            "title": "用 Klarna 为我的 Doritos Locos Tacos 融资",
-            "date_modified": "2025-10-07T14:31:38.000Z"
+            "id": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
+            "content_html": "高通公司宣布将收购 Arduino，此举旨在加速开发者对高通物联网和边缘计算技术的访问。Arduino 作为全球知名的开源硬件平台，拥有庞大的爱好者和专业开发者社区。通过此次收购，高通计划将其处理器（如 Snapdragon 系列）与 Arduino 的易用性和生态系统相结合，为开发者提供更强大、更无缝的开发体验。这将使开发者能够更容易地创建复杂的物联网设备、机器人和工业自动化解决方案。高通表示，此次收购将强化其在物联网领域的领导地位，并推动下一代创新应用的普及。 [<a href=\"https://news.ycombinator.com/item?id=45502541\" target=\"_blank\">评论</a>]",
+            "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
+            "title": "高通将收购 Arduino",
+            "date_modified": "2025-10-07T13:00:08.000Z"
         },
         {
-            "id": "https://kylebarron.dev/blog/fast-python-bindings/",
-            "content_html": "本文详细介绍了如何为 C/C++ 或 Rust 等编译语言编写的高性能代码创建 Python 绑定。作者比较了多种主流工具，如 PyBind11、Cython、PyO3 和 cffi，分析了它们在性能、易用性和功能上的差异。文章提供了基准测试结果，并给出了在不同场景下选择最佳工具的建议。对于希望在 Python 中调用底层代码以提升性能的开发者来说，这是一份非常实用的指南。 [<a href=\"https://news.ycombinator.com/item?id=45503522\" target=\"_blank\">评论</a>]",
-            "url": "https://kylebarron.dev/blog/fast-python-bindings/",
-            "title": "为编译代码创建高性能的 Python 绑定",
-            "date_modified": "2025-10-07T14:31:23.000Z"
+            "id": "https://www.lua.org/doc/cola.pdf",
+            "content_html": "这份 PDF 文档是《The Evolution of Lua》一文的续篇，由 Lua 语言的创造者撰写。它继续讲述了 Lua 语言在近年来的发展历程，重点介绍了自上一篇文章发布以来引入的关键特性和设计决策。内容涵盖了 Lua 5.4 版本中的新功能，如环境变量、常量以及用于内存管理的紧急垃圾收集器。文档深入探讨了这些变化背后的动机，解释了它们如何平衡语言的简洁性、性能和灵活性。对于希望深入了解 Lua 设计哲学和技术演进的开发者来说，这是一份宝贵的资料。 [<a href=\"https://news.ycombinator.com/item?id=45502502\" target=\"_blank\">评论</a>]",
+            "url": "https://www.lua.org/doc/cola.pdf",
+            "title": "Lua 语言的演进（续）[pdf]",
+            "date_modified": "2025-10-07T12:54:14.000Z"
         },
         {
-            "id": "https://servicestack.net/posts/llms-py-ui",
-            "content_html": "llms.py 是一个开源项目，提供了一个在本地运行的、类似 OpenAI ChatGPT 的用户界面。它包含客户端和服务器端，允许用户通过简洁的 Web 界面与本地部署的各种大型语言模型进行交互。该项目旨在简化本地 LLM 的使用和测试流程，支持多种模型后端，为开发者和爱好者提供了一个轻量级、易于部署的私有聊天解决方案，保护了数据隐私。 [<a href=\"https://news.ycombinator.com/item?id=45503474\" target=\"_blank\">评论</a>]",
-            "url": "https://servicestack.net/posts/llms-py-ui",
-            "title": "Show HN: llms.py – 本地 OpenAI 聊天 UI、客户端和服务器",
-            "date_modified": "2025-10-07T14:27:49.000Z"
+            "id": "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada",
+            "content_html": "位于加拿大多伦多的公司 Provision（Y Combinator S22 批次成员）正在招聘一名全职的全栈软件工程师。该职位要求员工到岗工作。Provision 是一家专注于为建筑行业提供现代化软件解决方案的初创公司，旨在通过技术简化项目管理、预算和沟通流程。应聘者需要具备全栈开发经验，熟悉相关技术栈，并对解决建筑行业的复杂挑战充满热情。公司提供了一个在快速成长的环境中工作、并对产品产生直接影响的宝贵机会。 [<a href=\"https://news.ycombinator.com/item?id=45502387\" target=\"_blank\">评论</a>]",
+            "url": "https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada",
+            "title": "Provision (YC S22) 正在招聘",
+            "date_modified": "2025-10-07T12:41:40.000Z"
         },
         {
-            "id": "https://github.com/van-sprundel/partijgedrag",
-            "content_html": "这是一个开源项目，旨在基于公开数据构建一个荷兰政治投票指南。它通过分析荷兰各政党的投票记录和政策立场，帮助用户了解不同政党之间的异同，并找到与自己观点最匹配的政党。项目数据来源于官方公开记录，提供了一个透明、数据驱动的政治参与工具，让选民在选举时能做出更明智的决定。 [<a href=\"https://news.ycombinator.com/item?id=45503463\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/van-sprundel/partijgedrag",
-            "title": "Show HN: Partijgedrag – 基于公共数据构建的荷兰政治投票指南",
-            "date_modified": "2025-10-07T14:26:59.000Z"
+            "id": "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm",
+            "content_html": "这个 GitHub 仓库包含一个性能测试项目，旨在证明苹果文件系统（APFS）在处理某些特定 I/O 操作时存在性能问题，特别是在使用 Git 和 pnpm 等工具时。项目作者通过一系列基准测试，展示了在 macOS 上执行 `git status`、`pnpm install` 等命令时，磁盘 I/O 性能远低于预期，并认为这与 APFS 的工作方式（如克隆操作）有关。该仓库提供了可复现的测试脚本和详细的结果数据，以支持其论点，并希望引起苹果公司或社区的注意来解决这个问题。 [<a href=\"https://news.ycombinator.com/item?id=45502173\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm",
+            "title": "disk-perf-git-and-pnpm 旨在证明 macOS 上的 APFS 存在问题",
+            "date_modified": "2025-10-07T12:14:16.000Z"
         },
         {
-            "id": "https://www.youtube.com/watch?v=3nDdLiXS5wk",
-            "content_html": "这个视频由 Practical Engineering 频道制作，详细介绍了天线塔基座的设计和建造原理。视频解释了不同类型的基座（如混凝土基础）如何承受巨大的风荷载和塔身重量，并通过动画和实例展示了工程师如何确保这些高耸结构的稳定性。内容涵盖了地质勘察、力学分析和施工过程，是了解土木工程在通信基础设施中应用的绝佳资料。 [<a href=\"https://news.ycombinator.com/item?id=45503424\" target=\"_blank\">评论</a>]",
-            "url": "https://www.youtube.com/watch?v=3nDdLiXS5wk",
-            "title": "实用工程：天线塔的基座 [视频]",
-            "date_modified": "2025-10-07T14:23:13.000Z"
+            "id": "https://github.com/hunvreus/devpush",
+            "content_html": "Devpush 是一个开源的、可以自行托管的平台，旨在作为 Vercel、Render 和 Netlify 等商业部署服务的替代方案。它允许开发者在自己的服务器上构建、部署和托管现代 Web 应用，提供类似 CI/CD 的功能。Devpush 支持从 Git 仓库自动拉取代码、执行构建命令并发布应用。对于那些希望控制自己的基础设施、减少对第三方服务的依赖或寻求更低成本解决方案的开发者和团队来说，Devpush 提供了一个灵活且隐私友好的选择。其代码完全开源，用户可以根据自己的需求进行定制和扩展。 [<a href=\"https://news.ycombinator.com/item?id=45501279\" target=\"_blank\">评论</a>]",
+            "url": "https://github.com/hunvreus/devpush",
+            "title": "Devpush – Vercel、Render、Netlify 的开源和可自托管替代方案",
+            "date_modified": "2025-10-07T10:07:50.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/submit",
-            "content_html": "此链接指向 Hacker News 的提交页面，用于分享新的链接和开启讨论。该页面本身没有可供总结的文章内容，主要包含一个用于输入 URL、标题和文本的提交表单，以及一些社区准则。它是用户向 Hacker News 社区贡献内容的入口。 [<a href=\"https://news.ycombinator.com/item?id=45503421\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/submit",
-            "title": "测试",
-            "date_modified": "2025-10-07T14:22:48.000Z"
+            "id": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
+            "content_html": "2025 年诺贝尔物理学奖授予了在量子计算和量子信息领域做出奠基性贡献的科学家。该奖项表彰了他们在开发能够容错的量子计算机以及实现量子纠缠远程传输方面的突破性研究。他们的工作解决了量子比特极易受环境干扰而退相干的关键难题，通过创新的纠错码和物理实现方法，为构建大规模、可靠的量子计算机铺平了道路。这些成就不仅是理论上的飞跃，也为未来的量子技术在实际应用（如药物研发、材料科学和密码学）中带来了革命性的潜力。 [<a href=\"https://news.ycombinator.com/item?id=45501189\" target=\"_blank\">评论</a>]",
+            "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
+            "title": "2025 年诺贝尔物理学奖",
+            "date_modified": "2025-10-07T09:50:49.000Z"
         },
         {
-            "id": "https://www.reuters.com/sustainability/boards-policy-regulation/us-supreme-court-allows-order-forcing-google-make-app-store-reforms-2025-10-06/",
-            "content_html": "美国最高法院允许一项针对谷歌应用商店的反垄断命令生效。该命令源于 Epic Games 对谷歌的诉讼，要求谷歌向第三方应用商店开放其 Google Play 商店，并允许应用内使用其他支付系统，以打破其垄断地位。谷歌曾请求暂缓执行该命令，但最高法院的拒绝意味着谷歌必须遵守这些改革措施，这可能会对整个安卓应用生态系统产生深远影响。 [<a href=\"https://news.ycombinator.com/item?id=45503415\" target=\"_blank\">评论</a>]",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-supreme-court-allows-order-forcing-google-make-app-store-reforms-2025-10-06/",
-            "title": "美国最高法院允许强制谷歌进行应用商店改革的命令",
-            "date_modified": "2025-10-07T14:22:19.000Z"
+            "id": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
+            "content_html": "这篇博客文章以一种独特且直观的方式，借鉴画家蒙德里安的方块艺术风格，来介绍函数式编程中的“光学”概念。作者通过将数据结构比作蒙德里安的画作，将“镜头”、“棱镜”和“遍历”等光学工具比作聚焦、变形和重组这些彩色方块的操作，深入浅出地解释了如何使用光学来不可变地访问和更新嵌套数据结构。文章旨在帮助读者克服对函数式光学的抽象恐惧，通过可视化的类比，理解其强大之处，即以声明式和组合的方式处理复杂数据。 [<a href=\"https://news.ycombinator.com/item?id=45501114\" target=\"_blank\">评论</a>]",
+            "url": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
+            "title": "蒙德里安式函数光学入门",
+            "date_modified": "2025-10-07T09:35:53.000Z"
         },
         {
-            "id": "https://mobeigi.com/blog/security/osint/what-github-exposes-about-you/",
-            "content_html": "这篇文章探讨了 GitHub 上可能泄露的个人隐私信息。作者指出，即使用户设置了个人资料为私有，其提交记录、组织成员关系、已加星标和关注的项目等公开活动仍可能暴露其真实姓名、地理位置、雇主甚至个人习惯。文章通过开源情报（OSINT）技术演示了如何收集和分析这些信息，并提供了保护隐私的建议，提醒开发者注意数字足迹。 [<a href=\"https://news.ycombinator.com/item?id=45503386\" target=\"_blank\">评论</a>]",
-            "url": "https://mobeigi.com/blog/security/osint/what-github-exposes-about-you/",
-            "title": "GitHub 会暴露你的哪些信息：姓名、位置等等",
-            "date_modified": "2025-10-07T14:20:00.000Z"
+            "id": "https://exuberant-premise-723012.framer.app/",
+            "content_html": "Greenonion.ai 是一个由 AI 驱动的设计助手工具，旨在帮助用户快速生成和优化设计概念。用户可以通过简单的文本描述，让 AI 自动生成用户界面（UI）设计稿、图标或营销图样。该工具利用先进的生成式 AI 模型，理解用户意图并提供多种设计方案供选择和迭代。它主要面向产品经理、设计师和开发者，帮助他们节省早期设计探索的时间，激发创意灵感，并快速将想法可视化。Greenonion.ai 致力于降低设计的门槛，让没有专业设计背景的人也能创造出美观的界面。 [<a href=\"https://news.ycombinator.com/item?id=45500560\" target=\"_blank\">评论</a>]",
+            "url": "https://exuberant-premise-723012.framer.app/",
+            "title": "Show HN: Greenonion.ai – AI 驱动的设计助手",
+            "date_modified": "2025-10-07T08:04:49.000Z"
         },
         {
-            "id": "https://phoneide.vercel.app/",
-            "content_html": "这是一个名为 PhoneIDE 的 Web 应用，旨在提供一种在手机上更优的编程体验。它通过优化的界面设计，解决了在移动设备小屏幕上编写代码的诸多痛点，如代码补全、语法高亮和文件管理等。该应用允许用户直接在浏览器中创建、编辑和运行代码项目，支持多种语言，为需要在移动端进行轻量级开发或学习的用户提供了便利。 [<a href=\"https://news.ycombinator.com/item?id=45503379\" target=\"_blank\">评论</a>]",
-            "url": "https://phoneide.vercel.app/",
-            "title": "一种更好的在手机上编程的方式",
-            "date_modified": "2025-10-07T14:19:47.000Z"
+            "id": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+            "content_html": "根据《卫报》报道，德勤会计师事务所已同意向澳大利亚政府退款，因为其在一份价值 44 万美元的报告中不当使用了人工智能技术。该报告是为政府提供的一项咨询服务，但调查发现其中部分内容由 AI 生成，并包含虚构的引用和数据。此事件引发了对专业咨询公司在使用 AI 时缺乏透明度和质量控制的担忧。澳大利亚政府对德勤的行为表示失望，并强调公共服务合同的严谨性和准确性至关重要。德勤公司为此道歉，并承诺加强其内部 AI 使用准则和审查流程。 [<a href=\"https://news.ycombinator.com/item?id=45500485\" target=\"_blank\">评论</a>]",
+            "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+            "title": "德勤因在 44 万美元报告中使用 AI 将向澳大利亚政府退款",
+            "date_modified": "2025-10-07T07:51:57.000Z"
         },
         {
-            "id": "https://www.scientificamerican.com/article/human-ancestors-nearly-went-extinct-900-000-years-ago/",
-            "content_html": "一项新的基因研究显示，人类祖先在大约90万年前经历了一次严重的种群瓶颈，濒临灭绝。通过对现代非洲人群的基因组进行分析，科学家推断出当时繁殖个体的数量锐减至仅约1280人，并持续了超过10万年。这次 &quot;大断层&quot;事件可能是由气候剧变、资源枯竭等因素导致的，这一发现为了解人类演化史上的关键时期提供了新的视角。 [<a href=\"https://news.ycombinator.com/item?id=45503370\" target=\"_blank\">评论</a>]",
-            "url": "https://www.scientificamerican.com/article/human-ancestors-nearly-went-extinct-900-000-years-ago/",
-            "title": "人类祖先在90万年前几乎灭绝",
-            "date_modified": "2025-10-07T14:19:12.000Z"
+            "id": "https://pdoc.dev/",
+            "content_html": "Pdoc 是一个简单易用的命令行工具和库，用于自动为 Python 项目生成美观的 HTML 格式 API 文档。它能够直接从 Python 源代码的文档字符串中提取信息，无需任何额外的配置或标记语言。Pdoc 会智能地解析模块、类、函数和方法的签名，并将其组织成一个清晰、可浏览的网站。它支持 Markdown 格式的文档字符串，并能交叉链接代码中的不同部分，使文档易于导航。对于希望快速为项目创建和维护高质量文档的 Python 开发者来说，Pdoc 提供了一个轻量级且高效的解决方案。 [<a href=\"https://news.ycombinator.com/item?id=45499170\" target=\"_blank\">评论</a>]",
+            "url": "https://pdoc.dev/",
+            "title": "Pdoc – 为 Python 项目生成 API 文档",
+            "date_modified": "2025-10-07T03:40:41.000Z"
         },
         {
-            "id": "https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team",
-            "content_html": "开源列式数据库 ClickHouse 宣布延长其 C 轮融资，并借此机会扩大其领导团队。新融资将用于加速产品开发、拓展全球市场以及加强社区建设。公司任命了新的高管来负责工程、产品和市场等关键领域。此举表明 ClickHouse 在高性能数据分析领域的强劲发展势头，以及其商业化进程的稳步推进，旨在满足日益增长的企业级数据实时分析需求。 [<a href=\"https://news.ycombinator.com/item?id=45503367\" target=\"_blank\">评论</a>]",
-            "url": "https://clickhouse.com/blog/clickhouse-extends-series-c-financing-expands-leadership-team",
-            "title": "ClickHouse 延长 C 轮融资并扩大领导团队以推动增长",
-            "date_modified": "2025-10-07T14:19:05.000Z"
+            "id": "https://thecascade.dev/article/least-amount-of-css/",
+            "content_html": "这篇 2023 年的文章探讨了用最少的 CSS 代码来创建一个视觉上美观且功能完善的网站的可能性。作者通过一个实践案例，逐步精简 CSS，只保留对布局、排版和基本交互至关重要的样式。文章强调，借助现代 CSS 的强大功能（如 Flexbox、Grid 和逻辑属性），可以避免大量冗余和过时的代码。其目的不是倡导极简主义而牺牲用户体验，而是展示如何通过深思熟虑的、高效的方式来编写 CSS，从而提高网站性能、可维护性，并让开发者更专注于内容本身。 [<a href=\"https://news.ycombinator.com/item?id=45497624\" target=\"_blank\">评论</a>]",
+            "url": "https://thecascade.dev/article/least-amount-of-css/",
+            "title": "构建一个体面网站所需的最少 CSS（2023）",
+            "date_modified": "2025-10-06T23:47:24.000Z"
         },
         {
-            "id": "https://bigjobby.com/pendulum/",
-            "content_html": "这是一个在浏览器中运行的交互式双摆物理模拟项目。用户可以通过拖拽摆的初始位置，直观地观察双摆系统产生的混沌运动。该模拟器基于真实的物理定律，实时渲染摆的运动轨迹，展示了初始条件的微小变化如何导致后续运动的巨大差异。它是一个有趣且富有教育意义的工具，可以帮助人们直观理解混沌理论的基本概念。 [<a href=\"https://news.ycombinator.com/item?id=45503332\" target=\"_blank\">评论</a>]",
-            "url": "https://bigjobby.com/pendulum/",
-            "title": "Show HN: 双摆玩具 - 交互式浏览器模拟",
-            "date_modified": "2025-10-07T14:16:18.000Z"
+            "id": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+            "content_html": "云安全公司 Wiz 的研究团队发现了一个代号为 RediShell 的严重远程代码执行（RCE）漏洞（CVE-2025-49844），该漏洞影响广泛使用的 Redis 内存数据库。攻击者可以利用此漏洞，在特定条件下向 Redis 服务器发送特制请求，从而在服务器上执行任意命令。该漏洞的严重性在于，它可能允许攻击者完全控制受影响的系统。Wiz 团队详细分析了漏洞的成因，并提供了缓解措施。Redis 官方已发布安全更新，强烈建议所有用户立即升级到最新版本以防范潜在攻击。 [<a href=\"https://news.ycombinator.com/item?id=45497027\" target=\"_blank\">评论</a>]",
+            "url": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+            "title": "RediShell：Redis 中的严重远程代码执行漏洞",
+            "date_modified": "2025-10-06T22:30:12.000Z"
         },
         {
-            "id": "https://github.com/tambo-ai/tambo",
-            "content_html": "Tambo-AI 是一个开源项目，旨在提供一个模型无关的替代方案，以取代 OpenAI 的 ChatKit。它允许开发者轻松构建和部署聊天机器人，但可以自由选择后端使用的大型语言模型，而不必局限于 OpenAI 的模型。该框架提供了管理对话历史、处理工具调用和自定义指令等功能，为需要灵活性和控制权的开发者提供了一个强大的、可自托管的聊天应用开发基础。 [<a href=\"https://news.ycombinator.com/item?id=45503318\" target=\"_blank\">评论</a>]",
-            "url": "https://github.com/tambo-ai/tambo",
-            "title": "Show HN: Tambo-AI – 开源、模型无关的 OpenAI ChatKit 替代品",
-            "date_modified": "2025-10-07T14:15:31.000Z"
+            "id": "https://developers.openai.com/apps-sdk/",
+            "content_html": "OpenAI 推出的 Apps SDK 是一个官方软件开发工具包，旨在帮助开发者更轻松地构建和集成自定义 AI 应用。该 SDK 提供了一套预构建的工具、库和 API 封装，简化了与 OpenAI 模型（如 GPT 系列）的交互过程。开发者可以使用它来快速创建具有特定功能的 AI 助手、聊天机器人或内容生成工具，而无需处理复杂的 API 调用和认证逻辑。SDK 支持多种编程语言，并包含了最佳实践，让开发者能够专注于应用逻辑本身，从而加速 AI 应用的开发周期和创新。 [<a href=\"https://news.ycombinator.com/item?id=45494558\" target=\"_blank\">评论</a>]",
+            "url": "https://developers.openai.com/apps-sdk/",
+            "title": "Apps SDK",
+            "date_modified": "2025-10-06T18:27:33.000Z"
         },
         {
-            "id": "https://blog.rowboatlabs.com/handoffs-vs-flowcharts-for-agents-in-light-of-openais-visual-builder/",
-            "content_html": "本文探讨了在构建 AI 代理时两种不同的设计模式：&quot;交接&quot;（Handoffs）和 &quot;流程图&quot;（Flowcharts）。作者以 OpenAI 新推出的可视化构建器为背景，分析了两种模式的优缺点。交接模式更灵活，适合动态任务；流程图模式更结构化，易于理解和调试。文章讨论了如何根据具体需求选择合适的架构，并展望了未来 AI 代理设计的发展方向。 [<a href=\"https://news.ycombinator.com/item?id=45503268\" target=\"_blank\">评论</a>]",
-            "url": "https://blog.rowboatlabs.com/handoffs-vs-flowcharts-for-agents-in-light-of-openais-visual-builder/",
-            "title": "代理之间的交接 vs. 流程图，结合 OpenAI 的可视化构建器来看",
-            "date_modified": "2025-10-07T14:11:10.000Z"
+            "id": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "content_html": "Meta（Facebook）开源了 OpenZL，一个创新的压缩框架，其核心特点是“感知格式”。不同于传统通用压缩算法，OpenZL 能够根据特定数据格式（如 JSON、Parquet、图像）的结构和模式进行优化压缩，从而实现更高的压缩率和更快的压缩/解压速度。该框架提供了一个模块化的架构，允许开发者为新的数据格式轻松添加定制的压缩器。Meta 在内部广泛使用 OpenZL 来处理海量数据，显著降低了存储成本和网络带宽消耗。开源 OpenZL 旨在推动整个行业在数据压缩技术上的进步。 [<a href=\"https://news.ycombinator.com/item?id=45492803\" target=\"_blank\">评论</a>]",
+            "url": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+            "title": "OpenZL：一个开源的、感知格式的压缩框架",
+            "date_modified": "2025-10-06T16:01:58.000Z"
         },
         {
-            "id": "https://news.ycombinator.com/item?id=45503253",
-            "content_html": "这是一个在 Hacker News 上的提问，探讨为什么 ICANN（互联网名称与数字地址分配机构）允许域名被无限期停放。讨论中，用户们提出了多种观点，包括域名投资的商业模式、ICANN 的政策初衷、以及域名停放对互联网生态的影响。有人认为这是一种合法的商业行为，也有人认为它导致了优质域名资源的浪费，并讨论了可能的解决方案，如对长期停放的域名征收重税。 [<a href=\"https://news.ycombinator.com/item?id=45503253\" target=\"_blank\">评论</a>]",
-            "url": "https://news.ycombinator.com/item?id=45503253",
-            "title": "Ask HN: 为什么 ICANN 允许无限期停放域名？",
-            "date_modified": "2025-10-07T14:09:44.000Z"
+            "id": "https://mobeigi.com/blog/economics/chesscom-regional-pricing/",
+            "content_html": "这篇博客文章是一个经济学案例研究，深入分析了全球最大国际象棋平台 Chess.com 的区域定价策略。作者通过收集来自不同国家和地区的用户数据，揭示了 Chess.com 如何根据用户所在地的购买力差异来调整其高级会员订阅的价格。文章探讨了这种价格歧视策略背后的商业逻辑，即在发达市场维持高价，而在发展中市场降低价格以最大化用户基数和总收入。该研究还讨论了这种策略的潜在利弊，包括对用户公平性的影响以及防止跨区域套利的挑战。 [<a href=\"https://news.ycombinator.com/item?id=45490629\" target=\"_blank\">评论</a>]",
+            "url": "https://mobeigi.com/blog/economics/chesscom-regional-pricing/",
+            "title": "Chess.com 区域定价：一个案例研究",
+            "date_modified": "2025-10-06T12:29:26.000Z"
         }
     ]
 }
